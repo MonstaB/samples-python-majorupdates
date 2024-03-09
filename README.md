@@ -1,3 +1,9 @@
+Major updates will explain later.
+```
+python main.py --api-key YOUR_API_KEY
+```
+
+
 # The Odds API Code Samples (v4) - Python
 
 The Odds API provides live odds for loads of sports from bookmakers around the world, in an easy to use JSON format.
