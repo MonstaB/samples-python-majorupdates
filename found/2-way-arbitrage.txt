@@ -1,18 +1,10 @@
 ****NRL*****
-St George Illawarra Dragons (underdog) vs Gold Coast Titans (favorite) 
-Arbitrage Percentage: 97.32%
-Stake $95.15 on St George Illawarra Dragons (underdog) from [betfair_ex_au] - Odds: $2.16
-Stake $104.85 on Gold Coast Titans (favorite) from [pointsbetau] - Odds: $1.96
-Underdog Return: $205.51, Profit: $5.51
-Favorite Return: $205.51, Profit: $5.51
----------------------------------------------------------------------
-****NRL*****
-Dolphins (underdog) vs North Queensland Cowboys (favorite) 
-Arbitrage Percentage: 99.07%
-Stake $77.65 on Dolphins (underdog) from [ladbrokes_au] - Odds: $2.60
-Stake $122.35 on North Queensland Cowboys (favorite) from [betfair_ex_au] - Odds: $1.65
-Underdog Return: $201.88, Profit: $1.88
-Favorite Return: $201.88, Profit: $1.88
+Canterbury Bulldogs (underdog) vs Cronulla Sutherland Sharks (favorite) 
+Arbitrage Percentage: 99.58%
+Stake $58.56 on Canterbury Bulldogs (underdog) from [sportsbet] - Odds: $3.43
+Stake $141.44 on Cronulla Sutherland Sharks (favorite) from [playup] - Odds: $1.42
+Underdog Return: $200.85, Profit: $0.85
+Favorite Return: $200.85, Profit: $0.85
 ---------------------------------------------------------------------
 ****NRL*****
 Wests Tigers (underdog) vs Canberra Raiders (favorite) 
@@ -24,11 +16,11 @@ Favorite Return: $200.69, Profit: $0.69
 ---------------------------------------------------------------------
 ****MMA*****
 Katlyn Chookagian (underdog) vs Maycee Barber (favorite) 
-Arbitrage Percentage: 99.41%
-Stake $71.85 on Katlyn Chookagian (underdog) from [playup] - Odds: $2.80
-Stake $128.15 on Maycee Barber (favorite) from [betfair_ex_au] - Odds: $1.57
-Underdog Return: $201.19, Profit: $1.19
-Favorite Return: $201.19, Profit: $1.19
+Arbitrage Percentage: 99.82%
+Stake $71.56 on Katlyn Chookagian (underdog) from [playup] - Odds: $2.80
+Stake $128.44 on Maycee Barber (favorite) from [betfair_ex_au] - Odds: $1.56
+Underdog Return: $200.37, Profit: $0.37
+Favorite Return: $200.37, Profit: $0.37
 ---------------------------------------------------------------------
 ****NHL*****
 Buffalo Sabres (underdog) vs Edmonton Oilers (favorite) 
@@ -39,20 +31,12 @@ Underdog Return: $240.85, Profit: $40.85
 Favorite Return: $240.85, Profit: $40.85
 ---------------------------------------------------------------------
 ****NHL*****
-Columbus Blue Jackets (underdog) vs Nashville Predators (favorite) 
-Arbitrage Percentage: 82.51%
-Stake $76.95 on Columbus Blue Jackets (underdog) from [unibet] - Odds: $3.15
-Stake $123.05 on Nashville Predators (favorite) from [unibet] - Odds: $1.97
-Underdog Return: $242.40, Profit: $42.40
-Favorite Return: $242.40, Profit: $42.40
----------------------------------------------------------------------
-****NHL*****
 Pittsburgh Penguins (underdog) vs Boston Bruins (favorite) 
-Arbitrage Percentage: 82.60%
-Stake $71.21 on Pittsburgh Penguins (underdog) from [unibet] - Odds: $3.40
-Stake $128.79 on Boston Bruins (favorite) from [unibet] - Odds: $1.88
-Underdog Return: $242.12, Profit: $42.12
-Favorite Return: $242.12, Profit: $42.12
+Arbitrage Percentage: 82.42%
+Stake $67.40 on Pittsburgh Penguins (underdog) from [unibet] - Odds: $3.60
+Stake $132.60 on Boston Bruins (favorite) from [unibet] - Odds: $1.83
+Underdog Return: $242.65, Profit: $42.65
+Favorite Return: $242.65, Profit: $42.65
 ---------------------------------------------------------------------
 ****NHL*****
 Calgary Flames (underdog) vs Florida Panthers (favorite) 
@@ -96,11 +80,11 @@ Favorite Return: $242.18, Profit: $42.18
 ---------------------------------------------------------------------
 ****NHL*****
 Detroit Red Wings (underdog) vs Vegas Golden Knights (favorite) 
-Arbitrage Percentage: 82.58%
-Stake $74.52 on Detroit Red Wings (underdog) from [unibet] - Odds: $3.25
-Stake $125.48 on Vegas Golden Knights (favorite) from [unibet] - Odds: $1.93
-Underdog Return: $242.18, Profit: $42.18
-Favorite Return: $242.18, Profit: $42.18
+Arbitrage Percentage: 82.21%
+Stake $72.62 on Detroit Red Wings (underdog) from [unibet] - Odds: $3.35
+Stake $127.38 on Vegas Golden Knights (favorite) from [unibet] - Odds: $1.91
+Underdog Return: $243.29, Profit: $43.29
+Favorite Return: $243.29, Profit: $43.29
 ---------------------------------------------------------------------
 ****Boxing*****
 Adrian Taylor (underdog) vs Derick Miller Jr (favorite) 
@@ -109,6 +93,14 @@ Stake $65.93 on Adrian Taylor (underdog) from [sportsbet] - Odds: $3.05
 Stake $134.07 on Derick Miller Jr (favorite) from [ladbrokes_au] - Odds: $1.50
 Underdog Return: $201.10, Profit: $1.10
 Favorite Return: $201.10, Profit: $1.10
+---------------------------------------------------------------------
+****Boxing*****
+Erik Robles Ayala (underdog) vs Liam Davies (favorite) 
+Arbitrage Percentage: 98.69%
+Stake $67.55 on Erik Robles Ayala (underdog) from [playup] - Odds: $3.00
+Stake $132.45 on Liam Davies (favorite) from [sportsbet] - Odds: $1.53
+Underdog Return: $202.65, Profit: $2.65
+Favorite Return: $202.65, Profit: $2.65
 ---------------------------------------------------------------------
 ****Boxing*****
 Maxi Hughes (underdog) vs William Zepeda (favorite) 
@@ -151,28 +143,12 @@ Underdog Return: $204.33, Profit: $4.33
 Favorite Return: $204.33, Profit: $4.33
 ---------------------------------------------------------------------
 ****A-League*****
-Wellington Phoenix FC (underdog) vs Melbourne City (favorite) 
-Arbitrage Percentage: 86.75%
-Stake $4.61 on Wellington Phoenix FC (underdog) from [betfair_ex_au] - Odds: $50.00
-Stake $195.39 on Melbourne City (favorite) from [betfair_ex_au] - Odds: $1.18
-Underdog Return: $230.56, Profit: $30.56
-Favorite Return: $230.56, Profit: $30.56
----------------------------------------------------------------------
-****A-League*****
 Brisbane Roar (underdog) vs Sydney FC (favorite) 
-Arbitrage Percentage: 81.37%
-Stake $46.38 on Brisbane Roar (underdog) from [betfair_ex_au] - Odds: $5.30
-Stake $153.62 on Sydney FC (favorite) from [betfair_ex_au] - Odds: $1.60
-Underdog Return: $245.80, Profit: $45.80
-Favorite Return: $245.80, Profit: $45.80
----------------------------------------------------------------------
-****K League 1*****
-Sangju Sangmu FC (underdog) vs Ulsan Hyundai FC (favorite) 
-Arbitrage Percentage: 96.65%
-Stake $1.03 on Sangju Sangmu FC (underdog) from [betfair_ex_au] - Odds: $200.00
-Stake $198.97 on Ulsan Hyundai FC (favorite) from [tab] - Odds: $1.04
-Underdog Return: $206.92, Profit: $6.92
-Favorite Return: $206.92, Profit: $6.92
+Arbitrage Percentage: 82.12%
+Stake $46.83 on Brisbane Roar (underdog) from [betfair_ex_au] - Odds: $5.20
+Stake $153.17 on Sydney FC (favorite) from [betfair_ex_au] - Odds: $1.59
+Underdog Return: $243.53, Profit: $43.53
+Favorite Return: $243.53, Profit: $43.53
 ---------------------------------------------------------------------
 ****K League 1*****
 Gangwon FC (underdog) vs Gwangju FC (favorite) 
@@ -185,12 +161,12 @@ Favorite Return: $270.24, Profit: $70.24
 ---------------------next----set-------------------------------------
 ---------------------next----set-------------------------------------
 ****NRL*****
-St George Illawarra Dragons (underdog) vs Gold Coast Titans (favorite) 
-Arbitrage Percentage: 99.80%
-Stake $97.76 on St George Illawarra Dragons (underdog) from [tab] - Odds: $2.05
-Stake $102.24 on Gold Coast Titans (favorite) from [pointsbetau] - Odds: $1.96
-Underdog Return: $200.40, Profit: $0.40
-Favorite Return: $200.40, Profit: $0.40
+Canterbury Bulldogs (underdog) vs Cronulla Sutherland Sharks (favorite) 
+Arbitrage Percentage: 99.58%
+Stake $58.56 on Canterbury Bulldogs (underdog) from [sportsbet] - Odds: $3.43
+Stake $141.44 on Cronulla Sutherland Sharks (favorite) from [playup] - Odds: $1.42
+Underdog Return: $200.85, Profit: $0.85
+Favorite Return: $200.85, Profit: $0.85
 ---------------------------------------------------------------------
 ****NRL*****
 Wests Tigers (underdog) vs Canberra Raiders (favorite) 
@@ -209,20 +185,12 @@ Underdog Return: $240.85, Profit: $40.85
 Favorite Return: $240.85, Profit: $40.85
 ---------------------------------------------------------------------
 ****NHL*****
-Columbus Blue Jackets (underdog) vs Nashville Predators (favorite) 
-Arbitrage Percentage: 82.51%
-Stake $76.95 on Columbus Blue Jackets (underdog) from [unibet] - Odds: $3.15
-Stake $123.05 on Nashville Predators (favorite) from [unibet] - Odds: $1.97
-Underdog Return: $242.40, Profit: $42.40
-Favorite Return: $242.40, Profit: $42.40
----------------------------------------------------------------------
-****NHL*****
 Pittsburgh Penguins (underdog) vs Boston Bruins (favorite) 
-Arbitrage Percentage: 82.60%
-Stake $71.21 on Pittsburgh Penguins (underdog) from [unibet] - Odds: $3.40
-Stake $128.79 on Boston Bruins (favorite) from [unibet] - Odds: $1.88
-Underdog Return: $242.12, Profit: $42.12
-Favorite Return: $242.12, Profit: $42.12
+Arbitrage Percentage: 82.42%
+Stake $67.40 on Pittsburgh Penguins (underdog) from [unibet] - Odds: $3.60
+Stake $132.60 on Boston Bruins (favorite) from [unibet] - Odds: $1.83
+Underdog Return: $242.65, Profit: $42.65
+Favorite Return: $242.65, Profit: $42.65
 ---------------------------------------------------------------------
 ****NHL*****
 Calgary Flames (underdog) vs Florida Panthers (favorite) 
@@ -266,11 +234,11 @@ Favorite Return: $242.18, Profit: $42.18
 ---------------------------------------------------------------------
 ****NHL*****
 Detroit Red Wings (underdog) vs Vegas Golden Knights (favorite) 
-Arbitrage Percentage: 82.58%
-Stake $74.52 on Detroit Red Wings (underdog) from [unibet] - Odds: $3.25
-Stake $125.48 on Vegas Golden Knights (favorite) from [unibet] - Odds: $1.93
-Underdog Return: $242.18, Profit: $42.18
-Favorite Return: $242.18, Profit: $42.18
+Arbitrage Percentage: 82.21%
+Stake $72.62 on Detroit Red Wings (underdog) from [unibet] - Odds: $3.35
+Stake $127.38 on Vegas Golden Knights (favorite) from [unibet] - Odds: $1.91
+Underdog Return: $243.29, Profit: $43.29
+Favorite Return: $243.29, Profit: $43.29
 ---------------------------------------------------------------------
 ****Boxing*****
 Adrian Taylor (underdog) vs Derick Miller Jr (favorite) 
@@ -279,6 +247,14 @@ Stake $65.93 on Adrian Taylor (underdog) from [sportsbet] - Odds: $3.05
 Stake $134.07 on Derick Miller Jr (favorite) from [ladbrokes_au] - Odds: $1.50
 Underdog Return: $201.10, Profit: $1.10
 Favorite Return: $201.10, Profit: $1.10
+---------------------------------------------------------------------
+****Boxing*****
+Erik Robles Ayala (underdog) vs Liam Davies (favorite) 
+Arbitrage Percentage: 98.69%
+Stake $67.55 on Erik Robles Ayala (underdog) from [playup] - Odds: $3.00
+Stake $132.45 on Liam Davies (favorite) from [sportsbet] - Odds: $1.53
+Underdog Return: $202.65, Profit: $2.65
+Favorite Return: $202.65, Profit: $2.65
 ---------------------------------------------------------------------
 ****Boxing*****
 Maxi Hughes (underdog) vs William Zepeda (favorite) 
@@ -313,28 +289,12 @@ Underdog Return: $200.36, Profit: $0.36
 Favorite Return: $200.36, Profit: $0.36
 ---------------------------------------------------------------------
 ****A-League*****
-Wellington Phoenix FC (underdog) vs Melbourne City (favorite) 
-Arbitrage Percentage: 88.98%
-Stake $6.24 on Wellington Phoenix FC (underdog) from [unibet] - Odds: $36.00
-Stake $193.76 on Melbourne City (favorite) from [bluebet] - Odds: $1.16
-Underdog Return: $224.76, Profit: $24.76
-Favorite Return: $224.76, Profit: $24.76
----------------------------------------------------------------------
-****A-League*****
 Brisbane Roar (underdog) vs Sydney FC (favorite) 
-Arbitrage Percentage: 83.56%
-Stake $45.59 on Brisbane Roar (underdog) from [pointsbetau] - Odds: $5.25
-Stake $154.41 on Sydney FC (favorite) from [bluebet] - Odds: $1.55
-Underdog Return: $239.34, Profit: $39.34
-Favorite Return: $239.34, Profit: $39.34
----------------------------------------------------------------------
-****K League 1*****
-Sangju Sangmu FC (underdog) vs Ulsan Hyundai FC (favorite) 
-Arbitrage Percentage: 96.71%
-Stake $1.14 on Sangju Sangmu FC (underdog) from [unibet] - Odds: $181.00
-Stake $198.86 on Ulsan Hyundai FC (favorite) from [tab] - Odds: $1.04
-Underdog Return: $206.81, Profit: $6.81
-Favorite Return: $206.81, Profit: $6.81
+Arbitrage Percentage: 83.75%
+Stake $45.93 on Brisbane Roar (underdog) from [ladbrokes_au] - Odds: $5.20
+Stake $154.07 on Sydney FC (favorite) from [bluebet] - Odds: $1.55
+Underdog Return: $238.81, Profit: $38.81
+Favorite Return: $238.81, Profit: $38.81
 ---------------------------------------------------------------------
 ****K League 1*****
 Gangwon FC (underdog) vs Gwangju FC (favorite) 
