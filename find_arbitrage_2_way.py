@@ -13,7 +13,44 @@ SPORTS = [
     'boxing_boxing',
     'cricket_big_bash',
     'soccer_australia_aleague',
+    'soccer_austria_bundesliga',
+    'soccer_belgium_first_div',
+    'soccer_brazil_campeonato',
+    'soccer_chile_campeonato',
+    'soccer_china_superleague',
+    'soccer_conmebol_copa_libertadores',
+    'soccer_denmark_superliga',
+    'soccer_efl_champ',
+    'soccer_england_league1',
+    'soccer_england_league2',
+    'soccer_epl',
+    'soccer_fa_cup',
+    'soccer_france_ligue_one',
+    'soccer_france_ligue_two',
+    'soccer_germany_bundesliga',
+    'soccer_germany_bundesliga2',
+    'soccer_germany_liga3',
+    'soccer_greece_super_league',
+    'soccer_italy_serie_a',
+    'soccer_italy_serie_b',
+    'soccer_japan_j_league',
     'soccer_korea_kleague1',
+    'soccer_league_of_ireland',
+    'soccer_mexico_ligamx',
+    'soccer_netherlands_eredivisie',
+    'soccer_poland_ekstraklasa',
+    'soccer_portugal_primeira_liga',
+    'soccer_spain_la_liga',
+    'soccer_spain_segunda_division',
+    'soccer_spl',
+    'soccer_sweden_allsvenskan',
+    'soccer_switzerland_superleague',
+    'soccer_turkey_super_league',
+    'soccer_uefa_champs_league',
+    'soccer_uefa_euro_qualification',
+    'soccer_uefa_europa_conference_league',
+    'soccer_uefa_europa_league',
+    'soccer_usa_mls',
     'baseball_mlb',
     'baseball_mlb_preseason',
     'cricket_odi'
@@ -141,11 +178,12 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
                     print('Favorite Return: ${:.2f}, Profit: ${:.2f}'.format(favorite_return, favorite_profit))
                     print('---------------------------------------------------------------------')
                     # Append to the output file
-                    with open(output_file_path, 'a') as output_file:
-                        print('****{}*****'.format(event['sport_title'], ), file=output_file)
-                        print('{} (underdog) vs {} (favorite) '.format(underdog_max_odd_entity['underdog']['name'],
-                                                                       favorite_max_odd_entity['favorite']['name']),
-                              file=output_file)
+                    with open(output_file_path, 'a', encoding='utf-8') as output_file:
+                        print('****{}*****'.format(event['sport_title']), file=output_file)
+                        print('{} (underdog) vs {} (favorite) '.format(
+                            underdog_max_odd_entity['underdog']['name'],
+                            favorite_max_odd_entity['favorite']['name']),
+                            file=output_file)
                         print('Arbitrage Percentage: {:.2f}%'.format(arb_percentage), file=output_file)
                         print('Stake ${:.2f} on {} (underdog) from [{}] - Odds: ${:.2f}'.format(
                             underdog_stake, underdog_max_odd_entity['underdog']['name'], underdog_max_odd_bookmaker,

@@ -1,10 +1,30 @@
-****K League 1****
-Sangju Sangmu FC (underdog) vs Ulsan Hyundai FC (favorite)
-Arbitrage Percentage: 98.61%
-Stake $0.51 on Sangju Sangmu FC (underdog) from [betfair_ex_au] - Odds: 200.00
-Stake $97.50 on Ulsan Hyundai FC (favorite) from [tab] - Odds: 1.04
-Stake $1.99 on Draw from [sportsbet] - Odds: 51.00
-Underdog Return: $101.40, Profit: $1.40
-Favorite Return: $101.40, Profit: $1.40
-Draw Return: $101.40, Profit: $1.40
+****FA Cup****
+Coventry City (underdog) vs Wolverhampton Wanderers (favorite)
+Arbitrage Percentage: 99.81%
+Stake $17.89 on Coventry City (underdog) from [unibet] - Odds: 5.60
+Stake $58.25 on Wolverhampton Wanderers (favorite) from [betfair_ex_au] - Odds: 1.72
+Stake $23.86 on Draw from [unibet] - Odds: 4.20
+Underdog Return: $100.19, Profit: $0.19
+Favorite Return: $100.19, Profit: $0.19
+Draw Return: $100.19, Profit: $0.19
+---------------------------------------------------------------------
+****Liga MX****
+Querétaro (underdog) vs Pachuca (favorite)
+Arbitrage Percentage: 99.87%
+Stake $20.86 on Querétaro (underdog) from [betfair_ex_au] - Odds: 4.80
+Stake $54.72 on Pachuca (favorite) from [unibet] - Odds: 1.83
+Stake $24.42 on Draw from [betfair_ex_au] - Odds: 4.10
+Underdog Return: $100.13, Profit: $0.13
+Favorite Return: $100.13, Profit: $0.13
+Draw Return: $100.13, Profit: $0.13
+---------------------------------------------------------------------
+****MLS****
+Montreal Impact (underdog) vs Inter Miami CF (favorite)
+Arbitrage Percentage: 99.90%
+Stake $17.41 on Montreal Impact (underdog) from [unibet] - Odds: 5.75
+Stake $59.58 on Inter Miami CF (favorite) from [betfair_ex_au] - Odds: 1.68
+Stake $23.01 on Draw from [unibet] - Odds: 4.35
+Underdog Return: $100.10, Profit: $0.10
+Favorite Return: $100.10, Profit: $0.10
+Draw Return: $100.10, Profit: $0.10
 ---------------------------------------------------------------------
