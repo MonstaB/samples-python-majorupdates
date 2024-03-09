@@ -1,6 +1,7 @@
 Major updates will explain later.
-
+```
 python main.py --api-key YOUR_API_KEY
+```
 
 
 # The Odds API Code Samples (v4) - Python
