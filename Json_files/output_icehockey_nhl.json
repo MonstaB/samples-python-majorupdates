@@ -1,0 +1,2032 @@
+[
+  {
+    "id": "7ee0b403bfe61e15d3896b7b262864ed",
+    "sport_key": "icehockey_nhl",
+    "sport_title": "NHL",
+    "commence_time": "2024-03-09T17:30:00Z",
+    "home_team": "Buffalo Sabres",
+    "away_team": "Edmonton Oilers",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Buffalo Sabres",
+                "price": 3.45
+              },
+              {
+                "name": "Edmonton Oilers",
+                "price": 1.85
+              },
+              {
+                "name": "Draw",
+                "price": 4.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "Buffalo Sabres",
+                "price": 2.6
+              },
+              {
+                "name": "Edmonton Oilers",
+                "price": 1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "Buffalo Sabres",
+                "price": 2.6
+              },
+              {
+                "name": "Edmonton Oilers",
+                "price": 1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "Buffalo Sabres",
+                "price": 2.66
+              },
+              {
+                "name": "Edmonton Oilers",
+                "price": 1.47
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Buffalo Sabres",
+                "price": 2.58
+              },
+              {
+                "name": "Edmonton Oilers",
+                "price": 1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "Buffalo Sabres",
+                "price": 2.6
+              },
+              {
+                "name": "Edmonton Oilers",
+                "price": 1.48
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "topsport",
+        "title": "TopSport",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Buffalo Sabres",
+                "price": 2.55
+              },
+              {
+                "name": "Edmonton Oilers",
+                "price": 1.49
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "46615c70c8cb2809d1a550e989c26e47",
+    "sport_key": "icehockey_nhl",
+    "sport_title": "NHL",
+    "commence_time": "2024-03-09T17:30:00Z",
+    "home_team": "New Jersey Devils",
+    "away_team": "Carolina Hurricanes",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Carolina Hurricanes",
+                "price": 2.14
+              },
+              {
+                "name": "New Jersey Devils",
+                "price": 2.85
+              },
+              {
+                "name": "Draw",
+                "price": 4.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Carolina Hurricanes",
+                "price": 1.72
+              },
+              {
+                "name": "New Jersey Devils",
+                "price": 2.13
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "Carolina Hurricanes",
+                "price": 1.68
+              },
+              {
+                "name": "New Jersey Devils",
+                "price": 2.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "Carolina Hurricanes",
+                "price": 1.68
+              },
+              {
+                "name": "New Jersey Devils",
+                "price": 2.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "Carolina Hurricanes",
+                "price": 1.7
+              },
+              {
+                "name": "New Jersey Devils",
+                "price": 2.15
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "Carolina Hurricanes",
+                "price": 1.68
+              },
+              {
+                "name": "New Jersey Devils",
+                "price": 2.15
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "topsport",
+        "title": "TopSport",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Carolina Hurricanes",
+                "price": 1.65
+              },
+              {
+                "name": "New Jersey Devils",
+                "price": 2.18
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1360f09be2aca0a75bca15c5d4e3b6db",
+    "sport_key": "icehockey_nhl",
+    "sport_title": "NHL",
+    "commence_time": "2024-03-09T17:30:00Z",
+    "home_team": "Columbus Blue Jackets",
+    "away_team": "Nashville Predators",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Columbus Blue Jackets",
+                "price": 3.15
+              },
+              {
+                "name": "Nashville Predators",
+                "price": 1.97
+              },
+              {
+                "name": "Draw",
+                "price": 4.35
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Columbus Blue Jackets",
+                "price": 2.26
+              },
+              {
+                "name": "Nashville Predators",
+                "price": 1.64
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "Columbus Blue Jackets",
+                "price": 2.3
+              },
+              {
+                "name": "Nashville Predators",
+                "price": 1.64
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "Columbus Blue Jackets",
+                "price": 2.3
+              },
+              {
+                "name": "Nashville Predators",
+                "price": 1.64
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "Columbus Blue Jackets",
+                "price": 2.28
+              },
+              {
+                "name": "Nashville Predators",
+                "price": 1.62
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "Columbus Blue Jackets",
+                "price": 2.25
+              },
+              {
+                "name": "Nashville Predators",
+                "price": 1.62
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "topsport",
+        "title": "TopSport",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Columbus Blue Jackets",
+                "price": 2.27
+              },
+              {
+                "name": "Nashville Predators",
+                "price": 1.61
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0f02cc0c14f099d3b9888d1788e1ccd5",
+    "sport_key": "icehockey_nhl",
+    "sport_title": "NHL",
+    "commence_time": "2024-03-09T20:00:00Z",
+    "home_team": "Boston Bruins",
+    "away_team": "Pittsburgh Penguins",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Boston Bruins",
+                "price": 1.88
+              },
+              {
+                "name": "Pittsburgh Penguins",
+                "price": 3.4
+              },
+              {
+                "name": "Draw",
+                "price": 4.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Boston Bruins",
+                "price": 1.51
+              },
+              {
+                "name": "Pittsburgh Penguins",
+                "price": 2.58
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "Boston Bruins",
+                "price": 1.48
+              },
+              {
+                "name": "Pittsburgh Penguins",
+                "price": 2.64
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "Boston Bruins",
+                "price": 1.5
+              },
+              {
+                "name": "Pittsburgh Penguins",
+                "price": 2.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "Boston Bruins",
+                "price": 1.5
+              },
+              {
+                "name": "Pittsburgh Penguins",
+                "price": 2.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "Boston Bruins",
+                "price": 1.48
+              },
+              {
+                "name": "Pittsburgh Penguins",
+                "price": 2.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "topsport",
+        "title": "TopSport",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Boston Bruins",
+                "price": 1.45
+              },
+              {
+                "name": "Pittsburgh Penguins",
+                "price": 2.65
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7bcf6febd87b157dd779c195cad5258b",
+    "sport_key": "icehockey_nhl",
+    "sport_title": "NHL",
+    "commence_time": "2024-03-09T21:00:00Z",
+    "home_team": "Florida Panthers",
+    "away_team": "Calgary Flames",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Calgary Flames",
+                "price": 3.85
+              },
+              {
+                "name": "Florida Panthers",
+                "price": 1.78
+              },
+              {
+                "name": "Draw",
+                "price": 4.35
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Calgary Flames",
+                "price": 2.7
+              },
+              {
+                "name": "Florida Panthers",
+                "price": 1.47
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "Calgary Flames",
+                "price": 2.72
+              },
+              {
+                "name": "Florida Panthers",
+                "price": 1.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "Calgary Flames",
+                "price": 2.75
+              },
+              {
+                "name": "Florida Panthers",
+                "price": 1.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "Calgary Flames",
+                "price": 2.75
+              },
+              {
+                "name": "Florida Panthers",
+                "price": 1.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "Calgary Flames",
+                "price": 2.7
+              },
+              {
+                "name": "Florida Panthers",
+                "price": 1.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "topsport",
+        "title": "TopSport",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Calgary Flames",
+                "price": 2.78
+              },
+              {
+                "name": "Florida Panthers",
+                "price": 1.42
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cc1b6c8bb58ca58cc629ca52d9b1f04a",
+    "sport_key": "icehockey_nhl",
+    "sport_title": "NHL",
+    "commence_time": "2024-03-10T00:00:00Z",
+    "home_team": "Washington Capitals",
+    "away_team": "Chicago Blackhawks",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Chicago Blackhawks",
+                "price": 3.9
+              },
+              {
+                "name": "Washington Capitals",
+                "price": 1.73
+              },
+              {
+                "name": "Draw",
+                "price": 4.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Chicago Blackhawks",
+                "price": 2.79
+              },
+              {
+                "name": "Washington Capitals",
+                "price": 1.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "Chicago Blackhawks",
+                "price": 2.78
+              },
+              {
+                "name": "Washington Capitals",
+                "price": 1.44
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "Chicago Blackhawks",
+                "price": 2.7
+              },
+              {
+                "name": "Washington Capitals",
+                "price": 1.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "Chicago Blackhawks",
+                "price": 2.75
+              },
+              {
+                "name": "Washington Capitals",
+                "price": 1.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "Chicago Blackhawks",
+                "price": 2.75
+              },
+              {
+                "name": "Washington Capitals",
+                "price": 1.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "topsport",
+        "title": "TopSport",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Chicago Blackhawks",
+                "price": 2.85
+              },
+              {
+                "name": "Washington Capitals",
+                "price": 1.4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "61f373f6b5db96b21ca1170932129f5c",
+    "sport_key": "icehockey_nhl",
+    "sport_title": "NHL",
+    "commence_time": "2024-03-10T00:00:00Z",
+    "home_team": "Montr\u00e9al Canadiens",
+    "away_team": "Toronto Maple Leafs",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Montr\u00e9al Canadiens",
+                "price": 3.7
+              },
+              {
+                "name": "Toronto Maple Leafs",
+                "price": 1.82
+              },
+              {
+                "name": "Draw",
+                "price": 4.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Montr\u00e9al Canadiens",
+                "price": 2.64
+              },
+              {
+                "name": "Toronto Maple Leafs",
+                "price": 1.49
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "Montr\u00e9al Canadiens",
+                "price": 2.7
+              },
+              {
+                "name": "Toronto Maple Leafs",
+                "price": 1.46
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "Montr\u00e9al Canadiens",
+                "price": 2.7
+              },
+              {
+                "name": "Toronto Maple Leafs",
+                "price": 1.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "Montr\u00e9al Canadiens",
+                "price": 2.7
+              },
+              {
+                "name": "Toronto Maple Leafs",
+                "price": 1.46
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "Montr\u00e9al Canadiens",
+                "price": 2.7
+              },
+              {
+                "name": "Toronto Maple Leafs",
+                "price": 1.46
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "topsport",
+        "title": "TopSport",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Montr\u00e9al Canadiens",
+                "price": 2.7
+              },
+              {
+                "name": "Toronto Maple Leafs",
+                "price": 1.44
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6778284ca1d8867cf2edb973033cab90",
+    "sport_key": "icehockey_nhl",
+    "sport_title": "NHL",
+    "commence_time": "2024-03-10T00:00:00Z",
+    "home_team": "San Jose Sharks",
+    "away_team": "Ottawa Senators",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Ottawa Senators",
+                "price": 1.82
+              },
+              {
+                "name": "San Jose Sharks",
+                "price": 3.6
+              },
+              {
+                "name": "Draw",
+                "price": 4.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Ottawa Senators",
+                "price": 1.49
+              },
+              {
+                "name": "San Jose Sharks",
+                "price": 2.65
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "Ottawa Senators",
+                "price": 1.47
+              },
+              {
+                "name": "San Jose Sharks",
+                "price": 2.66
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "Ottawa Senators",
+                "price": 1.48
+              },
+              {
+                "name": "San Jose Sharks",
+                "price": 2.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "Ottawa Senators",
+                "price": 1.48
+              },
+              {
+                "name": "San Jose Sharks",
+                "price": 2.65
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "Ottawa Senators",
+                "price": 1.48
+              },
+              {
+                "name": "San Jose Sharks",
+                "price": 2.65
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "topsport",
+        "title": "TopSport",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Ottawa Senators",
+                "price": 1.45
+              },
+              {
+                "name": "San Jose Sharks",
+                "price": 2.66
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "11ad19457f6b9c218f345f640f8bd5db",
+    "sport_key": "icehockey_nhl",
+    "sport_title": "NHL",
+    "commence_time": "2024-03-10T00:00:00Z",
+    "home_team": "Tampa Bay Lightning",
+    "away_team": "Philadelphia Flyers",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Flyers",
+                "price": 2.95
+              },
+              {
+                "name": "Tampa Bay Lightning",
+                "price": 2.08
+              },
+              {
+                "name": "Draw",
+                "price": 4.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Flyers",
+                "price": 2.24
+              },
+              {
+                "name": "Tampa Bay Lightning",
+                "price": 1.66
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Flyers",
+                "price": 2.22
+              },
+              {
+                "name": "Tampa Bay Lightning",
+                "price": 1.65
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Flyers",
+                "price": 2.2
+              },
+              {
+                "name": "Tampa Bay Lightning",
+                "price": 1.65
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Flyers",
+                "price": 2.2
+              },
+              {
+                "name": "Tampa Bay Lightning",
+                "price": 1.68
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Flyers",
+                "price": 2.2
+              },
+              {
+                "name": "Tampa Bay Lightning",
+                "price": 1.68
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "topsport",
+        "title": "TopSport",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Flyers",
+                "price": 2.17
+              },
+              {
+                "name": "Tampa Bay Lightning",
+                "price": 1.66
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "51554699f8fd229746155af6b358b38f",
+    "sport_key": "icehockey_nhl",
+    "sport_title": "NHL",
+    "commence_time": "2024-03-10T00:30:00Z",
+    "home_team": "New York Rangers",
+    "away_team": "St Louis Blues",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "New York Rangers",
+                "price": 1.8
+              },
+              {
+                "name": "St Louis Blues",
+                "price": 3.7
+              },
+              {
+                "name": "Draw",
+                "price": 4.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "New York Rangers",
+                "price": 1.48
+              },
+              {
+                "name": "St Louis Blues",
+                "price": 2.67
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "New York Rangers",
+                "price": 1.46
+              },
+              {
+                "name": "St Louis Blues",
+                "price": 2.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "New York Rangers",
+                "price": 1.45
+              },
+              {
+                "name": "St Louis Blues",
+                "price": 2.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "New York Rangers",
+                "price": 1.46
+              },
+              {
+                "name": "St Louis Blues",
+                "price": 2.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "New York Rangers",
+                "price": 1.46
+              },
+              {
+                "name": "St Louis Blues",
+                "price": 2.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "topsport",
+        "title": "TopSport",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "New York Rangers",
+                "price": 1.43
+              },
+              {
+                "name": "St Louis Blues",
+                "price": 2.72
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8a101dee4855f427c66e1c88dfacc8f1",
+    "sport_key": "icehockey_nhl",
+    "sport_title": "NHL",
+    "commence_time": "2024-03-10T03:00:00Z",
+    "home_team": "Vegas Golden Knights",
+    "away_team": "Detroit Red Wings",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Detroit Red Wings",
+                "price": 3.25
+              },
+              {
+                "name": "Vegas Golden Knights",
+                "price": 1.93
+              },
+              {
+                "name": "Draw",
+                "price": 4.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Detroit Red Wings",
+                "price": 2.44
+              },
+              {
+                "name": "Vegas Golden Knights",
+                "price": 1.56
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "Detroit Red Wings",
+                "price": 2.5
+              },
+              {
+                "name": "Vegas Golden Knights",
+                "price": 1.53
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "Detroit Red Wings",
+                "price": 2.5
+              },
+              {
+                "name": "Vegas Golden Knights",
+                "price": 1.52
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "Detroit Red Wings",
+                "price": 2.45
+              },
+              {
+                "name": "Vegas Golden Knights",
+                "price": 1.55
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "Detroit Red Wings",
+                "price": 2.45
+              },
+              {
+                "name": "Vegas Golden Knights",
+                "price": 1.55
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "53237b7f8ba5ad1eee5ab5fe4d0a79c4",
+    "sport_key": "icehockey_nhl",
+    "sport_title": "NHL",
+    "commence_time": "2024-03-10T03:00:00Z",
+    "home_team": "Vancouver Canucks",
+    "away_team": "Winnipeg Jets",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Vancouver Canucks",
+                "price": 2.18
+              },
+              {
+                "name": "Winnipeg Jets",
+                "price": 2.8
+              },
+              {
+                "name": "Draw",
+                "price": 4.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Vancouver Canucks",
+                "price": 1.68
+              },
+              {
+                "name": "Winnipeg Jets",
+                "price": 2.19
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "Vancouver Canucks",
+                "price": 1.69
+              },
+              {
+                "name": "Winnipeg Jets",
+                "price": 2.16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "Vancouver Canucks",
+                "price": 1.68
+              },
+              {
+                "name": "Winnipeg Jets",
+                "price": 2.15
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "Vancouver Canucks",
+                "price": 1.68
+              },
+              {
+                "name": "Winnipeg Jets",
+                "price": 2.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "Vancouver Canucks",
+                "price": 1.68
+              },
+              {
+                "name": "Winnipeg Jets",
+                "price": 2.2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b4f33f684dccf30ed2ac21cbfc413bed",
+    "sport_key": "icehockey_nhl",
+    "sport_title": "NHL",
+    "commence_time": "2024-03-10T03:30:00Z",
+    "home_team": "Los Angeles Kings",
+    "away_team": "Dallas Stars",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Dallas Stars",
+                "price": 2.55
+              },
+              {
+                "name": "Los Angeles Kings",
+                "price": 2.38
+              },
+              {
+                "name": "Draw",
+                "price": 4.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T09:36:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:36:45Z",
+            "outcomes": [
+              {
+                "name": "Dallas Stars",
+                "price": 1.93
+              },
+              {
+                "name": "Los Angeles Kings",
+                "price": 1.87
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "Dallas Stars",
+                "price": 2.02
+              },
+              {
+                "name": "Los Angeles Kings",
+                "price": 1.79
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "Dallas Stars",
+                "price": 2.0
+              },
+              {
+                "name": "Los Angeles Kings",
+                "price": 1.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T09:35:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:37Z",
+            "outcomes": [
+              {
+                "name": "Dallas Stars",
+                "price": 1.98
+              },
+              {
+                "name": "Los Angeles Kings",
+                "price": 1.83
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T09:35:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T09:35:38Z",
+            "outcomes": [
+              {
+                "name": "Dallas Stars",
+                "price": 1.98
+              },
+              {
+                "name": "Los Angeles Kings",
+                "price": 1.83
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

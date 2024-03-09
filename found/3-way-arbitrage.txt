@@ -1,0 +1,10 @@
+****K League 1****
+Sangju Sangmu FC (underdog) vs Ulsan Hyundai FC (favorite)
+Arbitrage Percentage: 98.61%
+Stake $0.51 on Sangju Sangmu FC (underdog) from [betfair_ex_au] - Odds: 200.00
+Stake $97.50 on Ulsan Hyundai FC (favorite) from [tab] - Odds: 1.04
+Stake $1.99 on Draw from [sportsbet] - Odds: 51.00
+Underdog Return: $101.40, Profit: $1.40
+Favorite Return: $101.40, Profit: $1.40
+Draw Return: $101.40, Profit: $1.40
+---------------------------------------------------------------------
