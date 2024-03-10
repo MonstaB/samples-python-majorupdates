@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "id": "2127601d1dcc807b5a5dbed4c9879460",
+    "sport_key": "cricket_odi",
+    "sport_title": "One Day Internationals",
+    "commence_time": "2024-03-12T11:30:00Z",
+    "home_team": "Afghanistan",
+    "away_team": "Ireland",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:28Z",
+            "outcomes": [
+              {
+                "name": "Afghanistan",
+                "price": 1.47
+              },
+              {
+                "name": "Ireland",
+                "price": 2.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:28Z",
+            "outcomes": [
+              {
+                "name": "Afghanistan",
+                "price": 1.46
+              },
+              {
+                "name": "Ireland",
+                "price": 2.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:45:22Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:22Z",
+            "outcomes": [
+              {
+                "name": "Afghanistan",
+                "price": 1.41
+              },
+              {
+                "name": "Ireland",
+                "price": 2.5
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:45:22Z",
+            "outcomes": [
+              {
+                "name": "Afghanistan",
+                "price": 1.66
+              },
+              {
+                "name": "Ireland",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:29Z",
+            "outcomes": [
+              {
+                "name": "Afghanistan",
+                "price": 1.48
+              },
+              {
+                "name": "Ireland",
+                "price": 2.6
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

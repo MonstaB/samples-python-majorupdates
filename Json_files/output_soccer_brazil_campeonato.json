@@ -1,0 +1,1032 @@
+[
+  {
+    "id": "8bfff6620184ad2422226d45dfe8593f",
+    "sport_key": "soccer_brazil_campeonato",
+    "sport_title": "Brazil S\u00e9rie A",
+    "commence_time": "2024-04-13T20:00:00Z",
+    "home_team": "Atletico Goianiense",
+    "away_team": "Flamengo",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:24Z",
+            "outcomes": [
+              {
+                "name": "Atletico Goianiense",
+                "price": 6.5
+              },
+              {
+                "name": "Flamengo",
+                "price": 1.4
+              },
+              {
+                "name": "Draw",
+                "price": 4.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:45:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:25Z",
+            "outcomes": [
+              {
+                "name": "Atletico Goianiense",
+                "price": 6.5
+              },
+              {
+                "name": "Flamengo",
+                "price": 1.4
+              },
+              {
+                "name": "Draw",
+                "price": 4.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:19Z",
+            "outcomes": [
+              {
+                "name": "Atletico Goianiense",
+                "price": 6.5
+              },
+              {
+                "name": "Flamengo",
+                "price": 1.4
+              },
+              {
+                "name": "Draw",
+                "price": 4.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:43:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:21Z",
+            "outcomes": [
+              {
+                "name": "Atletico Goianiense",
+                "price": 1.14
+              },
+              {
+                "name": "Flamengo",
+                "price": 1.14
+              },
+              {
+                "name": "Draw",
+                "price": 1.2
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:43:21Z",
+            "outcomes": [
+              {
+                "name": "Atletico Goianiense",
+                "price": 990.0
+              },
+              {
+                "name": "Flamengo",
+                "price": 990.0
+              },
+              {
+                "name": "Draw",
+                "price": 350.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f3a78555ca7b7d112711366a0de08286",
+    "sport_key": "soccer_brazil_campeonato",
+    "sport_title": "Brazil S\u00e9rie A",
+    "commence_time": "2024-04-13T20:00:00Z",
+    "home_team": "Corinthians",
+    "away_team": "Atletico Mineiro",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:24Z",
+            "outcomes": [
+              {
+                "name": "Atletico Mineiro",
+                "price": 2.7
+              },
+              {
+                "name": "Corinthians",
+                "price": 2.7
+              },
+              {
+                "name": "Draw",
+                "price": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:43:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:21Z",
+            "outcomes": [
+              {
+                "name": "Atletico Mineiro",
+                "price": 1.04
+              },
+              {
+                "name": "Corinthians",
+                "price": 1.04
+              },
+              {
+                "name": "Draw",
+                "price": 1.2
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:43:21Z",
+            "outcomes": [
+              {
+                "name": "Atletico Mineiro",
+                "price": 980.0
+              },
+              {
+                "name": "Corinthians",
+                "price": 990.0
+              },
+              {
+                "name": "Draw",
+                "price": 350.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2f2583c3aae8cfc63e9c2045abfd8016",
+    "sport_key": "soccer_brazil_campeonato",
+    "sport_title": "Brazil S\u00e9rie A",
+    "commence_time": "2024-04-13T20:00:00Z",
+    "home_team": "Atletico Paranaense",
+    "away_team": "Cuiab\u00e1",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:24Z",
+            "outcomes": [
+              {
+                "name": "Atletico Paranaense",
+                "price": 1.7
+              },
+              {
+                "name": "Cuiab\u00e1",
+                "price": 5.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:43:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:21Z",
+            "outcomes": [
+              {
+                "name": "Atletico Paranaense",
+                "price": 1.04
+              },
+              {
+                "name": "Cuiab\u00e1",
+                "price": 1.04
+              },
+              {
+                "name": "Draw",
+                "price": 1.2
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:43:21Z",
+            "outcomes": [
+              {
+                "name": "Atletico Paranaense",
+                "price": 980.0
+              },
+              {
+                "name": "Cuiab\u00e1",
+                "price": 990.0
+              },
+              {
+                "name": "Draw",
+                "price": 350.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "104d0c0b39c92733a8d6aaa6109ae4e5",
+    "sport_key": "soccer_brazil_campeonato",
+    "sport_title": "Brazil S\u00e9rie A",
+    "commence_time": "2024-04-13T20:00:00Z",
+    "home_team": "Internacional",
+    "away_team": "Bahia",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:24Z",
+            "outcomes": [
+              {
+                "name": "Bahia",
+                "price": 4.33
+              },
+              {
+                "name": "Internacional",
+                "price": 1.85
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:45:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:25Z",
+            "outcomes": [
+              {
+                "name": "Bahia",
+                "price": 4.2
+              },
+              {
+                "name": "Internacional",
+                "price": 1.8
+              },
+              {
+                "name": "Draw",
+                "price": 3.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:19Z",
+            "outcomes": [
+              {
+                "name": "Bahia",
+                "price": 4.2
+              },
+              {
+                "name": "Internacional",
+                "price": 1.8
+              },
+              {
+                "name": "Draw",
+                "price": 3.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:43:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:21Z",
+            "outcomes": [
+              {
+                "name": "Bahia",
+                "price": 1.04
+              },
+              {
+                "name": "Internacional",
+                "price": 1.04
+              },
+              {
+                "name": "Draw",
+                "price": 1.2
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:43:21Z",
+            "outcomes": [
+              {
+                "name": "Bahia",
+                "price": 990.0
+              },
+              {
+                "name": "Internacional",
+                "price": 980.0
+              },
+              {
+                "name": "Draw",
+                "price": 350.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a87cd8ffbb8f9f431d6f7ce361e97450",
+    "sport_key": "soccer_brazil_campeonato",
+    "sport_title": "Brazil S\u00e9rie A",
+    "commence_time": "2024-04-13T20:00:00Z",
+    "home_team": "Cruzeiro",
+    "away_team": "Botafogo",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:24Z",
+            "outcomes": [
+              {
+                "name": "Botafogo",
+                "price": 3.3
+              },
+              {
+                "name": "Cruzeiro",
+                "price": 2.2
+              },
+              {
+                "name": "Draw",
+                "price": 3.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:45:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:25Z",
+            "outcomes": [
+              {
+                "name": "Botafogo",
+                "price": 3.1
+              },
+              {
+                "name": "Cruzeiro",
+                "price": 2.1
+              },
+              {
+                "name": "Draw",
+                "price": 3.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:19Z",
+            "outcomes": [
+              {
+                "name": "Botafogo",
+                "price": 3.1
+              },
+              {
+                "name": "Cruzeiro",
+                "price": 2.1
+              },
+              {
+                "name": "Draw",
+                "price": 3.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:43:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:21Z",
+            "outcomes": [
+              {
+                "name": "Botafogo",
+                "price": 1.04
+              },
+              {
+                "name": "Cruzeiro",
+                "price": 1.04
+              },
+              {
+                "name": "Draw",
+                "price": 1.2
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:43:21Z",
+            "outcomes": [
+              {
+                "name": "Botafogo",
+                "price": 990.0
+              },
+              {
+                "name": "Cruzeiro",
+                "price": 980.0
+              },
+              {
+                "name": "Draw",
+                "price": 350.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d2d2aba55d0ea66e78a3cdd2413868ea",
+    "sport_key": "soccer_brazil_campeonato",
+    "sport_title": "Brazil S\u00e9rie A",
+    "commence_time": "2024-04-13T20:00:00Z",
+    "home_team": "Fluminense",
+    "away_team": "Bragantino-SP",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:24Z",
+            "outcomes": [
+              {
+                "name": "Bragantino-SP",
+                "price": 4.5
+              },
+              {
+                "name": "Fluminense",
+                "price": 1.72
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:45:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:25Z",
+            "outcomes": [
+              {
+                "name": "Bragantino-SP",
+                "price": 4.2
+              },
+              {
+                "name": "Fluminense",
+                "price": 1.7
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:19Z",
+            "outcomes": [
+              {
+                "name": "Bragantino-SP",
+                "price": 4.2
+              },
+              {
+                "name": "Fluminense",
+                "price": 1.7
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:43:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:21Z",
+            "outcomes": [
+              {
+                "name": "Bragantino-SP",
+                "price": 1.04
+              },
+              {
+                "name": "Fluminense",
+                "price": 1.04
+              },
+              {
+                "name": "Draw",
+                "price": 1.2
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:43:21Z",
+            "outcomes": [
+              {
+                "name": "Bragantino-SP",
+                "price": 980.0
+              },
+              {
+                "name": "Fluminense",
+                "price": 980.0
+              },
+              {
+                "name": "Draw",
+                "price": 350.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d1f30fc3fb27465484912a4d9a604ee0",
+    "sport_key": "soccer_brazil_campeonato",
+    "sport_title": "Brazil S\u00e9rie A",
+    "commence_time": "2024-04-13T20:00:00Z",
+    "home_team": "Criciuma",
+    "away_team": "Juventude",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:24Z",
+            "outcomes": [
+              {
+                "name": "Criciuma",
+                "price": 1.95
+              },
+              {
+                "name": "Juventude",
+                "price": 4.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:43:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:21Z",
+            "outcomes": [
+              {
+                "name": "Criciuma",
+                "price": 1.04
+              },
+              {
+                "name": "Juventude",
+                "price": 1.04
+              },
+              {
+                "name": "Draw",
+                "price": 1.2
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:43:21Z",
+            "outcomes": [
+              {
+                "name": "Criciuma",
+                "price": 980.0
+              },
+              {
+                "name": "Juventude",
+                "price": 980.0
+              },
+              {
+                "name": "Draw",
+                "price": 350.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a6ebfc4787bb4c36cf5414d2cd7ee8e2",
+    "sport_key": "soccer_brazil_campeonato",
+    "sport_title": "Brazil S\u00e9rie A",
+    "commence_time": "2024-04-13T20:00:00Z",
+    "home_team": "Sao Paulo",
+    "away_team": "Fortaleza",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:24Z",
+            "outcomes": [
+              {
+                "name": "Fortaleza",
+                "price": 4.5
+              },
+              {
+                "name": "Sao Paulo",
+                "price": 1.8
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:45:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:25Z",
+            "outcomes": [
+              {
+                "name": "Fortaleza",
+                "price": 4.4
+              },
+              {
+                "name": "Sao Paulo",
+                "price": 1.73
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:19Z",
+            "outcomes": [
+              {
+                "name": "Fortaleza",
+                "price": 4.4
+              },
+              {
+                "name": "Sao Paulo",
+                "price": 1.73
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:43:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:21Z",
+            "outcomes": [
+              {
+                "name": "Fortaleza",
+                "price": 1.04
+              },
+              {
+                "name": "Sao Paulo",
+                "price": 1.04
+              },
+              {
+                "name": "Draw",
+                "price": 1.2
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:43:21Z",
+            "outcomes": [
+              {
+                "name": "Fortaleza",
+                "price": 980.0
+              },
+              {
+                "name": "Sao Paulo",
+                "price": 990.0
+              },
+              {
+                "name": "Draw",
+                "price": 350.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8d4ce41a207931a1317ab583626f39d4",
+    "sport_key": "soccer_brazil_campeonato",
+    "sport_title": "Brazil S\u00e9rie A",
+    "commence_time": "2024-04-13T20:00:00Z",
+    "home_team": "Vasco da Gama",
+    "away_team": "Gr\u00eamio",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:24Z",
+            "outcomes": [
+              {
+                "name": "Gr\u00eamio",
+                "price": 2.9
+              },
+              {
+                "name": "Vasco da Gama",
+                "price": 2.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:43:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:21Z",
+            "outcomes": [
+              {
+                "name": "Gr\u00eamio",
+                "price": 1.04
+              },
+              {
+                "name": "Vasco da Gama",
+                "price": 1.04
+              },
+              {
+                "name": "Draw",
+                "price": 1.2
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:43:21Z",
+            "outcomes": [
+              {
+                "name": "Gr\u00eamio",
+                "price": 990.0
+              },
+              {
+                "name": "Vasco da Gama",
+                "price": 990.0
+              },
+              {
+                "name": "Draw",
+                "price": 350.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "846486ef250fa800d1b55fe5f5b9e059",
+    "sport_key": "soccer_brazil_campeonato",
+    "sport_title": "Brazil S\u00e9rie A",
+    "commence_time": "2024-04-13T20:00:00Z",
+    "home_team": "Vitoria",
+    "away_team": "Palmeiras",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:24Z",
+            "outcomes": [
+              {
+                "name": "Palmeiras",
+                "price": 1.61
+              },
+              {
+                "name": "Vitoria",
+                "price": 5.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:43:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:21Z",
+            "outcomes": [
+              {
+                "name": "Palmeiras",
+                "price": 1.04
+              },
+              {
+                "name": "Vitoria",
+                "price": 1.04
+              },
+              {
+                "name": "Draw",
+                "price": 1.2
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:43:21Z",
+            "outcomes": [
+              {
+                "name": "Palmeiras",
+                "price": 980.0
+              },
+              {
+                "name": "Vitoria",
+                "price": 980.0
+              },
+              {
+                "name": "Draw",
+                "price": 350.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

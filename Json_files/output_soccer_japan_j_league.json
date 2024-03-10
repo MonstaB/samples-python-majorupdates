@@ -1,0 +1,325 @@
+[
+  {
+    "id": "eac1516b0009f8e1b6a6a47956b7b066",
+    "sport_key": "soccer_japan_j_league",
+    "sport_title": "J League",
+    "commence_time": "2024-03-10T04:05:00Z",
+    "home_team": "Consadole Sapporo",
+    "away_team": "Urawa Red Diamonds",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:43:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:47Z",
+            "outcomes": [
+              {
+                "name": "Consadole Sapporo",
+                "price": 2.75
+              },
+              {
+                "name": "Urawa Red Diamonds",
+                "price": 2.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T23:43:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:46Z",
+            "outcomes": [
+              {
+                "name": "Consadole Sapporo",
+                "price": 2.8
+              },
+              {
+                "name": "Urawa Red Diamonds",
+                "price": 2.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:43:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:47Z",
+            "outcomes": [
+              {
+                "name": "Consadole Sapporo",
+                "price": 2.75
+              },
+              {
+                "name": "Urawa Red Diamonds",
+                "price": 2.35
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:43:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:48Z",
+            "outcomes": [
+              {
+                "name": "Consadole Sapporo",
+                "price": 2.72
+              },
+              {
+                "name": "Urawa Red Diamonds",
+                "price": 2.32
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:43:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:46Z",
+            "outcomes": [
+              {
+                "name": "Consadole Sapporo",
+                "price": 2.8
+              },
+              {
+                "name": "Urawa Red Diamonds",
+                "price": 2.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.35
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:43:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:48Z",
+            "outcomes": [
+              {
+                "name": "Consadole Sapporo",
+                "price": 2.6
+              },
+              {
+                "name": "Urawa Red Diamonds",
+                "price": 2.38
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:43:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:47Z",
+            "outcomes": [
+              {
+                "name": "Consadole Sapporo",
+                "price": 2.6
+              },
+              {
+                "name": "Urawa Red Diamonds",
+                "price": 2.38
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:43:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:50Z",
+            "outcomes": [
+              {
+                "name": "Consadole Sapporo",
+                "price": 3.0
+              },
+              {
+                "name": "Urawa Red Diamonds",
+                "price": 2.48
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:43:50Z",
+            "outcomes": [
+              {
+                "name": "Consadole Sapporo",
+                "price": 3.15
+              },
+              {
+                "name": "Urawa Red Diamonds",
+                "price": 2.58
+              },
+              {
+                "name": "Draw",
+                "price": 3.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-09T23:43:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:48Z",
+            "outcomes": [
+              {
+                "name": "Consadole Sapporo",
+                "price": 2.75
+              },
+              {
+                "name": "Urawa Red Diamonds",
+                "price": 2.35
+              },
+              {
+                "name": "Draw",
+                "price": 3.2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2df62927c848230dad6612f7f2809d9b",
+    "sport_key": "soccer_japan_j_league",
+    "sport_title": "J League",
+    "commence_time": "2024-03-16T04:00:00Z",
+    "home_team": "Avispa Fukuoka",
+    "away_team": "FC Tokyo",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:43:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:47Z",
+            "outcomes": [
+              {
+                "name": "Avispa Fukuoka",
+                "price": 2.45
+              },
+              {
+                "name": "FC Tokyo",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f4a547a215a862aebaf14403d2ad1e7e",
+    "sport_key": "soccer_japan_j_league",
+    "sport_title": "J League",
+    "commence_time": "2024-03-16T06:00:00Z",
+    "home_team": "Sagan Tosu",
+    "away_team": "Cerezo Osaka",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:43:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:47Z",
+            "outcomes": [
+              {
+                "name": "Cerezo Osaka",
+                "price": 1.9
+              },
+              {
+                "name": "Sagan Tosu",
+                "price": 3.9
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

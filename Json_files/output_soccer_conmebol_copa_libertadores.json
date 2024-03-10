@@ -1,0 +1,714 @@
+[
+  {
+    "id": "0e00de7c175c624bcc375b182a121069",
+    "sport_key": "soccer_conmebol_copa_libertadores",
+    "sport_title": "Copa Libertadores",
+    "commence_time": "2024-03-13T00:30:00Z",
+    "home_team": "Palestino",
+    "away_team": "Nacional Asunci\u00f3n (Par)",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:43:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:33Z",
+            "outcomes": [
+              {
+                "name": "Nacional Asunci\u00f3n (Par)",
+                "price": 3.0
+              },
+              {
+                "name": "Palestino",
+                "price": 2.2
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:33Z",
+            "outcomes": [
+              {
+                "name": "Nacional Asunci\u00f3n (Par)",
+                "price": 3.1
+              },
+              {
+                "name": "Palestino",
+                "price": 2.25
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:43:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:33Z",
+            "outcomes": [
+              {
+                "name": "Nacional Asunci\u00f3n (Par)",
+                "price": 3.1
+              },
+              {
+                "name": "Palestino",
+                "price": 2.15
+              },
+              {
+                "name": "Draw",
+                "price": 3.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:09Z",
+            "outcomes": [
+              {
+                "name": "Nacional Asunci\u00f3n (Par)",
+                "price": 3.1
+              },
+              {
+                "name": "Palestino",
+                "price": 2.15
+              },
+              {
+                "name": "Draw",
+                "price": 3.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Nacional Asunci\u00f3n (Par)",
+                "price": 1.04
+              },
+              {
+                "name": "Palestino",
+                "price": 1.04
+              },
+              {
+                "name": "Draw",
+                "price": 1.21
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Nacional Asunci\u00f3n (Par)",
+                "price": 980.0
+              },
+              {
+                "name": "Palestino",
+                "price": 980.0
+              },
+              {
+                "name": "Draw",
+                "price": 980.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-09T23:43:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:33Z",
+            "outcomes": [
+              {
+                "name": "Nacional Asunci\u00f3n (Par)",
+                "price": 3.0
+              },
+              {
+                "name": "Palestino",
+                "price": 2.2
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:43:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:33Z",
+            "outcomes": [
+              {
+                "name": "Nacional Asunci\u00f3n (Par)",
+                "price": 3.1
+              },
+              {
+                "name": "Palestino",
+                "price": 2.2
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:43:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:33Z",
+            "outcomes": [
+              {
+                "name": "Nacional Asunci\u00f3n (Par)",
+                "price": 3.15
+              },
+              {
+                "name": "Palestino",
+                "price": 2.2
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a1b2eb8a114b7262bbe78464ebe91b9f",
+    "sport_key": "soccer_conmebol_copa_libertadores",
+    "sport_title": "Copa Libertadores",
+    "commence_time": "2024-03-14T00:30:00Z",
+    "home_team": "Bragantino-SP",
+    "away_team": "Botafogo",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:43:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:33Z",
+            "outcomes": [
+              {
+                "name": "Botafogo",
+                "price": 4.1
+              },
+              {
+                "name": "Bragantino-SP",
+                "price": 1.75
+              },
+              {
+                "name": "Draw",
+                "price": 3.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Botafogo",
+                "price": 3.2
+              },
+              {
+                "name": "Bragantino-SP",
+                "price": 1.04
+              },
+              {
+                "name": "Draw",
+                "price": 1.2
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Botafogo",
+                "price": 1000.0
+              },
+              {
+                "name": "Bragantino-SP",
+                "price": 1000.0
+              },
+              {
+                "name": "Draw",
+                "price": 980.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:43:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:33Z",
+            "outcomes": [
+              {
+                "name": "Botafogo",
+                "price": 4.3
+              },
+              {
+                "name": "Bragantino-SP",
+                "price": 1.75
+              },
+              {
+                "name": "Draw",
+                "price": 3.55
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:43:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:33Z",
+            "outcomes": [
+              {
+                "name": "Botafogo",
+                "price": 4.3
+              },
+              {
+                "name": "Bragantino-SP",
+                "price": 1.75
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "668a0189cc734af8b5910edb19b5c729",
+    "sport_key": "soccer_conmebol_copa_libertadores",
+    "sport_title": "Copa Libertadores",
+    "commence_time": "2024-03-14T00:30:00Z",
+    "home_team": "Colo Colo",
+    "away_team": "Sportivo Trinidense",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:43:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:33Z",
+            "outcomes": [
+              {
+                "name": "Colo Colo",
+                "price": 1.33
+              },
+              {
+                "name": "Sportivo Trinidense",
+                "price": 9.5
+              },
+              {
+                "name": "Draw",
+                "price": 4.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:33Z",
+            "outcomes": [
+              {
+                "name": "Colo Colo",
+                "price": 1.37
+              },
+              {
+                "name": "Sportivo Trinidense",
+                "price": 8.5
+              },
+              {
+                "name": "Draw",
+                "price": 4.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Colo Colo",
+                "price": 1.34
+              },
+              {
+                "name": "Sportivo Trinidense",
+                "price": 1.04
+              },
+              {
+                "name": "Draw",
+                "price": 3.75
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Colo Colo",
+                "price": 1.36
+              },
+              {
+                "name": "Sportivo Trinidense",
+                "price": 990.0
+              },
+              {
+                "name": "Draw",
+                "price": 980.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:43:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:33Z",
+            "outcomes": [
+              {
+                "name": "Colo Colo",
+                "price": 1.36
+              },
+              {
+                "name": "Sportivo Trinidense",
+                "price": 7.25
+              },
+              {
+                "name": "Draw",
+                "price": 4.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:43:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:33Z",
+            "outcomes": [
+              {
+                "name": "Colo Colo",
+                "price": 1.35
+              },
+              {
+                "name": "Sportivo Trinidense",
+                "price": 7.7
+              },
+              {
+                "name": "Draw",
+                "price": 4.65
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-09T23:43:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:33Z",
+            "outcomes": [
+              {
+                "name": "Colo Colo",
+                "price": 1.38
+              },
+              {
+                "name": "Sportivo Trinidense",
+                "price": 8.0
+              },
+              {
+                "name": "Draw",
+                "price": 4.4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "29c6ae42b6ffd660c03bdce6afc7ee89",
+    "sport_key": "soccer_conmebol_copa_libertadores",
+    "sport_title": "Copa Libertadores",
+    "commence_time": "2024-03-15T00:30:00Z",
+    "home_team": "Nacional de Montevideo",
+    "away_team": "Club Always Ready",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:43:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:33Z",
+            "outcomes": [
+              {
+                "name": "Club Always Ready",
+                "price": 14.0
+              },
+              {
+                "name": "Nacional de Montevideo",
+                "price": 1.15
+              },
+              {
+                "name": "Draw",
+                "price": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:09Z",
+            "outcomes": [
+              {
+                "name": "Club Always Ready",
+                "price": 11.0
+              },
+              {
+                "name": "Nacional de Montevideo",
+                "price": 1.17
+              },
+              {
+                "name": "Draw",
+                "price": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:43:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:33Z",
+            "outcomes": [
+              {
+                "name": "Club Always Ready",
+                "price": 11.0
+              },
+              {
+                "name": "Nacional de Montevideo",
+                "price": 1.17
+              },
+              {
+                "name": "Draw",
+                "price": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:33Z",
+            "outcomes": [
+              {
+                "name": "Club Always Ready",
+                "price": 13.0
+              },
+              {
+                "name": "Nacional de Montevideo",
+                "price": 1.19
+              },
+              {
+                "name": "Draw",
+                "price": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Club Always Ready",
+                "price": 1.04
+              },
+              {
+                "name": "Nacional de Montevideo",
+                "price": 1.04
+              },
+              {
+                "name": "Draw",
+                "price": 1.1
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Club Always Ready",
+                "price": 980.0
+              },
+              {
+                "name": "Nacional de Montevideo",
+                "price": 980.0
+              },
+              {
+                "name": "Draw",
+                "price": 980.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:43:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:33Z",
+            "outcomes": [
+              {
+                "name": "Club Always Ready",
+                "price": 29.0
+              },
+              {
+                "name": "Nacional de Montevideo",
+                "price": 1.1
+              },
+              {
+                "name": "Draw",
+                "price": 7.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

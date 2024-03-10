@@ -1,0 +1,937 @@
+[
+  {
+    "id": "06b7bfe7bc12f86f404f349b7b9c6e49",
+    "sport_key": "soccer_poland_ekstraklasa",
+    "sport_title": "Ekstraklasa - Poland",
+    "commence_time": "2024-03-10T11:30:00Z",
+    "home_team": "Stal Mielec",
+    "away_team": "Ruch Chorz\u00f3w",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:44:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Ruch Chorz\u00f3w",
+                "price": 3.8
+              },
+              {
+                "name": "Stal Mielec",
+                "price": 1.85
+              },
+              {
+                "name": "Draw",
+                "price": 3.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:44:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Ruch Chorz\u00f3w",
+                "price": 3.7
+              },
+              {
+                "name": "Stal Mielec",
+                "price": 2.05
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:45:40Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:40Z",
+            "outcomes": [
+              {
+                "name": "Ruch Chorz\u00f3w",
+                "price": 3.4
+              },
+              {
+                "name": "Stal Mielec",
+                "price": 2.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T23:44:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Ruch Chorz\u00f3w",
+                "price": 3.5
+              },
+              {
+                "name": "Stal Mielec",
+                "price": 2.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:18Z",
+            "outcomes": [
+              {
+                "name": "Ruch Chorz\u00f3w",
+                "price": 4.3
+              },
+              {
+                "name": "Stal Mielec",
+                "price": 1.98
+              },
+              {
+                "name": "Draw",
+                "price": 3.45
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:18Z",
+            "outcomes": [
+              {
+                "name": "Ruch Chorz\u00f3w",
+                "price": 4.5
+              },
+              {
+                "name": "Stal Mielec",
+                "price": 2.06
+              },
+              {
+                "name": "Draw",
+                "price": 3.65
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:45:40Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:40Z",
+            "outcomes": [
+              {
+                "name": "Ruch Chorz\u00f3w",
+                "price": 3.4
+              },
+              {
+                "name": "Stal Mielec",
+                "price": 2.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-09T23:44:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Ruch Chorz\u00f3w",
+                "price": 3.7
+              },
+              {
+                "name": "Stal Mielec",
+                "price": 1.95
+              },
+              {
+                "name": "Draw",
+                "price": 3.1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3bc48a2201b80b158f4bec3b2306be28",
+    "sport_key": "soccer_poland_ekstraklasa",
+    "sport_title": "Ekstraklasa - Poland",
+    "commence_time": "2024-03-10T14:00:00Z",
+    "home_team": "Pogo\u0144 Szczecin",
+    "away_team": "Zag\u0142\u0119bie Lubin",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:44:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Pogo\u0144 Szczecin",
+                "price": 1.61
+              },
+              {
+                "name": "Zag\u0142\u0119bie Lubin",
+                "price": 4.33
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:44:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Pogo\u0144 Szczecin",
+                "price": 1.67
+              },
+              {
+                "name": "Zag\u0142\u0119bie Lubin",
+                "price": 4.7
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:45:40Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:40Z",
+            "outcomes": [
+              {
+                "name": "Pogo\u0144 Szczecin",
+                "price": 1.7
+              },
+              {
+                "name": "Zag\u0142\u0119bie Lubin",
+                "price": 4.05
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T23:44:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Pogo\u0144 Szczecin",
+                "price": 1.7
+              },
+              {
+                "name": "Zag\u0142\u0119bie Lubin",
+                "price": 4.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:18Z",
+            "outcomes": [
+              {
+                "name": "Pogo\u0144 Szczecin",
+                "price": 1.77
+              },
+              {
+                "name": "Zag\u0142\u0119bie Lubin",
+                "price": 4.5
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:18Z",
+            "outcomes": [
+              {
+                "name": "Pogo\u0144 Szczecin",
+                "price": 1.84
+              },
+              {
+                "name": "Zag\u0142\u0119bie Lubin",
+                "price": 4.9
+              },
+              {
+                "name": "Draw",
+                "price": 4.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:45:40Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:40Z",
+            "outcomes": [
+              {
+                "name": "Pogo\u0144 Szczecin",
+                "price": 1.7
+              },
+              {
+                "name": "Zag\u0142\u0119bie Lubin",
+                "price": 4.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-09T23:44:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Pogo\u0144 Szczecin",
+                "price": 1.68
+              },
+              {
+                "name": "Zag\u0142\u0119bie Lubin",
+                "price": 4.25
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7e75fcc4c40637e522d9eecc8370f76d",
+    "sport_key": "soccer_poland_ekstraklasa",
+    "sport_title": "Ekstraklasa - Poland",
+    "commence_time": "2024-03-10T16:30:00Z",
+    "home_team": "Widzew \u0141\u00f3d\u017a",
+    "away_team": "Legia Warszawa",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:44:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Legia Warszawa",
+                "price": 1.9
+              },
+              {
+                "name": "Widzew \u0141\u00f3d\u017a",
+                "price": 3.5
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:44:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Legia Warszawa",
+                "price": 1.94
+              },
+              {
+                "name": "Widzew \u0141\u00f3d\u017a",
+                "price": 3.8
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:45:40Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:40Z",
+            "outcomes": [
+              {
+                "name": "Legia Warszawa",
+                "price": 1.95
+              },
+              {
+                "name": "Widzew \u0141\u00f3d\u017a",
+                "price": 3.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.35
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T23:44:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Legia Warszawa",
+                "price": 1.95
+              },
+              {
+                "name": "Widzew \u0141\u00f3d\u017a",
+                "price": 3.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:18Z",
+            "outcomes": [
+              {
+                "name": "Legia Warszawa",
+                "price": 2.02
+              },
+              {
+                "name": "Widzew \u0141\u00f3d\u017a",
+                "price": 3.8
+              },
+              {
+                "name": "Draw",
+                "price": 3.55
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:18Z",
+            "outcomes": [
+              {
+                "name": "Legia Warszawa",
+                "price": 2.14
+              },
+              {
+                "name": "Widzew \u0141\u00f3d\u017a",
+                "price": 4.2
+              },
+              {
+                "name": "Draw",
+                "price": 3.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:45:40Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:40Z",
+            "outcomes": [
+              {
+                "name": "Legia Warszawa",
+                "price": 1.95
+              },
+              {
+                "name": "Widzew \u0141\u00f3d\u017a",
+                "price": 3.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.35
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-09T23:44:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Legia Warszawa",
+                "price": 1.95
+              },
+              {
+                "name": "Widzew \u0141\u00f3d\u017a",
+                "price": 3.5
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4d32c6e1de462a87e89b475559ffae9f",
+    "sport_key": "soccer_poland_ekstraklasa",
+    "sport_title": "Ekstraklasa - Poland",
+    "commence_time": "2024-03-11T18:00:00Z",
+    "home_team": "Warta Pozna\u0144",
+    "away_team": "\u0141KS \u0141\u00f3d\u017a",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:44:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Warta Pozna\u0144",
+                "price": 1.94
+              },
+              {
+                "name": "\u0141KS \u0141\u00f3d\u017a",
+                "price": 4.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.35
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:44:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Warta Pozna\u0144",
+                "price": 1.8
+              },
+              {
+                "name": "\u0141KS \u0141\u00f3d\u017a",
+                "price": 3.75
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:45:40Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:40Z",
+            "outcomes": [
+              {
+                "name": "Warta Pozna\u0144",
+                "price": 1.91
+              },
+              {
+                "name": "\u0141KS \u0141\u00f3d\u017a",
+                "price": 3.7
+              },
+              {
+                "name": "Draw",
+                "price": 3.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T23:44:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Warta Pozna\u0144",
+                "price": 1.9
+              },
+              {
+                "name": "\u0141KS \u0141\u00f3d\u017a",
+                "price": 3.7
+              },
+              {
+                "name": "Draw",
+                "price": 3.15
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:18Z",
+            "outcomes": [
+              {
+                "name": "Warta Pozna\u0144",
+                "price": 1.9
+              },
+              {
+                "name": "\u0141KS \u0141\u00f3d\u017a",
+                "price": 4.1
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:18Z",
+            "outcomes": [
+              {
+                "name": "Warta Pozna\u0144",
+                "price": 2.2
+              },
+              {
+                "name": "\u0141KS \u0141\u00f3d\u017a",
+                "price": 5.3
+              },
+              {
+                "name": "Draw",
+                "price": 4.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:45:40Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:40Z",
+            "outcomes": [
+              {
+                "name": "Warta Pozna\u0144",
+                "price": 1.91
+              },
+              {
+                "name": "\u0141KS \u0141\u00f3d\u017a",
+                "price": 3.7
+              },
+              {
+                "name": "Draw",
+                "price": 3.2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9c09e34e3a3b7a64cbb5396c9ece33d0",
+    "sport_key": "soccer_poland_ekstraklasa",
+    "sport_title": "Ekstraklasa - Poland",
+    "commence_time": "2024-03-13T17:30:00Z",
+    "home_team": "Korona Kielce",
+    "away_team": "Rak\u00f3w Cz\u0119stochowa",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:44:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Korona Kielce",
+                "price": 3.75
+              },
+              {
+                "name": "Rak\u00f3w Cz\u0119stochowa",
+                "price": 1.8
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:18Z",
+            "outcomes": [
+              {
+                "name": "Korona Kielce",
+                "price": 1.26
+              },
+              {
+                "name": "Rak\u00f3w Cz\u0119stochowa",
+                "price": 1.23
+              },
+              {
+                "name": "Draw",
+                "price": 1.3
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:18Z",
+            "outcomes": [
+              {
+                "name": "Korona Kielce",
+                "price": 480.0
+              },
+              {
+                "name": "Rak\u00f3w Cz\u0119stochowa",
+                "price": 870.0
+              },
+              {
+                "name": "Draw",
+                "price": 350.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7547fb6e583da7cbe3cc7b2a02b66382",
+    "sport_key": "soccer_poland_ekstraklasa",
+    "sport_title": "Ekstraklasa - Poland",
+    "commence_time": "2024-03-16T14:00:00Z",
+    "home_team": "Radomiak Radom",
+    "away_team": "Jagiellonia Bia\u0142ystok",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:44:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Jagiellonia Bia\u0142ystok",
+                "price": 2.5
+              },
+              {
+                "name": "Radomiak Radom",
+                "price": 2.5
+              },
+              {
+                "name": "Draw",
+                "price": 3.1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "73f812c09efcf1f26c60fc7ed6b35fcd",
+    "sport_key": "soccer_poland_ekstraklasa",
+    "sport_title": "Ekstraklasa - Poland",
+    "commence_time": "2024-03-16T19:00:00Z",
+    "home_team": "\u015al\u0105sk Wroc\u0142aw",
+    "away_team": "Puszcza Niepo\u0142omice",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:44:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:16Z",
+            "outcomes": [
+              {
+                "name": "Puszcza Niepo\u0142omice",
+                "price": 4.6
+              },
+              {
+                "name": "\u015al\u0105sk Wroc\u0142aw",
+                "price": 1.6
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

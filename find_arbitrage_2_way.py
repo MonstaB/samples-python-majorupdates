@@ -2,61 +2,19 @@ import glob
 import json
 import collections
 import os.path
+import configparser
 
+config = configparser.ConfigParser()
+config.read('config.cfg')
 input_directory = 'Json_files'
-total_bet_amount = 200  # Change this to the desired total bet amount in dollars
-SPORTS = [
-    'rugbyleague_nrl',
-    'mma_mixed_martial_arts',
-    'icehockey_nhl',
-    'basketball_nba',
-    'boxing_boxing',
-    'cricket_big_bash',
-    'soccer_australia_aleague',
-    'soccer_austria_bundesliga',
-    'soccer_belgium_first_div',
-    'soccer_brazil_campeonato',
-    'soccer_chile_campeonato',
-    'soccer_china_superleague',
-    'soccer_conmebol_copa_libertadores',
-    'soccer_denmark_superliga',
-    'soccer_efl_champ',
-    'soccer_england_league1',
-    'soccer_england_league2',
-    'soccer_epl',
-    'soccer_fa_cup',
-    'soccer_france_ligue_one',
-    'soccer_france_ligue_two',
-    'soccer_germany_bundesliga',
-    'soccer_germany_bundesliga2',
-    'soccer_germany_liga3',
-    'soccer_greece_super_league',
-    'soccer_italy_serie_a',
-    'soccer_italy_serie_b',
-    'soccer_japan_j_league',
-    'soccer_korea_kleague1',
-    'soccer_league_of_ireland',
-    'soccer_mexico_ligamx',
-    'soccer_netherlands_eredivisie',
-    'soccer_poland_ekstraklasa',
-    'soccer_portugal_primeira_liga',
-    'soccer_spain_la_liga',
-    'soccer_spain_segunda_division',
-    'soccer_spl',
-    'soccer_sweden_allsvenskan',
-    'soccer_switzerland_superleague',
-    'soccer_turkey_super_league',
-    'soccer_uefa_champs_league',
-    'soccer_uefa_euro_qualification',
-    'soccer_uefa_europa_conference_league',
-    'soccer_uefa_europa_league',
-    'soccer_usa_mls',
-    'baseball_mlb',
-    'baseball_mlb_preseason',
-    'cricket_odi'
-]
-available_bookmakers = ["unibet", "ladbrokes_au", "pointsbetau", "playup", "tab", "neds", "bluebet", "betr_au",
-                        "sportsbet", "betfair_ex_au"]
+total_bet_amount = config.getfloat('DEFAULT', 'BET_AMOUNT')
+available_bookmakers = config.get('BOOKMAKERS', 'BOOKMAKERS_LIST').split(', ')
+sports_list_file = config.get('SPORTS', 'MY_SPORTS_LIST_FILE')
+with open(sports_list_file, 'r') as file:
+    SPORTS = file.read().split(', ')
+
+SPORTS = [SPORT.strip() for SPORT in SPORTS]
+
 
 output_directory = 'found'
 output_filename = '2-way-arbitrage.txt'
@@ -66,8 +24,6 @@ existing_arb_files = glob.glob(os.path.join(output_directory, output_filename))
 os.makedirs(output_directory, exist_ok=True)
 for file in existing_arb_files:
     os.remove(file)
-
-
 
 
 # Open the file for reading
@@ -118,7 +74,6 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
                     # second team has positive odd (first team = favorite, second team = underdog)
                     odds_dict[outcomes[1]['name']].append(
                         {'bookmaker': bookmaker_name, 'underdog': outcomes[1], 'favorite': outcomes[0]})
-
 
         # ...
 
@@ -198,25 +153,29 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
                         print('---------------------------------------------------------------------', file=output_file)
 
 
-
 for SPORT in SPORTS:
     input_filename = f'output_{SPORT}.json'
     input_file_path = os.path.join(input_directory, input_filename)
-
 
     with open(input_file_path, 'r') as json_file:
         # Load the JSON content
         odds_json = json.load(json_file)
         find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmakers, output_file_path)
-with open(output_file_path, 'a') as output_file:
-    print('---------------------next----set-------------------------------------', file=output_file)
-    print('---------------------next----set-------------------------------------', file=output_file)
-available_bookmakers = ["unibet", "ladbrokes_au", "pointsbetau", "playup", "tab", "neds", "bluebet", "betr_au",
-                        "sportsbet"]
+
+
+output_filename = '2-way-arbitrage-my-bookies.txt'
+output_file_path = os.path.join(output_directory, output_filename)
+# Delete existing txt files in the directory
+existing_arb_files = glob.glob(os.path.join(output_directory, output_filename))
+os.makedirs(output_directory, exist_ok=True)
+for file in existing_arb_files:
+    os.remove(file)
+
+available_bookmakers = config.get('BOOKMAKERS', 'MY_BOOKMAKERS_LIST').split(', ')
+
 for SPORT in SPORTS:
     input_filename = f'output_{SPORT}.json'
     input_file_path = os.path.join(input_directory, input_filename)
-
 
     with open(input_file_path, 'r') as json_file:
         # Load the JSON content

@@ -1,0 +1,482 @@
+[
+  {
+    "id": "a1d4cb5c6666b1d332f0b9de0261dc72",
+    "sport_key": "soccer_sweden_allsvenskan",
+    "sport_title": "Allsvenskan - Sweden",
+    "commence_time": "2024-03-30T14:00:00Z",
+    "home_team": "IFK Norrkoping",
+    "away_team": "Malmo FF",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:43:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:59Z",
+            "outcomes": [
+              {
+                "name": "IFK Norrkoping",
+                "price": 5.0
+              },
+              {
+                "name": "Malmo FF",
+                "price": 1.62
+              },
+              {
+                "name": "Draw",
+                "price": 3.85
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:44:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:58Z",
+            "outcomes": [
+              {
+                "name": "IFK Norrkoping",
+                "price": 5.0
+              },
+              {
+                "name": "Malmo FF",
+                "price": 1.61
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5eb3de3b3ff0d47187e9f60505f4af6d",
+    "sport_key": "soccer_sweden_allsvenskan",
+    "sport_title": "Allsvenskan - Sweden",
+    "commence_time": "2024-03-31T12:00:00Z",
+    "home_team": "GAIS",
+    "away_team": "IF Brommapojkarna",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:44:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:58Z",
+            "outcomes": [
+              {
+                "name": "GAIS",
+                "price": 2.2
+              },
+              {
+                "name": "IF Brommapojkarna",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:43:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:59Z",
+            "outcomes": [
+              {
+                "name": "GAIS",
+                "price": 2.16
+              },
+              {
+                "name": "IF Brommapojkarna",
+                "price": 3.15
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1bb8fbd7f5e10c431389c49bb122676b",
+    "sport_key": "soccer_sweden_allsvenskan",
+    "sport_title": "Allsvenskan - Sweden",
+    "commence_time": "2024-03-31T12:00:00Z",
+    "home_team": "Hammarby IF",
+    "away_team": "Kalmar FF",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:44:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:58Z",
+            "outcomes": [
+              {
+                "name": "Hammarby IF",
+                "price": 1.7
+              },
+              {
+                "name": "Kalmar FF",
+                "price": 4.5
+              },
+              {
+                "name": "Draw",
+                "price": 3.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:43:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:59Z",
+            "outcomes": [
+              {
+                "name": "Hammarby IF",
+                "price": 1.71
+              },
+              {
+                "name": "Kalmar FF",
+                "price": 4.35
+              },
+              {
+                "name": "Draw",
+                "price": 3.85
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7a1d5d7b1a72213d45a82baf26577beb",
+    "sport_key": "soccer_sweden_allsvenskan",
+    "sport_title": "Allsvenskan - Sweden",
+    "commence_time": "2024-03-31T14:30:00Z",
+    "home_team": "BK Hacken",
+    "away_team": "Mj\u00e4llby AIF",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:44:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:58Z",
+            "outcomes": [
+              {
+                "name": "BK Hacken",
+                "price": 1.5
+              },
+              {
+                "name": "Mj\u00e4llby AIF",
+                "price": 5.5
+              },
+              {
+                "name": "Draw",
+                "price": 4.33
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:43:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:59Z",
+            "outcomes": [
+              {
+                "name": "BK Hacken",
+                "price": 1.53
+              },
+              {
+                "name": "Mj\u00e4llby AIF",
+                "price": 5.3
+              },
+              {
+                "name": "Draw",
+                "price": 4.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b8b7cf100f14bbf9dcc0543c12be8930",
+    "sport_key": "soccer_sweden_allsvenskan",
+    "sport_title": "Allsvenskan - Sweden",
+    "commence_time": "2024-04-01T12:00:00Z",
+    "home_team": "IFK Goteborg",
+    "away_team": "Djurgardens IF",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:44:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:58Z",
+            "outcomes": [
+              {
+                "name": "Djurgardens IF",
+                "price": 2.5
+              },
+              {
+                "name": "IFK Goteborg",
+                "price": 2.62
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:43:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:59Z",
+            "outcomes": [
+              {
+                "name": "Djurgardens IF",
+                "price": 2.5
+              },
+              {
+                "name": "IFK Goteborg",
+                "price": 2.85
+              },
+              {
+                "name": "Draw",
+                "price": 3.1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "632d1ca47630d950762b59c25565a667",
+    "sport_key": "soccer_sweden_allsvenskan",
+    "sport_title": "Allsvenskan - Sweden",
+    "commence_time": "2024-04-01T12:00:00Z",
+    "home_team": "IK Sirius",
+    "away_team": "Halmstads BK",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:44:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:58Z",
+            "outcomes": [
+              {
+                "name": "Halmstads BK",
+                "price": 3.9
+              },
+              {
+                "name": "IK Sirius",
+                "price": 1.85
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:43:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:59Z",
+            "outcomes": [
+              {
+                "name": "Halmstads BK",
+                "price": 3.85
+              },
+              {
+                "name": "IK Sirius",
+                "price": 1.85
+              },
+              {
+                "name": "Draw",
+                "price": 3.55
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f2f25f507bcc5b3b4476516ee64bca8f",
+    "sport_key": "soccer_sweden_allsvenskan",
+    "sport_title": "Allsvenskan - Sweden",
+    "commence_time": "2024-04-01T14:30:00Z",
+    "home_team": "AIK",
+    "away_team": "V\u00e4ster\u00e5s SK",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:43:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:59Z",
+            "outcomes": [
+              {
+                "name": "AIK",
+                "price": 1.63
+              },
+              {
+                "name": "V\u00e4ster\u00e5s SK",
+                "price": 4.9
+              },
+              {
+                "name": "Draw",
+                "price": 3.85
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:44:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:58Z",
+            "outcomes": [
+              {
+                "name": "AIK",
+                "price": 1.61
+              },
+              {
+                "name": "V\u00e4ster\u00e5s SK",
+                "price": 5.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.9
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ed408a607fdd6ff33236acde10759504",
+    "sport_key": "soccer_sweden_allsvenskan",
+    "sport_title": "Allsvenskan - Sweden",
+    "commence_time": "2024-04-01T14:30:00Z",
+    "home_team": "IF Elfsborg",
+    "away_team": "IFK V\u00e4rnamo",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:43:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:59Z",
+            "outcomes": [
+              {
+                "name": "IF Elfsborg",
+                "price": 1.55
+              },
+              {
+                "name": "IFK V\u00e4rnamo",
+                "price": 5.25
+              },
+              {
+                "name": "Draw",
+                "price": 4.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:44:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:58Z",
+            "outcomes": [
+              {
+                "name": "IF Elfsborg",
+                "price": 1.5
+              },
+              {
+                "name": "IFK V\u00e4rnamo",
+                "price": 5.5
+              },
+              {
+                "name": "Draw",
+                "price": 4.2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

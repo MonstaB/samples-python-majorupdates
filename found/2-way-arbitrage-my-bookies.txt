@@ -1,11 +1,3 @@
-****NRL*****
-Dolphins (underdog) vs North Queensland Cowboys (favorite) 
-Arbitrage Percentage: 99.61%
-Stake $39.52 on Dolphins (underdog) from [sportsbet] - Odds: $2.54
-Stake $60.48 on North Queensland Cowboys (favorite) from [betfair_ex_au] - Odds: $1.66
-Underdog Return: $100.39, Profit: $0.39
-Favorite Return: $100.39, Profit: $0.39
----------------------------------------------------------------------
 ****MMA*****
 CJ Vergara (underdog) vs Asu Almabaev (favorite) 
 Arbitrage Percentage: 91.03%
@@ -15,20 +7,12 @@ Underdog Return: $109.86, Profit: $9.86
 Favorite Return: $109.86, Profit: $9.86
 ---------------------------------------------------------------------
 ****MMA*****
-Katlyn Chookagian (underdog) vs Maycee Barber (favorite) 
-Arbitrage Percentage: 99.01%
-Stake $36.07 on Katlyn Chookagian (underdog) from [betr_au] - Odds: $2.80
-Stake $63.93 on Maycee Barber (favorite) from [betfair_ex_au] - Odds: $1.58
-Underdog Return: $101.00, Profit: $1.00
-Favorite Return: $101.00, Profit: $1.00
----------------------------------------------------------------------
-****MMA*****
 Song Yadong (underdog) vs Petr Yan (favorite) 
-Arbitrage Percentage: 97.62%
-Stake $43.41 on Song Yadong (underdog) from [betfair_ex_au] - Odds: $2.36
-Stake $56.59 on Petr Yan (favorite) from [betr_au] - Odds: $1.81
-Underdog Return: $102.44, Profit: $2.44
-Favorite Return: $102.44, Profit: $2.44
+Arbitrage Percentage: 99.69%
+Stake $44.58 on Song Yadong (underdog) from [neds] - Odds: $2.25
+Stake $55.42 on Petr Yan (favorite) from [betr_au] - Odds: $1.81
+Underdog Return: $100.31, Profit: $0.31
+Favorite Return: $100.31, Profit: $0.31
 ---------------------------------------------------------------------
 ****MMA*****
 Ovince St. Preux (underdog) vs Kennedy Nzechukwu (favorite) 
@@ -111,14 +95,6 @@ Underdog Return: $100.74, Profit: $0.74
 Favorite Return: $100.74, Profit: $0.74
 ---------------------------------------------------------------------
 ****Boxing*****
-Terri Harper (underdog) vs Sandy Ryan (favorite) 
-Arbitrage Percentage: 97.97%
-Stake $32.40 on Terri Harper (underdog) from [betfair_ex_au] - Odds: $3.15
-Stake $67.60 on Sandy Ryan (favorite) from [sportsbet] - Odds: $1.51
-Underdog Return: $102.07, Profit: $2.07
-Favorite Return: $102.07, Profit: $2.07
----------------------------------------------------------------------
-****Boxing*****
 Mikael Lawal (underdog) vs Viddal Riley (favorite) 
 Arbitrage Percentage: 98.69%
 Stake $33.77 on Mikael Lawal (underdog) from [sportsbet] - Odds: $3.00
@@ -136,19 +112,19 @@ Favorite Return: $103.91, Profit: $3.91
 ---------------------------------------------------------------------
 ****Boxing*****
 Jack Catterall (underdog) vs Josh Taylor (favorite) 
-Arbitrage Percentage: 97.27%
-Stake $43.20 on Jack Catterall (underdog) from [ladbrokes_au] - Odds: $2.38
-Stake $56.80 on Josh Taylor (favorite) from [betfair_ex_au] - Odds: $1.81
-Underdog Return: $102.81, Profit: $2.81
-Favorite Return: $102.81, Profit: $2.81
+Arbitrage Percentage: 99.82%
+Stake $42.09 on Jack Catterall (underdog) from [ladbrokes_au] - Odds: $2.38
+Stake $57.91 on Josh Taylor (favorite) from [unibet] - Odds: $1.73
+Underdog Return: $100.18, Profit: $0.18
+Favorite Return: $100.18, Profit: $0.18
 ---------------------------------------------------------------------
 ****A-League*****
 Brisbane Roar (underdog) vs Sydney FC (favorite) 
-Arbitrage Percentage: 82.62%
-Stake $22.41 on Brisbane Roar (underdog) from [betfair_ex_au] - Odds: $5.40
-Stake $77.59 on Sydney FC (favorite) from [betfair_ex_au] - Odds: $1.56
-Underdog Return: $121.03, Profit: $21.03
-Favorite Return: $121.03, Profit: $21.03
+Arbitrage Percentage: 83.56%
+Stake $22.79 on Brisbane Roar (underdog) from [pointsbetau] - Odds: $5.25
+Stake $77.21 on Sydney FC (favorite) from [bluebet] - Odds: $1.55
+Underdog Return: $119.67, Profit: $19.67
+Favorite Return: $119.67, Profit: $19.67
 ---------------------------------------------------------------------
 ****A-League*****
 Western United FC (underdog) vs Melbourne Victory (favorite) 
@@ -160,43 +136,43 @@ Favorite Return: $128.87, Profit: $28.87
 ---------------------------------------------------------------------
 ****Austrian Football Bundesliga*****
 Austria Lustenau (underdog) vs FC Blau-Weiß Linz (favorite) 
-Arbitrage Percentage: 75.51%
-Stake $33.11 on Austria Lustenau (underdog) from [betfair_ex_au] - Odds: $4.00
-Stake $66.89 on FC Blau-Weiß Linz (favorite) from [betfair_ex_au] - Odds: $1.98
-Underdog Return: $132.44, Profit: $32.44
-Favorite Return: $132.44, Profit: $32.44
+Arbitrage Percentage: 78.06%
+Stake $33.28 on Austria Lustenau (underdog) from [unibet] - Odds: $3.85
+Stake $66.72 on FC Blau-Weiß Linz (favorite) from [tab] - Odds: $1.92
+Underdog Return: $128.11, Profit: $28.11
+Favorite Return: $128.11, Profit: $28.11
 ---------------------------------------------------------------------
 ****Austrian Football Bundesliga*****
 WSG Tirol (underdog) vs Austria Wien (favorite) 
-Arbitrage Percentage: 80.98%
-Stake $19.29 on WSG Tirol (underdog) from [betfair_ex_au] - Odds: $6.40
-Stake $80.71 on Austria Wien (favorite) from [betfair_ex_au] - Odds: $1.53
-Underdog Return: $123.48, Profit: $23.48
-Favorite Return: $123.48, Profit: $23.48
+Arbitrage Percentage: 83.83%
+Stake $19.40 on WSG Tirol (underdog) from [unibet] - Odds: $6.15
+Stake $80.60 on Austria Wien (favorite) from [tab] - Odds: $1.48
+Underdog Return: $119.29, Profit: $19.29
+Favorite Return: $119.29, Profit: $19.29
 ---------------------------------------------------------------------
 ****Belgium First Div*****
 Standard Liege (underdog) vs Genk (favorite) 
-Arbitrage Percentage: 78.10%
-Stake $22.87 on Standard Liege (underdog) from [betfair_ex_au] - Odds: $5.60
-Stake $77.13 on Genk (favorite) from [betfair_ex_au] - Odds: $1.66
-Underdog Return: $128.04, Profit: $28.04
-Favorite Return: $128.04, Profit: $28.04
+Arbitrage Percentage: 80.96%
+Stake $23.75 on Standard Liege (underdog) from [unibet] - Odds: $5.20
+Stake $76.25 on Genk (favorite) from [pointsbetau] - Odds: $1.62
+Underdog Return: $123.52, Profit: $23.52
+Favorite Return: $123.52, Profit: $23.52
 ---------------------------------------------------------------------
 ****Belgium First Div*****
 Leuven (underdog) vs Club Brugge (favorite) 
-Arbitrage Percentage: 85.76%
-Stake $11.66 on Leuven (underdog) from [betfair_ex_au] - Odds: $10.00
-Stake $88.34 on Club Brugge (favorite) from [betfair_ex_au] - Odds: $1.32
-Underdog Return: $116.61, Profit: $16.61
-Favorite Return: $116.61, Profit: $16.61
+Arbitrage Percentage: 88.03%
+Stake $12.62 on Leuven (underdog) from [pointsbetau] - Odds: $9.00
+Stake $87.38 on Club Brugge (favorite) from [tab] - Odds: $1.30
+Underdog Return: $113.59, Profit: $13.59
+Favorite Return: $113.59, Profit: $13.59
 ---------------------------------------------------------------------
 ****Belgium First Div*****
 Gent (underdog) vs Union Saint-Gilloise (favorite) 
-Arbitrage Percentage: 79.74%
-Stake $21.62 on Gent (underdog) from [betfair_ex_au] - Odds: $5.80
-Stake $78.38 on Union Saint-Gilloise (favorite) from [betfair_ex_au] - Odds: $1.60
-Underdog Return: $125.41, Profit: $25.41
-Favorite Return: $125.41, Profit: $25.41
+Arbitrage Percentage: 81.88%
+Stake $22.21 on Gent (underdog) from [pointsbetau] - Odds: $5.50
+Stake $77.79 on Union Saint-Gilloise (favorite) from [pointsbetau] - Odds: $1.57
+Underdog Return: $122.14, Profit: $22.14
+Favorite Return: $122.14, Profit: $22.14
 ---------------------------------------------------------------------
 ****Belgium First Div*****
 KV Kortrijk (underdog) vs Anderlecht (favorite) 
@@ -264,11 +240,11 @@ Favorite Return: $121.79, Profit: $21.79
 ---------------------------------------------------------------------
 ****Primera División - Chile*****
 Universidad de Chile (underdog) vs Colo Colo (favorite) 
-Arbitrage Percentage: 76.82%
-Stake $26.04 on Universidad de Chile (underdog) from [betfair_ex_au] - Odds: $5.00
-Stake $73.96 on Colo Colo (favorite) from [betfair_ex_au] - Odds: $1.76
-Underdog Return: $130.18, Profit: $30.18
-Favorite Return: $130.18, Profit: $30.18
+Arbitrage Percentage: 79.53%
+Stake $26.47 on Universidad de Chile (underdog) from [sportsbet] - Odds: $4.75
+Stake $73.53 on Colo Colo (favorite) from [pointsbetau] - Odds: $1.71
+Underdog Return: $125.74, Profit: $25.74
+Favorite Return: $125.74, Profit: $25.74
 ---------------------------------------------------------------------
 ****Primera División - Chile*****
 Deportes Copiapó (underdog) vs Ñublense (favorite) 
@@ -280,11 +256,11 @@ Favorite Return: $129.32, Profit: $29.32
 ---------------------------------------------------------------------
 ****Super League - China*****
 Cangzhou Mighty Lions (underdog) vs Chengdu Rongcheng FC (favorite) 
-Arbitrage Percentage: 80.18%
-Stake $16.85 on Cangzhou Mighty Lions (underdog) from [betfair_ex_au] - Odds: $7.40
-Stake $83.15 on Chengdu Rongcheng FC (favorite) from [betfair_ex_au] - Odds: $1.50
-Underdog Return: $124.72, Profit: $24.72
-Favorite Return: $124.72, Profit: $24.72
+Arbitrage Percentage: 83.41%
+Stake $18.44 on Cangzhou Mighty Lions (underdog) from [pointsbetau] - Odds: $6.50
+Stake $81.56 on Chengdu Rongcheng FC (favorite) from [pointsbetau] - Odds: $1.47
+Underdog Return: $119.89, Profit: $19.89
+Favorite Return: $119.89, Profit: $19.89
 ---------------------------------------------------------------------
 ****Copa Libertadores*****
 Botafogo (underdog) vs Bragantino-SP (favorite) 
@@ -312,19 +288,19 @@ Favorite Return: $114.31, Profit: $14.31
 ---------------------------------------------------------------------
 ****Denmark Superliga*****
 Lyngby (underdog) vs FC Copenhagen (favorite) 
-Arbitrage Percentage: 84.93%
-Stake $8.72 on Lyngby (underdog) from [betfair_ex_au] - Odds: $13.50
-Stake $91.28 on FC Copenhagen (favorite) from [betfair_ex_au] - Odds: $1.29
-Underdog Return: $117.75, Profit: $17.75
-Favorite Return: $117.75, Profit: $17.75
+Arbitrage Percentage: 88.46%
+Stake $10.28 on Lyngby (underdog) from [sportsbet] - Odds: $11.00
+Stake $89.72 on FC Copenhagen (favorite) from [unibet] - Odds: $1.26
+Underdog Return: $113.05, Profit: $13.05
+Favorite Return: $113.05, Profit: $13.05
 ---------------------------------------------------------------------
 ****Denmark Superliga*****
 Randers FC (underdog) vs FC Midtjylland (favorite) 
-Arbitrage Percentage: 75.25%
-Stake $33.22 on Randers FC (underdog) from [unibet] - Odds: $4.00
-Stake $66.78 on FC Midtjylland (favorite) from [betfair_ex_au] - Odds: $1.99
-Underdog Return: $132.89, Profit: $32.89
-Favorite Return: $132.89, Profit: $32.89
+Arbitrage Percentage: 76.28%
+Stake $32.77 on Randers FC (underdog) from [unibet] - Odds: $4.00
+Stake $67.23 on FC Midtjylland (favorite) from [pointsbetau] - Odds: $1.95
+Underdog Return: $131.09, Profit: $31.09
+Favorite Return: $131.09, Profit: $31.09
 ---------------------------------------------------------------------
 ****Championship*****
 Blackburn Rovers (underdog) vs Middlesbrough (favorite) 
@@ -360,11 +336,11 @@ Favorite Return: $120.20, Profit: $20.20
 ---------------------------------------------------------------------
 ****League 1*****
 Carlisle United (underdog) vs Barnsley (favorite) 
-Arbitrage Percentage: 77.37%
-Stake $29.37 on Carlisle United (underdog) from [betfair_ex_au] - Odds: $4.40
-Stake $70.63 on Barnsley (favorite) from [pointsbetau] - Odds: $1.83
-Underdog Return: $129.25, Profit: $29.25
-Favorite Return: $129.25, Profit: $29.25
+Arbitrage Percentage: 79.04%
+Stake $30.86 on Carlisle United (underdog) from [sportsbet] - Odds: $4.10
+Stake $69.14 on Barnsley (favorite) from [pointsbetau] - Odds: $1.83
+Underdog Return: $126.53, Profit: $26.53
+Favorite Return: $126.53, Profit: $26.53
 ---------------------------------------------------------------------
 ****League 1*****
 Northampton Town (underdog) vs Blackpool (favorite) 
@@ -376,11 +352,11 @@ Favorite Return: $127.89, Profit: $27.89
 ---------------------------------------------------------------------
 ****League 1*****
 Burton Albion (underdog) vs Portsmouth (favorite) 
-Arbitrage Percentage: 83.58%
-Stake $15.74 on Burton Albion (underdog) from [betfair_ex_au] - Odds: $7.60
-Stake $84.26 on Portsmouth (favorite) from [pointsbetau] - Odds: $1.42
-Underdog Return: $119.65, Profit: $19.65
-Favorite Return: $119.65, Profit: $19.65
+Arbitrage Percentage: 83.76%
+Stake $15.92 on Burton Albion (underdog) from [sportsbet] - Odds: $7.50
+Stake $84.08 on Portsmouth (favorite) from [pointsbetau] - Odds: $1.42
+Underdog Return: $119.39, Profit: $19.39
+Favorite Return: $119.39, Profit: $19.39
 ---------------------------------------------------------------------
 ****League 1*****
 Cambridge United (underdog) vs Lincoln City (favorite) 
@@ -392,27 +368,27 @@ Favorite Return: $129.77, Profit: $29.77
 ---------------------------------------------------------------------
 ****League 1*****
 Reading (underdog) vs Derby County (favorite) 
-Arbitrage Percentage: 77.69%
-Stake $24.29 on Reading (underdog) from [betfair_ex_au] - Odds: $5.30
-Stake $75.71 on Derby County (favorite) from [betfair_ex_au] - Odds: $1.70
-Underdog Return: $128.71, Profit: $28.71
-Favorite Return: $128.71, Profit: $28.71
+Arbitrage Percentage: 80.61%
+Stake $24.81 on Reading (underdog) from [sportsbet] - Odds: $5.00
+Stake $75.19 on Derby County (favorite) from [pointsbetau] - Odds: $1.65
+Underdog Return: $124.06, Profit: $24.06
+Favorite Return: $124.06, Profit: $24.06
 ---------------------------------------------------------------------
 ****League 1*****
 Port Vale (underdog) vs Leyton Orient (favorite) 
-Arbitrage Percentage: 81.35%
-Stake $24.59 on Port Vale (underdog) from [sportsbet] - Odds: $5.00
-Stake $75.41 on Leyton Orient (favorite) from [betfair_ex_au] - Odds: $1.63
-Underdog Return: $122.93, Profit: $22.93
-Favorite Return: $122.93, Profit: $22.93
+Arbitrage Percentage: 81.73%
+Stake $24.47 on Port Vale (underdog) from [sportsbet] - Odds: $5.00
+Stake $75.53 on Leyton Orient (favorite) from [pointsbetau] - Odds: $1.62
+Underdog Return: $122.36, Profit: $22.36
+Favorite Return: $122.36, Profit: $22.36
 ---------------------------------------------------------------------
 ****League 1*****
 Wigan Athletic (underdog) vs Wycombe Wanderers (favorite) 
-Arbitrage Percentage: 76.44%
-Stake $30.78 on Wigan Athletic (underdog) from [pointsbetau] - Odds: $4.25
-Stake $69.22 on Wycombe Wanderers (favorite) from [betfair_ex_au] - Odds: $1.89
-Underdog Return: $130.82, Profit: $30.82
-Favorite Return: $130.82, Profit: $30.82
+Arbitrage Percentage: 76.72%
+Stake $30.67 on Wigan Athletic (underdog) from [pointsbetau] - Odds: $4.25
+Stake $69.33 on Wycombe Wanderers (favorite) from [bluebet] - Odds: $1.88
+Underdog Return: $130.34, Profit: $30.34
+Favorite Return: $130.34, Profit: $30.34
 ---------------------------------------------------------------------
 ****League 1*****
 Oxford United (underdog) vs Bolton (favorite) 
@@ -480,11 +456,11 @@ Favorite Return: $126.49, Profit: $26.49
 ---------------------------------------------------------------------
 ****League 2*****
 Forest Green Rovers (underdog) vs Bradford City (favorite) 
-Arbitrage Percentage: 79.19%
-Stake $26.58 on Forest Green Rovers (underdog) from [bluebet] - Odds: $4.75
-Stake $73.42 on Bradford City (favorite) from [betfair_ex_au] - Odds: $1.72
-Underdog Return: $126.28, Profit: $26.28
-Favorite Return: $126.28, Profit: $26.28
+Arbitrage Percentage: 79.88%
+Stake $26.36 on Forest Green Rovers (underdog) from [bluebet] - Odds: $4.75
+Stake $73.64 on Bradford City (favorite) from [bluebet] - Odds: $1.70
+Underdog Return: $125.19, Profit: $25.19
+Favorite Return: $125.19, Profit: $25.19
 ---------------------------------------------------------------------
 ****League 2*****
 Sutton United (underdog) vs Crewe Alexandra (favorite) 
@@ -584,35 +560,35 @@ Favorite Return: $118.41, Profit: $18.41
 ---------------------------------------------------------------------
 ****EPL*****
 Nottingham Forest (underdog) vs Brighton and Hove Albion (favorite) 
-Arbitrage Percentage: 76.28%
-Stake $29.13 on Nottingham Forest (underdog) from [betfair_ex_au] - Odds: $4.50
-Stake $70.87 on Brighton and Hove Albion (favorite) from [betfair_ex_au] - Odds: $1.85
-Underdog Return: $131.10, Profit: $31.10
-Favorite Return: $131.10, Profit: $31.10
+Arbitrage Percentage: 78.81%
+Stake $29.51 on Nottingham Forest (underdog) from [unibet] - Odds: $4.30
+Stake $70.49 on Brighton and Hove Albion (favorite) from [neds] - Odds: $1.80
+Underdog Return: $126.89, Profit: $26.89
+Favorite Return: $126.89, Profit: $26.89
 ---------------------------------------------------------------------
 ****EPL*****
 Burnley (underdog) vs West Ham United (favorite) 
-Arbitrage Percentage: 76.66%
-Stake $23.72 on Burnley (underdog) from [betfair_ex_au] - Odds: $5.50
-Stake $76.28 on West Ham United (favorite) from [betfair_ex_au] - Odds: $1.71
-Underdog Return: $130.44, Profit: $30.44
-Favorite Return: $130.44, Profit: $30.44
+Arbitrage Percentage: 78.93%
+Stake $24.13 on Burnley (underdog) from [unibet] - Odds: $5.25
+Stake $75.87 on West Ham United (favorite) from [neds] - Odds: $1.67
+Underdog Return: $126.70, Profit: $26.70
+Favorite Return: $126.70, Profit: $26.70
 ---------------------------------------------------------------------
 ****EPL*****
 Newcastle United (underdog) vs Chelsea (favorite) 
-Arbitrage Percentage: 77.17%
-Stake $34.55 on Newcastle United (underdog) from [unibet] - Odds: $3.75
-Stake $65.45 on Chelsea (favorite) from [betfair_ex_au] - Odds: $1.98
-Underdog Return: $129.58, Profit: $29.58
-Favorite Return: $129.58, Profit: $29.58
+Arbitrage Percentage: 79.30%
+Stake $33.63 on Newcastle United (underdog) from [unibet] - Odds: $3.75
+Stake $66.37 on Chelsea (favorite) from [sportsbet] - Odds: $1.90
+Underdog Return: $126.11, Profit: $26.11
+Favorite Return: $126.11, Profit: $26.11
 ---------------------------------------------------------------------
 ****EPL*****
 Luton (underdog) vs Bournemouth (favorite) 
-Arbitrage Percentage: 80.83%
-Stake $21.70 on Luton (underdog) from [betfair_ex_au] - Odds: $5.70
-Stake $78.30 on Bournemouth (favorite) from [betfair_ex_au] - Odds: $1.58
-Underdog Return: $123.71, Profit: $23.71
-Favorite Return: $123.71, Profit: $23.71
+Arbitrage Percentage: 81.96%
+Stake $21.79 on Luton (underdog) from [topsport] - Odds: $5.60
+Stake $78.21 on Bournemouth (favorite) from [pointsbetau] - Odds: $1.56
+Underdog Return: $122.01, Profit: $22.01
+Favorite Return: $122.01, Profit: $22.01
 ---------------------------------------------------------------------
 ****EPL*****
 West Ham United (underdog) vs Newcastle United (favorite) 
@@ -672,75 +648,75 @@ Favorite Return: $125.94, Profit: $25.94
 ---------------------------------------------------------------------
 ****FA Cup*****
 Coventry City (underdog) vs Wolverhampton Wanderers (favorite) 
-Arbitrage Percentage: 76.00%
-Stake $23.50 on Coventry City (underdog) from [unibet] - Odds: $5.60
-Stake $76.50 on Wolverhampton Wanderers (favorite) from [betfair_ex_au] - Odds: $1.72
-Underdog Return: $131.58, Profit: $31.58
-Favorite Return: $131.58, Profit: $31.58
+Arbitrage Percentage: 78.10%
+Stake $22.87 on Coventry City (underdog) from [unibet] - Odds: $5.60
+Stake $77.13 on Wolverhampton Wanderers (favorite) from [sportsbet] - Odds: $1.66
+Underdog Return: $128.04, Profit: $28.04
+Favorite Return: $128.04, Profit: $28.04
 ---------------------------------------------------------------------
 ****FA Cup*****
 Newcastle United (underdog) vs Manchester City (favorite) 
-Arbitrage Percentage: 84.28%
-Stake $12.11 on Newcastle United (underdog) from [betfair_ex_au] - Odds: $9.80
-Stake $87.89 on Manchester City (favorite) from [unibet] - Odds: $1.35
-Underdog Return: $118.65, Profit: $18.65
-Favorite Return: $118.65, Profit: $18.65
+Arbitrage Percentage: 85.84%
+Stake $13.71 on Newcastle United (underdog) from [unibet] - Odds: $8.50
+Stake $86.29 on Manchester City (favorite) from [unibet] - Odds: $1.35
+Underdog Return: $116.50, Profit: $16.50
+Favorite Return: $116.50, Profit: $16.50
 ---------------------------------------------------------------------
 ****FA Cup*****
 Leicester City (underdog) vs Chelsea (favorite) 
-Arbitrage Percentage: 81.82%
-Stake $18.52 on Leicester City (underdog) from [betfair_ex_au] - Odds: $6.60
-Stake $81.48 on Chelsea (favorite) from [unibet] - Odds: $1.50
-Underdog Return: $122.22, Profit: $22.22
-Favorite Return: $122.22, Profit: $22.22
+Arbitrage Percentage: 82.05%
+Stake $18.75 on Leicester City (underdog) from [sportsbet] - Odds: $6.50
+Stake $81.25 on Chelsea (favorite) from [unibet] - Odds: $1.50
+Underdog Return: $121.88, Profit: $21.88
+Favorite Return: $121.87, Profit: $21.87
 ---------------------------------------------------------------------
 ****FA Cup*****
 Manchester United (underdog) vs Liverpool (favorite) 
-Arbitrage Percentage: 78.83%
-Stake $32.53 on Manchester United (underdog) from [sportsbet] - Odds: $3.90
-Stake $67.47 on Liverpool (favorite) from [betfair_ex_au] - Odds: $1.88
-Underdog Return: $126.85, Profit: $26.85
-Favorite Return: $126.85, Profit: $26.85
+Arbitrage Percentage: 79.70%
+Stake $32.17 on Manchester United (underdog) from [sportsbet] - Odds: $3.90
+Stake $67.83 on Liverpool (favorite) from [ladbrokes_au] - Odds: $1.85
+Underdog Return: $125.48, Profit: $25.48
+Favorite Return: $125.48, Profit: $25.48
 ---------------------------------------------------------------------
 ****Ligue 1 - France*****
 Stade de Reims (underdog) vs Paris Saint Germain (favorite) 
-Arbitrage Percentage: 82.62%
-Stake $14.76 on Stade de Reims (underdog) from [betfair_ex_au] - Odds: $8.20
-Stake $85.24 on Paris Saint Germain (favorite) from [betfair_ex_au] - Odds: $1.42
-Underdog Return: $121.04, Profit: $21.04
-Favorite Return: $121.04, Profit: $21.04
+Arbitrage Percentage: 84.76%
+Stake $15.73 on Stade de Reims (underdog) from [unibet] - Odds: $7.50
+Stake $84.27 on Paris Saint Germain (favorite) from [ladbrokes_au] - Odds: $1.40
+Underdog Return: $117.98, Profit: $17.98
+Favorite Return: $117.98, Profit: $17.98
 ---------------------------------------------------------------------
 ****Ligue 1 - France*****
 Nantes (underdog) vs Marseille (favorite) 
-Arbitrage Percentage: 79.31%
-Stake $15.38 on Nantes (underdog) from [betfair_ex_au] - Odds: $8.20
-Stake $84.62 on Marseille (favorite) from [betfair_ex_au] - Odds: $1.49
-Underdog Return: $126.09, Profit: $26.09
-Favorite Return: $126.09, Profit: $26.09
+Arbitrage Percentage: 82.78%
+Stake $17.26 on Nantes (underdog) from [sportsbet] - Odds: $7.00
+Stake $82.74 on Marseille (favorite) from [betr_au] - Odds: $1.46
+Underdog Return: $120.80, Profit: $20.80
+Favorite Return: $120.80, Profit: $20.80
 ---------------------------------------------------------------------
 ****Ligue 1 - France*****
 Lorient (underdog) vs AS Monaco (favorite) 
-Arbitrage Percentage: 82.54%
-Stake $13.46 on Lorient (underdog) from [betfair_ex_au] - Odds: $9.00
-Stake $86.54 on AS Monaco (favorite) from [neds] - Odds: $1.40
-Underdog Return: $121.15, Profit: $21.15
-Favorite Return: $121.15, Profit: $21.15
+Arbitrage Percentage: 84.33%
+Stake $15.30 on Lorient (underdog) from [neds] - Odds: $7.75
+Stake $84.70 on AS Monaco (favorite) from [neds] - Odds: $1.40
+Underdog Return: $118.58, Profit: $18.58
+Favorite Return: $118.58, Profit: $18.58
 ---------------------------------------------------------------------
 ****Ligue 1 - France*****
 Metz (underdog) vs Stade de Reims (favorite) 
 Arbitrage Percentage: 80.93%
 Stake $18.17 on Metz (underdog) from [neds] - Odds: $6.80
-Stake $81.83 on Stade de Reims (favorite) from [betfair_ex_au] - Odds: $1.51
+Stake $81.83 on Stade de Reims (favorite) from [unibet] - Odds: $1.51
 Underdog Return: $123.56, Profit: $23.56
 Favorite Return: $123.56, Profit: $23.56
 ---------------------------------------------------------------------
 ****Ligue 1 - France*****
 Montpellier (underdog) vs Paris Saint Germain (favorite) 
-Arbitrage Percentage: 81.41%
-Stake $22.75 on Montpellier (underdog) from [ladbrokes_au] - Odds: $5.40
-Stake $77.25 on Paris Saint Germain (favorite) from [betfair_ex_au] - Odds: $1.59
-Underdog Return: $122.83, Profit: $22.83
-Favorite Return: $122.83, Profit: $22.83
+Arbitrage Percentage: 82.21%
+Stake $22.53 on Montpellier (underdog) from [ladbrokes_au] - Odds: $5.40
+Stake $77.47 on Paris Saint Germain (favorite) from [unibet] - Odds: $1.57
+Underdog Return: $121.64, Profit: $21.64
+Favorite Return: $121.64, Profit: $21.64
 ---------------------------------------------------------------------
 ****Ligue 2 - France*****
 Caen (underdog) vs Auxerre (favorite) 
@@ -776,19 +752,19 @@ Favorite Return: $130.00, Profit: $30.00
 ---------------------------------------------------------------------
 ****Bundesliga - Germany*****
 VfL Wolfsburg (underdog) vs Bayer Leverkusen (favorite) 
-Arbitrage Percentage: 83.53%
-Stake $11.97 on VfL Wolfsburg (underdog) from [betfair_ex_au] - Odds: $10.00
-Stake $88.03 on Bayer Leverkusen (favorite) from [betfair_ex_au] - Odds: $1.36
-Underdog Return: $119.72, Profit: $19.72
-Favorite Return: $119.72, Profit: $19.72
+Arbitrage Percentage: 86.00%
+Stake $12.57 on VfL Wolfsburg (underdog) from [bluebet] - Odds: $9.25
+Stake $87.43 on Bayer Leverkusen (favorite) from [ladbrokes_au] - Odds: $1.33
+Underdog Return: $116.28, Profit: $16.28
+Favorite Return: $116.28, Profit: $16.28
 ---------------------------------------------------------------------
 ****Bundesliga - Germany*****
 FC Koln (underdog) vs RB Leipzig (favorite) 
-Arbitrage Percentage: 80.96%
-Stake $24.22 on FC Koln (underdog) from [unibet] - Odds: $5.10
-Stake $75.78 on RB Leipzig (favorite) from [betfair_ex_au] - Odds: $1.63
-Underdog Return: $123.52, Profit: $23.52
-Favorite Return: $123.52, Profit: $23.52
+Arbitrage Percentage: 81.34%
+Stake $24.11 on FC Koln (underdog) from [unibet] - Odds: $5.10
+Stake $75.89 on RB Leipzig (favorite) from [neds] - Odds: $1.62
+Underdog Return: $122.95, Profit: $22.95
+Favorite Return: $122.95, Profit: $22.95
 ---------------------------------------------------------------------
 ****Bundesliga - Germany*****
 Augsburg (underdog) vs VfL Wolfsburg (favorite) 
@@ -800,19 +776,19 @@ Favorite Return: $128.29, Profit: $28.29
 ---------------------------------------------------------------------
 ****Bundesliga - Germany*****
 SV Darmstadt 98 (underdog) vs Bayern Munich (favorite) 
-Arbitrage Percentage: 90.30%
-Stake $6.15 on SV Darmstadt 98 (underdog) from [betfair_ex_au] - Odds: $18.00
-Stake $93.85 on Bayern Munich (favorite) from [betfair_ex_au] - Odds: $1.18
-Underdog Return: $110.74, Profit: $10.74
-Favorite Return: $110.74, Profit: $10.74
+Arbitrage Percentage: 91.89%
+Stake $7.77 on SV Darmstadt 98 (underdog) from [sportsbet] - Odds: $14.00
+Stake $92.23 on Bayern Munich (favorite) from [unibet] - Odds: $1.18
+Underdog Return: $108.83, Profit: $8.83
+Favorite Return: $108.83, Profit: $8.83
 ---------------------------------------------------------------------
 ****Bundesliga - Germany*****
 VfL Bochum (underdog) vs FSV Mainz 05 (favorite) 
-Arbitrage Percentage: 75.92%
-Stake $29.94 on VfL Bochum (underdog) from [betfair_ex_au] - Odds: $4.40
-Stake $70.06 on FSV Mainz 05 (favorite) from [betfair_ex_au] - Odds: $1.88
-Underdog Return: $131.72, Profit: $31.72
-Favorite Return: $131.72, Profit: $31.72
+Arbitrage Percentage: 77.31%
+Stake $30.08 on VfL Bochum (underdog) from [pointsbetau] - Odds: $4.30
+Stake $69.92 on FSV Mainz 05 (favorite) from [unibet] - Odds: $1.85
+Underdog Return: $129.35, Profit: $29.35
+Favorite Return: $129.35, Profit: $29.35
 ---------------------------------------------------------------------
 ****Bundesliga - Germany*****
 SC Freiburg (underdog) vs Bayer Leverkusen (favorite) 
@@ -832,27 +808,27 @@ Favorite Return: $123.81, Profit: $23.81
 ---------------------------------------------------------------------
 ****Bundesliga 2 - Germany*****
 VfL Osnabrück (underdog) vs 1. FC Kaiserslautern (favorite) 
-Arbitrage Percentage: 77.86%
-Stake $30.58 on VfL Osnabrück (underdog) from [betfair_ex_au] - Odds: $4.20
-Stake $69.42 on 1. FC Kaiserslautern (favorite) from [betfair_ex_au] - Odds: $1.85
-Underdog Return: $128.43, Profit: $28.43
-Favorite Return: $128.43, Profit: $28.43
+Arbitrage Percentage: 80.56%
+Stake $31.03 on VfL Osnabrück (underdog) from [sportsbet] - Odds: $4.00
+Stake $68.97 on 1. FC Kaiserslautern (favorite) from [pointsbetau] - Odds: $1.80
+Underdog Return: $124.14, Profit: $24.14
+Favorite Return: $124.14, Profit: $24.14
 ---------------------------------------------------------------------
 ****Bundesliga 2 - Germany*****
 Elversberg (underdog) vs Greuther Fürth (favorite) 
-Arbitrage Percentage: 78.83%
-Stake $32.53 on Elversberg (underdog) from [betfair_ex_au] - Odds: $3.90
-Stake $67.47 on Greuther Fürth (favorite) from [unibet] - Odds: $1.88
-Underdog Return: $126.85, Profit: $26.85
-Favorite Return: $126.85, Profit: $26.85
+Arbitrage Percentage: 79.51%
+Stake $33.10 on Elversberg (underdog) from [sportsbet] - Odds: $3.80
+Stake $66.90 on Greuther Fürth (favorite) from [unibet] - Odds: $1.88
+Underdog Return: $125.77, Profit: $25.77
+Favorite Return: $125.77, Profit: $25.77
 ---------------------------------------------------------------------
 ****Bundesliga 2 - Germany*****
 Hertha Berlin (underdog) vs FC St. Pauli (favorite) 
-Arbitrage Percentage: 78.05%
-Stake $24.64 on Hertha Berlin (underdog) from [betfair_ex_au] - Odds: $5.20
-Stake $75.36 on FC St. Pauli (favorite) from [betfair_ex_au] - Odds: $1.70
-Underdog Return: $128.12, Profit: $28.12
-Favorite Return: $128.12, Profit: $28.12
+Arbitrage Percentage: 80.65%
+Stake $25.30 on Hertha Berlin (underdog) from [unibet] - Odds: $4.90
+Stake $74.70 on FC St. Pauli (favorite) from [unibet] - Odds: $1.66
+Underdog Return: $123.99, Profit: $23.99
+Favorite Return: $123.99, Profit: $23.99
 ---------------------------------------------------------------------
 ****Bundesliga 2 - Germany*****
 Eintracht Braunschweig (underdog) vs SC Paderborn (favorite) 
@@ -888,51 +864,51 @@ Favorite Return: $118.71, Profit: $18.71
 ---------------------------------------------------------------------
 ****Super League - Greece*****
 PAS Lamia 1964 (underdog) vs AEK Athens (favorite) 
-Arbitrage Percentage: 87.88%
-Stake $5.17 on PAS Lamia 1964 (underdog) from [betfair_ex_au] - Odds: $22.00
-Stake $94.83 on AEK Athens (favorite) from [unibet] - Odds: $1.20
-Underdog Return: $113.79, Profit: $13.79
-Favorite Return: $113.79, Profit: $13.79
+Arbitrage Percentage: 91.03%
+Stake $8.45 on PAS Lamia 1964 (underdog) from [sportsbet] - Odds: $13.00
+Stake $91.55 on AEK Athens (favorite) from [unibet] - Odds: $1.20
+Underdog Return: $109.86, Profit: $9.86
+Favorite Return: $109.86, Profit: $9.86
 ---------------------------------------------------------------------
 ****Super League - Greece*****
 Aris Thessaloniki (underdog) vs PAOK Thessaloniki (favorite) 
-Arbitrage Percentage: 78.52%
-Stake $16.76 on Aris Thessaloniki (underdog) from [betfair_ex_au] - Odds: $7.60
-Stake $83.24 on PAOK Thessaloniki (favorite) from [betfair_ex_au] - Odds: $1.53
-Underdog Return: $127.36, Profit: $27.36
-Favorite Return: $127.36, Profit: $27.36
+Arbitrage Percentage: 83.33%
+Stake $20.00 on Aris Thessaloniki (underdog) from [neds] - Odds: $6.00
+Stake $80.00 on PAOK Thessaloniki (favorite) from [unibet] - Odds: $1.50
+Underdog Return: $120.00, Profit: $20.00
+Favorite Return: $120.00, Profit: $20.00
 ---------------------------------------------------------------------
 ****Serie A - Italy*****
 Empoli (underdog) vs AC Milan (favorite) 
-Arbitrage Percentage: 80.59%
-Stake $14.43 on Empoli (underdog) from [betfair_ex_au] - Odds: $8.60
-Stake $85.57 on AC Milan (favorite) from [betfair_ex_au] - Odds: $1.45
-Underdog Return: $124.08, Profit: $24.08
-Favorite Return: $124.08, Profit: $24.08
+Arbitrage Percentage: 82.78%
+Stake $16.11 on Empoli (underdog) from [sportsbet] - Odds: $7.50
+Stake $83.89 on AC Milan (favorite) from [neds] - Odds: $1.44
+Underdog Return: $120.81, Profit: $20.81
+Favorite Return: $120.81, Profit: $20.81
 ---------------------------------------------------------------------
 ****Serie A - Italy*****
 Udinese (underdog) vs Lazio (favorite) 
-Arbitrage Percentage: 72.12%
-Stake $28.89 on Udinese (underdog) from [betfair_ex_au] - Odds: $4.80
-Stake $71.11 on Lazio (favorite) from [betfair_ex_au] - Odds: $1.95
-Underdog Return: $138.67, Profit: $38.67
-Favorite Return: $138.67, Profit: $38.67
+Arbitrage Percentage: 75.41%
+Stake $29.47 on Udinese (underdog) from [pointsbetau] - Odds: $4.50
+Stake $70.53 on Lazio (favorite) from [unibet] - Odds: $1.88
+Underdog Return: $132.60, Profit: $32.60
+Favorite Return: $132.60, Profit: $32.60
 ---------------------------------------------------------------------
 ****Serie A - Italy*****
 Genoa (underdog) vs Juventus (favorite) 
-Arbitrage Percentage: 78.69%
-Stake $16.94 on Genoa (underdog) from [unibet] - Odds: $7.50
-Stake $83.06 on Juventus (favorite) from [betfair_ex_au] - Odds: $1.53
-Underdog Return: $127.08, Profit: $27.08
-Favorite Return: $127.08, Profit: $27.08
+Arbitrage Percentage: 79.12%
+Stake $16.85 on Genoa (underdog) from [unibet] - Odds: $7.50
+Stake $83.15 on Juventus (favorite) from [neds] - Odds: $1.52
+Underdog Return: $126.39, Profit: $26.39
+Favorite Return: $126.39, Profit: $26.39
 ---------------------------------------------------------------------
 ****Serie A - Italy*****
 Hellas Verona FC (underdog) vs AC Milan (favorite) 
-Arbitrage Percentage: 75.92%
-Stake $28.02 on Hellas Verona FC (underdog) from [betfair_ex_au] - Odds: $4.70
-Stake $71.98 on AC Milan (favorite) from [betfair_ex_au] - Odds: $1.83
-Underdog Return: $131.72, Profit: $31.72
-Favorite Return: $131.72, Profit: $31.72
+Arbitrage Percentage: 77.78%
+Stake $28.57 on Hellas Verona FC (underdog) from [sportsbet] - Odds: $4.50
+Stake $71.43 on AC Milan (favorite) from [neds] - Odds: $1.80
+Underdog Return: $128.57, Profit: $28.57
+Favorite Return: $128.57, Profit: $28.57
 ---------------------------------------------------------------------
 ****Serie A - Italy*****
 Sassuolo (underdog) vs AS Roma (favorite) 
@@ -944,43 +920,43 @@ Favorite Return: $120.81, Profit: $20.81
 ---------------------------------------------------------------------
 ****Serie A - Italy*****
 Fiorentina (underdog) vs Atalanta BC (favorite) 
-Arbitrage Percentage: 77.36%
-Stake $32.32 on Fiorentina (underdog) from [sportsbet] - Odds: $4.00
-Stake $67.68 on Atalanta BC (favorite) from [betfair_ex_au] - Odds: $1.91
-Underdog Return: $129.27, Profit: $29.27
-Favorite Return: $129.27, Profit: $29.27
+Arbitrage Percentage: 78.48%
+Stake $31.86 on Fiorentina (underdog) from [sportsbet] - Odds: $4.00
+Stake $68.14 on Atalanta BC (favorite) from [pointsbetau] - Odds: $1.87
+Underdog Return: $127.43, Profit: $27.43
+Favorite Return: $127.43, Profit: $27.43
 ---------------------------------------------------------------------
 ****Serie A - Italy*****
 Napoli (underdog) vs Inter Milan (favorite) 
-Arbitrage Percentage: 79.59%
-Stake $22.44 on Napoli (underdog) from [unibet] - Odds: $5.60
-Stake $77.56 on Inter Milan (favorite) from [betfair_ex_au] - Odds: $1.62
-Underdog Return: $125.65, Profit: $25.65
-Favorite Return: $125.65, Profit: $25.65
+Arbitrage Percentage: 81.55%
+Stake $21.90 on Napoli (underdog) from [unibet] - Odds: $5.60
+Stake $78.10 on Inter Milan (favorite) from [neds] - Odds: $1.57
+Underdog Return: $122.62, Profit: $22.62
+Favorite Return: $122.62, Profit: $22.62
 ---------------------------------------------------------------------
 ****Serie B - Italy*****
 Bari (underdog) vs Venezia (favorite) 
-Arbitrage Percentage: 74.35%
-Stake $24.02 on Bari (underdog) from [betfair_ex_au] - Odds: $5.60
-Stake $75.98 on Venezia (favorite) from [betfair_ex_au] - Odds: $1.77
-Underdog Return: $134.49, Profit: $34.49
-Favorite Return: $134.49, Profit: $34.49
+Arbitrage Percentage: 79.31%
+Stake $26.27 on Bari (underdog) from [unibet] - Odds: $4.80
+Stake $73.73 on Venezia (favorite) from [pointsbetau] - Odds: $1.71
+Underdog Return: $126.08, Profit: $26.08
+Favorite Return: $126.08, Profit: $26.08
 ---------------------------------------------------------------------
 ****Serie B - Italy*****
 Lecco (underdog) vs Palermo (favorite) 
-Arbitrage Percentage: 76.02%
-Stake $32.89 on Lecco (underdog) from [betfair_ex_au] - Odds: $4.00
-Stake $67.11 on Palermo (favorite) from [betfair_ex_au] - Odds: $1.96
-Underdog Return: $131.54, Profit: $31.54
-Favorite Return: $131.54, Profit: $31.54
+Arbitrage Percentage: 79.12%
+Stake $32.41 on Lecco (underdog) from [pointsbetau] - Odds: $3.90
+Stake $67.59 on Palermo (favorite) from [pointsbetau] - Odds: $1.87
+Underdog Return: $126.40, Profit: $26.40
+Favorite Return: $126.40, Profit: $26.40
 ---------------------------------------------------------------------
 ****Serie B - Italy*****
 Ascoli (underdog) vs Sampdoria (favorite) 
-Arbitrage Percentage: 73.23%
-Stake $31.03 on Ascoli (underdog) from [betfair_ex_au] - Odds: $4.40
-Stake $68.97 on Sampdoria (favorite) from [betfair_ex_au] - Odds: $1.98
-Underdog Return: $136.55, Profit: $36.55
-Favorite Return: $136.55, Profit: $36.55
+Arbitrage Percentage: 78.27%
+Stake $32.76 on Ascoli (underdog) from [sportsbet] - Odds: $3.90
+Stake $67.24 on Sampdoria (favorite) from [sportsbet] - Odds: $1.90
+Underdog Return: $127.76, Profit: $27.76
+Favorite Return: $127.76, Profit: $27.76
 ---------------------------------------------------------------------
 ****Serie B - Italy*****
 Pisa (underdog) vs Como (favorite) 
@@ -1024,83 +1000,83 @@ Favorite Return: $124.36, Profit: $24.36
 ---------------------------------------------------------------------
 ****Liga MX*****
 Guadalajara (underdog) vs León (favorite) 
-Arbitrage Percentage: 73.36%
-Stake $29.00 on Guadalajara (underdog) from [betfair_ex_au] - Odds: $4.70
-Stake $71.00 on León (favorite) from [betfair_ex_au] - Odds: $1.92
-Underdog Return: $136.31, Profit: $36.31
-Favorite Return: $136.31, Profit: $36.31
+Arbitrage Percentage: 76.18%
+Stake $30.18 on Guadalajara (underdog) from [unibet] - Odds: $4.35
+Stake $69.82 on León (favorite) from [unibet] - Odds: $1.88
+Underdog Return: $131.27, Profit: $31.27
+Favorite Return: $131.27, Profit: $31.27
 ---------------------------------------------------------------------
 ****Liga MX*****
 Santos Laguna (underdog) vs Cruz Azul (favorite) 
-Arbitrage Percentage: 75.08%
-Stake $30.27 on Santos Laguna (underdog) from [betfair_ex_au] - Odds: $4.40
-Stake $69.73 on Cruz Azul (favorite) from [betfair_ex_au] - Odds: $1.91
-Underdog Return: $133.19, Profit: $33.19
-Favorite Return: $133.19, Profit: $33.19
+Arbitrage Percentage: 79.05%
+Stake $31.62 on Santos Laguna (underdog) from [sportsbet] - Odds: $4.00
+Stake $68.38 on Cruz Azul (favorite) from [unibet] - Odds: $1.85
+Underdog Return: $126.50, Profit: $26.50
+Favorite Return: $126.50, Profit: $26.50
 ---------------------------------------------------------------------
 ****Liga MX*****
 Querétaro (underdog) vs Pachuca (favorite) 
-Arbitrage Percentage: 75.48%
-Stake $27.60 on Querétaro (underdog) from [betfair_ex_au] - Odds: $4.80
-Stake $72.40 on Pachuca (favorite) from [unibet] - Odds: $1.83
-Underdog Return: $132.49, Profit: $32.49
-Favorite Return: $132.49, Profit: $32.49
+Arbitrage Percentage: 77.74%
+Stake $29.71 on Querétaro (underdog) from [sportsbet] - Odds: $4.33
+Stake $70.29 on Pachuca (favorite) from [unibet] - Odds: $1.83
+Underdog Return: $128.63, Profit: $28.63
+Favorite Return: $128.63, Profit: $28.63
 ---------------------------------------------------------------------
 ****Liga MX*****
 Tigres (underdog) vs América (favorite) 
-Arbitrage Percentage: 73.76%
-Stake $27.11 on Tigres (underdog) from [betfair_ex_au] - Odds: $5.00
-Stake $72.89 on América (favorite) from [betfair_ex_au] - Odds: $1.86
-Underdog Return: $135.57, Profit: $35.57
-Favorite Return: $135.57, Profit: $35.57
+Arbitrage Percentage: 77.92%
+Stake $27.90 on Tigres (underdog) from [sportsbet] - Odds: $4.60
+Stake $72.10 on América (favorite) from [betr_au] - Odds: $1.78
+Underdog Return: $128.34, Profit: $28.34
+Favorite Return: $128.34, Profit: $28.34
 ---------------------------------------------------------------------
 ****Liga MX*****
 Tijuana (underdog) vs Pumas (favorite) 
-Arbitrage Percentage: 77.01%
-Stake $24.50 on Tijuana (underdog) from [betfair_ex_au] - Odds: $5.30
-Stake $75.50 on Pumas (favorite) from [unibet] - Odds: $1.72
-Underdog Return: $129.86, Profit: $29.86
-Favorite Return: $129.86, Profit: $29.86
+Arbitrage Percentage: 79.19%
+Stake $26.58 on Tijuana (underdog) from [sportsbet] - Odds: $4.75
+Stake $73.42 on Pumas (favorite) from [unibet] - Odds: $1.72
+Underdog Return: $126.28, Profit: $26.28
+Favorite Return: $126.28, Profit: $26.28
 ---------------------------------------------------------------------
 ****Liga MX*****
 Mazatlán FC (underdog) vs Monterrey (favorite) 
-Arbitrage Percentage: 83.42%
-Stake $14.98 on Mazatlán FC (underdog) from [sportsbet] - Odds: $8.00
-Stake $85.02 on Monterrey (favorite) from [betfair_ex_au] - Odds: $1.41
-Underdog Return: $119.87, Profit: $19.87
-Favorite Return: $119.87, Profit: $19.87
+Arbitrage Percentage: 83.93%
+Stake $14.89 on Mazatlán FC (underdog) from [sportsbet] - Odds: $8.00
+Stake $85.11 on Monterrey (favorite) from [unibet] - Odds: $1.40
+Underdog Return: $119.15, Profit: $19.15
+Favorite Return: $119.15, Profit: $19.15
 ---------------------------------------------------------------------
 ****Dutch Eredivisie*****
 Excelsior (underdog) vs AZ Alkmaar (favorite) 
-Arbitrage Percentage: 87.06%
-Stake $8.84 on Excelsior (underdog) from [betfair_ex_au] - Odds: $13.00
-Stake $91.16 on AZ Alkmaar (favorite) from [betfair_ex_au] - Odds: $1.26
-Underdog Return: $114.87, Profit: $14.87
-Favorite Return: $114.87, Profit: $14.87
+Arbitrage Percentage: 88.99%
+Stake $8.64 on Excelsior (underdog) from [unibet] - Odds: $13.00
+Stake $91.36 on AZ Alkmaar (favorite) from [betr_au] - Odds: $1.23
+Underdog Return: $112.37, Profit: $12.37
+Favorite Return: $112.37, Profit: $12.37
 ---------------------------------------------------------------------
 ****Dutch Eredivisie*****
 Fortuna Sittard (underdog) vs Ajax (favorite) 
-Arbitrage Percentage: 81.36%
-Stake $16.39 on Fortuna Sittard (underdog) from [unibet] - Odds: $7.50
-Stake $83.61 on Ajax (favorite) from [betfair_ex_au] - Odds: $1.47
-Underdog Return: $122.91, Profit: $22.91
-Favorite Return: $122.91, Profit: $22.91
+Arbitrage Percentage: 83.76%
+Stake $15.92 on Fortuna Sittard (underdog) from [unibet] - Odds: $7.50
+Stake $84.08 on Ajax (favorite) from [pointsbetau] - Odds: $1.42
+Underdog Return: $119.39, Profit: $19.39
+Favorite Return: $119.39, Profit: $19.39
 ---------------------------------------------------------------------
 ****Dutch Eredivisie*****
 FC Volendam (underdog) vs FC Zwolle (favorite) 
-Arbitrage Percentage: 78.78%
-Stake $21.16 on FC Volendam (underdog) from [unibet] - Odds: $6.00
-Stake $78.84 on FC Zwolle (favorite) from [betfair_ex_au] - Odds: $1.61
-Underdog Return: $126.94, Profit: $26.94
-Favorite Return: $126.94, Profit: $26.94
+Arbitrage Percentage: 81.18%
+Stake $20.53 on FC Volendam (underdog) from [unibet] - Odds: $6.00
+Stake $79.47 on FC Zwolle (favorite) from [pointsbetau] - Odds: $1.55
+Underdog Return: $123.18, Profit: $23.18
+Favorite Return: $123.18, Profit: $23.18
 ---------------------------------------------------------------------
 ****Dutch Eredivisie*****
 Heracles Almelo (underdog) vs Feyenoord (favorite) 
-Arbitrage Percentage: 94.87%
-Stake $3.29 on Heracles Almelo (underdog) from [betfair_ex_au] - Odds: $32.00
-Stake $96.71 on Feyenoord (favorite) from [betfair_ex_au] - Odds: $1.09
-Underdog Return: $105.41, Profit: $5.41
-Favorite Return: $105.41, Profit: $5.41
+Arbitrage Percentage: 95.82%
+Stake $3.37 on Heracles Almelo (underdog) from [sportsbet] - Odds: $31.00
+Stake $96.63 on Feyenoord (favorite) from [playup] - Odds: $1.08
+Underdog Return: $104.36, Profit: $4.36
+Favorite Return: $104.36, Profit: $4.36
 ---------------------------------------------------------------------
 ****Dutch Eredivisie*****
 FC Volendam (underdog) vs AZ Alkmaar (favorite) 
@@ -1136,11 +1112,11 @@ Favorite Return: $117.88, Profit: $17.88
 ---------------------------------------------------------------------
 ****Ekstraklasa - Poland*****
 Zagłębie Lubin (underdog) vs Pogoń Szczecin (favorite) 
-Arbitrage Percentage: 77.77%
-Stake $27.36 on Zagłębie Lubin (underdog) from [unibet] - Odds: $4.70
-Stake $72.64 on Pogoń Szczecin (favorite) from [betfair_ex_au] - Odds: $1.77
-Underdog Return: $128.58, Profit: $28.58
-Favorite Return: $128.58, Profit: $28.58
+Arbitrage Percentage: 80.10%
+Stake $26.56 on Zagłębie Lubin (underdog) from [unibet] - Odds: $4.70
+Stake $73.44 on Pogoń Szczecin (favorite) from [betr_au] - Odds: $1.70
+Underdog Return: $124.84, Profit: $24.84
+Favorite Return: $124.84, Profit: $24.84
 ---------------------------------------------------------------------
 ****Ekstraklasa - Poland*****
 Widzew Łódź (underdog) vs Legia Warszawa (favorite) 
@@ -1152,11 +1128,11 @@ Favorite Return: $128.87, Profit: $28.87
 ---------------------------------------------------------------------
 ****Ekstraklasa - Poland*****
 ŁKS Łódź (underdog) vs Warta Poznań (favorite) 
-Arbitrage Percentage: 75.94%
-Stake $32.12 on ŁKS Łódź (underdog) from [betfair_ex_au] - Odds: $4.10
-Stake $67.88 on Warta Poznań (favorite) from [unibet] - Odds: $1.94
-Underdog Return: $131.69, Profit: $31.69
-Favorite Return: $131.69, Profit: $31.69
+Arbitrage Percentage: 76.55%
+Stake $32.66 on ŁKS Łódź (underdog) from [unibet] - Odds: $4.00
+Stake $67.34 on Warta Poznań (favorite) from [unibet] - Odds: $1.94
+Underdog Return: $130.64, Profit: $30.64
+Favorite Return: $130.64, Profit: $30.64
 ---------------------------------------------------------------------
 ****Ekstraklasa - Poland*****
 Korona Kielce (underdog) vs Raków Częstochowa (favorite) 
@@ -1176,35 +1152,35 @@ Favorite Return: $118.71, Profit: $18.71
 ---------------------------------------------------------------------
 ****Primeira Liga - Portugal*****
 Arouca (underdog) vs Sporting Lisbon (favorite) 
-Arbitrage Percentage: 83.33%
-Stake $14.29 on Arouca (underdog) from [betfair_ex_au] - Odds: $8.40
-Stake $85.71 on Sporting Lisbon (favorite) from [betfair_ex_au] - Odds: $1.40
-Underdog Return: $120.00, Profit: $20.00
-Favorite Return: $120.00, Profit: $20.00
+Arbitrage Percentage: 83.93%
+Stake $14.89 on Arouca (underdog) from [pointsbetau] - Odds: $8.00
+Stake $85.11 on Sporting Lisbon (favorite) from [ladbrokes_au] - Odds: $1.40
+Underdog Return: $119.15, Profit: $19.15
+Favorite Return: $119.15, Profit: $19.15
 ---------------------------------------------------------------------
 ****Primeira Liga - Portugal*****
 Estoril (underdog) vs Benfica (favorite) 
-Arbitrage Percentage: 90.47%
-Stake $5.53 on Estoril (underdog) from [betfair_ex_au] - Odds: $20.00
-Stake $94.47 on Benfica (favorite) from [betfair_ex_au] - Odds: $1.17
-Underdog Return: $110.53, Profit: $10.53
-Favorite Return: $110.53, Profit: $10.53
+Arbitrage Percentage: 93.21%
+Stake $6.71 on Estoril (underdog) from [sportsbet] - Odds: $16.00
+Stake $93.29 on Benfica (favorite) from [pointsbetau] - Odds: $1.15
+Underdog Return: $107.29, Profit: $7.29
+Favorite Return: $107.29, Profit: $7.29
 ---------------------------------------------------------------------
 ****Primeira Liga - Portugal*****
 Chaves (underdog) vs Gil Vicente (favorite) 
-Arbitrage Percentage: 75.50%
-Stake $28.79 on Chaves (underdog) from [betfair_ex_au] - Odds: $4.60
-Stake $71.21 on Gil Vicente (favorite) from [betfair_ex_au] - Odds: $1.86
-Underdog Return: $132.45, Profit: $32.45
-Favorite Return: $132.45, Profit: $32.45
+Arbitrage Percentage: 76.78%
+Stake $29.60 on Chaves (underdog) from [unibet] - Odds: $4.40
+Stake $70.40 on Gil Vicente (favorite) from [sportsbet] - Odds: $1.85
+Underdog Return: $130.24, Profit: $30.24
+Favorite Return: $130.24, Profit: $30.24
 ---------------------------------------------------------------------
 ****La Liga - Spain*****
 Celta Vigo (underdog) vs Real Madrid (favorite) 
-Arbitrage Percentage: 84.67%
-Stake $9.84 on Celta Vigo (underdog) from [betfair_ex_au] - Odds: $12.00
-Stake $90.16 on Real Madrid (favorite) from [betfair_ex_au] - Odds: $1.31
-Underdog Return: $118.11, Profit: $18.11
-Favorite Return: $118.11, Profit: $18.11
+Arbitrage Percentage: 86.45%
+Stake $11.02 on Celta Vigo (underdog) from [neds] - Odds: $10.50
+Stake $88.98 on Real Madrid (favorite) from [neds] - Odds: $1.30
+Underdog Return: $115.68, Profit: $15.68
+Favorite Return: $115.68, Profit: $15.68
 ---------------------------------------------------------------------
 ****La Liga - Spain*****
 Cádiz CF (underdog) vs Real Sociedad (favorite) 
@@ -1216,27 +1192,27 @@ Favorite Return: $124.14, Profit: $24.14
 ---------------------------------------------------------------------
 ****La Liga - Spain*****
 Granada CF (underdog) vs Mallorca (favorite) 
-Arbitrage Percentage: 73.68%
-Stake $28.57 on Granada CF (underdog) from [unibet] - Odds: $4.75
-Stake $71.43 on Mallorca (favorite) from [betfair_ex_au] - Odds: $1.90
-Underdog Return: $135.71, Profit: $35.71
-Favorite Return: $135.71, Profit: $35.71
+Arbitrage Percentage: 74.24%
+Stake $28.36 on Granada CF (underdog) from [unibet] - Odds: $4.75
+Stake $71.64 on Mallorca (favorite) from [playup] - Odds: $1.88
+Underdog Return: $134.69, Profit: $34.69
+Favorite Return: $134.69, Profit: $34.69
 ---------------------------------------------------------------------
 ****La Liga - Spain*****
 CA Osasuna (underdog) vs Real Madrid (favorite) 
-Arbitrage Percentage: 76.73%
-Stake $20.05 on CA Osasuna (underdog) from [sportsbet] - Odds: $6.50
-Stake $79.95 on Real Madrid (favorite) from [betfair_ex_au] - Odds: $1.63
-Underdog Return: $130.32, Profit: $30.32
-Favorite Return: $130.32, Profit: $30.32
+Arbitrage Percentage: 78.68%
+Stake $19.55 on CA Osasuna (underdog) from [sportsbet] - Odds: $6.50
+Stake $80.45 on Real Madrid (favorite) from [playup] - Odds: $1.58
+Underdog Return: $127.10, Profit: $27.10
+Favorite Return: $127.10, Profit: $27.10
 ---------------------------------------------------------------------
 ****La Liga - Spain*****
 Alavés (underdog) vs Athletic Bilbao (favorite) 
-Arbitrage Percentage: 77.10%
-Stake $20.92 on Alavés (underdog) from [betfair_ex_au] - Odds: $6.20
-Stake $79.08 on Athletic Bilbao (favorite) from [unibet] - Odds: $1.64
-Underdog Return: $129.69, Profit: $29.69
-Favorite Return: $129.69, Profit: $29.69
+Arbitrage Percentage: 77.64%
+Stake $21.47 on Alavés (underdog) from [sportsbet] - Odds: $6.00
+Stake $78.53 on Athletic Bilbao (favorite) from [unibet] - Odds: $1.64
+Underdog Return: $128.80, Profit: $28.80
+Favorite Return: $128.80, Profit: $28.80
 ---------------------------------------------------------------------
 ****La Liga - Spain*****
 Almería (underdog) vs Las Palmas (favorite) 
@@ -1248,11 +1224,11 @@ Favorite Return: $131.29, Profit: $31.29
 ---------------------------------------------------------------------
 ****La Liga 2 - Spain*****
 Burgos CF (underdog) vs SD Eibar (favorite) 
-Arbitrage Percentage: 74.38%
-Stake $24.90 on Burgos CF (underdog) from [betfair_ex_au] - Odds: $5.40
-Stake $75.10 on SD Eibar (favorite) from [unibet] - Odds: $1.79
-Underdog Return: $134.44, Profit: $34.44
-Favorite Return: $134.44, Profit: $34.44
+Arbitrage Percentage: 75.87%
+Stake $26.36 on Burgos CF (underdog) from [pointsbetau] - Odds: $5.00
+Stake $73.64 on SD Eibar (favorite) from [unibet] - Odds: $1.79
+Underdog Return: $131.81, Profit: $31.81
+Favorite Return: $131.81, Profit: $31.81
 ---------------------------------------------------------------------
 ****Premiership - Scotland*****
 St Johnstone (underdog) vs Celtic (favorite) 
@@ -1336,27 +1312,27 @@ Favorite Return: $120.92, Profit: $20.92
 ---------------------------------------------------------------------
 ****Swiss Superleague*****
 FC Lausanne-Sport (underdog) vs Servette (favorite) 
-Arbitrage Percentage: 76.27%
-Stake $26.76 on FC Lausanne-Sport (underdog) from [betfair_ex_au] - Odds: $4.90
-Stake $73.24 on Servette (favorite) from [betfair_ex_au] - Odds: $1.79
-Underdog Return: $131.11, Profit: $31.11
-Favorite Return: $131.11, Profit: $31.11
+Arbitrage Percentage: 79.37%
+Stake $28.00 on FC Lausanne-Sport (underdog) from [pointsbetau] - Odds: $4.50
+Stake $72.00 on Servette (favorite) from [pointsbetau] - Odds: $1.75
+Underdog Return: $126.00, Profit: $26.00
+Favorite Return: $126.00, Profit: $26.00
 ---------------------------------------------------------------------
 ****Swiss Superleague*****
 FC Basel (underdog) vs BSC Young Boys (favorite) 
-Arbitrage Percentage: 77.98%
-Stake $26.72 on FC Basel (underdog) from [betfair_ex_au] - Odds: $4.80
-Stake $73.28 on BSC Young Boys (favorite) from [pointsbetau] - Odds: $1.75
-Underdog Return: $128.24, Profit: $28.24
-Favorite Return: $128.24, Profit: $28.24
+Arbitrage Percentage: 79.12%
+Stake $27.78 on FC Basel (underdog) from [unibet] - Odds: $4.55
+Stake $72.22 on BSC Young Boys (favorite) from [pointsbetau] - Odds: $1.75
+Underdog Return: $126.39, Profit: $26.39
+Favorite Return: $126.39, Profit: $26.39
 ---------------------------------------------------------------------
 ****Swiss Superleague*****
 Stade Lausanne-Ouchy (underdog) vs FC Luzern (favorite) 
-Arbitrage Percentage: 77.43%
-Stake $34.44 on Stade Lausanne-Ouchy (underdog) from [betfair_ex_au] - Odds: $3.75
-Stake $65.56 on FC Luzern (favorite) from [betfair_ex_au] - Odds: $1.97
-Underdog Return: $129.15, Profit: $29.15
-Favorite Return: $129.15, Profit: $29.15
+Arbitrage Percentage: 79.06%
+Stake $35.14 on Stade Lausanne-Ouchy (underdog) from [pointsbetau] - Odds: $3.60
+Stake $64.86 on FC Luzern (favorite) from [pointsbetau] - Odds: $1.95
+Underdog Return: $126.49, Profit: $26.49
+Favorite Return: $126.49, Profit: $26.49
 ---------------------------------------------------------------------
 ****Swiss Superleague*****
 Yverdon Sport FC (underdog) vs FC Lugano (favorite) 
@@ -1376,35 +1352,35 @@ Favorite Return: $131.09, Profit: $31.09
 ---------------------------------------------------------------------
 ****Turkey Super League*****
 Istanbulspor (underdog) vs Kasimpasa SK (favorite) 
-Arbitrage Percentage: 77.29%
-Stake $30.81 on Istanbulspor (underdog) from [betfair_ex_au] - Odds: $4.20
-Stake $69.19 on Kasimpasa SK (favorite) from [betfair_ex_au] - Odds: $1.87
-Underdog Return: $129.39, Profit: $29.39
-Favorite Return: $129.39, Profit: $29.39
+Arbitrage Percentage: 79.64%
+Stake $31.39 on Istanbulspor (underdog) from [pointsbetau] - Odds: $4.00
+Stake $68.61 on Kasimpasa SK (favorite) from [unibet] - Odds: $1.83
+Underdog Return: $125.56, Profit: $25.56
+Favorite Return: $125.56, Profit: $25.56
 ---------------------------------------------------------------------
 ****Turkey Super League*****
 Pendikspor (underdog) vs Fenerbahce (favorite) 
-Arbitrage Percentage: 89.87%
-Stake $5.71 on Pendikspor (underdog) from [betfair_ex_au] - Odds: $19.50
-Stake $94.29 on Fenerbahce (favorite) from [unibet] - Odds: $1.18
-Underdog Return: $111.27, Profit: $11.27
-Favorite Return: $111.27, Profit: $11.27
+Arbitrage Percentage: 91.41%
+Stake $7.29 on Pendikspor (underdog) from [sportsbet] - Odds: $15.00
+Stake $92.71 on Fenerbahce (favorite) from [unibet] - Odds: $1.18
+Underdog Return: $109.39, Profit: $9.39
+Favorite Return: $109.39, Profit: $9.39
 ---------------------------------------------------------------------
 ****UEFA Champions League*****
 Porto (underdog) vs Arsenal (favorite) 
-Arbitrage Percentage: 85.82%
-Stake $7.52 on Porto (underdog) from [betfair_ex_au] - Odds: $15.50
-Stake $92.48 on Arsenal (favorite) from [betfair_ex_au] - Odds: $1.26
-Underdog Return: $116.53, Profit: $16.53
-Favorite Return: $116.53, Profit: $16.53
+Arbitrage Percentage: 88.63%
+Stake $7.52 on Porto (underdog) from [unibet] - Odds: $15.00
+Stake $92.48 on Arsenal (favorite) from [neds] - Odds: $1.22
+Underdog Return: $112.82, Profit: $12.82
+Favorite Return: $112.82, Profit: $12.82
 ---------------------------------------------------------------------
 ****UEFA Champions League*****
 Napoli (underdog) vs Barcelona (favorite) 
-Arbitrage Percentage: 74.80%
-Stake $31.09 on Napoli (underdog) from [betfair_ex_au] - Odds: $4.30
-Stake $68.91 on Barcelona (favorite) from [betfair_ex_au] - Odds: $1.94
-Underdog Return: $133.69, Profit: $33.69
-Favorite Return: $133.69, Profit: $33.69
+Arbitrage Percentage: 76.17%
+Stake $31.26 on Napoli (underdog) from [sportsbet] - Odds: $4.20
+Stake $68.74 on Barcelona (favorite) from [neds] - Odds: $1.91
+Underdog Return: $131.29, Profit: $31.29
+Favorite Return: $131.29, Profit: $31.29
 ---------------------------------------------------------------------
 ****UEFA Euro Qualification*****
 Luxembourg (underdog) vs Georgia (favorite) 
@@ -1496,27 +1472,27 @@ Favorite Return: $120.00, Profit: $20.00
 ---------------------------------------------------------------------
 ****UEFA Europa League*****
 SC Freiburg (underdog) vs West Ham United (favorite) 
-Arbitrage Percentage: 75.56%
-Stake $26.47 on SC Freiburg (underdog) from [betfair_ex_au] - Odds: $5.00
-Stake $73.53 on West Ham United (favorite) from [betfair_ex_au] - Odds: $1.80
-Underdog Return: $132.35, Profit: $32.35
-Favorite Return: $132.35, Profit: $32.35
+Arbitrage Percentage: 79.37%
+Stake $28.00 on SC Freiburg (underdog) from [tab] - Odds: $4.50
+Stake $72.00 on West Ham United (favorite) from [sportsbet] - Odds: $1.75
+Underdog Return: $126.00, Profit: $26.00
+Favorite Return: $126.00, Profit: $26.00
 ---------------------------------------------------------------------
 ****UEFA Europa League*****
 AC Sparta Prague (underdog) vs Liverpool (favorite) 
-Arbitrage Percentage: 85.19%
-Stake $11.74 on AC Sparta Prague (underdog) from [betfair_ex_au] - Odds: $10.00
-Stake $88.26 on Liverpool (favorite) from [betfair_ex_au] - Odds: $1.33
-Underdog Return: $117.39, Profit: $17.39
-Favorite Return: $117.39, Profit: $17.39
+Arbitrage Percentage: 87.45%
+Stake $12.04 on AC Sparta Prague (underdog) from [unibet] - Odds: $9.50
+Stake $87.96 on Liverpool (favorite) from [tab] - Odds: $1.30
+Underdog Return: $114.35, Profit: $14.35
+Favorite Return: $114.35, Profit: $14.35
 ---------------------------------------------------------------------
 ****UEFA Europa League*****
 Roma (underdog) vs Brighton and Hove Albion (favorite) 
-Arbitrage Percentage: 78.05%
-Stake $34.63 on Roma (underdog) from [betfair_ex_au] - Odds: $3.70
-Stake $65.37 on Brighton and Hove Albion (favorite) from [unibet] - Odds: $1.96
-Underdog Return: $128.13, Profit: $28.13
-Favorite Return: $128.13, Profit: $28.13
+Arbitrage Percentage: 78.80%
+Stake $35.25 on Roma (underdog) from [unibet] - Odds: $3.60
+Stake $64.75 on Brighton and Hove Albion (favorite) from [unibet] - Odds: $1.96
+Underdog Return: $126.91, Profit: $26.91
+Favorite Return: $126.91, Profit: $26.91
 ---------------------------------------------------------------------
 ****UEFA Europa League*****
 Qarabağ (underdog) vs Leverkusen (favorite) 
@@ -1528,43 +1504,43 @@ Favorite Return: $109.86, Profit: $9.86
 ---------------------------------------------------------------------
 ****MLS*****
 New England Revolution (underdog) vs Atlanta United FC (favorite) 
-Arbitrage Percentage: 77.88%
-Stake $26.20 on New England Revolution (underdog) from [betfair_ex_au] - Odds: $4.90
-Stake $73.80 on Atlanta United FC (favorite) from [betfair_ex_au] - Odds: $1.74
-Underdog Return: $128.40, Profit: $28.40
-Favorite Return: $128.40, Profit: $28.40
+Arbitrage Percentage: 81.75%
+Stake $27.18 on New England Revolution (underdog) from [sportsbet] - Odds: $4.50
+Stake $72.82 on Atlanta United FC (favorite) from [unibet] - Odds: $1.68
+Underdog Return: $122.33, Profit: $22.33
+Favorite Return: $122.33, Profit: $22.33
 ---------------------------------------------------------------------
 ****MLS*****
 Chicago Fire (underdog) vs Columbus Crew SC (favorite) 
-Arbitrage Percentage: 80.95%
-Stake $17.65 on Chicago Fire (underdog) from [betfair_ex_au] - Odds: $7.00
-Stake $82.35 on Columbus Crew SC (favorite) from [betfair_ex_au] - Odds: $1.50
-Underdog Return: $123.53, Profit: $23.53
-Favorite Return: $123.53, Profit: $23.53
+Arbitrage Percentage: 83.25%
+Stake $17.16 on Chicago Fire (underdog) from [unibet] - Odds: $7.00
+Stake $82.84 on Columbus Crew SC (favorite) from [tab] - Odds: $1.45
+Underdog Return: $120.12, Profit: $20.12
+Favorite Return: $120.12, Profit: $20.12
 ---------------------------------------------------------------------
 ****MLS*****
 FC Dallas (underdog) vs New York Red Bulls (favorite) 
-Arbitrage Percentage: 75.63%
-Stake $20.34 on FC Dallas (underdog) from [unibet] - Odds: $6.50
-Stake $79.66 on New York Red Bulls (favorite) from [betfair_ex_au] - Odds: $1.66
-Underdog Return: $132.23, Profit: $32.23
-Favorite Return: $132.23, Profit: $32.23
+Arbitrage Percentage: 77.50%
+Stake $19.85 on FC Dallas (underdog) from [unibet] - Odds: $6.50
+Stake $80.15 on New York Red Bulls (favorite) from [betr_au] - Odds: $1.61
+Underdog Return: $129.04, Profit: $29.04
+Favorite Return: $129.04, Profit: $29.04
 ---------------------------------------------------------------------
 ****MLS*****
 Colorado Rapids (underdog) vs Real Salt Lake (favorite) 
-Arbitrage Percentage: 74.75%
-Stake $28.46 on Colorado Rapids (underdog) from [betfair_ex_au] - Odds: $4.70
-Stake $71.54 on Real Salt Lake (favorite) from [betfair_ex_au] - Odds: $1.87
-Underdog Return: $133.77, Profit: $33.77
-Favorite Return: $133.77, Profit: $33.77
+Arbitrage Percentage: 77.17%
+Stake $28.80 on Colorado Rapids (underdog) from [unibet] - Odds: $4.50
+Stake $71.20 on Real Salt Lake (favorite) from [bluebet] - Odds: $1.82
+Underdog Return: $129.59, Profit: $29.59
+Favorite Return: $129.59, Profit: $29.59
 ---------------------------------------------------------------------
 ****MLS*****
 Sporting Kansas City (underdog) vs Los Angeles FC (favorite) 
-Arbitrage Percentage: 78.02%
-Stake $21.36 on Sporting Kansas City (underdog) from [betfair_ex_au] - Odds: $6.00
-Stake $78.64 on Los Angeles FC (favorite) from [betfair_ex_au] - Odds: $1.63
-Underdog Return: $128.18, Profit: $28.18
-Favorite Return: $128.18, Profit: $28.18
+Arbitrage Percentage: 80.68%
+Stake $21.56 on Sporting Kansas City (underdog) from [unibet] - Odds: $5.75
+Stake $78.44 on Los Angeles FC (favorite) from [tab] - Odds: $1.58
+Underdog Return: $123.94, Profit: $23.94
+Favorite Return: $123.94, Profit: $23.94
 ---------------------------------------------------------------------
 ****MLS*****
 D.C. United (underdog) vs FC Cincinnati (favorite) 
@@ -1576,9 +1552,9 @@ Favorite Return: $129.15, Profit: $29.15
 ---------------------------------------------------------------------
 ****MLS*****
 Montreal Impact (underdog) vs Inter Miami CF (favorite) 
-Arbitrage Percentage: 76.92%
-Stake $22.61 on Montreal Impact (underdog) from [unibet] - Odds: $5.75
-Stake $77.39 on Inter Miami CF (favorite) from [betfair_ex_au] - Odds: $1.68
-Underdog Return: $130.01, Profit: $30.01
-Favorite Return: $130.01, Profit: $30.01
+Arbitrage Percentage: 79.50%
+Stake $21.87 on Montreal Impact (underdog) from [unibet] - Odds: $5.75
+Stake $78.12 on Inter Miami CF (favorite) from [sportsbet] - Odds: $1.61
+Underdog Return: $125.78, Profit: $25.78
+Favorite Return: $125.78, Profit: $25.78
 ---------------------------------------------------------------------

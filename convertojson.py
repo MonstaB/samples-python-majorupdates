@@ -13,7 +13,7 @@ keys = [item['key'] for item in data]
 # Save the 'keys' list to a file named 'active_sports_keys.txt'
 with open('sports/active_sports_keys.txt', 'w') as keys_file:
     for key in keys:
-        keys_file.write(f"'{key}',\n")
+        keys_file.write(f"{key}, ")
 
 print("Keys extracted and saved to 'active_sports_keys.txt'")
 

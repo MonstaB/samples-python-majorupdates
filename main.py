@@ -1,10 +1,12 @@
 import argparse
 import glob
-
+import configparser
 import requests
 import json
 import os.path
 
+config = configparser.ConfigParser()
+config.read('config.cfg')
 output_directory = 'Json_files'
 
 os.makedirs(output_directory, exist_ok=True)
@@ -22,7 +24,7 @@ args = parser.parse_args()
 
 # An api key is emailed to you when you sign up to a plan
 # Get a free API key at https://api.the-odds-api.com/
-API_KEY = args.api_key or 'your api key'
+API_KEY = args.api_key or config.get('DEFAULT', 'API_KEY')
 
 # Sport key
 # Find sport keys from the /sports endpoint below, or from https://the-odds-api.com/sports-odds-data/sports-apis.html
@@ -35,7 +37,44 @@ SPORTS = [
     'boxing_boxing',
     'cricket_big_bash',
     'soccer_australia_aleague',
+    'soccer_austria_bundesliga',
+    'soccer_belgium_first_div',
+    'soccer_brazil_campeonato',
+    'soccer_chile_campeonato',
+    'soccer_china_superleague',
+    'soccer_conmebol_copa_libertadores',
+    'soccer_denmark_superliga',
+    'soccer_efl_champ',
+    'soccer_england_league1',
+    'soccer_england_league2',
+    'soccer_epl',
+    'soccer_fa_cup',
+    'soccer_france_ligue_one',
+    'soccer_france_ligue_two',
+    'soccer_germany_bundesliga',
+    'soccer_germany_bundesliga2',
+    'soccer_germany_liga3',
+    'soccer_greece_super_league',
+    'soccer_italy_serie_a',
+    'soccer_italy_serie_b',
+    'soccer_japan_j_league',
     'soccer_korea_kleague1',
+    'soccer_league_of_ireland',
+    'soccer_mexico_ligamx',
+    'soccer_netherlands_eredivisie',
+    'soccer_poland_ekstraklasa',
+    'soccer_portugal_primeira_liga',
+    'soccer_spain_la_liga',
+    'soccer_spain_segunda_division',
+    'soccer_spl',
+    'soccer_sweden_allsvenskan',
+    'soccer_switzerland_superleague',
+    'soccer_turkey_super_league',
+    'soccer_uefa_champs_league',
+    'soccer_uefa_euro_qualification',
+    'soccer_uefa_europa_conference_league',
+    'soccer_uefa_europa_league',
+    'soccer_usa_mls',
     'baseball_mlb',
     'baseball_mlb_preseason',
     'cricket_odi'
@@ -58,19 +97,7 @@ ODDS_FORMAT = 'decimal'
 # iso | unix
 DATE_FORMAT = 'iso'
 
-available_bookmakers = {
-    'betfair_ex_au',
-    'bluebet',
-    'ladbrokes_au',
-    'neds',
-    'playup',
-    'pointsbetau',
-    'sportsbet',
-    'tab',
-    'topsport',
-    'unibet',
-    'betr_au'
-}
+available_bookmakers = config.get('BOOKMAKERS', 'BOOKMAKERS_LIST').split(', ')
 
 for SPORT in SPORTS:
     odds_response = requests.get(f'https://api.the-odds-api.com/v4/sports/{SPORT}/odds', params={
@@ -90,7 +117,6 @@ for SPORT in SPORTS:
         output_filename = f'output_{SPORT}.json'
         output_file_path = os.path.join(output_directory, output_filename)
 
-
         with open(output_file_path, 'w') as json_file:
             json.dump(odds_json, json_file, indent=2)
 
@@ -101,5 +127,3 @@ for SPORT in SPORTS:
         print('Used requests', odds_response.headers['x-requests-used'])
 
         print('---------------------------------------------------------------------')
-
-

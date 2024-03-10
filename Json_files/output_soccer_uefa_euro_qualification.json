@@ -1,0 +1,812 @@
+[
+  {
+    "id": "527a015381f9de0b2db5676ff15f2328",
+    "sport_key": "soccer_uefa_euro_qualification",
+    "sport_title": "UEFA Euro Qualification",
+    "commence_time": "2024-03-21T17:00:00Z",
+    "home_team": "Georgia",
+    "away_team": "Luxembourg",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:44Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:44Z",
+            "outcomes": [
+              {
+                "name": "Georgia",
+                "price": 1.9
+              },
+              {
+                "name": "Luxembourg",
+                "price": 4.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:44:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:32Z",
+            "outcomes": [
+              {
+                "name": "Georgia",
+                "price": 2.05
+              },
+              {
+                "name": "Luxembourg",
+                "price": 3.6
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:44:39Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:39Z",
+            "outcomes": [
+              {
+                "name": "Georgia",
+                "price": 2.1
+              },
+              {
+                "name": "Luxembourg",
+                "price": 3.75
+              },
+              {
+                "name": "Draw",
+                "price": 3.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:18Z",
+            "outcomes": [
+              {
+                "name": "Georgia",
+                "price": 2.1
+              },
+              {
+                "name": "Luxembourg",
+                "price": 3.75
+              },
+              {
+                "name": "Draw",
+                "price": 3.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T23:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:18Z",
+            "outcomes": [
+              {
+                "name": "Georgia",
+                "price": 1.95
+              },
+              {
+                "name": "Luxembourg",
+                "price": 3.9
+              },
+              {
+                "name": "Draw",
+                "price": 3.2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4b08920fa48946d85d64f41bba70ee68",
+    "sport_key": "soccer_uefa_euro_qualification",
+    "sport_title": "UEFA Euro Qualification",
+    "commence_time": "2024-03-21T19:45:00Z",
+    "home_team": "Poland",
+    "away_team": "Estonia",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:44Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:44Z",
+            "outcomes": [
+              {
+                "name": "Estonia",
+                "price": 17.0
+              },
+              {
+                "name": "Poland",
+                "price": 1.15
+              },
+              {
+                "name": "Draw",
+                "price": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:44:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:32Z",
+            "outcomes": [
+              {
+                "name": "Estonia",
+                "price": 12.0
+              },
+              {
+                "name": "Poland",
+                "price": 1.22
+              },
+              {
+                "name": "Draw",
+                "price": 6.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:44:39Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:39Z",
+            "outcomes": [
+              {
+                "name": "Estonia",
+                "price": 15.0
+              },
+              {
+                "name": "Poland",
+                "price": 1.22
+              },
+              {
+                "name": "Draw",
+                "price": 5.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:18Z",
+            "outcomes": [
+              {
+                "name": "Estonia",
+                "price": 15.0
+              },
+              {
+                "name": "Poland",
+                "price": 1.22
+              },
+              {
+                "name": "Draw",
+                "price": 5.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T23:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:18Z",
+            "outcomes": [
+              {
+                "name": "Estonia",
+                "price": 17.0
+              },
+              {
+                "name": "Poland",
+                "price": 1.18
+              },
+              {
+                "name": "Draw",
+                "price": 6.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2d532abe54a824bcd2bf74f373b17bce",
+    "sport_key": "soccer_uefa_euro_qualification",
+    "sport_title": "UEFA Euro Qualification",
+    "commence_time": "2024-03-21T19:45:00Z",
+    "home_team": "Wales",
+    "away_team": "Finland",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:44Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:44Z",
+            "outcomes": [
+              {
+                "name": "Finland",
+                "price": 4.33
+              },
+              {
+                "name": "Wales",
+                "price": 1.85
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:44:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:32Z",
+            "outcomes": [
+              {
+                "name": "Finland",
+                "price": 4.0
+              },
+              {
+                "name": "Wales",
+                "price": 1.9
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:44:39Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:39Z",
+            "outcomes": [
+              {
+                "name": "Finland",
+                "price": 4.0
+              },
+              {
+                "name": "Wales",
+                "price": 1.95
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:18Z",
+            "outcomes": [
+              {
+                "name": "Finland",
+                "price": 4.0
+              },
+              {
+                "name": "Wales",
+                "price": 1.95
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T23:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:18Z",
+            "outcomes": [
+              {
+                "name": "Finland",
+                "price": 4.25
+              },
+              {
+                "name": "Wales",
+                "price": 1.85
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fcef1fb88c18c1cc6ae53567a5a51045",
+    "sport_key": "soccer_uefa_euro_qualification",
+    "sport_title": "UEFA Euro Qualification",
+    "commence_time": "2024-03-21T19:45:00Z",
+    "home_team": "Greece",
+    "away_team": "Kazakhstan",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:44Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:44Z",
+            "outcomes": [
+              {
+                "name": "Greece",
+                "price": 1.4
+              },
+              {
+                "name": "Kazakhstan",
+                "price": 7.5
+              },
+              {
+                "name": "Draw",
+                "price": 4.33
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:44:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:32Z",
+            "outcomes": [
+              {
+                "name": "Greece",
+                "price": 1.38
+              },
+              {
+                "name": "Kazakhstan",
+                "price": 7.75
+              },
+              {
+                "name": "Draw",
+                "price": 4.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:44:39Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:39Z",
+            "outcomes": [
+              {
+                "name": "Greece",
+                "price": 1.44
+              },
+              {
+                "name": "Kazakhstan",
+                "price": 8.25
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:18Z",
+            "outcomes": [
+              {
+                "name": "Greece",
+                "price": 1.44
+              },
+              {
+                "name": "Kazakhstan",
+                "price": 8.25
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T23:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:18Z",
+            "outcomes": [
+              {
+                "name": "Greece",
+                "price": 1.42
+              },
+              {
+                "name": "Kazakhstan",
+                "price": 7.5
+              },
+              {
+                "name": "Draw",
+                "price": 4.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "27fb1c07352f14fcd6a31470c0ff2740",
+    "sport_key": "soccer_uefa_euro_qualification",
+    "sport_title": "UEFA Euro Qualification",
+    "commence_time": "2024-03-21T19:45:00Z",
+    "home_team": "Israel",
+    "away_team": "Iceland",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:44Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:44Z",
+            "outcomes": [
+              {
+                "name": "Iceland",
+                "price": 3.3
+              },
+              {
+                "name": "Israel",
+                "price": 2.15
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:44:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:32Z",
+            "outcomes": [
+              {
+                "name": "Iceland",
+                "price": 3.2
+              },
+              {
+                "name": "Israel",
+                "price": 2.25
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:44:39Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:39Z",
+            "outcomes": [
+              {
+                "name": "Iceland",
+                "price": 3.15
+              },
+              {
+                "name": "Israel",
+                "price": 2.3
+              },
+              {
+                "name": "Draw",
+                "price": 3.15
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:18Z",
+            "outcomes": [
+              {
+                "name": "Iceland",
+                "price": 3.15
+              },
+              {
+                "name": "Israel",
+                "price": 2.3
+              },
+              {
+                "name": "Draw",
+                "price": 3.15
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T23:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:18Z",
+            "outcomes": [
+              {
+                "name": "Iceland",
+                "price": 3.25
+              },
+              {
+                "name": "Israel",
+                "price": 2.15
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "efcce318a73aed1f8d34b502d02b4d88",
+    "sport_key": "soccer_uefa_euro_qualification",
+    "sport_title": "UEFA Euro Qualification",
+    "commence_time": "2024-03-21T19:45:22Z",
+    "home_team": "Bosnia & Herzegovina",
+    "away_team": "Ukraine",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:44Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:44Z",
+            "outcomes": [
+              {
+                "name": "Bosnia & Herzegovina",
+                "price": 3.5
+              },
+              {
+                "name": "Ukraine",
+                "price": 1.95
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:44:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:32Z",
+            "outcomes": [
+              {
+                "name": "Bosnia & Herzegovina",
+                "price": 3.5
+              },
+              {
+                "name": "Ukraine",
+                "price": 1.95
+              },
+              {
+                "name": "Draw",
+                "price": 3.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:44:39Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:39Z",
+            "outcomes": [
+              {
+                "name": "Bosnia & Herzegovina",
+                "price": 3.7
+              },
+              {
+                "name": "Ukraine",
+                "price": 2.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:18Z",
+            "outcomes": [
+              {
+                "name": "Bosnia & Herzegovina",
+                "price": 3.7
+              },
+              {
+                "name": "Ukraine",
+                "price": 2.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T23:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:18Z",
+            "outcomes": [
+              {
+                "name": "Bosnia & Herzegovina",
+                "price": 3.6
+              },
+              {
+                "name": "Ukraine",
+                "price": 1.95
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

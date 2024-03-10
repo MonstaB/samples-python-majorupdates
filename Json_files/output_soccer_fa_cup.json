@@ -1,0 +1,814 @@
+[
+  {
+    "id": "565db1687afbca7b5539a0ef354bb10a",
+    "sport_key": "soccer_fa_cup",
+    "sport_title": "FA Cup",
+    "commence_time": "2024-03-16T12:15:00Z",
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Coventry City",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:44:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:11Z",
+            "outcomes": [
+              {
+                "name": "Coventry City",
+                "price": 5.6
+              },
+              {
+                "name": "Wolverhampton Wanderers",
+                "price": 1.55
+              },
+              {
+                "name": "Draw",
+                "price": 4.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:28Z",
+            "outcomes": [
+              {
+                "name": "Coventry City",
+                "price": 5.0
+              },
+              {
+                "name": "Wolverhampton Wanderers",
+                "price": 1.66
+              },
+              {
+                "name": "Draw",
+                "price": 3.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:45:22Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:22Z",
+            "outcomes": [
+              {
+                "name": "Coventry City",
+                "price": 5.5
+              },
+              {
+                "name": "Wolverhampton Wanderers",
+                "price": 1.72
+              },
+              {
+                "name": "Draw",
+                "price": 3.95
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:45:22Z",
+            "outcomes": [
+              {
+                "name": "Coventry City",
+                "price": 5.7
+              },
+              {
+                "name": "Wolverhampton Wanderers",
+                "price": 1.75
+              },
+              {
+                "name": "Draw",
+                "price": 4.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:28Z",
+            "outcomes": [
+              {
+                "name": "Coventry City",
+                "price": 5.5
+              },
+              {
+                "name": "Wolverhampton Wanderers",
+                "price": 1.57
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:28Z",
+            "outcomes": [
+              {
+                "name": "Coventry City",
+                "price": 5.5
+              },
+              {
+                "name": "Wolverhampton Wanderers",
+                "price": 1.57
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:27Z",
+            "outcomes": [
+              {
+                "name": "Coventry City",
+                "price": 5.0
+              },
+              {
+                "name": "Wolverhampton Wanderers",
+                "price": 1.55
+              },
+              {
+                "name": "Draw",
+                "price": 3.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:44:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:11Z",
+            "outcomes": [
+              {
+                "name": "Coventry City",
+                "price": 5.2
+              },
+              {
+                "name": "Wolverhampton Wanderers",
+                "price": 1.55
+              },
+              {
+                "name": "Draw",
+                "price": 3.95
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "818894b36ae86cb0f54014699a2de010",
+    "sport_key": "soccer_fa_cup",
+    "sport_title": "FA Cup",
+    "commence_time": "2024-03-16T17:30:00Z",
+    "home_team": "Manchester City",
+    "away_team": "Newcastle United",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:44:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:11Z",
+            "outcomes": [
+              {
+                "name": "Manchester City",
+                "price": 1.35
+              },
+              {
+                "name": "Newcastle United",
+                "price": 8.5
+              },
+              {
+                "name": "Draw",
+                "price": 4.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:28Z",
+            "outcomes": [
+              {
+                "name": "Manchester City",
+                "price": 1.28
+              },
+              {
+                "name": "Newcastle United",
+                "price": 8.5
+              },
+              {
+                "name": "Draw",
+                "price": 5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:45:22Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:22Z",
+            "outcomes": [
+              {
+                "name": "Manchester City",
+                "price": 1.35
+              },
+              {
+                "name": "Newcastle United",
+                "price": 9.8
+              },
+              {
+                "name": "Draw",
+                "price": 6.2
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:45:22Z",
+            "outcomes": [
+              {
+                "name": "Manchester City",
+                "price": 1.36
+              },
+              {
+                "name": "Newcastle United",
+                "price": 10.5
+              },
+              {
+                "name": "Draw",
+                "price": 6.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:28Z",
+            "outcomes": [
+              {
+                "name": "Manchester City",
+                "price": 1.33
+              },
+              {
+                "name": "Newcastle United",
+                "price": 8.0
+              },
+              {
+                "name": "Draw",
+                "price": 5.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:28Z",
+            "outcomes": [
+              {
+                "name": "Manchester City",
+                "price": 1.33
+              },
+              {
+                "name": "Newcastle United",
+                "price": 8.0
+              },
+              {
+                "name": "Draw",
+                "price": 5.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:27Z",
+            "outcomes": [
+              {
+                "name": "Manchester City",
+                "price": 1.3
+              },
+              {
+                "name": "Newcastle United",
+                "price": 7.0
+              },
+              {
+                "name": "Draw",
+                "price": 5.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:44:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:11Z",
+            "outcomes": [
+              {
+                "name": "Manchester City",
+                "price": 1.31
+              },
+              {
+                "name": "Newcastle United",
+                "price": 7.5
+              },
+              {
+                "name": "Draw",
+                "price": 5.1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bd6658c989f3235d787a4f7cf40a829b",
+    "sport_key": "soccer_fa_cup",
+    "sport_title": "FA Cup",
+    "commence_time": "2024-03-17T12:45:00Z",
+    "home_team": "Chelsea",
+    "away_team": "Leicester City",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:28Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 1.4
+              },
+              {
+                "name": "Leicester City",
+                "price": 6.5
+              },
+              {
+                "name": "Draw",
+                "price": 4.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:44:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:11Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 1.5
+              },
+              {
+                "name": "Leicester City",
+                "price": 6.25
+              },
+              {
+                "name": "Draw",
+                "price": 4.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:45:22Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:22Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 1.47
+              },
+              {
+                "name": "Leicester City",
+                "price": 6.6
+              },
+              {
+                "name": "Draw",
+                "price": 5.2
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:45:22Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 1.49
+              },
+              {
+                "name": "Leicester City",
+                "price": 8.0
+              },
+              {
+                "name": "Draw",
+                "price": 5.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:28Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 1.44
+              },
+              {
+                "name": "Leicester City",
+                "price": 6.0
+              },
+              {
+                "name": "Draw",
+                "price": 4.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:28Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 1.44
+              },
+              {
+                "name": "Leicester City",
+                "price": 6.0
+              },
+              {
+                "name": "Draw",
+                "price": 4.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:28Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 1.42
+              },
+              {
+                "name": "Leicester City",
+                "price": 5.5
+              },
+              {
+                "name": "Draw",
+                "price": 4.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:44:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:11Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 1.43
+              },
+              {
+                "name": "Leicester City",
+                "price": 6.2
+              },
+              {
+                "name": "Draw",
+                "price": 4.35
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7daac7e66622279cf185f36d4800b23d",
+    "sport_key": "soccer_fa_cup",
+    "sport_title": "FA Cup",
+    "commence_time": "2024-03-17T15:30:00Z",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:28Z",
+            "outcomes": [
+              {
+                "name": "Liverpool",
+                "price": 1.75
+              },
+              {
+                "name": "Manchester United",
+                "price": 3.9
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:28Z",
+            "outcomes": [
+              {
+                "name": "Liverpool",
+                "price": 1.85
+              },
+              {
+                "name": "Manchester United",
+                "price": 3.9
+              },
+              {
+                "name": "Draw",
+                "price": 3.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:28Z",
+            "outcomes": [
+              {
+                "name": "Liverpool",
+                "price": 1.85
+              },
+              {
+                "name": "Manchester United",
+                "price": 3.9
+              },
+              {
+                "name": "Draw",
+                "price": 3.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:45:22Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:22Z",
+            "outcomes": [
+              {
+                "name": "Liverpool",
+                "price": 1.88
+              },
+              {
+                "name": "Manchester United",
+                "price": 3.85
+              },
+              {
+                "name": "Draw",
+                "price": 4.1
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:45:22Z",
+            "outcomes": [
+              {
+                "name": "Liverpool",
+                "price": 1.96
+              },
+              {
+                "name": "Manchester United",
+                "price": 4.0
+              },
+              {
+                "name": "Draw",
+                "price": 4.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:28Z",
+            "outcomes": [
+              {
+                "name": "Liverpool",
+                "price": 1.8
+              },
+              {
+                "name": "Manchester United",
+                "price": 3.5
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:44:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:11Z",
+            "outcomes": [
+              {
+                "name": "Liverpool",
+                "price": 1.82
+              },
+              {
+                "name": "Manchester United",
+                "price": 3.6
+              },
+              {
+                "name": "Draw",
+                "price": 3.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:44:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:11Z",
+            "outcomes": [
+              {
+                "name": "Liverpool",
+                "price": 1.82
+              },
+              {
+                "name": "Manchester United",
+                "price": 3.8
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

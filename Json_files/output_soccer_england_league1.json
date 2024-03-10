@@ -1,0 +1,2655 @@
+[
+  {
+    "id": "9c796de55fab0db6c7de50da1de01cb4",
+    "sport_key": "soccer_england_league1",
+    "sport_title": "League 1",
+    "commence_time": "2024-03-12T19:45:00Z",
+    "home_team": "Carlisle United",
+    "away_team": "Barnsley",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:17Z",
+            "outcomes": [
+              {
+                "name": "Barnsley",
+                "price": 1.8
+              },
+              {
+                "name": "Carlisle United",
+                "price": 4.1
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Barnsley",
+                "price": 1.83
+              },
+              {
+                "name": "Carlisle United",
+                "price": 4.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Barnsley",
+                "price": 1.82
+              },
+              {
+                "name": "Carlisle United",
+                "price": 4.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:44:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:52Z",
+            "outcomes": [
+              {
+                "name": "Barnsley",
+                "price": 1.83
+              },
+              {
+                "name": "Carlisle United",
+                "price": 3.85
+              },
+              {
+                "name": "Draw",
+                "price": 3.55
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:00Z",
+            "outcomes": [
+              {
+                "name": "Barnsley",
+                "price": 1.82
+              },
+              {
+                "name": "Carlisle United",
+                "price": 4.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.85
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:00Z",
+            "outcomes": [
+              {
+                "name": "Barnsley",
+                "price": 1.91
+              },
+              {
+                "name": "Carlisle United",
+                "price": 480.0
+              },
+              {
+                "name": "Draw",
+                "price": 4.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:43:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:59Z",
+            "outcomes": [
+              {
+                "name": "Barnsley",
+                "price": 1.83
+              },
+              {
+                "name": "Carlisle United",
+                "price": 3.8
+              },
+              {
+                "name": "Draw",
+                "price": 3.55
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "815768aeaf00923737a459060d93460e",
+    "sport_key": "soccer_england_league1",
+    "sport_title": "League 1",
+    "commence_time": "2024-03-12T19:45:00Z",
+    "home_team": "Northampton Town",
+    "away_team": "Blackpool",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:17Z",
+            "outcomes": [
+              {
+                "name": "Blackpool",
+                "price": 1.85
+              },
+              {
+                "name": "Northampton Town",
+                "price": 4.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Blackpool",
+                "price": 1.82
+              },
+              {
+                "name": "Northampton Town",
+                "price": 3.9
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Blackpool",
+                "price": 1.83
+              },
+              {
+                "name": "Northampton Town",
+                "price": 4.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:44:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:52Z",
+            "outcomes": [
+              {
+                "name": "Blackpool",
+                "price": 1.88
+              },
+              {
+                "name": "Northampton Town",
+                "price": 3.55
+              },
+              {
+                "name": "Draw",
+                "price": 3.65
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:00Z",
+            "outcomes": [
+              {
+                "name": "Blackpool",
+                "price": 1.04
+              },
+              {
+                "name": "Northampton Town",
+                "price": 2.0
+              },
+              {
+                "name": "Draw",
+                "price": 1.1
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:00Z",
+            "outcomes": [
+              {
+                "name": "Blackpool",
+                "price": 1.98
+              },
+              {
+                "name": "Northampton Town",
+                "price": 480.0
+              },
+              {
+                "name": "Draw",
+                "price": 350.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:43:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:59Z",
+            "outcomes": [
+              {
+                "name": "Blackpool",
+                "price": 1.88
+              },
+              {
+                "name": "Northampton Town",
+                "price": 3.55
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "365d3879c9795385c62cf4cf7cb64d94",
+    "sport_key": "soccer_england_league1",
+    "sport_title": "League 1",
+    "commence_time": "2024-03-12T19:45:00Z",
+    "home_team": "Fleetwood Town",
+    "away_team": "Bristol Rovers",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:17Z",
+            "outcomes": [
+              {
+                "name": "Bristol Rovers",
+                "price": 2.75
+              },
+              {
+                "name": "Fleetwood Town",
+                "price": 2.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Bristol Rovers",
+                "price": 2.8
+              },
+              {
+                "name": "Fleetwood Town",
+                "price": 2.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Bristol Rovers",
+                "price": 2.75
+              },
+              {
+                "name": "Fleetwood Town",
+                "price": 2.35
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:44:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:52Z",
+            "outcomes": [
+              {
+                "name": "Bristol Rovers",
+                "price": 2.8
+              },
+              {
+                "name": "Fleetwood Town",
+                "price": 2.3
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:00Z",
+            "outcomes": [
+              {
+                "name": "Bristol Rovers",
+                "price": 1.66
+              },
+              {
+                "name": "Fleetwood Town",
+                "price": 1.35
+              },
+              {
+                "name": "Draw",
+                "price": 1.66
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:00Z",
+            "outcomes": [
+              {
+                "name": "Bristol Rovers",
+                "price": 3.25
+              },
+              {
+                "name": "Fleetwood Town",
+                "price": 2.52
+              },
+              {
+                "name": "Draw",
+                "price": 350.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:43:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:59Z",
+            "outcomes": [
+              {
+                "name": "Bristol Rovers",
+                "price": 2.8
+              },
+              {
+                "name": "Fleetwood Town",
+                "price": 2.28
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "56cc158585ce0804cb903642dc8d1c07",
+    "sport_key": "soccer_england_league1",
+    "sport_title": "League 1",
+    "commence_time": "2024-03-12T19:45:00Z",
+    "home_team": "Portsmouth",
+    "away_team": "Burton Albion",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:17Z",
+            "outcomes": [
+              {
+                "name": "Burton Albion",
+                "price": 7.5
+              },
+              {
+                "name": "Portsmouth",
+                "price": 1.4
+              },
+              {
+                "name": "Draw",
+                "price": 4.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Burton Albion",
+                "price": 7.5
+              },
+              {
+                "name": "Portsmouth",
+                "price": 1.42
+              },
+              {
+                "name": "Draw",
+                "price": 4.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Burton Albion",
+                "price": 7.5
+              },
+              {
+                "name": "Portsmouth",
+                "price": 1.4
+              },
+              {
+                "name": "Draw",
+                "price": 4.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:44:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:52Z",
+            "outcomes": [
+              {
+                "name": "Burton Albion",
+                "price": 7.0
+              },
+              {
+                "name": "Portsmouth",
+                "price": 1.4
+              },
+              {
+                "name": "Draw",
+                "price": 4.35
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:00Z",
+            "outcomes": [
+              {
+                "name": "Burton Albion",
+                "price": 7.6
+              },
+              {
+                "name": "Portsmouth",
+                "price": 1.41
+              },
+              {
+                "name": "Draw",
+                "price": 4.4
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:00Z",
+            "outcomes": [
+              {
+                "name": "Burton Albion",
+                "price": 870.0
+              },
+              {
+                "name": "Portsmouth",
+                "price": 1.45
+              },
+              {
+                "name": "Draw",
+                "price": 5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:43:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:59Z",
+            "outcomes": [
+              {
+                "name": "Burton Albion",
+                "price": 6.8
+              },
+              {
+                "name": "Portsmouth",
+                "price": 1.4
+              },
+              {
+                "name": "Draw",
+                "price": 4.35
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0dcb57d7931edf95864d0c963da9a14b",
+    "sport_key": "soccer_england_league1",
+    "sport_title": "League 1",
+    "commence_time": "2024-03-12T19:45:00Z",
+    "home_team": "Lincoln City",
+    "away_team": "Cambridge United",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:17Z",
+            "outcomes": [
+              {
+                "name": "Cambridge United",
+                "price": 4.33
+              },
+              {
+                "name": "Lincoln City",
+                "price": 1.8
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Cambridge United",
+                "price": 4.5
+              },
+              {
+                "name": "Lincoln City",
+                "price": 1.8
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Cambridge United",
+                "price": 4.5
+              },
+              {
+                "name": "Lincoln City",
+                "price": 1.78
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:44:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:52Z",
+            "outcomes": [
+              {
+                "name": "Cambridge United",
+                "price": 4.6
+              },
+              {
+                "name": "Lincoln City",
+                "price": 1.75
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:00Z",
+            "outcomes": [
+              {
+                "name": "Cambridge United",
+                "price": 1.36
+              },
+              {
+                "name": "Lincoln City",
+                "price": 1.78
+              },
+              {
+                "name": "Draw",
+                "price": 1.1
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:00Z",
+            "outcomes": [
+              {
+                "name": "Cambridge United",
+                "price": 6.2
+              },
+              {
+                "name": "Lincoln City",
+                "price": 1.91
+              },
+              {
+                "name": "Draw",
+                "price": 3.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:43:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:59Z",
+            "outcomes": [
+              {
+                "name": "Cambridge United",
+                "price": 4.65
+              },
+              {
+                "name": "Lincoln City",
+                "price": 1.73
+              },
+              {
+                "name": "Draw",
+                "price": 3.35
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e8ea0c704638285f2b0539c8c9737011",
+    "sport_key": "soccer_england_league1",
+    "sport_title": "League 1",
+    "commence_time": "2024-03-12T19:45:00Z",
+    "home_team": "Derby County",
+    "away_team": "Reading",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:17Z",
+            "outcomes": [
+              {
+                "name": "Derby County",
+                "price": 1.61
+              },
+              {
+                "name": "Reading",
+                "price": 5.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Derby County",
+                "price": 1.65
+              },
+              {
+                "name": "Reading",
+                "price": 4.75
+              },
+              {
+                "name": "Draw",
+                "price": 3.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Derby County",
+                "price": 1.65
+              },
+              {
+                "name": "Reading",
+                "price": 4.8
+              },
+              {
+                "name": "Draw",
+                "price": 3.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:44:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:52Z",
+            "outcomes": [
+              {
+                "name": "Derby County",
+                "price": 1.63
+              },
+              {
+                "name": "Reading",
+                "price": 4.6
+              },
+              {
+                "name": "Draw",
+                "price": 3.85
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:00Z",
+            "outcomes": [
+              {
+                "name": "Derby County",
+                "price": 1.7
+              },
+              {
+                "name": "Reading",
+                "price": 5.3
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:00Z",
+            "outcomes": [
+              {
+                "name": "Derby County",
+                "price": 1.8
+              },
+              {
+                "name": "Reading",
+                "price": 870.0
+              },
+              {
+                "name": "Draw",
+                "price": 350.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:43:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:59Z",
+            "outcomes": [
+              {
+                "name": "Derby County",
+                "price": 1.62
+              },
+              {
+                "name": "Reading",
+                "price": 4.6
+              },
+              {
+                "name": "Draw",
+                "price": 3.9
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4152cc9dd193051726af4765341747fc",
+    "sport_key": "soccer_england_league1",
+    "sport_title": "League 1",
+    "commence_time": "2024-03-12T19:45:00Z",
+    "home_team": "Shrewsbury Town",
+    "away_team": "Exeter City",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:17Z",
+            "outcomes": [
+              {
+                "name": "Exeter City",
+                "price": 3.0
+              },
+              {
+                "name": "Shrewsbury Town",
+                "price": 2.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Exeter City",
+                "price": 2.95
+              },
+              {
+                "name": "Shrewsbury Town",
+                "price": 2.45
+              },
+              {
+                "name": "Draw",
+                "price": 3.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Exeter City",
+                "price": 2.95
+              },
+              {
+                "name": "Shrewsbury Town",
+                "price": 2.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.05
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:44:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:52Z",
+            "outcomes": [
+              {
+                "name": "Exeter City",
+                "price": 2.8
+              },
+              {
+                "name": "Shrewsbury Town",
+                "price": 2.45
+              },
+              {
+                "name": "Draw",
+                "price": 3.15
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:00Z",
+            "outcomes": [
+              {
+                "name": "Exeter City",
+                "price": 2.8
+              },
+              {
+                "name": "Shrewsbury Town",
+                "price": 2.48
+              },
+              {
+                "name": "Draw",
+                "price": 3.1
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:00Z",
+            "outcomes": [
+              {
+                "name": "Exeter City",
+                "price": 3.3
+              },
+              {
+                "name": "Shrewsbury Town",
+                "price": 3.15
+              },
+              {
+                "name": "Draw",
+                "price": 4.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:43:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:59Z",
+            "outcomes": [
+              {
+                "name": "Exeter City",
+                "price": 2.82
+              },
+              {
+                "name": "Shrewsbury Town",
+                "price": 2.42
+              },
+              {
+                "name": "Draw",
+                "price": 3.1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "523075e6a2f19e093a951da7afb5302c",
+    "sport_key": "soccer_england_league1",
+    "sport_title": "League 1",
+    "commence_time": "2024-03-12T19:45:00Z",
+    "home_team": "Leyton Orient",
+    "away_team": "Port Vale",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:17Z",
+            "outcomes": [
+              {
+                "name": "Leyton Orient",
+                "price": 1.6
+              },
+              {
+                "name": "Port Vale",
+                "price": 5.0
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Leyton Orient",
+                "price": 1.62
+              },
+              {
+                "name": "Port Vale",
+                "price": 5.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Leyton Orient",
+                "price": 1.6
+              },
+              {
+                "name": "Port Vale",
+                "price": 5.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:44:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:52Z",
+            "outcomes": [
+              {
+                "name": "Leyton Orient",
+                "price": 1.6
+              },
+              {
+                "name": "Port Vale",
+                "price": 4.85
+              },
+              {
+                "name": "Draw",
+                "price": 3.85
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:00Z",
+            "outcomes": [
+              {
+                "name": "Leyton Orient",
+                "price": 1.63
+              },
+              {
+                "name": "Port Vale",
+                "price": 2.5
+              },
+              {
+                "name": "Draw",
+                "price": 3.9
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:00Z",
+            "outcomes": [
+              {
+                "name": "Leyton Orient",
+                "price": 1.67
+              },
+              {
+                "name": "Port Vale",
+                "price": 870.0
+              },
+              {
+                "name": "Draw",
+                "price": 350.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:43:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:59Z",
+            "outcomes": [
+              {
+                "name": "Leyton Orient",
+                "price": 1.6
+              },
+              {
+                "name": "Port Vale",
+                "price": 4.75
+              },
+              {
+                "name": "Draw",
+                "price": 3.9
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3fe8733d1dd89a23438b273fff9eb0b3",
+    "sport_key": "soccer_england_league1",
+    "sport_title": "League 1",
+    "commence_time": "2024-03-12T19:45:00Z",
+    "home_team": "Wycombe Wanderers",
+    "away_team": "Wigan Athletic",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:17Z",
+            "outcomes": [
+              {
+                "name": "Wigan Athletic",
+                "price": 4.1
+              },
+              {
+                "name": "Wycombe Wanderers",
+                "price": 1.85
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Wigan Athletic",
+                "price": 4.25
+              },
+              {
+                "name": "Wycombe Wanderers",
+                "price": 1.87
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Wigan Athletic",
+                "price": 4.0
+              },
+              {
+                "name": "Wycombe Wanderers",
+                "price": 1.88
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:44:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:52Z",
+            "outcomes": [
+              {
+                "name": "Wigan Athletic",
+                "price": 3.75
+              },
+              {
+                "name": "Wycombe Wanderers",
+                "price": 1.87
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:00Z",
+            "outcomes": [
+              {
+                "name": "Wigan Athletic",
+                "price": 3.75
+              },
+              {
+                "name": "Wycombe Wanderers",
+                "price": 1.89
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:00Z",
+            "outcomes": [
+              {
+                "name": "Wigan Athletic",
+                "price": 5.7
+              },
+              {
+                "name": "Wycombe Wanderers",
+                "price": 2.22
+              },
+              {
+                "name": "Draw",
+                "price": 4.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:43:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:59Z",
+            "outcomes": [
+              {
+                "name": "Wigan Athletic",
+                "price": 3.8
+              },
+              {
+                "name": "Wycombe Wanderers",
+                "price": 1.86
+              },
+              {
+                "name": "Draw",
+                "price": 3.45
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "21486a0f29bfa2e550c5da2b4b291de5",
+    "sport_key": "soccer_england_league1",
+    "sport_title": "League 1",
+    "commence_time": "2024-03-12T20:00:00Z",
+    "home_team": "Bolton",
+    "away_team": "Oxford United",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:17Z",
+            "outcomes": [
+              {
+                "name": "Bolton",
+                "price": 1.72
+              },
+              {
+                "name": "Oxford United",
+                "price": 4.5
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Bolton",
+                "price": 1.75
+              },
+              {
+                "name": "Oxford United",
+                "price": 4.3
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Bolton",
+                "price": 1.74
+              },
+              {
+                "name": "Oxford United",
+                "price": 4.5
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:44:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:52Z",
+            "outcomes": [
+              {
+                "name": "Bolton",
+                "price": 1.77
+              },
+              {
+                "name": "Oxford United",
+                "price": 4.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.65
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:00Z",
+            "outcomes": [
+              {
+                "name": "Bolton",
+                "price": 1.72
+              },
+              {
+                "name": "Oxford United",
+                "price": 1.04
+              },
+              {
+                "name": "Draw",
+                "price": 1.23
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:00Z",
+            "outcomes": [
+              {
+                "name": "Bolton",
+                "price": 1.88
+              },
+              {
+                "name": "Oxford United",
+                "price": 870.0
+              },
+              {
+                "name": "Draw",
+                "price": 350.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:43:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:59Z",
+            "outcomes": [
+              {
+                "name": "Bolton",
+                "price": 1.77
+              },
+              {
+                "name": "Oxford United",
+                "price": 4.05
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "44c7d59c84d3ed98bb3b74c6b185774b",
+    "sport_key": "soccer_england_league1",
+    "sport_title": "League 1",
+    "commence_time": "2024-03-13T20:00:00Z",
+    "home_team": "Peterborough United",
+    "away_team": "Stevenage",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:17Z",
+            "outcomes": [
+              {
+                "name": "Peterborough United",
+                "price": 1.85
+              },
+              {
+                "name": "Stevenage",
+                "price": 4.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Peterborough United",
+                "price": 1.87
+              },
+              {
+                "name": "Stevenage",
+                "price": 3.9
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Peterborough United",
+                "price": 1.85
+              },
+              {
+                "name": "Stevenage",
+                "price": 3.9
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:44:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:52Z",
+            "outcomes": [
+              {
+                "name": "Peterborough United",
+                "price": 1.88
+              },
+              {
+                "name": "Stevenage",
+                "price": 3.65
+              },
+              {
+                "name": "Draw",
+                "price": 3.55
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:00Z",
+            "outcomes": [
+              {
+                "name": "Peterborough United",
+                "price": 1.23
+              },
+              {
+                "name": "Stevenage",
+                "price": 1.27
+              },
+              {
+                "name": "Draw",
+                "price": 2.82
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:00Z",
+            "outcomes": [
+              {
+                "name": "Peterborough United",
+                "price": 480.0
+              },
+              {
+                "name": "Stevenage",
+                "price": 870.0
+              },
+              {
+                "name": "Draw",
+                "price": 350.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4da094e92320f7bcf5d76f08a2d67f59",
+    "sport_key": "soccer_england_league1",
+    "sport_title": "League 1",
+    "commence_time": "2024-03-16T15:00:00Z",
+    "home_team": "Barnsley",
+    "away_team": "Cheltenham",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:17Z",
+            "outcomes": [
+              {
+                "name": "Barnsley",
+                "price": 1.72
+              },
+              {
+                "name": "Cheltenham",
+                "price": 4.5
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Barnsley",
+                "price": 1.74
+              },
+              {
+                "name": "Cheltenham",
+                "price": 4.5
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e4a494acd7b726bcac9a049c0b5e1535",
+    "sport_key": "soccer_england_league1",
+    "sport_title": "League 1",
+    "commence_time": "2024-03-16T15:00:00Z",
+    "home_team": "Wigan Athletic",
+    "away_team": "Blackpool",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:17Z",
+            "outcomes": [
+              {
+                "name": "Blackpool",
+                "price": 2.3
+              },
+              {
+                "name": "Wigan Athletic",
+                "price": 2.87
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Blackpool",
+                "price": 2.3
+              },
+              {
+                "name": "Wigan Athletic",
+                "price": 2.9
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3e8da17df95b8ac45b7593c30e11a51e",
+    "sport_key": "soccer_england_league1",
+    "sport_title": "League 1",
+    "commence_time": "2024-03-16T15:00:00Z",
+    "home_team": "Derby County",
+    "away_team": "Bolton",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:17Z",
+            "outcomes": [
+              {
+                "name": "Bolton",
+                "price": 3.6
+              },
+              {
+                "name": "Derby County",
+                "price": 1.95
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Bolton",
+                "price": 3.6
+              },
+              {
+                "name": "Derby County",
+                "price": 2.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f7de739bad26406a82138875b8939f96",
+    "sport_key": "soccer_england_league1",
+    "sport_title": "League 1",
+    "commence_time": "2024-03-16T15:00:00Z",
+    "home_team": "Lincoln City",
+    "away_team": "Bristol Rovers",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:17Z",
+            "outcomes": [
+              {
+                "name": "Bristol Rovers",
+                "price": 4.0
+              },
+              {
+                "name": "Lincoln City",
+                "price": 1.95
+              },
+              {
+                "name": "Draw",
+                "price": 3.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Bristol Rovers",
+                "price": 4.25
+              },
+              {
+                "name": "Lincoln City",
+                "price": 1.83
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3c88588a4dab1161fe8e7931fd6d03da",
+    "sport_key": "soccer_england_league1",
+    "sport_title": "League 1",
+    "commence_time": "2024-03-16T15:00:00Z",
+    "home_team": "Exeter City",
+    "away_team": "Burton Albion",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:17Z",
+            "outcomes": [
+              {
+                "name": "Burton Albion",
+                "price": 3.5
+              },
+              {
+                "name": "Exeter City",
+                "price": 2.1
+              },
+              {
+                "name": "Draw",
+                "price": 3.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Burton Albion",
+                "price": 3.5
+              },
+              {
+                "name": "Exeter City",
+                "price": 2.1
+              },
+              {
+                "name": "Draw",
+                "price": 3.2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "030ce4319d1f602d5510009ddba61706",
+    "sport_key": "soccer_england_league1",
+    "sport_title": "League 1",
+    "commence_time": "2024-03-16T15:00:00Z",
+    "home_team": "Reading",
+    "away_team": "Cambridge United",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:17Z",
+            "outcomes": [
+              {
+                "name": "Cambridge United",
+                "price": 3.9
+              },
+              {
+                "name": "Reading",
+                "price": 1.9
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Cambridge United",
+                "price": 3.8
+              },
+              {
+                "name": "Reading",
+                "price": 1.91
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1db521e7fc73338adc8324ef344ba5b1",
+    "sport_key": "soccer_england_league1",
+    "sport_title": "League 1",
+    "commence_time": "2024-03-16T15:00:00Z",
+    "home_team": "Shrewsbury Town",
+    "away_team": "Carlisle United",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:17Z",
+            "outcomes": [
+              {
+                "name": "Carlisle United",
+                "price": 4.5
+              },
+              {
+                "name": "Shrewsbury Town",
+                "price": 1.8
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Carlisle United",
+                "price": 4.25
+              },
+              {
+                "name": "Shrewsbury Town",
+                "price": 1.83
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d0eed0847313404f5bda314d990b377e",
+    "sport_key": "soccer_england_league1",
+    "sport_title": "League 1",
+    "commence_time": "2024-03-16T15:00:00Z",
+    "home_team": "Fleetwood Town",
+    "away_team": "Charlton Athletic",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:17Z",
+            "outcomes": [
+              {
+                "name": "Charlton Athletic",
+                "price": 2.55
+              },
+              {
+                "name": "Fleetwood Town",
+                "price": 2.62
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Charlton Athletic",
+                "price": 2.6
+              },
+              {
+                "name": "Fleetwood Town",
+                "price": 2.6
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7e6e0a516c86d1c9a67fd54fbeb68874",
+    "sport_key": "soccer_england_league1",
+    "sport_title": "League 1",
+    "commence_time": "2024-03-16T15:00:00Z",
+    "home_team": "Stevenage",
+    "away_team": "Leyton Orient",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:17Z",
+            "outcomes": [
+              {
+                "name": "Leyton Orient",
+                "price": 3.5
+              },
+              {
+                "name": "Stevenage",
+                "price": 2.05
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Leyton Orient",
+                "price": 3.4
+              },
+              {
+                "name": "Stevenage",
+                "price": 2.1
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0d6d1085abc3ad7deafad76d580576a7",
+    "sport_key": "soccer_england_league1",
+    "sport_title": "League 1",
+    "commence_time": "2024-03-16T15:00:00Z",
+    "home_team": "Wycombe Wanderers",
+    "away_team": "Northampton Town",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:17Z",
+            "outcomes": [
+              {
+                "name": "Northampton Town",
+                "price": 3.9
+              },
+              {
+                "name": "Wycombe Wanderers",
+                "price": 1.9
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Northampton Town",
+                "price": 3.8
+              },
+              {
+                "name": "Wycombe Wanderers",
+                "price": 1.91
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "007396981d9580d158be1c369eb009a1",
+    "sport_key": "soccer_england_league1",
+    "sport_title": "League 1",
+    "commence_time": "2024-03-16T15:00:00Z",
+    "home_team": "Port Vale",
+    "away_team": "Oxford United",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:17Z",
+            "outcomes": [
+              {
+                "name": "Oxford United",
+                "price": 2.25
+              },
+              {
+                "name": "Port Vale",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Oxford United",
+                "price": 2.25
+              },
+              {
+                "name": "Port Vale",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "00d9aa58682a1fa8d424db0a41f1593c",
+    "sport_key": "soccer_england_league1",
+    "sport_title": "League 1",
+    "commence_time": "2024-03-16T15:00:00Z",
+    "home_team": "Peterborough United",
+    "away_team": "Portsmouth",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:17Z",
+            "outcomes": [
+              {
+                "name": "Peterborough United",
+                "price": 2.2
+              },
+              {
+                "name": "Portsmouth",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:43:58Z",
+            "outcomes": [
+              {
+                "name": "Peterborough United",
+                "price": 2.2
+              },
+              {
+                "name": "Portsmouth",
+                "price": 3.1
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

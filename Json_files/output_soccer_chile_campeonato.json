@@ -1,0 +1,1573 @@
+[
+  {
+    "id": "8cfb4f28d98e1da699166c98bddbeb12",
+    "sport_key": "soccer_chile_campeonato",
+    "sport_title": "Primera Divisi\u00f3n - Chile",
+    "commence_time": "2024-03-09T23:26:40Z",
+    "home_team": "O'Higgins",
+    "away_team": "Palestino",
+    "bookmakers": [
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:45:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:10Z",
+            "outcomes": [
+              {
+                "name": "O'Higgins",
+                "price": 2.75
+              },
+              {
+                "name": "Palestino",
+                "price": 2.8
+              },
+              {
+                "name": "Draw",
+                "price": 2.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:45:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:09Z",
+            "outcomes": [
+              {
+                "name": "O'Higgins",
+                "price": 2.55
+              },
+              {
+                "name": "Palestino",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 2.85
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:45:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:11Z",
+            "outcomes": [
+              {
+                "name": "O'Higgins",
+                "price": 2.6
+              },
+              {
+                "name": "Palestino",
+                "price": 2.78
+              },
+              {
+                "name": "Draw",
+                "price": 2.78
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:57Z",
+            "outcomes": [
+              {
+                "name": "O'Higgins",
+                "price": 3.0
+              },
+              {
+                "name": "Palestino",
+                "price": 2.96
+              },
+              {
+                "name": "Draw",
+                "price": 2.94
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:57Z",
+            "outcomes": [
+              {
+                "name": "O'Higgins",
+                "price": 3.05
+              },
+              {
+                "name": "Palestino",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 2.98
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T23:45:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:09Z",
+            "outcomes": [
+              {
+                "name": "O'Higgins",
+                "price": 2.7
+              },
+              {
+                "name": "Palestino",
+                "price": 2.8
+              },
+              {
+                "name": "Draw",
+                "price": 2.8
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "06d46949214905e7a5af11fc4f4d5982",
+    "sport_key": "soccer_chile_campeonato",
+    "sport_title": "Primera Divisi\u00f3n - Chile",
+    "commence_time": "2024-03-09T23:31:42Z",
+    "home_team": "Uni\u00f3n Espa\u00f1ola",
+    "away_team": "Audax Italiano",
+    "bookmakers": [
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:45:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:10Z",
+            "outcomes": [
+              {
+                "name": "Audax Italiano",
+                "price": 3.1
+              },
+              {
+                "name": "Uni\u00f3n Espa\u00f1ola",
+                "price": 2.25
+              },
+              {
+                "name": "Draw",
+                "price": 3.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:45:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:09Z",
+            "outcomes": [
+              {
+                "name": "Audax Italiano",
+                "price": 3.25
+              },
+              {
+                "name": "Uni\u00f3n Espa\u00f1ola",
+                "price": 2.3
+              },
+              {
+                "name": "Draw",
+                "price": 2.95
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:57Z",
+            "outcomes": [
+              {
+                "name": "Audax Italiano",
+                "price": 3.2
+              },
+              {
+                "name": "Uni\u00f3n Espa\u00f1ola",
+                "price": 2.48
+              },
+              {
+                "name": "Draw",
+                "price": 3.2
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:57Z",
+            "outcomes": [
+              {
+                "name": "Audax Italiano",
+                "price": 3.4
+              },
+              {
+                "name": "Uni\u00f3n Espa\u00f1ola",
+                "price": 2.6
+              },
+              {
+                "name": "Draw",
+                "price": 3.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T23:45:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:09Z",
+            "outcomes": [
+              {
+                "name": "Audax Italiano",
+                "price": 3.2
+              },
+              {
+                "name": "Uni\u00f3n Espa\u00f1ola",
+                "price": 2.2
+              },
+              {
+                "name": "Draw",
+                "price": 3.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:45:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:11Z",
+            "outcomes": [
+              {
+                "name": "Audax Italiano",
+                "price": 3.15
+              },
+              {
+                "name": "Uni\u00f3n Espa\u00f1ola",
+                "price": 2.2
+              },
+              {
+                "name": "Draw",
+                "price": 3.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8302959bda6392195a5821024c426512",
+    "sport_key": "soccer_chile_campeonato",
+    "sport_title": "Primera Divisi\u00f3n - Chile",
+    "commence_time": "2024-03-10T15:00:00Z",
+    "home_team": "Deportes Iquique",
+    "away_team": "Coquimbo Unido",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:10Z",
+            "outcomes": [
+              {
+                "name": "Coquimbo Unido",
+                "price": 3.1
+              },
+              {
+                "name": "Deportes Iquique",
+                "price": 2.2
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:45:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:10Z",
+            "outcomes": [
+              {
+                "name": "Coquimbo Unido",
+                "price": 3.2
+              },
+              {
+                "name": "Deportes Iquique",
+                "price": 2.2
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:45:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:11Z",
+            "outcomes": [
+              {
+                "name": "Coquimbo Unido",
+                "price": 3.0
+              },
+              {
+                "name": "Deportes Iquique",
+                "price": 2.14
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:45:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:09Z",
+            "outcomes": [
+              {
+                "name": "Coquimbo Unido",
+                "price": 3.25
+              },
+              {
+                "name": "Deportes Iquique",
+                "price": 2.18
+              },
+              {
+                "name": "Draw",
+                "price": 3.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:45:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:11Z",
+            "outcomes": [
+              {
+                "name": "Coquimbo Unido",
+                "price": 3.0
+              },
+              {
+                "name": "Deportes Iquique",
+                "price": 2.12
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:57Z",
+            "outcomes": [
+              {
+                "name": "Coquimbo Unido",
+                "price": 3.3
+              },
+              {
+                "name": "Deportes Iquique",
+                "price": 2.26
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:57Z",
+            "outcomes": [
+              {
+                "name": "Coquimbo Unido",
+                "price": 3.55
+              },
+              {
+                "name": "Deportes Iquique",
+                "price": 2.32
+              },
+              {
+                "name": "Draw",
+                "price": 3.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T23:45:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:09Z",
+            "outcomes": [
+              {
+                "name": "Coquimbo Unido",
+                "price": 3.1
+              },
+              {
+                "name": "Deportes Iquique",
+                "price": 2.15
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-09T23:45:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:10Z",
+            "outcomes": [
+              {
+                "name": "Coquimbo Unido",
+                "price": 3.05
+              },
+              {
+                "name": "Deportes Iquique",
+                "price": 2.15
+              },
+              {
+                "name": "Draw",
+                "price": 3.2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c79118a5a3243cb5e5d6f191db6b6dda",
+    "sport_key": "soccer_chile_campeonato",
+    "sport_title": "Primera Divisi\u00f3n - Chile",
+    "commence_time": "2024-03-10T21:00:00Z",
+    "home_team": "Colo Colo",
+    "away_team": "Universidad de Chile",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:45:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:09Z",
+            "outcomes": [
+              {
+                "name": "Colo Colo",
+                "price": 1.7
+              },
+              {
+                "name": "Universidad de Chile",
+                "price": 4.5
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:10Z",
+            "outcomes": [
+              {
+                "name": "Colo Colo",
+                "price": 1.7
+              },
+              {
+                "name": "Universidad de Chile",
+                "price": 4.75
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:45:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:10Z",
+            "outcomes": [
+              {
+                "name": "Colo Colo",
+                "price": 1.71
+              },
+              {
+                "name": "Universidad de Chile",
+                "price": 4.75
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:45:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:11Z",
+            "outcomes": [
+              {
+                "name": "Colo Colo",
+                "price": 1.69
+              },
+              {
+                "name": "Universidad de Chile",
+                "price": 4.3
+              },
+              {
+                "name": "Draw",
+                "price": 3.55
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:45:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:11Z",
+            "outcomes": [
+              {
+                "name": "Colo Colo",
+                "price": 1.7
+              },
+              {
+                "name": "Universidad de Chile",
+                "price": 4.3
+              },
+              {
+                "name": "Draw",
+                "price": 3.55
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:57Z",
+            "outcomes": [
+              {
+                "name": "Colo Colo",
+                "price": 1.76
+              },
+              {
+                "name": "Universidad de Chile",
+                "price": 5.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:57Z",
+            "outcomes": [
+              {
+                "name": "Colo Colo",
+                "price": 1.86
+              },
+              {
+                "name": "Universidad de Chile",
+                "price": 5.6
+              },
+              {
+                "name": "Draw",
+                "price": 4.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T23:45:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:09Z",
+            "outcomes": [
+              {
+                "name": "Colo Colo",
+                "price": 1.7
+              },
+              {
+                "name": "Universidad de Chile",
+                "price": 4.5
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:10Z",
+            "outcomes": [
+              {
+                "name": "Colo Colo",
+                "price": 1.67
+              },
+              {
+                "name": "Universidad de Chile",
+                "price": 4.33
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:45:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:11Z",
+            "outcomes": [
+              {
+                "name": "Colo Colo",
+                "price": 1.67
+              },
+              {
+                "name": "Universidad de Chile",
+                "price": 4.33
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-09T23:45:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:10Z",
+            "outcomes": [
+              {
+                "name": "Colo Colo",
+                "price": 1.68
+              },
+              {
+                "name": "Universidad de Chile",
+                "price": 4.5
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6d3a2932930b12ea55ed242ae70ef952",
+    "sport_key": "soccer_chile_campeonato",
+    "sport_title": "Primera Divisi\u00f3n - Chile",
+    "commence_time": "2024-03-11T00:00:00Z",
+    "home_team": "\u00d1ublense",
+    "away_team": "Deportes Copiap\u00f3",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:45:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:09Z",
+            "outcomes": [
+              {
+                "name": "Deportes Copiap\u00f3",
+                "price": 4.8
+              },
+              {
+                "name": "\u00d1ublense",
+                "price": 1.68
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:45:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:10Z",
+            "outcomes": [
+              {
+                "name": "Deportes Copiap\u00f3",
+                "price": 4.5
+              },
+              {
+                "name": "\u00d1ublense",
+                "price": 1.77
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:10Z",
+            "outcomes": [
+              {
+                "name": "Deportes Copiap\u00f3",
+                "price": 4.6
+              },
+              {
+                "name": "\u00d1ublense",
+                "price": 1.72
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:45:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:11Z",
+            "outcomes": [
+              {
+                "name": "Deportes Copiap\u00f3",
+                "price": 4.3
+              },
+              {
+                "name": "\u00d1ublense",
+                "price": 1.7
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:10Z",
+            "outcomes": [
+              {
+                "name": "Deportes Copiap\u00f3",
+                "price": 4.2
+              },
+              {
+                "name": "\u00d1ublense",
+                "price": 1.7
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:45:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:11Z",
+            "outcomes": [
+              {
+                "name": "Deportes Copiap\u00f3",
+                "price": 4.2
+              },
+              {
+                "name": "\u00d1ublense",
+                "price": 1.7
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:45:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:11Z",
+            "outcomes": [
+              {
+                "name": "Deportes Copiap\u00f3",
+                "price": 4.25
+              },
+              {
+                "name": "\u00d1ublense",
+                "price": 1.7
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:57Z",
+            "outcomes": [
+              {
+                "name": "Deportes Copiap\u00f3",
+                "price": 4.6
+              },
+              {
+                "name": "\u00d1ublense",
+                "price": 1.71
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:57Z",
+            "outcomes": [
+              {
+                "name": "Deportes Copiap\u00f3",
+                "price": 5.7
+              },
+              {
+                "name": "\u00d1ublense",
+                "price": 1.97
+              },
+              {
+                "name": "Draw",
+                "price": 4.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T23:45:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:09Z",
+            "outcomes": [
+              {
+                "name": "Deportes Copiap\u00f3",
+                "price": 4.5
+              },
+              {
+                "name": "\u00d1ublense",
+                "price": 1.7
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "48f016632dfd2bd001bd63a96ecf1001",
+    "sport_key": "soccer_chile_campeonato",
+    "sport_title": "Primera Divisi\u00f3n - Chile",
+    "commence_time": "2024-03-11T22:00:00Z",
+    "home_team": "Universidad Cat\u00f3lica (CHI)",
+    "away_team": "Everton de Vi\u00f1a del Mar",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:45:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:09Z",
+            "outcomes": [
+              {
+                "name": "Everton de Vi\u00f1a del Mar",
+                "price": 3.3
+              },
+              {
+                "name": "Universidad Cat\u00f3lica (CHI)",
+                "price": 2.08
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:10Z",
+            "outcomes": [
+              {
+                "name": "Everton de Vi\u00f1a del Mar",
+                "price": 3.3
+              },
+              {
+                "name": "Universidad Cat\u00f3lica (CHI)",
+                "price": 2.1
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:45:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:10Z",
+            "outcomes": [
+              {
+                "name": "Everton de Vi\u00f1a del Mar",
+                "price": 3.3
+              },
+              {
+                "name": "Universidad Cat\u00f3lica (CHI)",
+                "price": 2.2
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:45:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:11Z",
+            "outcomes": [
+              {
+                "name": "Everton de Vi\u00f1a del Mar",
+                "price": 3.15
+              },
+              {
+                "name": "Universidad Cat\u00f3lica (CHI)",
+                "price": 2.06
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:10Z",
+            "outcomes": [
+              {
+                "name": "Everton de Vi\u00f1a del Mar",
+                "price": 3.1
+              },
+              {
+                "name": "Universidad Cat\u00f3lica (CHI)",
+                "price": 2.05
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:45:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:11Z",
+            "outcomes": [
+              {
+                "name": "Everton de Vi\u00f1a del Mar",
+                "price": 3.1
+              },
+              {
+                "name": "Universidad Cat\u00f3lica (CHI)",
+                "price": 2.05
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T23:45:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:09Z",
+            "outcomes": [
+              {
+                "name": "Everton de Vi\u00f1a del Mar",
+                "price": 3.25
+              },
+              {
+                "name": "Universidad Cat\u00f3lica (CHI)",
+                "price": 2.05
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:45:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:11Z",
+            "outcomes": [
+              {
+                "name": "Everton de Vi\u00f1a del Mar",
+                "price": 3.15
+              },
+              {
+                "name": "Universidad Cat\u00f3lica (CHI)",
+                "price": 2.05
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:57Z",
+            "outcomes": [
+              {
+                "name": "Everton de Vi\u00f1a del Mar",
+                "price": 3.25
+              },
+              {
+                "name": "Universidad Cat\u00f3lica (CHI)",
+                "price": 2.12
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:57Z",
+            "outcomes": [
+              {
+                "name": "Everton de Vi\u00f1a del Mar",
+                "price": 4.5
+              },
+              {
+                "name": "Universidad Cat\u00f3lica (CHI)",
+                "price": 2.48
+              },
+              {
+                "name": "Draw",
+                "price": 4.4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9ce0df211a844e6bfbf2da72891a8778",
+    "sport_key": "soccer_chile_campeonato",
+    "sport_title": "Primera Divisi\u00f3n - Chile",
+    "commence_time": "2024-03-12T00:30:00Z",
+    "home_team": "Union La Calera",
+    "away_team": "CD Cobreloa",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:45:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:09Z",
+            "outcomes": [
+              {
+                "name": "CD Cobreloa",
+                "price": 3.25
+              },
+              {
+                "name": "Union La Calera",
+                "price": 2.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.65
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:10Z",
+            "outcomes": [
+              {
+                "name": "CD Cobreloa",
+                "price": 3.7
+              },
+              {
+                "name": "Union La Calera",
+                "price": 1.9
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:45:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:11Z",
+            "outcomes": [
+              {
+                "name": "CD Cobreloa",
+                "price": 3.5
+              },
+              {
+                "name": "Union La Calera",
+                "price": 1.87
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:45:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:10Z",
+            "outcomes": [
+              {
+                "name": "CD Cobreloa",
+                "price": 3.7
+              },
+              {
+                "name": "Union La Calera",
+                "price": 1.95
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:45:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:11Z",
+            "outcomes": [
+              {
+                "name": "CD Cobreloa",
+                "price": 3.4
+              },
+              {
+                "name": "Union La Calera",
+                "price": 1.91
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:10Z",
+            "outcomes": [
+              {
+                "name": "CD Cobreloa",
+                "price": 3.4
+              },
+              {
+                "name": "Union La Calera",
+                "price": 1.91
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-09T23:45:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:09Z",
+            "outcomes": [
+              {
+                "name": "CD Cobreloa",
+                "price": 3.6
+              },
+              {
+                "name": "Union La Calera",
+                "price": 1.87
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:45:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:11Z",
+            "outcomes": [
+              {
+                "name": "CD Cobreloa",
+                "price": 3.5
+              },
+              {
+                "name": "Union La Calera",
+                "price": 1.87
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:44:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:57Z",
+            "outcomes": [
+              {
+                "name": "CD Cobreloa",
+                "price": 3.7
+              },
+              {
+                "name": "Union La Calera",
+                "price": 1.84
+              },
+              {
+                "name": "Draw",
+                "price": 3.65
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:44:57Z",
+            "outcomes": [
+              {
+                "name": "CD Cobreloa",
+                "price": 5.5
+              },
+              {
+                "name": "Union La Calera",
+                "price": 2.16
+              },
+              {
+                "name": "Draw",
+                "price": 5.4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

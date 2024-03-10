@@ -1,0 +1,1373 @@
+[
+  {
+    "id": "8e97bcb7c32846e5953f331926d66d65",
+    "sport_key": "soccer_spain_segunda_division",
+    "sport_title": "La Liga 2 - Spain",
+    "commence_time": "2024-03-10T13:00:00Z",
+    "home_team": "Real Racing Club de Santander",
+    "away_team": "Tenerife",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:35Z",
+            "outcomes": [
+              {
+                "name": "Real Racing Club de Santander",
+                "price": 2.3
+              },
+              {
+                "name": "Tenerife",
+                "price": 3.1
+              },
+              {
+                "name": "Draw",
+                "price": 2.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:45:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:36Z",
+            "outcomes": [
+              {
+                "name": "Real Racing Club de Santander",
+                "price": 2.4
+              },
+              {
+                "name": "Tenerife",
+                "price": 3.25
+              },
+              {
+                "name": "Draw",
+                "price": 2.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:45:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:35Z",
+            "outcomes": [
+              {
+                "name": "Real Racing Club de Santander",
+                "price": 2.38
+              },
+              {
+                "name": "Tenerife",
+                "price": 3.3
+              },
+              {
+                "name": "Draw",
+                "price": 2.95
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:36Z",
+            "outcomes": [
+              {
+                "name": "Real Racing Club de Santander",
+                "price": 2.25
+              },
+              {
+                "name": "Tenerife",
+                "price": 3.1
+              },
+              {
+                "name": "Draw",
+                "price": 2.88
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:45:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:37Z",
+            "outcomes": [
+              {
+                "name": "Real Racing Club de Santander",
+                "price": 2.25
+              },
+              {
+                "name": "Tenerife",
+                "price": 3.1
+              },
+              {
+                "name": "Draw",
+                "price": 2.88
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:45:22Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:22Z",
+            "outcomes": [
+              {
+                "name": "Real Racing Club de Santander",
+                "price": 2.52
+              },
+              {
+                "name": "Tenerife",
+                "price": 3.4
+              },
+              {
+                "name": "Draw",
+                "price": 2.9
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:45:22Z",
+            "outcomes": [
+              {
+                "name": "Real Racing Club de Santander",
+                "price": 2.66
+              },
+              {
+                "name": "Tenerife",
+                "price": 3.65
+              },
+              {
+                "name": "Draw",
+                "price": 3.05
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:45:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:37Z",
+            "outcomes": [
+              {
+                "name": "Real Racing Club de Santander",
+                "price": 2.4
+              },
+              {
+                "name": "Tenerife",
+                "price": 3.05
+              },
+              {
+                "name": "Draw",
+                "price": 2.9
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f3d4476b7c5716468cec27029ab087be",
+    "sport_key": "soccer_spain_segunda_division",
+    "sport_title": "La Liga 2 - Spain",
+    "commence_time": "2024-03-10T15:15:00Z",
+    "home_team": "Villarreal",
+    "away_team": "Elche",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:35Z",
+            "outcomes": [
+              {
+                "name": "Elche",
+                "price": 2.05
+              },
+              {
+                "name": "Villarreal",
+                "price": 3.4
+              },
+              {
+                "name": "Draw",
+                "price": 2.87
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:45:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:36Z",
+            "outcomes": [
+              {
+                "name": "Elche",
+                "price": 2.2
+              },
+              {
+                "name": "Villarreal",
+                "price": 3.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:36Z",
+            "outcomes": [
+              {
+                "name": "Elche",
+                "price": 2.2
+              },
+              {
+                "name": "Villarreal",
+                "price": 3.2
+              },
+              {
+                "name": "Draw",
+                "price": 2.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:45:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:37Z",
+            "outcomes": [
+              {
+                "name": "Elche",
+                "price": 2.2
+              },
+              {
+                "name": "Villarreal",
+                "price": 3.2
+              },
+              {
+                "name": "Draw",
+                "price": 2.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:45:22Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:22Z",
+            "outcomes": [
+              {
+                "name": "Elche",
+                "price": 2.26
+              },
+              {
+                "name": "Villarreal",
+                "price": 3.85
+              },
+              {
+                "name": "Draw",
+                "price": 3.2
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:45:22Z",
+            "outcomes": [
+              {
+                "name": "Elche",
+                "price": 2.32
+              },
+              {
+                "name": "Villarreal",
+                "price": 4.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:45:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:37Z",
+            "outcomes": [
+              {
+                "name": "Elche",
+                "price": 2.18
+              },
+              {
+                "name": "Villarreal",
+                "price": 3.35
+              },
+              {
+                "name": "Draw",
+                "price": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:45:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:35Z",
+            "outcomes": [
+              {
+                "name": "Elche",
+                "price": 2.14
+              },
+              {
+                "name": "Villarreal",
+                "price": 3.55
+              },
+              {
+                "name": "Draw",
+                "price": 3.2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6a35ca8a4c74c302ed080780b2090588",
+    "sport_key": "soccer_spain_segunda_division",
+    "sport_title": "La Liga 2 - Spain",
+    "commence_time": "2024-03-10T15:15:00Z",
+    "home_team": "Levante",
+    "away_team": "Sporting Gij\u00f3n",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:35Z",
+            "outcomes": [
+              {
+                "name": "Levante",
+                "price": 2.0
+              },
+              {
+                "name": "Sporting Gij\u00f3n",
+                "price": 3.5
+              },
+              {
+                "name": "Draw",
+                "price": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:45:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:36Z",
+            "outcomes": [
+              {
+                "name": "Levante",
+                "price": 2.1
+              },
+              {
+                "name": "Sporting Gij\u00f3n",
+                "price": 3.6
+              },
+              {
+                "name": "Draw",
+                "price": 3.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:45:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:35Z",
+            "outcomes": [
+              {
+                "name": "Levante",
+                "price": 2.08
+              },
+              {
+                "name": "Sporting Gij\u00f3n",
+                "price": 3.65
+              },
+              {
+                "name": "Draw",
+                "price": 3.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:36Z",
+            "outcomes": [
+              {
+                "name": "Levante",
+                "price": 2.0
+              },
+              {
+                "name": "Sporting Gij\u00f3n",
+                "price": 3.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:45:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:37Z",
+            "outcomes": [
+              {
+                "name": "Levante",
+                "price": 2.0
+              },
+              {
+                "name": "Sporting Gij\u00f3n",
+                "price": 3.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:45:22Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:22Z",
+            "outcomes": [
+              {
+                "name": "Levante",
+                "price": 2.18
+              },
+              {
+                "name": "Sporting Gij\u00f3n",
+                "price": 3.85
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:45:22Z",
+            "outcomes": [
+              {
+                "name": "Levante",
+                "price": 2.3
+              },
+              {
+                "name": "Sporting Gij\u00f3n",
+                "price": 4.2
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:45:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:37Z",
+            "outcomes": [
+              {
+                "name": "Levante",
+                "price": 2.08
+              },
+              {
+                "name": "Sporting Gij\u00f3n",
+                "price": 3.45
+              },
+              {
+                "name": "Draw",
+                "price": 3.15
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2a213c72c232579a5598934e5293b271",
+    "sport_key": "soccer_spain_segunda_division",
+    "sport_title": "La Liga 2 - Spain",
+    "commence_time": "2024-03-10T17:30:00Z",
+    "home_team": "SD Eibar",
+    "away_team": "Burgos CF",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:35Z",
+            "outcomes": [
+              {
+                "name": "Burgos CF",
+                "price": 4.6
+              },
+              {
+                "name": "SD Eibar",
+                "price": 1.7
+              },
+              {
+                "name": "Draw",
+                "price": 3.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:45:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:36Z",
+            "outcomes": [
+              {
+                "name": "Burgos CF",
+                "price": 5.0
+              },
+              {
+                "name": "SD Eibar",
+                "price": 1.74
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:45:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:35Z",
+            "outcomes": [
+              {
+                "name": "Burgos CF",
+                "price": 4.8
+              },
+              {
+                "name": "SD Eibar",
+                "price": 1.79
+              },
+              {
+                "name": "Draw",
+                "price": 3.35
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:45:22Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:22Z",
+            "outcomes": [
+              {
+                "name": "Burgos CF",
+                "price": 5.4
+              },
+              {
+                "name": "SD Eibar",
+                "price": 1.78
+              },
+              {
+                "name": "Draw",
+                "price": 3.55
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:45:22Z",
+            "outcomes": [
+              {
+                "name": "Burgos CF",
+                "price": 5.8
+              },
+              {
+                "name": "SD Eibar",
+                "price": 1.86
+              },
+              {
+                "name": "Draw",
+                "price": 3.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:45:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:37Z",
+            "outcomes": [
+              {
+                "name": "Burgos CF",
+                "price": 4.6
+              },
+              {
+                "name": "SD Eibar",
+                "price": 1.74
+              },
+              {
+                "name": "Draw",
+                "price": 3.35
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:36Z",
+            "outcomes": [
+              {
+                "name": "Burgos CF",
+                "price": 4.4
+              },
+              {
+                "name": "SD Eibar",
+                "price": 1.7
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:45:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:37Z",
+            "outcomes": [
+              {
+                "name": "Burgos CF",
+                "price": 4.4
+              },
+              {
+                "name": "SD Eibar",
+                "price": 1.7
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2ea44aa2b4257b4bef20b9ab092bef90",
+    "sport_key": "soccer_spain_segunda_division",
+    "sport_title": "La Liga 2 - Spain",
+    "commence_time": "2024-03-10T20:00:00Z",
+    "home_team": "Alcorc\u00f3n",
+    "away_team": "RCD Espanyol",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:35Z",
+            "outcomes": [
+              {
+                "name": "Alcorc\u00f3n",
+                "price": 3.5
+              },
+              {
+                "name": "RCD Espanyol",
+                "price": 2.0
+              },
+              {
+                "name": "Draw",
+                "price": 2.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:45:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:36Z",
+            "outcomes": [
+              {
+                "name": "Alcorc\u00f3n",
+                "price": 3.6
+              },
+              {
+                "name": "RCD Espanyol",
+                "price": 2.2
+              },
+              {
+                "name": "Draw",
+                "price": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:36Z",
+            "outcomes": [
+              {
+                "name": "Alcorc\u00f3n",
+                "price": 3.25
+              },
+              {
+                "name": "RCD Espanyol",
+                "price": 2.1
+              },
+              {
+                "name": "Draw",
+                "price": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:45:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:37Z",
+            "outcomes": [
+              {
+                "name": "Alcorc\u00f3n",
+                "price": 3.25
+              },
+              {
+                "name": "RCD Espanyol",
+                "price": 2.1
+              },
+              {
+                "name": "Draw",
+                "price": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:45:22Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:22Z",
+            "outcomes": [
+              {
+                "name": "Alcorc\u00f3n",
+                "price": 3.85
+              },
+              {
+                "name": "RCD Espanyol",
+                "price": 2.22
+              },
+              {
+                "name": "Draw",
+                "price": 3.1
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:45:22Z",
+            "outcomes": [
+              {
+                "name": "Alcorc\u00f3n",
+                "price": 4.2
+              },
+              {
+                "name": "RCD Espanyol",
+                "price": 2.38
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:45:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:37Z",
+            "outcomes": [
+              {
+                "name": "Alcorc\u00f3n",
+                "price": 3.45
+              },
+              {
+                "name": "RCD Espanyol",
+                "price": 2.12
+              },
+              {
+                "name": "Draw",
+                "price": 3.05
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:45:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:35Z",
+            "outcomes": [
+              {
+                "name": "Alcorc\u00f3n",
+                "price": 3.9
+              },
+              {
+                "name": "RCD Espanyol",
+                "price": 2.14
+              },
+              {
+                "name": "Draw",
+                "price": 2.95
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3df817df1bff0b36843276267561ff1b",
+    "sport_key": "soccer_spain_segunda_division",
+    "sport_title": "La Liga 2 - Spain",
+    "commence_time": "2024-03-11T19:30:00Z",
+    "home_team": "SD Amorebieta",
+    "away_team": "Legan\u00e9s",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:35Z",
+            "outcomes": [
+              {
+                "name": "Legan\u00e9s",
+                "price": 2.3
+              },
+              {
+                "name": "SD Amorebieta",
+                "price": 2.9
+              },
+              {
+                "name": "Draw",
+                "price": 2.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:45:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:36Z",
+            "outcomes": [
+              {
+                "name": "Legan\u00e9s",
+                "price": 2.45
+              },
+              {
+                "name": "SD Amorebieta",
+                "price": 3.2
+              },
+              {
+                "name": "Draw",
+                "price": 2.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:45:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:37Z",
+            "outcomes": [
+              {
+                "name": "Legan\u00e9s",
+                "price": 2.4
+              },
+              {
+                "name": "SD Amorebieta",
+                "price": 3.05
+              },
+              {
+                "name": "Draw",
+                "price": 2.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:45:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:35Z",
+            "outcomes": [
+              {
+                "name": "Legan\u00e9s",
+                "price": 2.43
+              },
+              {
+                "name": "SD Amorebieta",
+                "price": 3.35
+              },
+              {
+                "name": "Draw",
+                "price": 2.85
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:45:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:37Z",
+            "outcomes": [
+              {
+                "name": "Legan\u00e9s",
+                "price": 2.38
+              },
+              {
+                "name": "SD Amorebieta",
+                "price": 2.9
+              },
+              {
+                "name": "Draw",
+                "price": 2.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:36Z",
+            "outcomes": [
+              {
+                "name": "Legan\u00e9s",
+                "price": 2.38
+              },
+              {
+                "name": "SD Amorebieta",
+                "price": 2.9
+              },
+              {
+                "name": "Draw",
+                "price": 2.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:45:22Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:22Z",
+            "outcomes": [
+              {
+                "name": "Legan\u00e9s",
+                "price": 2.52
+              },
+              {
+                "name": "SD Amorebieta",
+                "price": 3.35
+              },
+              {
+                "name": "Draw",
+                "price": 2.88
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:45:22Z",
+            "outcomes": [
+              {
+                "name": "Legan\u00e9s",
+                "price": 2.72
+              },
+              {
+                "name": "SD Amorebieta",
+                "price": 3.65
+              },
+              {
+                "name": "Draw",
+                "price": 3.1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0195876ecaf3f8708e3d565a1abaee58",
+    "sport_key": "soccer_spain_segunda_division",
+    "sport_title": "La Liga 2 - Spain",
+    "commence_time": "2024-03-15T19:30:00Z",
+    "home_team": "CD Eldense",
+    "away_team": "FC Cartagena",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:35Z",
+            "outcomes": [
+              {
+                "name": "CD Eldense",
+                "price": 2.0
+              },
+              {
+                "name": "FC Cartagena",
+                "price": 3.4
+              },
+              {
+                "name": "Draw",
+                "price": 2.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:45:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:36Z",
+            "outcomes": [
+              {
+                "name": "CD Eldense",
+                "price": 2.2
+              },
+              {
+                "name": "FC Cartagena",
+                "price": 3.6
+              },
+              {
+                "name": "Draw",
+                "price": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:45:22Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:22Z",
+            "outcomes": [
+              {
+                "name": "CD Eldense",
+                "price": 1.04
+              },
+              {
+                "name": "FC Cartagena",
+                "price": 1.04
+              },
+              {
+                "name": "Draw",
+                "price": 1.11
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:45:22Z",
+            "outcomes": [
+              {
+                "name": "CD Eldense",
+                "price": 480.0
+              },
+              {
+                "name": "FC Cartagena",
+                "price": 870.0
+              },
+              {
+                "name": "Draw",
+                "price": 350.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:36Z",
+            "outcomes": [
+              {
+                "name": "CD Eldense",
+                "price": 2.05
+              },
+              {
+                "name": "FC Cartagena",
+                "price": 3.6
+              },
+              {
+                "name": "Draw",
+                "price": 2.88
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:45:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:37Z",
+            "outcomes": [
+              {
+                "name": "CD Eldense",
+                "price": 2.05
+              },
+              {
+                "name": "FC Cartagena",
+                "price": 3.6
+              },
+              {
+                "name": "Draw",
+                "price": 2.88
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

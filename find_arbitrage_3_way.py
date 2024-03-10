@@ -55,8 +55,7 @@ SPORTS = [
     'baseball_mlb_preseason',
     'cricket_odi'
 ]
-available_bookmakers = ["unibet", "ladbrokes_au", "pointsbetau", "playup", "tab", "neds", "bluebet", "betr_au",
-                        "sportsbet", "betfair_ex_au"]
+available_bookmakers = config.get('BOOKMAKERS', 'BOOKMAKERS_LIST').split(', ')
 
 output_directory = 'found'
 output_filename = '3-way-arbitrage.txt'
@@ -191,14 +190,17 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
                     with open(output_file_path, 'a', encoding='utf-8') as output_file:
                         print(f'****{event["sport_title"]}****', file=output_file)
                         print(
-                            f'{underdog_max_odd_entity["underdog"]["name"]} (underdog) vs {favorite_max_odd_entity["favorite"]["name"]} (favorite)',
+                            f'{underdog_max_odd_entity["underdog"]["name"]} (underdog) vs '
+                            f'{favorite_max_odd_entity["favorite"]["name"]} (favorite)',
                             file=output_file)
                         print(f'Arbitrage Percentage: {arb_percentage:.2f}%', file=output_file)
                         print(
-                            f'Stake ${underdog_stake:.2f} on {underdog_max_odd_entity["underdog"]["name"]} (underdog) from [{underdog_max_odd_bookmaker}] - Odds: {underdog_max_odd:.2f}',
+                            f'Stake ${underdog_stake:.2f} on {underdog_max_odd_entity["underdog"]["name"]} (underdog) '
+                            f'from [{underdog_max_odd_bookmaker}] - Odds: {underdog_max_odd:.2f}',
                             file=output_file)
                         print(
-                            f'Stake ${favorite_stake:.2f} on {favorite_max_odd_entity["favorite"]["name"]} (favorite) from [{favorite_max_odd_bookmaker}] - Odds: {favorite_max_odd:.2f}',
+                            f'Stake ${favorite_stake:.2f} on {favorite_max_odd_entity["favorite"]["name"]} (favorite) '
+                            f'from [{favorite_max_odd_bookmaker}] - Odds: {favorite_max_odd:.2f}',
                             file=output_file)
                         print(
                             f'Stake ${draw_stake:.2f} on Draw from [{draw_max_odd_bookmaker}] - Odds: {draw_max_odd:.2f}',

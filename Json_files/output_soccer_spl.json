@@ -1,0 +1,1708 @@
+[
+  {
+    "id": "d3695fa102c2cb46a20721ac84c9c1a2",
+    "sport_key": "soccer_spl",
+    "sport_title": "Premiership - Scotland",
+    "commence_time": "2024-03-13T19:45:00Z",
+    "home_team": "Dundee FC",
+    "away_team": "Aberdeen",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:45:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:26Z",
+            "outcomes": [
+              {
+                "name": "Aberdeen",
+                "price": 2.75
+              },
+              {
+                "name": "Dundee FC",
+                "price": 2.25
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:45:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:27Z",
+            "outcomes": [
+              {
+                "name": "Aberdeen",
+                "price": 2.85
+              },
+              {
+                "name": "Dundee FC",
+                "price": 2.35
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:44:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:54Z",
+            "outcomes": [
+              {
+                "name": "Aberdeen",
+                "price": 2.75
+              },
+              {
+                "name": "Dundee FC",
+                "price": 2.35
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:27Z",
+            "outcomes": [
+              {
+                "name": "Aberdeen",
+                "price": 2.75
+              },
+              {
+                "name": "Dundee FC",
+                "price": 2.35
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:28Z",
+            "outcomes": [
+              {
+                "name": "Aberdeen",
+                "price": 2.76
+              },
+              {
+                "name": "Dundee FC",
+                "price": 2.26
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:45:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:26Z",
+            "outcomes": [
+              {
+                "name": "Aberdeen",
+                "price": 2.75
+              },
+              {
+                "name": "Dundee FC",
+                "price": 2.28
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:27Z",
+            "outcomes": [
+              {
+                "name": "Aberdeen",
+                "price": 2.8
+              },
+              {
+                "name": "Dundee FC",
+                "price": 2.3
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:45:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:21Z",
+            "outcomes": [
+              {
+                "name": "Aberdeen",
+                "price": 2.88
+              },
+              {
+                "name": "Dundee FC",
+                "price": 2.48
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:45:21Z",
+            "outcomes": [
+              {
+                "name": "Aberdeen",
+                "price": 3.3
+              },
+              {
+                "name": "Dundee FC",
+                "price": 2.68
+              },
+              {
+                "name": "Draw",
+                "price": 3.85
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7c32c953f5b48f2f776df640c3ce91bd",
+    "sport_key": "soccer_spl",
+    "sport_title": "Premiership - Scotland",
+    "commence_time": "2024-03-13T19:45:00Z",
+    "home_team": "Ross County",
+    "away_team": "Hibernian",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:27Z",
+            "outcomes": [
+              {
+                "name": "Hibernian",
+                "price": 1.95
+              },
+              {
+                "name": "Ross County",
+                "price": 3.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:45:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:27Z",
+            "outcomes": [
+              {
+                "name": "Hibernian",
+                "price": 2.0
+              },
+              {
+                "name": "Ross County",
+                "price": 3.5
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:45:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:26Z",
+            "outcomes": [
+              {
+                "name": "Hibernian",
+                "price": 1.94
+              },
+              {
+                "name": "Ross County",
+                "price": 3.6
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:44:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:54Z",
+            "outcomes": [
+              {
+                "name": "Hibernian",
+                "price": 2.0
+              },
+              {
+                "name": "Ross County",
+                "price": 3.45
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:27Z",
+            "outcomes": [
+              {
+                "name": "Hibernian",
+                "price": 2.0
+              },
+              {
+                "name": "Ross County",
+                "price": 3.45
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:28Z",
+            "outcomes": [
+              {
+                "name": "Hibernian",
+                "price": 1.96
+              },
+              {
+                "name": "Ross County",
+                "price": 3.35
+              },
+              {
+                "name": "Draw",
+                "price": 3.55
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:45:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:26Z",
+            "outcomes": [
+              {
+                "name": "Hibernian",
+                "price": 1.95
+              },
+              {
+                "name": "Ross County",
+                "price": 3.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.55
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:45:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:21Z",
+            "outcomes": [
+              {
+                "name": "Hibernian",
+                "price": 1.91
+              },
+              {
+                "name": "Ross County",
+                "price": 3.2
+              },
+              {
+                "name": "Draw",
+                "price": 1.2
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:45:21Z",
+            "outcomes": [
+              {
+                "name": "Hibernian",
+                "price": 2.18
+              },
+              {
+                "name": "Ross County",
+                "price": 4.4
+              },
+              {
+                "name": "Draw",
+                "price": 950.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9ffc908fd2bad1f75062f28a0489234d",
+    "sport_key": "soccer_spl",
+    "sport_title": "Premiership - Scotland",
+    "commence_time": "2024-03-16T15:00:00Z",
+    "home_team": "Motherwell",
+    "away_team": "Aberdeen",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:27Z",
+            "outcomes": [
+              {
+                "name": "Aberdeen",
+                "price": 3.0
+              },
+              {
+                "name": "Motherwell",
+                "price": 2.3
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:45:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:26Z",
+            "outcomes": [
+              {
+                "name": "Aberdeen",
+                "price": 2.9
+              },
+              {
+                "name": "Motherwell",
+                "price": 2.25
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:28Z",
+            "outcomes": [
+              {
+                "name": "Aberdeen",
+                "price": 2.88
+              },
+              {
+                "name": "Motherwell",
+                "price": 2.25
+              },
+              {
+                "name": "Draw",
+                "price": 3.35
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:45:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:27Z",
+            "outcomes": [
+              {
+                "name": "Aberdeen",
+                "price": 3.0
+              },
+              {
+                "name": "Motherwell",
+                "price": 2.35
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:27Z",
+            "outcomes": [
+              {
+                "name": "Aberdeen",
+                "price": 2.9
+              },
+              {
+                "name": "Motherwell",
+                "price": 2.3
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:44:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:54Z",
+            "outcomes": [
+              {
+                "name": "Aberdeen",
+                "price": 2.9
+              },
+              {
+                "name": "Motherwell",
+                "price": 2.3
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:45:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:26Z",
+            "outcomes": [
+              {
+                "name": "Aberdeen",
+                "price": 2.85
+              },
+              {
+                "name": "Motherwell",
+                "price": 2.25
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:45:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:21Z",
+            "outcomes": [
+              {
+                "name": "Aberdeen",
+                "price": 1.11
+              },
+              {
+                "name": "Motherwell",
+                "price": 1.09
+              },
+              {
+                "name": "Draw",
+                "price": 1.17
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:45:21Z",
+            "outcomes": [
+              {
+                "name": "Aberdeen",
+                "price": 870.0
+              },
+              {
+                "name": "Motherwell",
+                "price": 480.0
+              },
+              {
+                "name": "Draw",
+                "price": 350.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "42c65cf54cbaea9f2ccca838aafb9e8d",
+    "sport_key": "soccer_spl",
+    "sport_title": "Premiership - Scotland",
+    "commence_time": "2024-03-16T15:00:00Z",
+    "home_team": "Celtic",
+    "away_team": "St Johnstone",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:27Z",
+            "outcomes": [
+              {
+                "name": "Celtic",
+                "price": 1.08
+              },
+              {
+                "name": "St Johnstone",
+                "price": 21.0
+              },
+              {
+                "name": "Draw",
+                "price": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:45:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:26Z",
+            "outcomes": [
+              {
+                "name": "Celtic",
+                "price": 1.16
+              },
+              {
+                "name": "St Johnstone",
+                "price": 11.0
+              },
+              {
+                "name": "Draw",
+                "price": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:28Z",
+            "outcomes": [
+              {
+                "name": "Celtic",
+                "price": 1.11
+              },
+              {
+                "name": "St Johnstone",
+                "price": 21.0
+              },
+              {
+                "name": "Draw",
+                "price": 7.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:45:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:27Z",
+            "outcomes": [
+              {
+                "name": "Celtic",
+                "price": 1.1
+              },
+              {
+                "name": "St Johnstone",
+                "price": 21.0
+              },
+              {
+                "name": "Draw",
+                "price": 9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:27Z",
+            "outcomes": [
+              {
+                "name": "Celtic",
+                "price": 1.13
+              },
+              {
+                "name": "St Johnstone",
+                "price": 16.0
+              },
+              {
+                "name": "Draw",
+                "price": 8.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:44:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:54Z",
+            "outcomes": [
+              {
+                "name": "Celtic",
+                "price": 1.13
+              },
+              {
+                "name": "St Johnstone",
+                "price": 16.0
+              },
+              {
+                "name": "Draw",
+                "price": 8.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:45:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:26Z",
+            "outcomes": [
+              {
+                "name": "Celtic",
+                "price": 1.11
+              },
+              {
+                "name": "St Johnstone",
+                "price": 23.0
+              },
+              {
+                "name": "Draw",
+                "price": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:45:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:21Z",
+            "outcomes": [
+              {
+                "name": "Celtic",
+                "price": 1.12
+              },
+              {
+                "name": "St Johnstone",
+                "price": 1.05
+              },
+              {
+                "name": "Draw",
+                "price": 1.1
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:45:21Z",
+            "outcomes": [
+              {
+                "name": "Celtic",
+                "price": 1.19
+              },
+              {
+                "name": "St Johnstone",
+                "price": 870.0
+              },
+              {
+                "name": "Draw",
+                "price": 370.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a65f3e1fb762e11b738bd359f0308dbf",
+    "sport_key": "soccer_spl",
+    "sport_title": "Premiership - Scotland",
+    "commence_time": "2024-03-16T15:00:00Z",
+    "home_team": "Ross County",
+    "away_team": "Hearts",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:27Z",
+            "outcomes": [
+              {
+                "name": "Hearts",
+                "price": 1.75
+              },
+              {
+                "name": "Ross County",
+                "price": 4.33
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:45:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:26Z",
+            "outcomes": [
+              {
+                "name": "Hearts",
+                "price": 1.72
+              },
+              {
+                "name": "Ross County",
+                "price": 4.2
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:28Z",
+            "outcomes": [
+              {
+                "name": "Hearts",
+                "price": 1.82
+              },
+              {
+                "name": "Ross County",
+                "price": 3.85
+              },
+              {
+                "name": "Draw",
+                "price": 3.55
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:45:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:27Z",
+            "outcomes": [
+              {
+                "name": "Hearts",
+                "price": 1.8
+              },
+              {
+                "name": "Ross County",
+                "price": 4.25
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:27Z",
+            "outcomes": [
+              {
+                "name": "Hearts",
+                "price": 1.8
+              },
+              {
+                "name": "Ross County",
+                "price": 4.2
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:44:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:54Z",
+            "outcomes": [
+              {
+                "name": "Hearts",
+                "price": 1.8
+              },
+              {
+                "name": "Ross County",
+                "price": 4.2
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:45:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:26Z",
+            "outcomes": [
+              {
+                "name": "Hearts",
+                "price": 1.82
+              },
+              {
+                "name": "Ross County",
+                "price": 3.85
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:45:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:21Z",
+            "outcomes": [
+              {
+                "name": "Hearts",
+                "price": 1.04
+              },
+              {
+                "name": "Ross County",
+                "price": 1.04
+              },
+              {
+                "name": "Draw",
+                "price": 1.1
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:45:21Z",
+            "outcomes": [
+              {
+                "name": "Hearts",
+                "price": 870.0
+              },
+              {
+                "name": "Ross County",
+                "price": 480.0
+              },
+              {
+                "name": "Draw",
+                "price": 350.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "728c4c7bd3c1ad00c932151df7994f52",
+    "sport_key": "soccer_spl",
+    "sport_title": "Premiership - Scotland",
+    "commence_time": "2024-03-16T15:00:00Z",
+    "home_team": "Hibernian",
+    "away_team": "Livingston",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:27Z",
+            "outcomes": [
+              {
+                "name": "Hibernian",
+                "price": 1.5
+              },
+              {
+                "name": "Livingston",
+                "price": 5.5
+              },
+              {
+                "name": "Draw",
+                "price": 4.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:45:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:26Z",
+            "outcomes": [
+              {
+                "name": "Hibernian",
+                "price": 1.5
+              },
+              {
+                "name": "Livingston",
+                "price": 5.5
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:28Z",
+            "outcomes": [
+              {
+                "name": "Hibernian",
+                "price": 1.53
+              },
+              {
+                "name": "Livingston",
+                "price": 5.1
+              },
+              {
+                "name": "Draw",
+                "price": 4.15
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:45:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:27Z",
+            "outcomes": [
+              {
+                "name": "Hibernian",
+                "price": 1.55
+              },
+              {
+                "name": "Livingston",
+                "price": 5.75
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:27Z",
+            "outcomes": [
+              {
+                "name": "Hibernian",
+                "price": 1.53
+              },
+              {
+                "name": "Livingston",
+                "price": 5.0
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:44:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:54Z",
+            "outcomes": [
+              {
+                "name": "Hibernian",
+                "price": 1.53
+              },
+              {
+                "name": "Livingston",
+                "price": 5.0
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:45:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:26Z",
+            "outcomes": [
+              {
+                "name": "Hibernian",
+                "price": 1.52
+              },
+              {
+                "name": "Livingston",
+                "price": 5.25
+              },
+              {
+                "name": "Draw",
+                "price": 4.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:45:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:21Z",
+            "outcomes": [
+              {
+                "name": "Hibernian",
+                "price": 1.09
+              },
+              {
+                "name": "Livingston",
+                "price": 1.15
+              },
+              {
+                "name": "Draw",
+                "price": 1.15
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:45:21Z",
+            "outcomes": [
+              {
+                "name": "Hibernian",
+                "price": 480.0
+              },
+              {
+                "name": "Livingston",
+                "price": 870.0
+              },
+              {
+                "name": "Draw",
+                "price": 350.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d0d13ea7073f7097e789479c1f467188",
+    "sport_key": "soccer_spl",
+    "sport_title": "Premiership - Scotland",
+    "commence_time": "2024-03-16T15:00:00Z",
+    "home_team": "Kilmarnock",
+    "away_team": "St Mirren",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:27Z",
+            "outcomes": [
+              {
+                "name": "Kilmarnock",
+                "price": 2.15
+              },
+              {
+                "name": "St Mirren",
+                "price": 3.3
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:45:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:26Z",
+            "outcomes": [
+              {
+                "name": "Kilmarnock",
+                "price": 2.1
+              },
+              {
+                "name": "St Mirren",
+                "price": 3.25
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:28Z",
+            "outcomes": [
+              {
+                "name": "Kilmarnock",
+                "price": 2.08
+              },
+              {
+                "name": "St Mirren",
+                "price": 3.3
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:45:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:27Z",
+            "outcomes": [
+              {
+                "name": "Kilmarnock",
+                "price": 2.15
+              },
+              {
+                "name": "St Mirren",
+                "price": 3.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-09T23:45:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:27Z",
+            "outcomes": [
+              {
+                "name": "Kilmarnock",
+                "price": 2.15
+              },
+              {
+                "name": "St Mirren",
+                "price": 3.3
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-09T23:44:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:44:54Z",
+            "outcomes": [
+              {
+                "name": "Kilmarnock",
+                "price": 2.15
+              },
+              {
+                "name": "St Mirren",
+                "price": 3.3
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-09T23:45:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:26Z",
+            "outcomes": [
+              {
+                "name": "Kilmarnock",
+                "price": 2.08
+              },
+              {
+                "name": "St Mirren",
+                "price": 3.35
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-09T23:45:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:21Z",
+            "outcomes": [
+              {
+                "name": "Kilmarnock",
+                "price": 1.95
+              },
+              {
+                "name": "St Mirren",
+                "price": 1.04
+              },
+              {
+                "name": "Draw",
+                "price": 2.68
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-09T23:45:21Z",
+            "outcomes": [
+              {
+                "name": "Kilmarnock",
+                "price": 2.64
+              },
+              {
+                "name": "St Mirren",
+                "price": 870.0
+              },
+              {
+                "name": "Draw",
+                "price": 350.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "24691bb4088ca5defe75da7f2e6cf51b",
+    "sport_key": "soccer_spl",
+    "sport_title": "Premiership - Scotland",
+    "commence_time": "2024-03-17T12:00:00Z",
+    "home_team": "Dundee FC",
+    "away_team": "Rangers",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-09T23:45:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:27Z",
+            "outcomes": [
+              {
+                "name": "Dundee FC",
+                "price": 7.5
+              },
+              {
+                "name": "Rangers",
+                "price": 1.33
+              },
+              {
+                "name": "Draw",
+                "price": 5.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-09T23:45:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:26Z",
+            "outcomes": [
+              {
+                "name": "Dundee FC",
+                "price": 6.5
+              },
+              {
+                "name": "Rangers",
+                "price": 1.4
+              },
+              {
+                "name": "Draw",
+                "price": 4.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-09T23:45:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:28Z",
+            "outcomes": [
+              {
+                "name": "Dundee FC",
+                "price": 7.0
+              },
+              {
+                "name": "Rangers",
+                "price": 1.36
+              },
+              {
+                "name": "Draw",
+                "price": 4.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-09T23:45:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-09T23:45:27Z",
+            "outcomes": [
+              {
+                "name": "Dundee FC",
+                "price": 7.5
+              },
+              {
+                "name": "Rangers",
+                "price": 1.37
+              },
+              {
+                "name": "Draw",
+                "price": 5.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
