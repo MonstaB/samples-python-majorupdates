@@ -29,56 +29,11 @@ API_KEY = args.api_key or config.get('DEFAULT', 'API_KEY')
 # Sport key
 # Find sport keys from the /sports endpoint below, or from https://the-odds-api.com/sports-odds-data/sports-apis.html
 # Alternatively use 'upcoming' to see the next 8 games across all sports
-SPORTS = [
-    'rugbyleague_nrl',
-    'mma_mixed_martial_arts',
-    'icehockey_nhl',
-    'basketball_nba',
-    'boxing_boxing',
-    'cricket_big_bash',
-    'soccer_australia_aleague',
-    'soccer_austria_bundesliga',
-    'soccer_belgium_first_div',
-    'soccer_brazil_campeonato',
-    'soccer_chile_campeonato',
-    'soccer_china_superleague',
-    'soccer_conmebol_copa_libertadores',
-    'soccer_denmark_superliga',
-    'soccer_efl_champ',
-    'soccer_england_league1',
-    'soccer_england_league2',
-    'soccer_epl',
-    'soccer_fa_cup',
-    'soccer_france_ligue_one',
-    'soccer_france_ligue_two',
-    'soccer_germany_bundesliga',
-    'soccer_germany_bundesliga2',
-    'soccer_germany_liga3',
-    'soccer_greece_super_league',
-    'soccer_italy_serie_a',
-    'soccer_italy_serie_b',
-    'soccer_japan_j_league',
-    'soccer_korea_kleague1',
-    'soccer_league_of_ireland',
-    'soccer_mexico_ligamx',
-    'soccer_netherlands_eredivisie',
-    'soccer_poland_ekstraklasa',
-    'soccer_portugal_primeira_liga',
-    'soccer_spain_la_liga',
-    'soccer_spain_segunda_division',
-    'soccer_spl',
-    'soccer_sweden_allsvenskan',
-    'soccer_switzerland_superleague',
-    'soccer_turkey_super_league',
-    'soccer_uefa_champs_league',
-    'soccer_uefa_euro_qualification',
-    'soccer_uefa_europa_conference_league',
-    'soccer_uefa_europa_league',
-    'soccer_usa_mls',
-    'baseball_mlb',
-    'baseball_mlb_preseason',
-    'cricket_odi'
-]
+sports_list_file = config.get('SPORTS', 'MY_SPORTS_LIST_FILE')
+with open(sports_list_file, 'r') as file:
+    SPORTS = file.read().split(', ')
+# Alternatively use 'upcoming' to see the next 8 games across all sports
+SPORTS = [SPORT.strip() for SPORT in SPORTS]
 # Bookmaker regions
 # uk | us | us2 | eu | au. Multiple can be specified if comma delimited.
 # More info at https://the-odds-api.com/sports-odds-data/bookmaker-apis.html
