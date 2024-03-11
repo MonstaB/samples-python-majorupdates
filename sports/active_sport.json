@@ -136,14 +136,6 @@
     "has_outrights": false
   },
   {
-    "key": "cricket_test_match",
-    "group": "Cricket",
-    "title": "Test Matches",
-    "description": "International Test Matches",
-    "active": true,
-    "has_outrights": false
-  },
-  {
     "key": "golf_masters_tournament_winner",
     "group": "Golf",
     "title": "Masters Tournament Winner",
@@ -240,14 +232,6 @@
     "has_outrights": false
   },
   {
-    "key": "soccer_austria_bundesliga",
-    "group": "Soccer",
-    "title": "Austrian Football Bundesliga",
-    "description": "Austrian Soccer",
-    "active": true,
-    "has_outrights": false
-  },
-  {
     "key": "soccer_belgium_first_div",
     "group": "Soccer",
     "title": "Belgium First Div",
@@ -268,14 +252,6 @@
     "group": "Soccer",
     "title": "Primera Divisi\u00f3n - Chile",
     "description": "Campeonato Chileno",
-    "active": true,
-    "has_outrights": false
-  },
-  {
-    "key": "soccer_china_superleague",
-    "group": "Soccer",
-    "title": "Super League - China",
-    "description": "Chinese Soccer",
     "active": true,
     "has_outrights": false
   },
@@ -380,14 +356,6 @@
     "group": "Soccer",
     "title": "3. Liga - Germany",
     "description": "German Soccer",
-    "active": true,
-    "has_outrights": false
-  },
-  {
-    "key": "soccer_greece_super_league",
-    "group": "Soccer",
-    "title": "Super League - Greece",
-    "description": "Greek Soccer",
     "active": true,
     "has_outrights": false
   },

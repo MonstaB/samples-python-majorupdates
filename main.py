@@ -15,7 +15,7 @@ existing_json_files = glob.glob(os.path.join(output_directory, '*.json'))
 for file in existing_json_files:
     os.remove(file)
 
-api_key_in_env = os.getenv("api_key")
+
 
 # Obtain the api key that was passed in from the command line
 parser = argparse.ArgumentParser(description='Sample V4')
@@ -25,7 +25,7 @@ args = parser.parse_args()
 # An api key is emailed to you when you sign up to a plan
 # Get a free API key at https://api.the-odds-api.com/
 API_KEY = args.api_key or config.get('DEFAULT', 'API_KEY')
-
+api_key_in_env = os.getenv("api_key")
 # Sport key
 # Find sport keys from the /sports endpoint below, or from https://the-odds-api.com/sports-odds-data/sports-apis.html
 # Alternatively use 'upcoming' to see the next 8 games across all sports
