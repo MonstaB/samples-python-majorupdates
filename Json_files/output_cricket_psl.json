@@ -1,0 +1,323 @@
+[
+  {
+    "id": "5fe9c031e2174d3b891378466ccd8a21",
+    "sport_key": "cricket_psl",
+    "sport_title": "Pakistan Super League",
+    "commence_time": "2024-03-11T16:00:00Z",
+    "home_team": "Karachi Kings",
+    "away_team": "Peshawar Zalmi",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-11T10:24:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:24:03Z",
+            "outcomes": [
+              {
+                "name": "Karachi Kings",
+                "price": 2.35
+              },
+              {
+                "name": "Peshawar Zalmi",
+                "price": 1.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-11T10:22:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:48Z",
+            "outcomes": [
+              {
+                "name": "Karachi Kings",
+                "price": 2.18
+              },
+              {
+                "name": "Peshawar Zalmi",
+                "price": 1.62
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-11T10:23:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:23Z",
+            "outcomes": [
+              {
+                "name": "Karachi Kings",
+                "price": 2.36
+              },
+              {
+                "name": "Peshawar Zalmi",
+                "price": 1.72
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-11T10:23:23Z",
+            "outcomes": [
+              {
+                "name": "Karachi Kings",
+                "price": 2.4
+              },
+              {
+                "name": "Peshawar Zalmi",
+                "price": 1.73
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-11T10:23:39Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:39Z",
+            "outcomes": [
+              {
+                "name": "Karachi Kings",
+                "price": 2.25
+              },
+              {
+                "name": "Peshawar Zalmi",
+                "price": 1.65
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-11T10:23:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:24Z",
+            "outcomes": [
+              {
+                "name": "Karachi Kings",
+                "price": 2.2
+              },
+              {
+                "name": "Peshawar Zalmi",
+                "price": 1.66
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-11T10:23:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:21Z",
+            "outcomes": [
+              {
+                "name": "Karachi Kings",
+                "price": 2.2
+              },
+              {
+                "name": "Peshawar Zalmi",
+                "price": 1.67
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-11T10:23:39Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:39Z",
+            "outcomes": [
+              {
+                "name": "Karachi Kings",
+                "price": 2.2
+              },
+              {
+                "name": "Peshawar Zalmi",
+                "price": 1.67
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-11T10:23:30Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:30Z",
+            "outcomes": [
+              {
+                "name": "Karachi Kings",
+                "price": 2.15
+              },
+              {
+                "name": "Peshawar Zalmi",
+                "price": 1.6
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "553b1c655a733e0334027adaea5362af",
+    "sport_key": "cricket_psl",
+    "sport_title": "Pakistan Super League",
+    "commence_time": "2024-03-12T16:00:00Z",
+    "home_team": "Quetta Gladiators",
+    "away_team": "Multan Sultans",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-11T10:24:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:24:03Z",
+            "outcomes": [
+              {
+                "name": "Multan Sultans",
+                "price": 1.8
+              },
+              {
+                "name": "Quetta Gladiators",
+                "price": 2.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-11T10:22:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:48Z",
+            "outcomes": [
+              {
+                "name": "Multan Sultans",
+                "price": 1.78
+              },
+              {
+                "name": "Quetta Gladiators",
+                "price": 1.95
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-11T10:23:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:23Z",
+            "outcomes": [
+              {
+                "name": "Multan Sultans",
+                "price": 1.88
+              },
+              {
+                "name": "Quetta Gladiators",
+                "price": 2.04
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-11T10:23:23Z",
+            "outcomes": [
+              {
+                "name": "Multan Sultans",
+                "price": 1.96
+              },
+              {
+                "name": "Quetta Gladiators",
+                "price": 2.14
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-11T10:23:39Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:39Z",
+            "outcomes": [
+              {
+                "name": "Multan Sultans",
+                "price": 1.8
+              },
+              {
+                "name": "Quetta Gladiators",
+                "price": 2.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-11T10:23:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:24Z",
+            "outcomes": [
+              {
+                "name": "Multan Sultans",
+                "price": 1.8
+              },
+              {
+                "name": "Quetta Gladiators",
+                "price": 2.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

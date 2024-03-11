@@ -1,0 +1,1 @@
+aussierules_afl, basketball_nba, cricket_international_t20, cricket_ipl, cricket_odi, cricket_psl, mma_mixed_martial_arts, rugbyleague_nrl, soccer_australia_aleague

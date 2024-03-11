@@ -1,0 +1,1495 @@
+[
+  {
+    "id": "1c4f4fd3eb10ccf79d2a576998a07e5a",
+    "sport_key": "soccer_australia_aleague",
+    "sport_title": "A-League",
+    "commence_time": "2024-03-12T08:00:00Z",
+    "home_team": "Melbourne City",
+    "away_team": "Western Sydney Wanderers",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-11T10:22:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:32Z",
+            "outcomes": [
+              {
+                "name": "Melbourne City",
+                "price": 1.85
+              },
+              {
+                "name": "Western Sydney Wanderers",
+                "price": 3.6
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "topsport",
+        "title": "TopSport",
+        "last_update": "2024-03-11T10:23:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:46Z",
+            "outcomes": [
+              {
+                "name": "Melbourne City",
+                "price": 1.88
+              },
+              {
+                "name": "Western Sydney Wanderers",
+                "price": 3.45
+              },
+              {
+                "name": "Draw",
+                "price": 3.95
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-11T10:23:14Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:14Z",
+            "outcomes": [
+              {
+                "name": "Melbourne City",
+                "price": 1.9
+              },
+              {
+                "name": "Western Sydney Wanderers",
+                "price": 3.5
+              },
+              {
+                "name": "Draw",
+                "price": 4.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-11T10:22:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:43Z",
+            "outcomes": [
+              {
+                "name": "Melbourne City",
+                "price": 1.94
+              },
+              {
+                "name": "Western Sydney Wanderers",
+                "price": 3.5
+              },
+              {
+                "name": "Draw",
+                "price": 3.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-11T10:22:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:45Z",
+            "outcomes": [
+              {
+                "name": "Melbourne City",
+                "price": 1.94
+              },
+              {
+                "name": "Western Sydney Wanderers",
+                "price": 3.5
+              },
+              {
+                "name": "Draw",
+                "price": 3.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-11T10:22:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:43Z",
+            "outcomes": [
+              {
+                "name": "Melbourne City",
+                "price": 1.85
+              },
+              {
+                "name": "Western Sydney Wanderers",
+                "price": 3.6
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-11T10:23:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:35Z",
+            "outcomes": [
+              {
+                "name": "Melbourne City",
+                "price": 1.96
+              },
+              {
+                "name": "Western Sydney Wanderers",
+                "price": 3.8
+              },
+              {
+                "name": "Draw",
+                "price": 4.3
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-11T10:23:35Z",
+            "outcomes": [
+              {
+                "name": "Melbourne City",
+                "price": 1.97
+              },
+              {
+                "name": "Western Sydney Wanderers",
+                "price": 3.85
+              },
+              {
+                "name": "Draw",
+                "price": 4.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-11T10:22:51Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:51Z",
+            "outcomes": [
+              {
+                "name": "Melbourne City",
+                "price": 1.87
+              },
+              {
+                "name": "Western Sydney Wanderers",
+                "price": 3.5
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-11T10:23:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:16Z",
+            "outcomes": [
+              {
+                "name": "Melbourne City",
+                "price": 1.9
+              },
+              {
+                "name": "Western Sydney Wanderers",
+                "price": 3.6
+              },
+              {
+                "name": "Draw",
+                "price": 3.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-11T10:23:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:10Z",
+            "outcomes": [
+              {
+                "name": "Melbourne City",
+                "price": 1.9
+              },
+              {
+                "name": "Western Sydney Wanderers",
+                "price": 3.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.9
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b186a42ba794cd4e785c8e080a8f8bdb",
+    "sport_key": "soccer_australia_aleague",
+    "sport_title": "A-League",
+    "commence_time": "2024-03-14T08:00:00Z",
+    "home_team": "Western United FC",
+    "away_team": "Melbourne Victory",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-11T10:22:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:32Z",
+            "outcomes": [
+              {
+                "name": "Melbourne Victory",
+                "price": 1.72
+              },
+              {
+                "name": "Western United FC",
+                "price": 4.33
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-11T10:23:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:16Z",
+            "outcomes": [
+              {
+                "name": "Melbourne Victory",
+                "price": 1.7
+              },
+              {
+                "name": "Western United FC",
+                "price": 4.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-11T10:23:14Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:14Z",
+            "outcomes": [
+              {
+                "name": "Melbourne Victory",
+                "price": 1.71
+              },
+              {
+                "name": "Western United FC",
+                "price": 4.3
+              },
+              {
+                "name": "Draw",
+                "price": 4.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-11T10:22:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:43Z",
+            "outcomes": [
+              {
+                "name": "Melbourne Victory",
+                "price": 1.67
+              },
+              {
+                "name": "Western United FC",
+                "price": 4.6
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-11T10:22:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:45Z",
+            "outcomes": [
+              {
+                "name": "Melbourne Victory",
+                "price": 1.67
+              },
+              {
+                "name": "Western United FC",
+                "price": 4.6
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-11T10:22:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:43Z",
+            "outcomes": [
+              {
+                "name": "Melbourne Victory",
+                "price": 1.72
+              },
+              {
+                "name": "Western United FC",
+                "price": 4.25
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-11T10:22:51Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:51Z",
+            "outcomes": [
+              {
+                "name": "Melbourne Victory",
+                "price": 1.7
+              },
+              {
+                "name": "Western United FC",
+                "price": 4.5
+              },
+              {
+                "name": "Draw",
+                "price": 3.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-11T10:23:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:35Z",
+            "outcomes": [
+              {
+                "name": "Melbourne Victory",
+                "price": 1.64
+              },
+              {
+                "name": "Western United FC",
+                "price": 4.2
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-11T10:23:35Z",
+            "outcomes": [
+              {
+                "name": "Melbourne Victory",
+                "price": 1.84
+              },
+              {
+                "name": "Western United FC",
+                "price": 5.5
+              },
+              {
+                "name": "Draw",
+                "price": 5.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-11T10:23:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:10Z",
+            "outcomes": [
+              {
+                "name": "Melbourne Victory",
+                "price": 1.68
+              },
+              {
+                "name": "Western United FC",
+                "price": 4.3
+              },
+              {
+                "name": "Draw",
+                "price": 3.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "topsport",
+        "title": "TopSport",
+        "last_update": "2024-03-11T10:23:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:46Z",
+            "outcomes": [
+              {
+                "name": "Melbourne Victory",
+                "price": 1.64
+              },
+              {
+                "name": "Western United FC",
+                "price": 4.5
+              },
+              {
+                "name": "Draw",
+                "price": 4.1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1de8df3617dbd13d523215c97e6888e2",
+    "sport_key": "soccer_australia_aleague",
+    "sport_title": "A-League",
+    "commence_time": "2024-03-15T08:45:00Z",
+    "home_team": "Newcastle Jets FC",
+    "away_team": "Adelaide United",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-11T10:22:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:32Z",
+            "outcomes": [
+              {
+                "name": "Adelaide United",
+                "price": 2.62
+              },
+              {
+                "name": "Newcastle Jets FC",
+                "price": 2.37
+              },
+              {
+                "name": "Draw",
+                "price": 3.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-11T10:23:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:16Z",
+            "outcomes": [
+              {
+                "name": "Adelaide United",
+                "price": 2.6
+              },
+              {
+                "name": "Newcastle Jets FC",
+                "price": 2.35
+              },
+              {
+                "name": "Draw",
+                "price": 3.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-11T10:23:14Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:14Z",
+            "outcomes": [
+              {
+                "name": "Adelaide United",
+                "price": 2.65
+              },
+              {
+                "name": "Newcastle Jets FC",
+                "price": 2.35
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-11T10:22:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:43Z",
+            "outcomes": [
+              {
+                "name": "Adelaide United",
+                "price": 2.75
+              },
+              {
+                "name": "Newcastle Jets FC",
+                "price": 2.3
+              },
+              {
+                "name": "Draw",
+                "price": 3.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-11T10:22:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:45Z",
+            "outcomes": [
+              {
+                "name": "Adelaide United",
+                "price": 2.75
+              },
+              {
+                "name": "Newcastle Jets FC",
+                "price": 2.3
+              },
+              {
+                "name": "Draw",
+                "price": 3.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-11T10:22:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:43Z",
+            "outcomes": [
+              {
+                "name": "Adelaide United",
+                "price": 2.65
+              },
+              {
+                "name": "Newcastle Jets FC",
+                "price": 2.3
+              },
+              {
+                "name": "Draw",
+                "price": 3.95
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-11T10:22:51Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:51Z",
+            "outcomes": [
+              {
+                "name": "Adelaide United",
+                "price": 2.6
+              },
+              {
+                "name": "Newcastle Jets FC",
+                "price": 2.3
+              },
+              {
+                "name": "Draw",
+                "price": 3.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-11T10:23:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:35Z",
+            "outcomes": [
+              {
+                "name": "Adelaide United",
+                "price": 2.6
+              },
+              {
+                "name": "Newcastle Jets FC",
+                "price": 2.36
+              },
+              {
+                "name": "Draw",
+                "price": 4.2
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-11T10:23:35Z",
+            "outcomes": [
+              {
+                "name": "Adelaide United",
+                "price": 2.84
+              },
+              {
+                "name": "Newcastle Jets FC",
+                "price": 2.66
+              },
+              {
+                "name": "Draw",
+                "price": 4.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-11T10:23:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:10Z",
+            "outcomes": [
+              {
+                "name": "Adelaide United",
+                "price": 2.6
+              },
+              {
+                "name": "Newcastle Jets FC",
+                "price": 2.26
+              },
+              {
+                "name": "Draw",
+                "price": 3.8
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d3cfccdafbfaab08b34c20bb3659a476",
+    "sport_key": "soccer_australia_aleague",
+    "sport_title": "A-League",
+    "commence_time": "2024-03-16T04:30:00Z",
+    "home_team": "Wellington Phoenix FC",
+    "away_team": "Sydney FC",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-11T10:22:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:32Z",
+            "outcomes": [
+              {
+                "name": "Sydney FC",
+                "price": 2.1
+              },
+              {
+                "name": "Wellington Phoenix FC",
+                "price": 3.1
+              },
+              {
+                "name": "Draw",
+                "price": 3.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-11T10:23:14Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:14Z",
+            "outcomes": [
+              {
+                "name": "Sydney FC",
+                "price": 2.05
+              },
+              {
+                "name": "Wellington Phoenix FC",
+                "price": 3.2
+              },
+              {
+                "name": "Draw",
+                "price": 3.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-11T10:22:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:43Z",
+            "outcomes": [
+              {
+                "name": "Sydney FC",
+                "price": 2.1
+              },
+              {
+                "name": "Wellington Phoenix FC",
+                "price": 3.15
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-11T10:22:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:45Z",
+            "outcomes": [
+              {
+                "name": "Sydney FC",
+                "price": 2.1
+              },
+              {
+                "name": "Wellington Phoenix FC",
+                "price": 3.15
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-11T10:22:51Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:51Z",
+            "outcomes": [
+              {
+                "name": "Sydney FC",
+                "price": 2.1
+              },
+              {
+                "name": "Wellington Phoenix FC",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-11T10:23:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:35Z",
+            "outcomes": [
+              {
+                "name": "Sydney FC",
+                "price": 2.04
+              },
+              {
+                "name": "Wellington Phoenix FC",
+                "price": 2.96
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-11T10:23:35Z",
+            "outcomes": [
+              {
+                "name": "Sydney FC",
+                "price": 2.42
+              },
+              {
+                "name": "Wellington Phoenix FC",
+                "price": 3.7
+              },
+              {
+                "name": "Draw",
+                "price": 4.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-11T10:22:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:43Z",
+            "outcomes": [
+              {
+                "name": "Sydney FC",
+                "price": 2.06
+              },
+              {
+                "name": "Wellington Phoenix FC",
+                "price": 3.15
+              },
+              {
+                "name": "Draw",
+                "price": 3.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-11T10:23:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:10Z",
+            "outcomes": [
+              {
+                "name": "Sydney FC",
+                "price": 2.06
+              },
+              {
+                "name": "Wellington Phoenix FC",
+                "price": 3.05
+              },
+              {
+                "name": "Draw",
+                "price": 3.65
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5bbf4771526ca65e20faf9deaec1bc43",
+    "sport_key": "soccer_australia_aleague",
+    "sport_title": "A-League",
+    "commence_time": "2024-03-16T05:00:00Z",
+    "home_team": "Brisbane Roar",
+    "away_team": "Macarthur FC",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-11T10:22:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:32Z",
+            "outcomes": [
+              {
+                "name": "Brisbane Roar",
+                "price": 1.9
+              },
+              {
+                "name": "Macarthur FC",
+                "price": 3.5
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-11T10:23:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:16Z",
+            "outcomes": [
+              {
+                "name": "Brisbane Roar",
+                "price": 1.88
+              },
+              {
+                "name": "Macarthur FC",
+                "price": 3.5
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-11T10:23:14Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:14Z",
+            "outcomes": [
+              {
+                "name": "Brisbane Roar",
+                "price": 1.87
+              },
+              {
+                "name": "Macarthur FC",
+                "price": 3.5
+              },
+              {
+                "name": "Draw",
+                "price": 4.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-11T10:22:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:43Z",
+            "outcomes": [
+              {
+                "name": "Brisbane Roar",
+                "price": 1.94
+              },
+              {
+                "name": "Macarthur FC",
+                "price": 3.45
+              },
+              {
+                "name": "Draw",
+                "price": 3.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-11T10:22:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:45Z",
+            "outcomes": [
+              {
+                "name": "Brisbane Roar",
+                "price": 1.94
+              },
+              {
+                "name": "Macarthur FC",
+                "price": 3.45
+              },
+              {
+                "name": "Draw",
+                "price": 3.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-11T10:22:51Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:51Z",
+            "outcomes": [
+              {
+                "name": "Brisbane Roar",
+                "price": 1.92
+              },
+              {
+                "name": "Macarthur FC",
+                "price": 3.25
+              },
+              {
+                "name": "Draw",
+                "price": 4.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-11T10:23:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:35Z",
+            "outcomes": [
+              {
+                "name": "Brisbane Roar",
+                "price": 1.95
+              },
+              {
+                "name": "Macarthur FC",
+                "price": 3.35
+              },
+              {
+                "name": "Draw",
+                "price": 4.4
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-11T10:23:35Z",
+            "outcomes": [
+              {
+                "name": "Brisbane Roar",
+                "price": 2.06
+              },
+              {
+                "name": "Macarthur FC",
+                "price": 3.7
+              },
+              {
+                "name": "Draw",
+                "price": 4.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-11T10:22:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:43Z",
+            "outcomes": [
+              {
+                "name": "Brisbane Roar",
+                "price": 1.83
+              },
+              {
+                "name": "Macarthur FC",
+                "price": 3.6
+              },
+              {
+                "name": "Draw",
+                "price": 4.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-11T10:23:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:10Z",
+            "outcomes": [
+              {
+                "name": "Brisbane Roar",
+                "price": 1.89
+              },
+              {
+                "name": "Macarthur FC",
+                "price": 3.25
+              },
+              {
+                "name": "Draw",
+                "price": 3.95
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3128a45616c2529c58eb05f4816adfc5",
+    "sport_key": "soccer_australia_aleague",
+    "sport_title": "A-League",
+    "commence_time": "2024-03-16T08:45:00Z",
+    "home_team": "Perth Glory",
+    "away_team": "Western Sydney Wanderers",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-11T10:22:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:32Z",
+            "outcomes": [
+              {
+                "name": "Perth Glory",
+                "price": 2.7
+              },
+              {
+                "name": "Western Sydney Wanderers",
+                "price": 2.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-11T10:22:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:43Z",
+            "outcomes": [
+              {
+                "name": "Perth Glory",
+                "price": 2.7
+              },
+              {
+                "name": "Western Sydney Wanderers",
+                "price": 2.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-11T10:22:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:45Z",
+            "outcomes": [
+              {
+                "name": "Perth Glory",
+                "price": 2.7
+              },
+              {
+                "name": "Western Sydney Wanderers",
+                "price": 2.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-11T10:22:51Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:51Z",
+            "outcomes": [
+              {
+                "name": "Perth Glory",
+                "price": 2.7
+              },
+              {
+                "name": "Western Sydney Wanderers",
+                "price": 2.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-11T10:23:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:35Z",
+            "outcomes": [
+              {
+                "name": "Perth Glory",
+                "price": 2.2
+              },
+              {
+                "name": "Western Sydney Wanderers",
+                "price": 1.09
+              },
+              {
+                "name": "Draw",
+                "price": 3.35
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-11T10:23:35Z",
+            "outcomes": [
+              {
+                "name": "Perth Glory",
+                "price": 980.0
+              },
+              {
+                "name": "Western Sydney Wanderers",
+                "price": 15.5
+              },
+              {
+                "name": "Draw",
+                "price": 34.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-11T10:22:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:22:43Z",
+            "outcomes": [
+              {
+                "name": "Perth Glory",
+                "price": 2.75
+              },
+              {
+                "name": "Western Sydney Wanderers",
+                "price": 2.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.55
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-11T10:23:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-11T10:23:10Z",
+            "outcomes": [
+              {
+                "name": "Perth Glory",
+                "price": 2.68
+              },
+              {
+                "name": "Western Sydney Wanderers",
+                "price": 2.32
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
