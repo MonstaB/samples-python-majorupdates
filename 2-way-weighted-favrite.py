@@ -17,7 +17,7 @@ SPORTS = [SPORT.strip() for SPORT in SPORTS]
 
 
 output_directory = 'found'
-output_filename = '2-way-arbitrage.txt'
+output_filename = '2-way-favorite-arbitrage.txt'
 output_file_path = os.path.join(output_directory, output_filename)
 # Delete existing txt files in the directory
 existing_arb_files = glob.glob(os.path.join(output_directory, output_filename))
@@ -103,8 +103,8 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
                     favorite_percentage = (1 / (favorite_max_odd)) * 100
 
                     # Calculate stakes
-                    underdog_stake = (total_bet_amount * underdog_percentage) / arb_percentage
-                    favorite_stake = (total_bet_amount * favorite_percentage) / arb_percentage
+                    underdog_stake = (total_bet_amount / underdog_max_odd)
+                    favorite_stake = (total_bet_amount - underdog_stake)
 
                     # Calculate potential returns
                     underdog_return = underdog_stake * underdog_max_odd
@@ -161,7 +161,7 @@ for SPORT in SPORTS:
         find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmakers, output_file_path)
 
 
-output_filename = '2-way-arbitrage-my-bookies.txt'
+output_filename = '2-way-favorite-arbitrage-my-bookies.txt'
 output_file_path = os.path.join(output_directory, output_filename)
 # Delete existing txt files in the directory
 existing_arb_files = glob.glob(os.path.join(output_directory, output_filename))

@@ -27,12 +27,10 @@ if sports_response.status_code != 200:
 else:
     print('List of in season sports:', sports_response.json())
     odds_json = sports_response.json()
-
-
-
-
     with open(output_file_path, 'w') as json_file:
         json.dump(odds_json, json_file, indent=2)
+
+
 with open(output_file_path, 'r') as file:
     input_string = file.read()
 
@@ -46,11 +44,10 @@ keys = [item['key'] for item in data]
 with open(keys_output, 'w') as keys_file:
     for key in keys:
         keys_file.write(f"{key}\n ")
-
 print("Keys extracted and saved to 'active_sports_keys.txt'")
-    # Save the 'keys' list to a file named 'active_sports_keys.txt'
+
+    # Save the 'keys' list to a file named 'active_sports_keys_backup.txt'
 with open('sports/active_sports_keys_backup.txt', 'w') as keys_file:
     for key in keys:
         keys_file.write(f"{key}\n ")
-
 print("Keys extracted and saved to 'active_sports_keys_backup.txt'")

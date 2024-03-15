@@ -63,11 +63,10 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
                     pass
                 if len(outcomes) == 3:
                     if outcomes[0]['price'] < 2 and outcomes[1]['price'] < 2 and outcomes[2]['price'] < 2:
-                        # both odds negative. ignore this bet.
+                        # all odds negative. ignore this bet.
                         pass
                     if outcomes[0]['price'] > 2 and outcomes[1]['price'] > 2 and outcomes[2]['price'] > 2:
-                        # both odds positive. ignore this bet.
-                        # TODO: is this a possible scenario?
+                        # all odds positive. i wish.
                         pass
                     elif outcomes[0]['price'] > 2:
                         # first team has positive odd (first team = underdog, second team = favorite)
