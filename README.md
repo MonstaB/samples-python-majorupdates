@@ -12,7 +12,9 @@ only works for AU and decimal odds at present
 Edit config.cfg to add your Api key,
 
 first run
-``get_active_sports.py`` 
+```
+python scripts/get_active_sports.py
+``` 
 
 This will download all active sports to file active_sports.json 
 
@@ -22,7 +24,10 @@ edit active_sports_keys.txt, delete all sports you wish to not request
 
 keep one sport per line with no leading or trailing spaces,
 
-Then run  ```make_sports_list.py ```
+Then run 
+```
+python scripts/make_sports_list.py 
+```
 
 this will create txt file for use when requesting sports.
 
@@ -40,7 +45,7 @@ This will
 To change setting look in config.cfg
 
 
-After this you may wish to run ```find_arbitrage_2_way.py or find_arbitrage_3_way.py```
+After this you may wish to run ```python find_arbitrage_2_way.py ```or ```python find_arbitrage_3_way.py```
 
 Before doing so you can edit config.cfg to change the bet amount and also change which bookies 
 
@@ -51,13 +56,13 @@ This will check for any arbitrage bets in h2h markets and create 2 files in /fil
 
 #### TODO
 - add all bookies
-- fing API request to get bookies per region *dont know if possible
+- find API request to get bookies per region *don't know if possible
 - clean and tidy up
-- add more arbitrage oppertunities
+- add more arbitrage opportunities
 - add dumps for easy to read all bookies for events and prices
 
 
-
+# OLD SHIT FROM HERE 
 ### The Odds API Code Samples (v4) - Python
 
 The Odds API provides live odds for loads of sports from bookmakers around the world, in an easy to use JSON format.
