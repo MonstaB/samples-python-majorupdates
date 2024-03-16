@@ -2,10 +2,9 @@ americanfootball_ncaaf
  americanfootball_ncaaf_championship_winner
  americanfootball_nfl_super_bowl_winner
  aussierules_afl
- baseball_mlb_preseason
+ baseball_mlb
  baseball_mlb_world_series_winner
  baseball_ncaa
- basketball_euroleague
  basketball_nba
  basketball_nba_championship_winner
  basketball_ncaab
@@ -27,10 +26,11 @@ americanfootball_ncaaf
  politics_us_presidential_election_winner
  rugbyleague_nrl
  soccer_australia_aleague
+ soccer_austria_bundesliga
  soccer_belgium_first_div
  soccer_brazil_campeonato
  soccer_chile_campeonato
- soccer_conmebol_copa_libertadores
+ soccer_china_superleague
  soccer_denmark_superliga
  soccer_efl_champ
  soccer_england_league1
@@ -43,6 +43,7 @@ americanfootball_ncaaf
  soccer_germany_bundesliga
  soccer_germany_bundesliga2
  soccer_germany_liga3
+ soccer_greece_super_league
  soccer_italy_serie_a
  soccer_italy_serie_b
  soccer_japan_j_league
@@ -56,6 +57,7 @@ americanfootball_ncaaf
  soccer_spain_segunda_division
  soccer_spl
  soccer_sweden_allsvenskan
+ soccer_sweden_superettan
  soccer_switzerland_superleague
  soccer_turkey_super_league
  soccer_uefa_champs_league

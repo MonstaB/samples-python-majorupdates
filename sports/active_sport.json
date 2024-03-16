@@ -32,9 +32,9 @@
     "has_outrights": false
   },
   {
-    "key": "baseball_mlb_preseason",
+    "key": "baseball_mlb",
     "group": "Baseball",
-    "title": "MLB Preseason",
+    "title": "MLB",
     "description": "Major League Baseball",
     "active": true,
     "has_outrights": false
@@ -52,14 +52,6 @@
     "group": "Baseball",
     "title": "NCAA Baseball",
     "description": "US College Baseball",
-    "active": true,
-    "has_outrights": false
-  },
-  {
-    "key": "basketball_euroleague",
-    "group": "Basketball",
-    "title": "Basketball Euroleague",
-    "description": "Basketball Euroleague",
     "active": true,
     "has_outrights": false
   },
@@ -232,6 +224,14 @@
     "has_outrights": false
   },
   {
+    "key": "soccer_austria_bundesliga",
+    "group": "Soccer",
+    "title": "Austrian Football Bundesliga",
+    "description": "Austrian Soccer",
+    "active": true,
+    "has_outrights": false
+  },
+  {
     "key": "soccer_belgium_first_div",
     "group": "Soccer",
     "title": "Belgium First Div",
@@ -256,10 +256,10 @@
     "has_outrights": false
   },
   {
-    "key": "soccer_conmebol_copa_libertadores",
+    "key": "soccer_china_superleague",
     "group": "Soccer",
-    "title": "Copa Libertadores",
-    "description": "CONMEBOL Copa Libertadores",
+    "title": "Super League - China",
+    "description": "Chinese Soccer",
     "active": true,
     "has_outrights": false
   },
@@ -356,6 +356,14 @@
     "group": "Soccer",
     "title": "3. Liga - Germany",
     "description": "German Soccer",
+    "active": true,
+    "has_outrights": false
+  },
+  {
+    "key": "soccer_greece_super_league",
+    "group": "Soccer",
+    "title": "Super League - Greece",
+    "description": "Greek Soccer",
     "active": true,
     "has_outrights": false
   },
@@ -459,6 +467,14 @@
     "key": "soccer_sweden_allsvenskan",
     "group": "Soccer",
     "title": "Allsvenskan - Sweden",
+    "description": "Swedish Soccer",
+    "active": true,
+    "has_outrights": false
+  },
+  {
+    "key": "soccer_sweden_superettan",
+    "group": "Soccer",
+    "title": "Superettan - Sweden",
     "description": "Swedish Soccer",
     "active": true,
     "has_outrights": false

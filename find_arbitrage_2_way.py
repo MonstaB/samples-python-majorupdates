@@ -97,7 +97,7 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
                 arb_percentage = ((1 / (underdog_max_odd / 100)) + (1 / (favorite_max_odd / 100)))
 
                 # Check if arbitrage opportunity is profitable
-                if arb_percentage < 100:
+                if arb_percentage < 99.99:
                     # Calculate individual odds percentage
                     underdog_percentage = (1 / (underdog_max_odd)) * 100
                     favorite_percentage = (1 / (favorite_max_odd)) * 100
@@ -115,6 +115,30 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
                     favorite_profit = favorite_return - total_bet_amount
 
 
+                    # Calculate stakes for biased underdog
+                    favorite_stake1 = (total_bet_amount / favorite_max_odd)
+                    underdog_stake1 = (total_bet_amount - favorite_stake1)
+                    # Calculate potential returns for biased underdog
+                    underdog_return1 = underdog_stake1 * underdog_max_odd
+                    favorite_return1 = favorite_stake1 * favorite_max_odd
+
+                    # Calculate profits for biased underdog
+                    underdog_profit1 = underdog_return1 - total_bet_amount
+                    favorite_profit1 = favorite_return1 - total_bet_amount
+
+                    # Calculate stakes for biased Fav
+                    underdog_stake2 = (total_bet_amount / underdog_max_odd)
+                    favorite_stake2 = (total_bet_amount - underdog_stake2)
+
+                    # Calculate potential returns for biased Fav
+                    underdog_return2 = underdog_stake2 * underdog_max_odd
+                    favorite_return2 = favorite_stake2 * favorite_max_odd
+
+                    # Calculate profits for biased Fav
+                    underdog_profit2 = underdog_return2 - total_bet_amount
+                    favorite_profit2 = favorite_return2 - total_bet_amount
+
+
                     # Append to email content
 
                     # Print to console
@@ -129,15 +153,34 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
                         favorite_max_odd))
                     print('Underdog Return: ${:.2f}, Profit: ${:.2f}'.format(underdog_return, underdog_profit))
                     print('Favorite Return: ${:.2f}, Profit: ${:.2f}'.format(favorite_return, favorite_profit))
+                    print('-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN')
+                    print('Stake ${:.2f} on {} (underdog) from [{}] - Odds: ${:.2f}'.format(
+                        underdog_stake1, underdog_max_odd_entity['underdog']['name'], underdog_max_odd_bookmaker,
+                        underdog_max_odd))
+                    print('Stake ${:.2f} on {} (favorite) from [{}] - Odds: ${:.2f}'.format(
+                        favorite_stake1, favorite_max_odd_entity['favorite']['name'], favorite_max_odd_bookmaker,
+                        favorite_max_odd))
+                    print('Underdog Return: ${:.2f}, Profit: ${:.2f}'.format(underdog_return1, underdog_profit1))
+                    print('Favorite Return: ${:.2f}, Profit: ${:.2f}'.format(favorite_return1, favorite_profit1))
+                    print('---------------------------------------------------------------------')
+                    print('Stake ${:.2f} on {} (underdog) from [{}] - Odds: ${:.2f}'.format(
+                        underdog_stake2, underdog_max_odd_entity['underdog']['name'], underdog_max_odd_bookmaker,
+                        underdog_max_odd))
+                    print('Stake ${:.2f} on {} (favorite) from [{}] - Odds: ${:.2f}'.format(
+                        favorite_stake2, favorite_max_odd_entity['favorite']['name'], favorite_max_odd_bookmaker,
+                        favorite_max_odd))
+                    print('Underdog Return: ${:.2f}, Profit: ${:.2f}'.format(underdog_return2, underdog_profit2))
+                    print('Favorite Return: ${:.2f}, Profit: ${:.2f}'.format(favorite_return2, favorite_profit2))
                     print('---------------------------------------------------------------------')
                     # Append to the output file
                     with open(output_file_path, 'a', encoding='utf-8') as output_file:
-                        print('****{}*****'.format(event['sport_title']), file=output_file)
+                        print('*********************************{}********************************'.format(event['sport_title']), file=output_file)
                         print('{} (underdog) vs {} (favorite) '.format(
                             underdog_max_odd_entity['underdog']['name'],
                             favorite_max_odd_entity['favorite']['name']),
                             file=output_file)
                         print('Arbitrage Percentage: {:.2f}%'.format(arb_percentage), file=output_file)
+                        print('-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-')
                         print('Stake ${:.2f} on {} (underdog) from [{}] - Odds: ${:.2f}'.format(
                             underdog_stake, underdog_max_odd_entity['underdog']['name'], underdog_max_odd_bookmaker,
                             underdog_max_odd), file=output_file)
@@ -147,6 +190,28 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
                         print('Underdog Return: ${:.2f}, Profit: ${:.2f}'.format(underdog_return, underdog_profit),
                               file=output_file)
                         print('Favorite Return: ${:.2f}, Profit: ${:.2f}'.format(favorite_return, favorite_profit),
+                              file=output_file)
+                        print('-DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG-', file=output_file)
+                        print('Stake ${:.2f} on {} (underdog) from [{}] - Odds: ${:.2f}'.format(
+                            underdog_stake1, underdog_max_odd_entity['underdog']['name'], underdog_max_odd_bookmaker,
+                            underdog_max_odd), file=output_file)
+                        print('Stake ${:.2f} on {} (favorite) from [{}] - Odds: ${:.2f}'.format(
+                            favorite_stake1, favorite_max_odd_entity['favorite']['name'], favorite_max_odd_bookmaker,
+                            favorite_max_odd), file=output_file)
+                        print('Underdog Return: ${:.2f}, Profit: ${:.2f}'.format(underdog_return1, underdog_profit1),
+                              file=output_file)
+                        print('Favorite Return: ${:.2f}, Profit: ${:.2f}'.format(favorite_return1, favorite_profit1),
+                              file=output_file)
+                        print('--FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE-', file=output_file)
+                        print('Stake ${:.2f} on {} (underdog) from [{}] - Odds: ${:.2f}'.format(
+                            underdog_stake2, underdog_max_odd_entity['underdog']['name'], underdog_max_odd_bookmaker,
+                            underdog_max_odd), file=output_file)
+                        print('Stake ${:.2f} on {} (favorite) from [{}] - Odds: ${:.2f}'.format(
+                            favorite_stake2, favorite_max_odd_entity['favorite']['name'], favorite_max_odd_bookmaker,
+                            favorite_max_odd), file=output_file)
+                        print('Underdog Return: ${:.2f}, Profit: ${:.2f}'.format(underdog_return2, underdog_profit2),
+                              file=output_file)
+                        print('Favorite Return: ${:.2f}, Profit: ${:.2f}'.format(favorite_return2, favorite_profit2),
                               file=output_file)
                         print('---------------------------------------------------------------------', file=output_file)
 
