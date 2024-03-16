@@ -62,13 +62,13 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
                 if len(outcomes) != 3:
                     pass
                 if len(outcomes) == 3:
-                    if outcomes[0]['price'] < 2 and outcomes[1]['price'] < 2 and outcomes[2]['price'] < 2:
+                    if outcomes[0]['price'] < 3 and outcomes[1]['price'] < 3 and outcomes[2]['price'] < 3:
                         # all odds negative. ignore this bet.
                         pass
-                    if outcomes[0]['price'] > 2 and outcomes[1]['price'] > 2 and outcomes[2]['price'] > 2:
+                    if outcomes[0]['price'] > 3 and outcomes[1]['price'] > 3 and outcomes[2]['price'] > 3:
                         # all odds positive. i wish.
                         pass
-                    elif outcomes[0]['price'] > 2:
+                    elif outcomes[0]['price'] > outcomes[1]['price']:
                         # first team has positive odd (first team = underdog, second team = favorite)
                         odds_dict[outcomes[0]['name']].append(
                             {'bookmaker': bookmaker_name, 'underdog': outcomes[0], 'favorite': outcomes[1], 'draw': outcomes[2]})
@@ -99,76 +99,75 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
 
 
             # Check if one of the odds is above 2 and the other is below 2
-            if (underdog_max_odd > 2 and favorite_max_odd < 2) or (underdog_max_odd < 2 and favorite_max_odd > 2):
-                # Calculate arbitrage percentage
-                arb_percentage = ((1 / (underdog_max_odd / 100)) + (1 / (favorite_max_odd / 100)) + (1 / (draw_max_odd / 100)))
 
-                # Check if arbitrage opportunity is profitable
-                if arb_percentage < 100:
-                    # Calculate individual odds percentage
-                    underdog_percentage = (1 / (underdog_max_odd)) * 100
-                    favorite_percentage = (1 / (favorite_max_odd)) * 100
-                    draw_percentage = (1 / (draw_max_odd)) * 100
+            arb_percentage = ((1 / (underdog_max_odd / 100)) + (1 / (favorite_max_odd / 100)) + (1 / (draw_max_odd / 100)))
 
-                    # Calculate stakes
-                    underdog_stake = (total_bet_amount * underdog_percentage) / arb_percentage
-                    favorite_stake = (total_bet_amount * favorite_percentage) / arb_percentage
-                    draw_stake = (total_bet_amount * draw_percentage) / arb_percentage
+            # Check if arbitrage opportunity is profitable
+            if arb_percentage < 100:
+                # Calculate individual odds percentage
+                underdog_percentage = (1 / (underdog_max_odd)) * 100
+                favorite_percentage = (1 / (favorite_max_odd)) * 100
+                draw_percentage = (1 / (draw_max_odd)) * 100
 
-                    # Calculate potential returns
-                    underdog_return = underdog_stake * underdog_max_odd
-                    favorite_return = favorite_stake * favorite_max_odd
-                    draw_return = draw_stake * draw_max_odd
+                # Calculate stakes
+                underdog_stake = (total_bet_amount * underdog_percentage) / arb_percentage
+                favorite_stake = (total_bet_amount * favorite_percentage) / arb_percentage
+                draw_stake = (total_bet_amount * draw_percentage) / arb_percentage
+
+                # Calculate potential returns
+                underdog_return = underdog_stake * underdog_max_odd
+                favorite_return = favorite_stake * favorite_max_odd
+                draw_return = draw_stake * draw_max_odd
 
                     # Calculate profits
-                    underdog_profit = underdog_return - total_bet_amount
-                    favorite_profit = favorite_return - total_bet_amount
-                    draw_profit = draw_return - total_bet_amount
+                underdog_profit = underdog_return - total_bet_amount
+                favorite_profit = favorite_return - total_bet_amount
+                draw_profit = draw_return - total_bet_amount
 
-                    arbitrage_found = True
+                arbitrage_found = True
 
                     # Append to email content
 
                     # Print to console
                     # Print to console
-                    print(
-                        f'{underdog_max_odd_entity["underdog"]["name"]} (underdog) vs {favorite_max_odd_entity["favorite"]["name"]} (favorite)')
-                    print(f'Arbitrage Percentage: {arb_percentage:.2f}%')
-                    print(
-                        f'Stake ${underdog_stake:.2f} on {underdog_max_odd_entity["underdog"]["name"]} (underdog) from [{underdog_max_odd_bookmaker}] - Odds: {underdog_max_odd:.2f}')
-                    print(
-                        f'Stake ${favorite_stake:.2f} on {favorite_max_odd_entity["favorite"]["name"]} (favorite) from [{favorite_max_odd_bookmaker}] - Odds: {favorite_max_odd:.2f}')
-                    print(f'Stake ${draw_stake:.2f} on Draw from [{draw_max_odd_bookmaker}] - Odds: {draw_max_odd:.2f}')
-                    print(f'Underdog Return: ${underdog_return:.2f}, Profit: ${underdog_profit:.2f}')
-                    print(f'Favorite Return: ${favorite_return:.2f}, Profit: ${favorite_profit:.2f}')
-                    print(f'Draw Return: ${draw_return:.2f}, Profit: ${draw_profit:.2f}')
-                    print('---------------------------------------------------------------------')
+                print(
+                    f'{underdog_max_odd_entity["underdog"]["name"]} (underdog) vs {favorite_max_odd_entity["favorite"]["name"]} (favorite)')
+                print(f'Arbitrage Percentage: {arb_percentage:.2f}%')
+                print(
+                    f'Stake ${underdog_stake:.2f} on {underdog_max_odd_entity["underdog"]["name"]} (underdog) from [{underdog_max_odd_bookmaker}] - Odds: {underdog_max_odd:.2f}')
+                print(
+                    f'Stake ${favorite_stake:.2f} on {favorite_max_odd_entity["favorite"]["name"]} (favorite) from [{favorite_max_odd_bookmaker}] - Odds: {favorite_max_odd:.2f}')
+                print(f'Stake ${draw_stake:.2f} on Draw from [{draw_max_odd_bookmaker}] - Odds: {draw_max_odd:.2f}')
+                print(f'Underdog Return: ${underdog_return:.2f}, Profit: ${underdog_profit:.2f}')
+                print(f'Favorite Return: ${favorite_return:.2f}, Profit: ${favorite_profit:.2f}')
+                print(f'Draw Return: ${draw_return:.2f}, Profit: ${draw_profit:.2f}')
+                print('---------------------------------------------------------------------')
 
                     # Append to the output file
-                    with open(output_file_path, 'a', encoding='utf-8') as output_file:
-                        print(f'****{event["sport_title"]}****', file=output_file)
-                        print(
-                            f'{underdog_max_odd_entity["underdog"]["name"]} (underdog) vs '
-                            f'{favorite_max_odd_entity["favorite"]["name"]} (favorite)',
-                            file=output_file)
-                        print(f'Arbitrage Percentage: {arb_percentage:.2f}%', file=output_file)
-                        print(
-                            f'Stake ${underdog_stake:.2f} on {underdog_max_odd_entity["underdog"]["name"]} (underdog) '
-                            f'from [{underdog_max_odd_bookmaker}] - Odds: {underdog_max_odd:.2f}',
-                            file=output_file)
-                        print(
-                            f'Stake ${favorite_stake:.2f} on {favorite_max_odd_entity["favorite"]["name"]} (favorite) '
-                            f'from [{favorite_max_odd_bookmaker}] - Odds: {favorite_max_odd:.2f}',
-                            file=output_file)
-                        print(
-                            f'Stake ${draw_stake:.2f} on Draw from [{draw_max_odd_bookmaker}] - Odds: {draw_max_odd:.2f}',
-                            file=output_file)
-                        print(f'Underdog Return: ${underdog_return:.2f}, Profit: ${underdog_profit:.2f}',
-                              file=output_file)
-                        print(f'Favorite Return: ${favorite_return:.2f}, Profit: ${favorite_profit:.2f}',
-                              file=output_file)
-                        print(f'Draw Return: ${draw_return:.2f}, Profit: ${draw_profit:.2f}', file=output_file)
-                        print('---------------------------------------------------------------------', file=output_file)
+                with open(output_file_path, 'a', encoding='utf-8') as output_file:
+                    print(f'****{event["sport_title"]}****', file=output_file)
+                    print(
+                        f'{underdog_max_odd_entity["underdog"]["name"]} (underdog) vs '
+                        f'{favorite_max_odd_entity["favorite"]["name"]} (favorite)',
+                        file=output_file)
+                    print(f'Arbitrage Percentage: {arb_percentage:.2f}%', file=output_file)
+                    print(
+                        f'Stake ${underdog_stake:.2f} on {underdog_max_odd_entity["underdog"]["name"]} (underdog) '
+                        f'from [{underdog_max_odd_bookmaker}] - Odds: {underdog_max_odd:.2f}',
+                        file=output_file)
+                    print(
+                        f'Stake ${favorite_stake:.2f} on {favorite_max_odd_entity["favorite"]["name"]} (favorite) '
+                        f'from [{favorite_max_odd_bookmaker}] - Odds: {favorite_max_odd:.2f}',
+                        file=output_file)
+                    print(
+                        f'Stake ${draw_stake:.2f} on Draw from [{draw_max_odd_bookmaker}] - Odds: {draw_max_odd:.2f}',
+                        file=output_file)
+                    print(f'Underdog Return: ${underdog_return:.2f}, Profit: ${underdog_profit:.2f}',
+                          file=output_file)
+                    print(f'Favorite Return: ${favorite_return:.2f}, Profit: ${favorite_profit:.2f}',
+                          file=output_file)
+                    print(f'Draw Return: ${draw_return:.2f}, Profit: ${draw_profit:.2f}', file=output_file)
+                    print('---------------------------------------------------------------------', file=output_file)
 
 
 for SPORT in SPORTS:

@@ -1,6 +1,7 @@
 *********************************AFL********************************
 Hawthorn Hawks (underdog) vs Essendon Bombers (favorite) 
 Arbitrage Percentage: 96.51%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
 Stake $35.24 on Hawthorn Hawks (underdog) from [betr_au] - Odds: $2.94
 Stake $64.76 on Essendon Bombers (favorite) from [pointsbetau] - Odds: $1.60
 Underdog Return: $103.61, Profit: $3.61
@@ -19,6 +20,7 @@ Favorite Return: $105.58, Profit: $5.58
 *********************************AFL********************************
 St Kilda Saints (underdog) vs Geelong Cats (favorite) 
 Arbitrage Percentage: 97.30%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
 Stake $33.70 on St Kilda Saints (underdog) from [betfair_ex_au] - Odds: $3.05
 Stake $66.30 on Geelong Cats (favorite) from [neds] - Odds: $1.55
 Underdog Return: $102.77, Profit: $2.77
@@ -37,6 +39,7 @@ Favorite Return: $104.18, Profit: $4.18
 *********************************NBA********************************
 Atlanta Hawks (underdog) vs Utah Jazz (favorite) 
 Arbitrage Percentage: 99.39%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
 Stake $44.72 on Atlanta Hawks (underdog) from [bluebet] - Odds: $2.25
 Stake $55.28 on Utah Jazz (favorite) from [betfair_ex_au] - Odds: $1.82
 Underdog Return: $100.61, Profit: $0.61
@@ -55,6 +58,7 @@ Favorite Return: $101.11, Profit: $1.11
 *********************************MMA********************************
 Jaqueline Amorim (underdog) vs Cory McKenna (favorite) 
 Arbitrage Percentage: 95.56%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
 Stake $41.86 on Jaqueline Amorim (underdog) from [neds] - Odds: $2.50
 Stake $58.14 on Cory McKenna (favorite) from [tab] - Odds: $1.80
 Underdog Return: $104.65, Profit: $4.65
@@ -73,6 +77,7 @@ Favorite Return: $108.00, Profit: $8.00
 *********************************MMA********************************
 Igor da Silva (underdog) vs Andre Lima (favorite) 
 Arbitrage Percentage: 95.72%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
 Stake $43.53 on Igor da Silva (underdog) from [ladbrokes_au] - Odds: $2.40
 Stake $56.47 on Andre Lima (favorite) from [tab] - Odds: $1.85
 Underdog Return: $104.47, Profit: $4.47
@@ -91,6 +96,7 @@ Favorite Return: $107.92, Profit: $7.92
 *********************************NRL********************************
 Wests Tigers (underdog) vs Canberra Raiders (favorite) 
 Arbitrage Percentage: 99.75%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
 Stake $30.38 on Wests Tigers (underdog) from [betfair_ex_au] - Odds: $3.30
 Stake $69.62 on Canberra Raiders (favorite) from [bluebet] - Odds: $1.44
 Underdog Return: $100.25, Profit: $0.25
@@ -109,6 +115,7 @@ Favorite Return: $100.36, Profit: $0.36
 *********************************A-League********************************
 Macarthur FC (underdog) vs Brisbane Roar (favorite) 
 Arbitrage Percentage: 79.66%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
 Stake $31.78 on Macarthur FC (underdog) from [betfair_ex_au] - Odds: $3.95
 Stake $68.22 on Brisbane Roar (favorite) from [betfair_ex_au] - Odds: $1.84
 Underdog Return: $125.53, Profit: $25.53
@@ -127,6 +134,7 @@ Favorite Return: $137.42, Profit: $37.42
 *********************************EPL********************************
 West Ham United (underdog) vs Newcastle United (favorite) 
 Arbitrage Percentage: 81.62%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
 Stake $26.63 on West Ham United (underdog) from [ladbrokes_au] - Odds: $4.60
 Stake $73.37 on Newcastle United (favorite) from [ladbrokes_au] - Odds: $1.67
 Underdog Return: $122.52, Profit: $22.52
@@ -145,6 +153,7 @@ Favorite Return: $130.70, Profit: $30.70
 *********************************EPL********************************
 Burnley (underdog) vs Chelsea (favorite) 
 Arbitrage Percentage: 87.45%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
 Stake $12.04 on Burnley (underdog) from [ladbrokes_au] - Odds: $9.50
 Stake $87.96 on Chelsea (favorite) from [sportsbet] - Odds: $1.30
 Underdog Return: $114.35, Profit: $14.35
@@ -163,6 +172,7 @@ Favorite Return: $116.32, Profit: $16.32
 *********************************EPL********************************
 Sheffield United (underdog) vs Fulham (favorite) 
 Arbitrage Percentage: 77.02%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
 Stake $30.19 on Sheffield United (underdog) from [topsport] - Odds: $4.30
 Stake $69.81 on Fulham (favorite) from [sportsbet] - Odds: $1.86
 Underdog Return: $129.84, Profit: $29.84
@@ -181,6 +191,7 @@ Favorite Return: $142.74, Profit: $42.74
 *********************************EPL********************************
 Luton (underdog) vs Tottenham Hotspur (favorite) 
 Arbitrage Percentage: 85.71%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
 Stake $12.28 on Luton (underdog) from [sportsbet] - Odds: $9.50
 Stake $87.72 on Tottenham Hotspur (favorite) from [betfair_ex_au] - Odds: $1.33
 Underdog Return: $116.67, Profit: $16.67
@@ -199,6 +210,7 @@ Favorite Return: $119.00, Profit: $19.00
 *********************************EPL********************************
 Wolverhampton Wanderers (underdog) vs Aston Villa (favorite) 
 Arbitrage Percentage: 80.29%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
 Stake $25.42 on Wolverhampton Wanderers (underdog) from [unibet] - Odds: $4.90
 Stake $74.58 on Aston Villa (favorite) from [ladbrokes_au] - Odds: $1.67
 Underdog Return: $124.55, Profit: $24.55
@@ -217,6 +229,7 @@ Favorite Return: $132.92, Profit: $32.92
 *********************************EPL********************************
 Brighton and Hove Albion (underdog) vs Liverpool (favorite) 
 Arbitrage Percentage: 84.64%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
 Stake $17.38 on Brighton and Hove Albion (underdog) from [ladbrokes_au] - Odds: $6.80
 Stake $82.62 on Liverpool (favorite) from [unibet] - Odds: $1.43
 Underdog Return: $118.15, Profit: $18.15
@@ -235,6 +248,7 @@ Favorite Return: $121.97, Profit: $21.97
 *********************************EPL********************************
 Arsenal (underdog) vs Manchester City (favorite) 
 Arbitrage Percentage: 77.00%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
 Stake $30.92 on Arsenal (underdog) from [betfair_ex_au] - Odds: $4.20
 Stake $69.08 on Manchester City (favorite) from [unibet] - Odds: $1.88
 Underdog Return: $129.87, Profit: $29.87
@@ -253,6 +267,7 @@ Favorite Return: $143.24, Profit: $43.24
 *********************************Boxing********************************
 Tyron Zeuge (underdog) vs Zach Parker (favorite) 
 Arbitrage Percentage: 99.70%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
 Stake $10.45 on Tyron Zeuge (underdog) from [betfair_ex_au] - Odds: $9.60
 Stake $89.55 on Zach Parker (favorite) from [sportsbet] - Odds: $1.12
 Underdog Return: $100.30, Profit: $0.30
@@ -271,6 +286,7 @@ Favorite Return: $100.33, Profit: $0.33
 *********************************Boxing********************************
 Erik Robles Ayala (underdog) vs Liam Davies (favorite) 
 Arbitrage Percentage: 98.82%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
 Stake $31.62 on Erik Robles Ayala (underdog) from [ladbrokes_au] - Odds: $3.20
 Stake $68.38 on Liam Davies (favorite) from [betfair_ex_au] - Odds: $1.48
 Underdog Return: $101.20, Profit: $1.20
@@ -289,6 +305,7 @@ Favorite Return: $101.75, Profit: $1.75
 *********************************Boxing********************************
 Brad Pauls (underdog) vs Nathan Heaney (favorite) 
 Arbitrage Percentage: 97.13%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
 Stake $20.19 on Brad Pauls (underdog) from [betfair_ex_au] - Odds: $5.10
 Stake $79.81 on Nathan Heaney (favorite) from [betfair_ex_au] - Odds: $1.29
 Underdog Return: $102.96, Profit: $2.96
@@ -307,6 +324,7 @@ Favorite Return: $103.71, Profit: $3.71
 *********************************Boxing********************************
 Maxi Hughes (underdog) vs William Zepeda (favorite) 
 Arbitrage Percentage: 97.58%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
 Stake $6.83 on Maxi Hughes (underdog) from [betfair_ex_au] - Odds: $15.00
 Stake $93.17 on William Zepeda (favorite) from [sportsbet] - Odds: $1.10
 Underdog Return: $102.48, Profit: $2.48
@@ -325,6 +343,7 @@ Favorite Return: $102.67, Profit: $2.67
 *********************************Boxing********************************
 Terri Harper (underdog) vs Sandy Ryan (favorite) 
 Arbitrage Percentage: 96.52%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
 Stake $30.93 on Terri Harper (underdog) from [sportsbet] - Odds: $3.35
 Stake $69.07 on Sandy Ryan (favorite) from [ladbrokes_au] - Odds: $1.50
 Underdog Return: $103.61, Profit: $3.61
@@ -343,6 +362,7 @@ Favorite Return: $105.22, Profit: $5.22
 *********************************Boxing********************************
 Mikael Lawal (underdog) vs Viddal Riley (favorite) 
 Arbitrage Percentage: 98.69%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
 Stake $33.77 on Mikael Lawal (underdog) from [sportsbet] - Odds: $3.00
 Stake $66.23 on Viddal Riley (favorite) from [ladbrokes_au] - Odds: $1.53
 Underdog Return: $101.32, Profit: $1.32

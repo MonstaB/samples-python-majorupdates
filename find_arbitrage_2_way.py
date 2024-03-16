@@ -180,7 +180,7 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
                             favorite_max_odd_entity['favorite']['name']),
                             file=output_file)
                         print('Arbitrage Percentage: {:.2f}%'.format(arb_percentage), file=output_file)
-                        print('-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-')
+                        print('-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-', file=output_file)
                         print('Stake ${:.2f} on {} (underdog) from [{}] - Odds: ${:.2f}'.format(
                             underdog_stake, underdog_max_odd_entity['underdog']['name'], underdog_max_odd_bookmaker,
                             underdog_max_odd), file=output_file)
