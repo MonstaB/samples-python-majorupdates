@@ -10,11 +10,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-17T00:00:41Z",
+        "last_update": "2024-03-17T00:44:35Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-17T00:00:41Z",
+            "last_update": "2024-03-17T00:44:35Z",
             "outcomes": [
               {
                 "name": "Adelaide United",
@@ -35,37 +35,37 @@
       {
         "key": "betfair_ex_au",
         "title": "Betfair",
-        "last_update": "2024-03-17T00:02:09Z",
+        "last_update": "2024-03-17T00:44:43Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-17T00:02:09Z",
+            "last_update": "2024-03-17T00:44:43Z",
             "outcomes": [
               {
                 "name": "Adelaide United",
-                "price": 1.89
+                "price": 1.91
               },
               {
                 "name": "Western United FC",
-                "price": 4.1
+                "price": 4.0
               },
               {
                 "name": "Draw",
-                "price": 2.86
+                "price": 2.92
               }
             ]
           },
           {
             "key": "h2h_lay",
-            "last_update": "2024-03-17T00:02:09Z",
+            "last_update": "2024-03-17T00:44:43Z",
             "outcomes": [
               {
                 "name": "Adelaide United",
-                "price": 2.48
+                "price": 2.46
               },
               {
                 "name": "Western United FC",
-                "price": 4.2
+                "price": 4.1
               },
               {
                 "name": "Draw",
@@ -78,11 +78,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-17T00:01:38Z",
+        "last_update": "2024-03-17T00:43:32Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-17T00:01:38Z",
+            "last_update": "2024-03-17T00:43:32Z",
             "outcomes": [
               {
                 "name": "Adelaide United",
@@ -97,17 +97,33 @@
                 "price": 4.1
               }
             ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-03-17T00:43:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 2.35,
+                "point": 3.5
+              },
+              {
+                "name": "Under",
+                "price": 1.6,
+                "point": 3.5
+              }
+            ]
           }
         ]
       },
       {
         "key": "tab",
         "title": "TAB",
-        "last_update": "2024-03-17T00:01:38Z",
+        "last_update": "2024-03-17T00:43:33Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-17T00:01:38Z",
+            "last_update": "2024-03-17T00:43:33Z",
             "outcomes": [
               {
                 "name": "Adelaide United",
@@ -122,17 +138,33 @@
                 "price": 4.25
               }
             ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-03-17T00:43:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 2.25,
+                "point": 3.5
+              },
+              {
+                "name": "Under",
+                "price": 1.6,
+                "point": 3.5
+              }
+            ]
           }
         ]
       },
       {
         "key": "pointsbetau",
         "title": "PointsBet (AU)",
-        "last_update": "2024-03-17T00:01:38Z",
+        "last_update": "2024-03-17T00:43:33Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-17T00:01:38Z",
+            "last_update": "2024-03-17T00:43:33Z",
             "outcomes": [
               {
                 "name": "Adelaide United",
@@ -163,11 +195,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-17T00:00:41Z",
+        "last_update": "2024-03-17T00:44:35Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-17T00:00:41Z",
+            "last_update": "2024-03-17T00:44:35Z",
             "outcomes": [
               {
                 "name": "Melbourne City",
@@ -188,11 +220,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-17T00:01:38Z",
+        "last_update": "2024-03-17T00:43:32Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-17T00:01:38Z",
+            "last_update": "2024-03-17T00:43:32Z",
             "outcomes": [
               {
                 "name": "Melbourne City",
@@ -207,17 +239,33 @@
                 "price": 4.3
               }
             ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-03-17T00:43:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 2.02,
+                "point": 3.5
+              },
+              {
+                "name": "Under",
+                "price": 1.79,
+                "point": 3.5
+              }
+            ]
           }
         ]
       },
       {
         "key": "betfair_ex_au",
         "title": "Betfair",
-        "last_update": "2024-03-17T00:02:09Z",
+        "last_update": "2024-03-17T00:44:43Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-17T00:02:09Z",
+            "last_update": "2024-03-17T00:44:43Z",
             "outcomes": [
               {
                 "name": "Melbourne City",
@@ -235,7 +283,7 @@
           },
           {
             "key": "h2h_lay",
-            "last_update": "2024-03-17T00:02:09Z",
+            "last_update": "2024-03-17T00:44:43Z",
             "outcomes": [
               {
                 "name": "Melbourne City",
@@ -256,11 +304,11 @@
       {
         "key": "tab",
         "title": "TAB",
-        "last_update": "2024-03-17T00:01:38Z",
+        "last_update": "2024-03-17T00:43:33Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-17T00:01:38Z",
+            "last_update": "2024-03-17T00:43:33Z",
             "outcomes": [
               {
                 "name": "Melbourne City",
@@ -273,6 +321,22 @@
               {
                 "name": "Draw",
                 "price": 4.25
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-03-17T00:43:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 2.0,
+                "point": 3.5
+              },
+              {
+                "name": "Under",
+                "price": 1.75,
+                "point": 3.5
               }
             ]
           }
@@ -291,11 +355,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-17T00:00:41Z",
+        "last_update": "2024-03-17T00:44:35Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-17T00:00:41Z",
+            "last_update": "2024-03-17T00:44:35Z",
             "outcomes": [
               {
                 "name": "Central Coast Mariners",
@@ -316,11 +380,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-17T00:01:38Z",
+        "last_update": "2024-03-17T00:43:32Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-17T00:01:38Z",
+            "last_update": "2024-03-17T00:43:32Z",
             "outcomes": [
               {
                 "name": "Central Coast Mariners",
@@ -335,17 +399,33 @@
                 "price": 3.7
               }
             ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-03-17T00:43:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 1.57,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": 2.38,
+                "point": 2.5
+              }
+            ]
           }
         ]
       },
       {
         "key": "betfair_ex_au",
         "title": "Betfair",
-        "last_update": "2024-03-17T00:02:09Z",
+        "last_update": "2024-03-17T00:44:43Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-17T00:02:09Z",
+            "last_update": "2024-03-17T00:44:43Z",
             "outcomes": [
               {
                 "name": "Central Coast Mariners",
@@ -363,7 +443,7 @@
           },
           {
             "key": "h2h_lay",
-            "last_update": "2024-03-17T00:02:09Z",
+            "last_update": "2024-03-17T00:44:43Z",
             "outcomes": [
               {
                 "name": "Central Coast Mariners",
@@ -384,11 +464,11 @@
       {
         "key": "tab",
         "title": "TAB",
-        "last_update": "2024-03-17T00:01:38Z",
+        "last_update": "2024-03-17T00:43:33Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-17T00:01:38Z",
+            "last_update": "2024-03-17T00:43:33Z",
             "outcomes": [
               {
                 "name": "Central Coast Mariners",
@@ -401,6 +481,22 @@
               {
                 "name": "Draw",
                 "price": 3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-03-17T00:43:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 1.55,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": 2.35,
+                "point": 2.5
               }
             ]
           }
@@ -419,11 +515,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-17T00:00:41Z",
+        "last_update": "2024-03-17T00:44:35Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-17T00:00:41Z",
+            "last_update": "2024-03-17T00:44:35Z",
             "outcomes": [
               {
                 "name": "Brisbane Roar",
@@ -444,11 +540,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-17T00:01:38Z",
+        "last_update": "2024-03-17T00:43:32Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-17T00:01:38Z",
+            "last_update": "2024-03-17T00:43:32Z",
             "outcomes": [
               {
                 "name": "Brisbane Roar",
@@ -463,17 +559,33 @@
                 "price": 3.85
               }
             ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-03-17T00:43:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 1.57,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": 2.4,
+                "point": 2.5
+              }
+            ]
           }
         ]
       },
       {
         "key": "betfair_ex_au",
         "title": "Betfair",
-        "last_update": "2024-03-17T00:02:09Z",
+        "last_update": "2024-03-17T00:44:43Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-17T00:02:09Z",
+            "last_update": "2024-03-17T00:44:43Z",
             "outcomes": [
               {
                 "name": "Brisbane Roar",
@@ -491,7 +603,7 @@
           },
           {
             "key": "h2h_lay",
-            "last_update": "2024-03-17T00:02:09Z",
+            "last_update": "2024-03-17T00:44:43Z",
             "outcomes": [
               {
                 "name": "Brisbane Roar",
@@ -512,11 +624,11 @@
       {
         "key": "tab",
         "title": "TAB",
-        "last_update": "2024-03-17T00:01:38Z",
+        "last_update": "2024-03-17T00:43:33Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-17T00:01:38Z",
+            "last_update": "2024-03-17T00:43:33Z",
             "outcomes": [
               {
                 "name": "Brisbane Roar",
@@ -529,6 +641,22 @@
               {
                 "name": "Draw",
                 "price": 3.8
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-03-17T00:43:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 2.35,
+                "point": 3.5
+              },
+              {
+                "name": "Under",
+                "price": 1.55,
+                "point": 3.5
               }
             ]
           }
@@ -547,11 +675,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-17T00:00:41Z",
+        "last_update": "2024-03-17T00:44:35Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-17T00:00:41Z",
+            "last_update": "2024-03-17T00:44:35Z",
             "outcomes": [
               {
                 "name": "Melbourne Victory",
@@ -572,11 +700,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-17T00:01:38Z",
+        "last_update": "2024-03-17T00:43:32Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-17T00:01:38Z",
+            "last_update": "2024-03-17T00:43:32Z",
             "outcomes": [
               {
                 "name": "Melbourne Victory",
@@ -591,17 +719,33 @@
                 "price": 4.8
               }
             ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-03-17T00:43:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 2.08,
+                "point": 3.5
+              },
+              {
+                "name": "Under",
+                "price": 1.74,
+                "point": 3.5
+              }
+            ]
           }
         ]
       },
       {
         "key": "betfair_ex_au",
         "title": "Betfair",
-        "last_update": "2024-03-17T00:02:09Z",
+        "last_update": "2024-03-17T00:44:43Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-17T00:02:09Z",
+            "last_update": "2024-03-17T00:44:43Z",
             "outcomes": [
               {
                 "name": "Melbourne Victory",
@@ -619,7 +763,7 @@
           },
           {
             "key": "h2h_lay",
-            "last_update": "2024-03-17T00:02:09Z",
+            "last_update": "2024-03-17T00:44:43Z",
             "outcomes": [
               {
                 "name": "Melbourne Victory",
@@ -640,11 +784,11 @@
       {
         "key": "tab",
         "title": "TAB",
-        "last_update": "2024-03-17T00:01:38Z",
+        "last_update": "2024-03-17T00:43:33Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-17T00:01:38Z",
+            "last_update": "2024-03-17T00:43:33Z",
             "outcomes": [
               {
                 "name": "Melbourne Victory",
@@ -657,6 +801,22 @@
               {
                 "name": "Draw",
                 "price": 4.75
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "last_update": "2024-03-17T00:43:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 2.0,
+                "point": 3.5
+              },
+              {
+                "name": "Under",
+                "price": 1.75,
+                "point": 3.5
               }
             ]
           }
