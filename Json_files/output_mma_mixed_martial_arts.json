@@ -1,2372 +1,108 @@
 [
   {
-    "id": "55689729f848eb766c91510599807ed5",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T18:00:00Z",
-    "home_team": "Wiktor Zalewski",
-    "away_team": "Adrian Zielinski",
-    "bookmakers": [
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Adrian Zielinski",
-                "price": 2.8
-              },
-              {
-                "name": "Wiktor Zalewski",
-                "price": 1.38
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c5dd94d25133ceb274e6a43f6fbe93dc",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T18:00:00Z",
-    "home_team": "Damian Mieczkowski",
-    "away_team": "David Hosek",
-    "bookmakers": [
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Damian Mieczkowski",
-                "price": 1.53
-              },
-              {
-                "name": "David Hosek",
-                "price": 2.33
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "7a8e805c6069b97d4946795b02066e0b",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T18:00:00Z",
-    "home_team": "Daniel Rutkowski",
-    "away_team": "Julio Cesar Neves",
-    "bookmakers": [
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Daniel Rutkowski",
-                "price": 1.3
-              },
-              {
-                "name": "Julio Cesar Neves",
-                "price": 3.2
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "46dd97d9d3f973870eb91b83aa0f41d4",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T18:00:00Z",
-    "home_team": "Kamil Szkaradek",
-    "away_team": "Miljan Zdravkovic",
-    "bookmakers": [
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Kamil Szkaradek",
-                "price": 1.72
-              },
-              {
-                "name": "Miljan Zdravkovic",
-                "price": 2.02
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c0d5d8136353a3cb8a000c030324c01e",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T18:00:00Z",
-    "home_team": "Maciej Jewtuszko",
-    "away_team": "Marius \u017daromskis",
-    "bookmakers": [
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Maciej Jewtuszko",
-                "price": 1.6
-              },
-              {
-                "name": "Marius \u017daromskis",
-                "price": 2.2
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "43762667ef96a80fd39ecb102551b69e",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T18:00:00Z",
-    "home_team": "Oskar Szczepaniak",
-    "away_team": "Michal Gniady",
-    "bookmakers": [
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Michal Gniady",
-                "price": 2.8
-              },
-              {
-                "name": "Oskar Szczepaniak",
-                "price": 1.38
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a4b97ac95c91d851e31d76ae0eeb8cf7",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T18:00:00Z",
-    "home_team": "Piotr Kuberski",
-    "away_team": "Michal Materla",
-    "bookmakers": [
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Michal Materla",
-                "price": 3.4
-              },
-              {
-                "name": "Piotr Kuberski",
-                "price": 1.28
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "72557639dbf040e71fe011960c51769c",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T18:00:00Z",
-    "home_team": "Tomasz Jakubiec",
-    "away_team": "Wojciech Janusz",
-    "bookmakers": [
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Tomasz Jakubiec",
-                "price": 1.4
-              },
-              {
-                "name": "Wojciech Janusz",
-                "price": 2.75
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "e836b825b66e4e19aa67108ae462b5da",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T18:30:00Z",
-    "home_team": "Andy Yates",
-    "away_team": "Christian Tebbett",
-    "bookmakers": [
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Andy Yates",
-                "price": 1.47
-              },
-              {
-                "name": "Christian Tebbett",
-                "price": 2.5
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "178d4883e27afe6e61df97bb189ec60a",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T18:30:00Z",
-    "home_team": "Antonio Sheldon",
-    "away_team": "Tom Mearns",
-    "bookmakers": [
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Antonio Sheldon",
-                "price": 2.7
-              },
-              {
-                "name": "Tom Mearns",
-                "price": 1.41
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "9585516da42f2ddc2c4891e4ef114c46",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T18:30:00Z",
-    "home_team": "Fran Breen",
-    "away_team": "Costin Buhna",
-    "bookmakers": [
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Costin Buhna",
-                "price": 4.2
-              },
-              {
-                "name": "Fran Breen",
-                "price": 1.2
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "9d92337964c32fc3ab5aa2b3ed59c2dc",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T18:30:00Z",
-    "home_team": "Tom Nicholls Burton",
-    "away_team": "Craig Rawlins",
-    "bookmakers": [
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Craig Rawlins",
-                "price": 3.05
-              },
-              {
-                "name": "Tom Nicholls Burton",
-                "price": 1.33
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "758272bd3687c82c9d3ed4350c5240f0",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T18:30:00Z",
-    "home_team": "Liam Gittins",
-    "away_team": "Roberto Hernandez",
-    "bookmakers": [
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Liam Gittins",
-                "price": 1.88
-              },
-              {
-                "name": "Roberto Hernandez",
-                "price": 1.82
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "a6c2f7d275fac377a4baa11705945f23",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T18:30:00Z",
-    "home_team": "Qendrim Pallata",
-    "away_team": "Mario Mingaj",
-    "bookmakers": [
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Mario Mingaj",
-                "price": 1.82
-              },
-              {
-                "name": "Qendrim Pallata",
-                "price": 1.88
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "ffb1809a7ceecb4ad8b5f985dc1ac554",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T18:30:00Z",
-    "home_team": "Sheldon Ryan",
-    "away_team": "Michelangelo Lupoli",
-    "bookmakers": [
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Michelangelo Lupoli",
-                "price": 1.6
-              },
-              {
-                "name": "Sheldon Ryan",
-                "price": 2.2
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "08090c5f87d2049e22fcdbf4741be22a",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T20:00:00Z",
-    "home_team": "Jakub Wiklacz",
-    "away_team": "Zuriko Jojua",
-    "bookmakers": [
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Jakub Wiklacz",
-                "price": 1.43
-              },
-              {
-                "name": "Zuriko Jojua",
-                "price": 2.7
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "6ed35145051524eec431daff8b6c3e13",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T20:10:00Z",
-    "home_team": "Charalampos Grigoriou",
-    "away_team": "Chad Anheliger",
-    "bookmakers": [
-      {
-        "key": "sportsbet",
-        "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
-            "outcomes": [
-              {
-                "name": "Chad Anheliger",
-                "price": 2.38
-              },
-              {
-                "name": "Charalampos Grigoriou",
-                "price": 1.59
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Chad Anheliger",
-                "price": 2.38
-              },
-              {
-                "name": "Charalampos Grigoriou",
-                "price": 1.57
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "tab",
-        "title": "TAB",
-        "last_update": "2024-03-16T10:13:12Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:12Z",
-            "outcomes": [
-              {
-                "name": "Chad Anheliger",
-                "price": 2.35
-              },
-              {
-                "name": "Charalampos Grigoriou",
-                "price": 1.6
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "ladbrokes_au",
-        "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
-            "outcomes": [
-              {
-                "name": "Chad Anheliger",
-                "price": 2.4
-              },
-              {
-                "name": "Charalampos Grigoriou",
-                "price": 1.57
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "neds",
-        "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Chad Anheliger",
-                "price": 2.4
-              },
-              {
-                "name": "Charalampos Grigoriou",
-                "price": 1.57
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "playup",
-        "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
-            "outcomes": [
-              {
-                "name": "Chad Anheliger",
-                "price": 2.35
-              },
-              {
-                "name": "Charalampos Grigoriou",
-                "price": 1.58
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "betfair_ex_au",
-        "title": "Betfair",
-        "last_update": "2024-03-16T10:13:17Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:17Z",
-            "outcomes": [
-              {
-                "name": "Chad Anheliger",
-                "price": 2.52
-              },
-              {
-                "name": "Charalampos Grigoriou",
-                "price": 1.64
-              }
-            ]
-          },
-          {
-            "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:17Z",
-            "outcomes": [
-              {
-                "name": "Chad Anheliger",
-                "price": 2.56
-              },
-              {
-                "name": "Charalampos Grigoriou",
-                "price": 1.65
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "betr_au",
-        "title": "Betr",
-        "last_update": "2024-03-16T10:13:33Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
-            "outcomes": [
-              {
-                "name": "Chad Anheliger",
-                "price": 2.32
-              },
-              {
-                "name": "Charalampos Grigoriou",
-                "price": 1.57
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "42d09592ca3bc17f03bc2b967e40e9cb",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T20:45:00Z",
-    "home_team": "Thiago Moises",
-    "away_team": "Mitch Ramirez",
-    "bookmakers": [
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Mitch Ramirez",
-                "price": 4.1
-              },
-              {
-                "name": "Thiago Moises",
-                "price": 1.24
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "neds",
-        "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Mitch Ramirez",
-                "price": 3.9
-              },
-              {
-                "name": "Thiago Moises",
-                "price": 1.26
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "ladbrokes_au",
-        "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
-            "outcomes": [
-              {
-                "name": "Mitch Ramirez",
-                "price": 3.9
-              },
-              {
-                "name": "Thiago Moises",
-                "price": 1.26
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "playup",
-        "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
-            "outcomes": [
-              {
-                "name": "Mitch Ramirez",
-                "price": 3.85
-              },
-              {
-                "name": "Thiago Moises",
-                "price": 1.25
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "sportsbet",
-        "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
-            "outcomes": [
-              {
-                "name": "Mitch Ramirez",
-                "price": 4.1
-              },
-              {
-                "name": "Thiago Moises",
-                "price": 1.24
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "betfair_ex_au",
-        "title": "Betfair",
-        "last_update": "2024-03-16T10:13:17Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:17Z",
-            "outcomes": [
-              {
-                "name": "Mitch Ramirez",
-                "price": 4.3
-              },
-              {
-                "name": "Thiago Moises",
-                "price": 1.29
-              }
-            ]
-          },
-          {
-            "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:17Z",
-            "outcomes": [
-              {
-                "name": "Mitch Ramirez",
-                "price": 4.5
-              },
-              {
-                "name": "Thiago Moises",
-                "price": 1.3
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "betr_au",
-        "title": "Betr",
-        "last_update": "2024-03-16T10:13:33Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
-            "outcomes": [
-              {
-                "name": "Mitch Ramirez",
-                "price": 3.8
-              },
-              {
-                "name": "Thiago Moises",
-                "price": 1.24
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "075a3a28c9c6bc1b6cae7fb44509fa15",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T21:00:00Z",
-    "home_team": "Adam Cullen",
-    "away_team": "Harel Cohen",
-    "bookmakers": [
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Adam Cullen",
-                "price": 1.38
-              },
-              {
-                "name": "Harel Cohen",
-                "price": 2.8
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "151a45c3c9663d78a44562223f3eb5cf",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T21:00:00Z",
-    "home_team": "Sam Kelly",
-    "away_team": "Alessandro Giordano",
-    "bookmakers": [
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Alessandro Giordano",
-                "price": 2.2
-              },
-              {
-                "name": "Sam Kelly",
-                "price": 1.6
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "7d24f4bedbd8f7567217d88b687fd5a0",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T21:00:00Z",
-    "home_team": "Jaqueline Amorim",
-    "away_team": "Cory McKenna",
-    "bookmakers": [
-      {
-        "key": "sportsbet",
-        "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
-            "outcomes": [
-              {
-                "name": "Cory McKenna",
-                "price": 1.59
-              },
-              {
-                "name": "Jaqueline Amorim",
-                "price": 2.37
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Cory McKenna",
-                "price": 1.56
-              },
-              {
-                "name": "Jaqueline Amorim",
-                "price": 2.4
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "tab",
-        "title": "TAB",
-        "last_update": "2024-03-16T10:13:12Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:12Z",
-            "outcomes": [
-              {
-                "name": "Cory McKenna",
-                "price": 1.56
-              },
-              {
-                "name": "Jaqueline Amorim",
-                "price": 2.4
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "playup",
-        "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
-            "outcomes": [
-              {
-                "name": "Cory McKenna",
-                "price": 1.6
-              },
-              {
-                "name": "Jaqueline Amorim",
-                "price": 2.3
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "neds",
-        "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Cory McKenna",
-                "price": 1.55
-              },
-              {
-                "name": "Jaqueline Amorim",
-                "price": 2.5
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "ladbrokes_au",
-        "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
-            "outcomes": [
-              {
-                "name": "Cory McKenna",
-                "price": 1.55
-              },
-              {
-                "name": "Jaqueline Amorim",
-                "price": 2.5
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "betfair_ex_au",
-        "title": "Betfair",
-        "last_update": "2024-03-16T10:13:17Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:17Z",
-            "outcomes": [
-              {
-                "name": "Cory McKenna",
-                "price": 1.64
-              },
-              {
-                "name": "Jaqueline Amorim",
-                "price": 2.5
-              }
-            ]
-          },
-          {
-            "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:17Z",
-            "outcomes": [
-              {
-                "name": "Cory McKenna",
-                "price": 1.67
-              },
-              {
-                "name": "Jaqueline Amorim",
-                "price": 2.56
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "betr_au",
-        "title": "Betr",
-        "last_update": "2024-03-16T10:13:33Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
-            "outcomes": [
-              {
-                "name": "Cory McKenna",
-                "price": 1.6
-              },
-              {
-                "name": "Jaqueline Amorim",
-                "price": 2.25
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "479f82a8f64154da621814bd80732526",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T21:00:00Z",
-    "home_team": "James Power",
-    "away_team": "Gianluca Rocca",
-    "bookmakers": [
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Gianluca Rocca",
-                "price": 2.7
-              },
-              {
-                "name": "James Power",
-                "price": 1.41
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "c714923f0c677021ad5e935cf664a7fe",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T21:25:00Z",
-    "home_team": "Josh Culibao",
-    "away_team": "Danny Silva",
-    "bookmakers": [
-      {
-        "key": "sportsbet",
-        "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
-            "outcomes": [
-              {
-                "name": "Danny Silva",
-                "price": 2.53
-              },
-              {
-                "name": "Josh Culibao",
-                "price": 1.52
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Danny Silva",
-                "price": 2.45
-              },
-              {
-                "name": "Josh Culibao",
-                "price": 1.55
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "playup",
-        "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
-            "outcomes": [
-              {
-                "name": "Danny Silva",
-                "price": 2.4
-              },
-              {
-                "name": "Josh Culibao",
-                "price": 1.55
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "neds",
-        "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Danny Silva",
-                "price": 2.5
-              },
-              {
-                "name": "Josh Culibao",
-                "price": 1.52
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "ladbrokes_au",
-        "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
-            "outcomes": [
-              {
-                "name": "Danny Silva",
-                "price": 2.5
-              },
-              {
-                "name": "Josh Culibao",
-                "price": 1.52
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "betfair_ex_au",
-        "title": "Betfair",
-        "last_update": "2024-03-16T10:13:17Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:17Z",
-            "outcomes": [
-              {
-                "name": "Danny Silva",
-                "price": 2.68
-              },
-              {
-                "name": "Josh Culibao",
-                "price": 1.58
-              }
-            ]
-          },
-          {
-            "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:17Z",
-            "outcomes": [
-              {
-                "name": "Danny Silva",
-                "price": 2.74
-              },
-              {
-                "name": "Josh Culibao",
-                "price": 1.6
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "betr_au",
-        "title": "Betr",
-        "last_update": "2024-03-16T10:13:33Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
-            "outcomes": [
-              {
-                "name": "Danny Silva",
-                "price": 2.38
-              },
-              {
-                "name": "Josh Culibao",
-                "price": 1.54
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "pointsbetau",
-        "title": "PointsBet (AU)",
-        "last_update": "2024-03-16T10:13:32Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
-            "outcomes": [
-              {
-                "name": "Danny Silva",
-                "price": 2.5
-              },
-              {
-                "name": "Josh Culibao",
-                "price": 1.53
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2c7695a298edcb55bf0138ae042fc983",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T21:50:00Z",
-    "home_team": "Jafel Filho",
-    "away_team": "Ode Osbourne",
-    "bookmakers": [
-      {
-        "key": "sportsbet",
-        "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
-            "outcomes": [
-              {
-                "name": "Jafel Filho",
-                "price": 1.61
-              },
-              {
-                "name": "Ode Osbourne",
-                "price": 2.33
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Jafel Filho",
-                "price": 1.61
-              },
-              {
-                "name": "Ode Osbourne",
-                "price": 2.32
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "pointsbetau",
-        "title": "PointsBet (AU)",
-        "last_update": "2024-03-16T10:13:32Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
-            "outcomes": [
-              {
-                "name": "Jafel Filho",
-                "price": 1.6
-              },
-              {
-                "name": "Ode Osbourne",
-                "price": 2.35
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "tab",
-        "title": "TAB",
-        "last_update": "2024-03-16T10:13:12Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:12Z",
-            "outcomes": [
-              {
-                "name": "Jafel Filho",
-                "price": 1.6
-              },
-              {
-                "name": "Ode Osbourne",
-                "price": 2.3
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "ladbrokes_au",
-        "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
-            "outcomes": [
-              {
-                "name": "Jafel Filho",
-                "price": 1.6
-              },
-              {
-                "name": "Ode Osbourne",
-                "price": 2.35
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "neds",
-        "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Jafel Filho",
-                "price": 1.6
-              },
-              {
-                "name": "Ode Osbourne",
-                "price": 2.35
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "playup",
-        "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
-            "outcomes": [
-              {
-                "name": "Jafel Filho",
-                "price": 1.6
-              },
-              {
-                "name": "Ode Osbourne",
-                "price": 2.3
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "betfair_ex_au",
-        "title": "Betfair",
-        "last_update": "2024-03-16T10:13:17Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:17Z",
-            "outcomes": [
-              {
-                "name": "Jafel Filho",
-                "price": 1.68
-              },
-              {
-                "name": "Ode Osbourne",
-                "price": 2.4
-              }
-            ]
-          },
-          {
-            "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:17Z",
-            "outcomes": [
-              {
-                "name": "Jafel Filho",
-                "price": 1.71
-              },
-              {
-                "name": "Ode Osbourne",
-                "price": 2.46
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "betr_au",
-        "title": "Betr",
-        "last_update": "2024-03-16T10:13:33Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
-            "outcomes": [
-              {
-                "name": "Jafel Filho",
-                "price": 1.57
-              },
-              {
-                "name": "Ode Osbourne",
-                "price": 2.3
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "5d8d9eca3e2878ab09789b9915f3041b",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T22:00:00Z",
-    "home_team": "Andrew Clamp",
-    "away_team": "Matty Byfield",
-    "bookmakers": [
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Andrew Clamp",
-                "price": 2.8
-              },
-              {
-                "name": "Matty Byfield",
-                "price": 1.38
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "9482df5ac322528e0fa16271792925c2",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T22:10:00Z",
-    "home_team": "Josiane Nunes",
-    "away_team": "Chelsea Chandler",
-    "bookmakers": [
-      {
-        "key": "sportsbet",
-        "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
-            "outcomes": [
-              {
-                "name": "Chelsea Chandler",
-                "price": 2.18
-              },
-              {
-                "name": "Josiane Nunes",
-                "price": 1.69
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Chelsea Chandler",
-                "price": 2.18
-              },
-              {
-                "name": "Josiane Nunes",
-                "price": 1.68
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "playup",
-        "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
-            "outcomes": [
-              {
-                "name": "Chelsea Chandler",
-                "price": 2.08
-              },
-              {
-                "name": "Josiane Nunes",
-                "price": 1.72
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "neds",
-        "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Chelsea Chandler",
-                "price": 2.15
-              },
-              {
-                "name": "Josiane Nunes",
-                "price": 1.7
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "ladbrokes_au",
-        "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
-            "outcomes": [
-              {
-                "name": "Chelsea Chandler",
-                "price": 2.15
-              },
-              {
-                "name": "Josiane Nunes",
-                "price": 1.7
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "betfair_ex_au",
-        "title": "Betfair",
-        "last_update": "2024-03-16T10:13:17Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:17Z",
-            "outcomes": [
-              {
-                "name": "Chelsea Chandler",
-                "price": 2.3
-              },
-              {
-                "name": "Josiane Nunes",
-                "price": 1.75
-              }
-            ]
-          },
-          {
-            "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:17Z",
-            "outcomes": [
-              {
-                "name": "Chelsea Chandler",
-                "price": 2.32
-              },
-              {
-                "name": "Josiane Nunes",
-                "price": 1.77
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "betr_au",
-        "title": "Betr",
-        "last_update": "2024-03-16T10:13:33Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
-            "outcomes": [
-              {
-                "name": "Chelsea Chandler",
-                "price": 2.06
-              },
-              {
-                "name": "Josiane Nunes",
-                "price": 1.71
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "60481e558920d84c29e3bc32d988b120",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T23:00:00Z",
-    "home_team": "Natan Levy",
-    "away_team": "Mike Davis",
-    "bookmakers": [
-      {
-        "key": "ladbrokes_au",
-        "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
-            "outcomes": [
-              {
-                "name": "Mike Davis",
-                "price": 1.2
-              },
-              {
-                "name": "Natan Levy",
-                "price": 4.6
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "playup",
-        "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
-            "outcomes": [
-              {
-                "name": "Mike Davis",
-                "price": 1.2
-              },
-              {
-                "name": "Natan Levy",
-                "price": 4.35
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "neds",
-        "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Mike Davis",
-                "price": 1.2
-              },
-              {
-                "name": "Natan Levy",
-                "price": 4.6
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Mike Davis",
-                "price": 1.2
-              },
-              {
-                "name": "Natan Levy",
-                "price": 4.7
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "sportsbet",
-        "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
-            "outcomes": [
-              {
-                "name": "Mike Davis",
-                "price": 1.2
-              },
-              {
-                "name": "Natan Levy",
-                "price": 4.6
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "betfair_ex_au",
-        "title": "Betfair",
-        "last_update": "2024-03-16T10:13:17Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:17Z",
-            "outcomes": [
-              {
-                "name": "Mike Davis",
-                "price": 1.24
-              },
-              {
-                "name": "Natan Levy",
-                "price": 4.9
-              }
-            ]
-          },
-          {
-            "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:17Z",
-            "outcomes": [
-              {
-                "name": "Mike Davis",
-                "price": 1.26
-              },
-              {
-                "name": "Natan Levy",
-                "price": 5.1
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "betr_au",
-        "title": "Betr",
-        "last_update": "2024-03-16T10:13:33Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
-            "outcomes": [
-              {
-                "name": "Mike Davis",
-                "price": 1.2
-              },
-              {
-                "name": "Natan Levy",
-                "price": 4.25
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "4ffe237a0910bef51aebbff5c8c3cc84",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T23:15:00Z",
-    "home_team": "Gerald Meerschaert",
-    "away_team": "Bryan Barberena",
-    "bookmakers": [
-      {
-        "key": "sportsbet",
-        "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
-            "outcomes": [
-              {
-                "name": "Bryan Barberena",
-                "price": 2.93
-              },
-              {
-                "name": "Gerald Meerschaert",
-                "price": 1.41
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Bryan Barberena",
-                "price": 2.95
-              },
-              {
-                "name": "Gerald Meerschaert",
-                "price": 1.4
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "pointsbetau",
-        "title": "PointsBet (AU)",
-        "last_update": "2024-03-16T10:13:32Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
-            "outcomes": [
-              {
-                "name": "Bryan Barberena",
-                "price": 2.9
-              },
-              {
-                "name": "Gerald Meerschaert",
-                "price": 1.42
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "tab",
-        "title": "TAB",
-        "last_update": "2024-03-16T10:13:12Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:12Z",
-            "outcomes": [
-              {
-                "name": "Bryan Barberena",
-                "price": 2.9
-              },
-              {
-                "name": "Gerald Meerschaert",
-                "price": 1.4
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "playup",
-        "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
-            "outcomes": [
-              {
-                "name": "Bryan Barberena",
-                "price": 2.85
-              },
-              {
-                "name": "Gerald Meerschaert",
-                "price": 1.42
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "neds",
-        "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Bryan Barberena",
-                "price": 2.9
-              },
-              {
-                "name": "Gerald Meerschaert",
-                "price": 1.4
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "ladbrokes_au",
-        "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
-            "outcomes": [
-              {
-                "name": "Bryan Barberena",
-                "price": 2.9
-              },
-              {
-                "name": "Gerald Meerschaert",
-                "price": 1.4
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "betfair_ex_au",
-        "title": "Betfair",
-        "last_update": "2024-03-16T10:13:17Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:17Z",
-            "outcomes": [
-              {
-                "name": "Bryan Barberena",
-                "price": 3.2
-              },
-              {
-                "name": "Gerald Meerschaert",
-                "price": 1.45
-              }
-            ]
-          },
-          {
-            "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:17Z",
-            "outcomes": [
-              {
-                "name": "Bryan Barberena",
-                "price": 3.25
-              },
-              {
-                "name": "Gerald Meerschaert",
-                "price": 1.46
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "betr_au",
-        "title": "Betr",
-        "last_update": "2024-03-16T10:13:33Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
-            "outcomes": [
-              {
-                "name": "Bryan Barberena",
-                "price": 2.82
-              },
-              {
-                "name": "Gerald Meerschaert",
-                "price": 1.4
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "32183c77e24589cadf791e4cd14c4b6c",
-    "sport_key": "mma_mixed_martial_arts",
-    "sport_title": "MMA",
-    "commence_time": "2024-03-16T23:40:00Z",
-    "home_team": "Pannie Kianzad",
-    "away_team": "Macy Chiasson",
-    "bookmakers": [
-      {
-        "key": "sportsbet",
-        "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
-            "outcomes": [
-              {
-                "name": "Macy Chiasson",
-                "price": 1.42
-              },
-              {
-                "name": "Pannie Kianzad",
-                "price": 2.9
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Macy Chiasson",
-                "price": 1.4
-              },
-              {
-                "name": "Pannie Kianzad",
-                "price": 2.95
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "pointsbetau",
-        "title": "PointsBet (AU)",
-        "last_update": "2024-03-16T10:13:32Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
-            "outcomes": [
-              {
-                "name": "Macy Chiasson",
-                "price": 1.42
-              },
-              {
-                "name": "Pannie Kianzad",
-                "price": 2.85
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "tab",
-        "title": "TAB",
-        "last_update": "2024-03-16T10:13:12Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:12Z",
-            "outcomes": [
-              {
-                "name": "Macy Chiasson",
-                "price": 1.4
-              },
-              {
-                "name": "Pannie Kianzad",
-                "price": 2.9
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "playup",
-        "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
-            "outcomes": [
-              {
-                "name": "Macy Chiasson",
-                "price": 1.42
-              },
-              {
-                "name": "Pannie Kianzad",
-                "price": 2.8
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "neds",
-        "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Macy Chiasson",
-                "price": 1.38
-              },
-              {
-                "name": "Pannie Kianzad",
-                "price": 3.1
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "ladbrokes_au",
-        "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
-            "outcomes": [
-              {
-                "name": "Macy Chiasson",
-                "price": 1.38
-              },
-              {
-                "name": "Pannie Kianzad",
-                "price": 3.1
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "betfair_ex_au",
-        "title": "Betfair",
-        "last_update": "2024-03-16T10:13:17Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:17Z",
-            "outcomes": [
-              {
-                "name": "Macy Chiasson",
-                "price": 1.43
-              },
-              {
-                "name": "Pannie Kianzad",
-                "price": 3.25
-              }
-            ]
-          },
-          {
-            "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:17Z",
-            "outcomes": [
-              {
-                "name": "Macy Chiasson",
-                "price": 1.45
-              },
-              {
-                "name": "Pannie Kianzad",
-                "price": 3.3
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "betr_au",
-        "title": "Betr",
-        "last_update": "2024-03-16T10:13:33Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
-            "outcomes": [
-              {
-                "name": "Macy Chiasson",
-                "price": 1.41
-              },
-              {
-                "name": "Pannie Kianzad",
-                "price": 2.76
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "bd3820062c87e6ac4e97c4292d32fde2",
     "sport_key": "mma_mixed_martial_arts",
     "sport_title": "MMA",
-    "commence_time": "2024-03-17T00:05:00Z",
+    "commence_time": "2024-03-17T00:02:00Z",
     "home_team": "Christian Rodriguez",
     "away_team": "Isaac Dulgarian",
     "bookmakers": [
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Christian Rodriguez",
-                "price": 2.67
+                "price": 2.78
+              },
+              {
+                "name": "Isaac Dulgarian",
+                "price": 1.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-17T00:02:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:02:04Z",
+            "outcomes": [
+              {
+                "name": "Christian Rodriguez",
+                "price": 2.75
+              },
+              {
+                "name": "Isaac Dulgarian",
+                "price": 1.42
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-16T23:58:42Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-16T23:58:42Z",
+            "outcomes": [
+              {
+                "name": "Christian Rodriguez",
+                "price": 2.6
+              },
+              {
+                "name": "Isaac Dulgarian",
+                "price": 1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-17T00:02:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:02:05Z",
+            "outcomes": [
+              {
+                "name": "Christian Rodriguez",
+                "price": 2.55
+              },
+              {
+                "name": "Isaac Dulgarian",
+                "price": 1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-17T00:01:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:11Z",
+            "outcomes": [
+              {
+                "name": "Christian Rodriguez",
+                "price": 2.65
               },
               {
                 "name": "Isaac Dulgarian",
@@ -2377,13 +113,13 @@
         ]
       },
       {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Christian Rodriguez",
@@ -2391,70 +127,7 @@
               },
               {
                 "name": "Isaac Dulgarian",
-                "price": 1.47
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "pointsbetau",
-        "title": "PointsBet (AU)",
-        "last_update": "2024-03-16T10:13:32Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
-            "outcomes": [
-              {
-                "name": "Christian Rodriguez",
-                "price": 2.6
-              },
-              {
-                "name": "Isaac Dulgarian",
-                "price": 1.5
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "ladbrokes_au",
-        "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
-            "outcomes": [
-              {
-                "name": "Christian Rodriguez",
-                "price": 2.6
-              },
-              {
-                "name": "Isaac Dulgarian",
-                "price": 1.5
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "neds",
-        "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Christian Rodriguez",
-                "price": 2.6
-              },
-              {
-                "name": "Isaac Dulgarian",
-                "price": 1.5
+                "price": 1.48
               }
             ]
           }
@@ -2463,19 +136,19 @@
       {
         "key": "playup",
         "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Christian Rodriguez",
-                "price": 2.45
+                "price": 2.6
               },
               {
                 "name": "Isaac Dulgarian",
-                "price": 1.52
+                "price": 1.48
               }
             ]
           }
@@ -2484,33 +157,33 @@
       {
         "key": "betfair_ex_au",
         "title": "Betfair",
-        "last_update": "2024-03-16T10:13:17Z",
+        "last_update": "2024-03-17T00:01:39Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:17Z",
+            "last_update": "2024-03-17T00:01:39Z",
             "outcomes": [
               {
                 "name": "Christian Rodriguez",
-                "price": 2.72
+                "price": 2.84
               },
               {
                 "name": "Isaac Dulgarian",
-                "price": 1.57
+                "price": 1.53
               }
             ]
           },
           {
             "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:17Z",
+            "last_update": "2024-03-17T00:01:39Z",
             "outcomes": [
               {
                 "name": "Christian Rodriguez",
-                "price": 2.76
+                "price": 2.9
               },
               {
                 "name": "Isaac Dulgarian",
-                "price": 1.58
+                "price": 1.54
               }
             ]
           }
@@ -2519,19 +192,19 @@
       {
         "key": "betr_au",
         "title": "Betr",
-        "last_update": "2024-03-16T10:13:33Z",
+        "last_update": "2024-03-16T23:54:47Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
+            "last_update": "2024-03-16T23:54:47Z",
             "outcomes": [
               {
                 "name": "Christian Rodriguez",
-                "price": 2.42
+                "price": 2.45
               },
               {
                 "name": "Isaac Dulgarian",
-                "price": 1.52
+                "price": 1.53
               }
             ]
           }
@@ -2550,19 +223,19 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Kennedy Nzechukwu",
-                "price": 1.14
+                "price": 1.13
               },
               {
                 "name": "Ovince St. Preux",
-                "price": 5.8
+                "price": 6.05
               }
             ]
           }
@@ -2571,11 +244,11 @@
       {
         "key": "pointsbetau",
         "title": "PointsBet (AU)",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Kennedy Nzechukwu",
@@ -2590,13 +263,55 @@
         ]
       },
       {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:05Z",
+            "outcomes": [
+              {
+                "name": "Kennedy Nzechukwu",
+                "price": 1.14
+              },
+              {
+                "name": "Ovince St. Preux",
+                "price": 5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-17T00:01:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:36Z",
+            "outcomes": [
+              {
+                "name": "Kennedy Nzechukwu",
+                "price": 1.14
+              },
+              {
+                "name": "Ovince St. Preux",
+                "price": 5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-17T00:02:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Kennedy Nzechukwu",
@@ -2613,19 +328,19 @@
       {
         "key": "playup",
         "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Kennedy Nzechukwu",
-                "price": 1.18
+                "price": 1.13
               },
               {
                 "name": "Ovince St. Preux",
-                "price": 4.75
+                "price": 5.75
               }
             ]
           }
@@ -2634,19 +349,19 @@
       {
         "key": "ladbrokes_au",
         "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Kennedy Nzechukwu",
-                "price": 1.14
+                "price": 1.13
               },
               {
                 "name": "Ovince St. Preux",
-                "price": 5.75
+                "price": 6.2
               }
             ]
           }
@@ -2655,19 +370,19 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Kennedy Nzechukwu",
-                "price": 1.14
+                "price": 1.13
               },
               {
                 "name": "Ovince St. Preux",
-                "price": 5.75
+                "price": 6.2
               }
             ]
           }
@@ -2676,11 +391,25 @@
       {
         "key": "betfair_ex_au",
         "title": "Betfair",
-        "last_update": "2024-03-16T10:13:17Z",
+        "last_update": "2024-03-17T00:01:39Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:17Z",
+            "last_update": "2024-03-17T00:01:39Z",
+            "outcomes": [
+              {
+                "name": "Kennedy Nzechukwu",
+                "price": 1.17
+              },
+              {
+                "name": "Ovince St. Preux",
+                "price": 6.6
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-17T00:01:39Z",
             "outcomes": [
               {
                 "name": "Kennedy Nzechukwu",
@@ -2688,21 +417,7 @@
               },
               {
                 "name": "Ovince St. Preux",
-                "price": 6.2
-              }
-            ]
-          },
-          {
-            "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:17Z",
-            "outcomes": [
-              {
-                "name": "Kennedy Nzechukwu",
-                "price": 1.2
-              },
-              {
-                "name": "Ovince St. Preux",
-                "price": 6.4
+                "price": 6.8
               }
             ]
           }
@@ -2711,19 +426,19 @@
       {
         "key": "betr_au",
         "title": "Betr",
-        "last_update": "2024-03-16T10:13:33Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Kennedy Nzechukwu",
-                "price": 1.17
+                "price": 1.18
               },
               {
                 "name": "Ovince St. Preux",
-                "price": 4.65
+                "price": 4.7
               }
             ]
           }
@@ -2742,19 +457,19 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Ange Loosa",
-                "price": 2.46
+                "price": 2.65
               },
               {
                 "name": "Bryan Battle",
-                "price": 1.55
+                "price": 1.49
               }
             ]
           }
@@ -2763,19 +478,19 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Ange Loosa",
-                "price": 2.5
+                "price": 2.55
               },
               {
                 "name": "Bryan Battle",
-                "price": 1.54
+                "price": 1.51
               }
             ]
           }
@@ -2784,15 +499,15 @@
       {
         "key": "pointsbetau",
         "title": "PointsBet (AU)",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Ange Loosa",
-                "price": 2.5
+                "price": 2.6
               },
               {
                 "name": "Bryan Battle",
@@ -2803,17 +518,136 @@
         ]
       },
       {
-        "key": "playup",
-        "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Ange Loosa",
-                "price": 2.4
+                "price": 2.55
+              },
+              {
+                "name": "Bryan Battle",
+                "price": 1.49
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-17T00:01:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:36Z",
+            "outcomes": [
+              {
+                "name": "Ange Loosa",
+                "price": 2.5
+              },
+              {
+                "name": "Bryan Battle",
+                "price": 1.51
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-17T00:02:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:02:05Z",
+            "outcomes": [
+              {
+                "name": "Ange Loosa",
+                "price": 2.7
+              },
+              {
+                "name": "Bryan Battle",
+                "price": 1.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-17T00:01:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:36Z",
+            "outcomes": [
+              {
+                "name": "Ange Loosa",
+                "price": 2.6
+              },
+              {
+                "name": "Bryan Battle",
+                "price": 1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-17T00:02:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:02:05Z",
+            "outcomes": [
+              {
+                "name": "Ange Loosa",
+                "price": 2.6
+              },
+              {
+                "name": "Bryan Battle",
+                "price": 1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-17T00:01:39Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:39Z",
+            "outcomes": [
+              {
+                "name": "Ange Loosa",
+                "price": 2.84
+              },
+              {
+                "name": "Bryan Battle",
+                "price": 1.53
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-17T00:01:39Z",
+            "outcomes": [
+              {
+                "name": "Ange Loosa",
+                "price": 2.88
               },
               {
                 "name": "Bryan Battle",
@@ -2824,98 +658,21 @@
         ]
       },
       {
-        "key": "neds",
-        "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
-            "outcomes": [
-              {
-                "name": "Ange Loosa",
-                "price": 2.55
-              },
-              {
-                "name": "Bryan Battle",
-                "price": 1.52
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "ladbrokes_au",
-        "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
-            "outcomes": [
-              {
-                "name": "Ange Loosa",
-                "price": 2.55
-              },
-              {
-                "name": "Bryan Battle",
-                "price": 1.52
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "betfair_ex_au",
-        "title": "Betfair",
-        "last_update": "2024-03-16T10:13:17Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:17Z",
-            "outcomes": [
-              {
-                "name": "Ange Loosa",
-                "price": 2.64
-              },
-              {
-                "name": "Bryan Battle",
-                "price": 1.59
-              }
-            ]
-          },
-          {
-            "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:17Z",
-            "outcomes": [
-              {
-                "name": "Ange Loosa",
-                "price": 2.68
-              },
-              {
-                "name": "Bryan Battle",
-                "price": 1.61
-              }
-            ]
-          }
-        ]
-      },
-      {
         "key": "betr_au",
         "title": "Betr",
-        "last_update": "2024-03-16T10:13:33Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Ange Loosa",
-                "price": 2.38
+                "price": 2.54
               },
               {
                 "name": "Bryan Battle",
-                "price": 1.54
+                "price": 1.5
               }
             ]
           }
@@ -2934,15 +691,36 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Marcin Tybura",
-                "price": 1.96
+                "price": 1.92
+              },
+              {
+                "name": "Tai Tuivasa",
+                "price": 1.92
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-17T00:02:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:02:05Z",
+            "outcomes": [
+              {
+                "name": "Marcin Tybura",
+                "price": 1.9
               },
               {
                 "name": "Tai Tuivasa",
@@ -2953,34 +731,13 @@
         ]
       },
       {
-        "key": "playup",
-        "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
-            "outcomes": [
-              {
-                "name": "Marcin Tybura",
-                "price": 1.93
-              },
-              {
-                "name": "Tai Tuivasa",
-                "price": 1.85
-              }
-            ]
-          }
-        ]
-      },
-      {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Marcin Tybura",
@@ -2997,11 +754,25 @@
       {
         "key": "betfair_ex_au",
         "title": "Betfair",
-        "last_update": "2024-03-16T10:13:17Z",
+        "last_update": "2024-03-17T00:01:39Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:17Z",
+            "last_update": "2024-03-17T00:01:39Z",
+            "outcomes": [
+              {
+                "name": "Marcin Tybura",
+                "price": 2.0
+              },
+              {
+                "name": "Tai Tuivasa",
+                "price": 1.98
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-17T00:01:39Z",
             "outcomes": [
               {
                 "name": "Marcin Tybura",
@@ -3009,21 +780,7 @@
               },
               {
                 "name": "Tai Tuivasa",
-                "price": 1.96
-              }
-            ]
-          },
-          {
-            "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:17Z",
-            "outcomes": [
-              {
-                "name": "Marcin Tybura",
-                "price": 2.06
-              },
-              {
-                "name": "Tai Tuivasa",
-                "price": 1.98
+                "price": 2.0
               }
             ]
           }
@@ -3032,19 +789,40 @@
       {
         "key": "pointsbetau",
         "title": "PointsBet (AU)",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Marcin Tybura",
-                "price": 1.95
+                "price": 1.97
               },
               {
                 "name": "Tai Tuivasa",
-                "price": 1.87
+                "price": 1.85
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-17T00:02:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:02:05Z",
+            "outcomes": [
+              {
+                "name": "Marcin Tybura",
+                "price": 1.93
+              },
+              {
+                "name": "Tai Tuivasa",
+                "price": 1.84
               }
             ]
           }
@@ -3053,11 +831,11 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Marcin Tybura",
@@ -3074,11 +852,11 @@
       {
         "key": "ladbrokes_au",
         "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Marcin Tybura",
@@ -3095,19 +873,40 @@
       {
         "key": "betr_au",
         "title": "Betr",
-        "last_update": "2024-03-16T10:13:33Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Marcin Tybura",
-                "price": 1.91
+                "price": 1.93
               },
               {
                 "name": "Tai Tuivasa",
-                "price": 1.83
+                "price": 1.85
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-17T00:01:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:36Z",
+            "outcomes": [
+              {
+                "name": "Marcin Tybura",
+                "price": 1.92
+              },
+              {
+                "name": "Tai Tuivasa",
+                "price": 1.88
               }
             ]
           }
@@ -3126,19 +925,19 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Andre Lima",
-                "price": 1.65
+                "price": 1.67
               },
               {
                 "name": "Igor da Silva",
-                "price": 2.2
+                "price": 2.22
               }
             ]
           }
@@ -3147,11 +946,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Andre Lima",
@@ -3168,11 +967,11 @@
       {
         "key": "tab",
         "title": "TAB",
-        "last_update": "2024-03-16T10:13:12Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:12Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Andre Lima",
@@ -3189,11 +988,11 @@
       {
         "key": "ladbrokes_au",
         "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Andre Lima",
@@ -3210,11 +1009,11 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Andre Lima",
@@ -3241,11 +1040,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Darya Zheleznyakova",
@@ -3262,11 +1061,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Darya Zheleznyakova",
@@ -3283,11 +1082,11 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Darya Zheleznyakova",
@@ -3304,11 +1103,11 @@
       {
         "key": "ladbrokes_au",
         "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Darya Zheleznyakova",
@@ -3335,11 +1134,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Jarno Errens",
@@ -3356,11 +1155,11 @@
       {
         "key": "tab",
         "title": "TAB",
-        "last_update": "2024-03-16T10:13:12Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:12Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Jarno Errens",
@@ -3377,11 +1176,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Jarno Errens",
@@ -3398,15 +1197,36 @@
       {
         "key": "playup",
         "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Jarno Errens",
-                "price": 2.55
+                "price": 2.5
+              },
+              {
+                "name": "Steven Nguyen",
+                "price": 1.52
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-17T00:02:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:02:05Z",
+            "outcomes": [
+              {
+                "name": "Jarno Errens",
+                "price": 2.48
               },
               {
                 "name": "Steven Nguyen",
@@ -3429,11 +1249,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Kurt Holobaugh",
@@ -3450,11 +1270,11 @@
       {
         "key": "tab",
         "title": "TAB",
-        "last_update": "2024-03-16T10:13:12Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:12Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Kurt Holobaugh",
@@ -3471,11 +1291,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Kurt Holobaugh",
@@ -3492,11 +1312,11 @@
       {
         "key": "playup",
         "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Kurt Holobaugh",
@@ -3513,11 +1333,11 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Kurt Holobaugh",
@@ -3534,11 +1354,11 @@
       {
         "key": "ladbrokes_au",
         "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Kurt Holobaugh",
@@ -3565,11 +1385,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Michael Parkin",
@@ -3586,11 +1406,11 @@
       {
         "key": "tab",
         "title": "TAB",
-        "last_update": "2024-03-16T10:13:12Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:12Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Michael Parkin",
@@ -3607,11 +1427,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Michael Parkin",
@@ -3628,15 +1448,36 @@
       {
         "key": "playup",
         "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Michael Parkin",
                 "price": 1.6
+              },
+              {
+                "name": "Mohammed Usman",
+                "price": 2.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-17T00:02:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:02:05Z",
+            "outcomes": [
+              {
+                "name": "Michael Parkin",
+                "price": 1.57
               },
               {
                 "name": "Mohammed Usman",
@@ -3659,11 +1500,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Julia Polastri",
@@ -3690,11 +1531,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Cody Gibson",
@@ -3711,19 +1552,19 @@
       {
         "key": "ladbrokes_au",
         "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Cody Gibson",
-                "price": 1.98
+                "price": 2.05
               },
               {
                 "name": "Miles Johns",
-                "price": 1.83
+                "price": 1.78
               }
             ]
           }
@@ -3732,19 +1573,19 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Cody Gibson",
-                "price": 1.98
+                "price": 2.05
               },
               {
                 "name": "Miles Johns",
-                "price": 1.83
+                "price": 1.78
               }
             ]
           }
@@ -3753,11 +1594,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Cody Gibson",
@@ -3774,11 +1615,11 @@
       {
         "key": "playup",
         "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Cody Gibson",
@@ -3787,6 +1628,27 @@
               {
                 "name": "Miles Johns",
                 "price": 1.85
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-17T00:02:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:02:05Z",
+            "outcomes": [
+              {
+                "name": "Cody Gibson",
+                "price": 1.91
+              },
+              {
+                "name": "Miles Johns",
+                "price": 1.83
               }
             ]
           }
@@ -3805,11 +1667,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Julian Erosa",
@@ -3826,11 +1688,11 @@
       {
         "key": "playup",
         "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Julian Erosa",
@@ -3847,11 +1709,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Julian Erosa",
@@ -3878,11 +1740,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Fernando Padilla",
@@ -3899,19 +1761,19 @@
       {
         "key": "playup",
         "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Fernando Padilla",
-                "price": 1.6
+                "price": 1.65
               },
               {
                 "name": "Luis Pajuelo",
-                "price": 2.3
+                "price": 2.2
               }
             ]
           }
@@ -3920,11 +1782,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Fernando Padilla",
@@ -3941,11 +1803,11 @@
       {
         "key": "tab",
         "title": "TAB",
-        "last_update": "2024-03-16T10:13:12Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:12Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Fernando Padilla",
@@ -3962,19 +1824,19 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Fernando Padilla",
-                "price": 1.6
+                "price": 1.57
               },
               {
                 "name": "Luis Pajuelo",
-                "price": 2.35
+                "price": 2.4
               }
             ]
           }
@@ -3983,19 +1845,19 @@
       {
         "key": "ladbrokes_au",
         "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Fernando Padilla",
-                "price": 1.6
+                "price": 1.57
               },
               {
                 "name": "Luis Pajuelo",
-                "price": 2.35
+                "price": 2.4
               }
             ]
           }
@@ -4014,11 +1876,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Billy Quarantillo",
@@ -4035,11 +1897,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Billy Quarantillo",
@@ -4056,15 +1918,15 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Billy Quarantillo",
-                "price": 1.72
+                "price": 1.7
               },
               {
                 "name": "Youssef Zalal",
@@ -4077,15 +1939,15 @@
       {
         "key": "ladbrokes_au",
         "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Billy Quarantillo",
-                "price": 1.72
+                "price": 1.7
               },
               {
                 "name": "Youssef Zalal",
@@ -4108,11 +1970,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Aj Dobson",
@@ -4129,19 +1991,61 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Aj Dobson",
-                "price": 2.57
+                "price": 2.59
               },
               {
                 "name": "Edmen Shahbazyan",
-                "price": 1.49
+                "price": 1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-17T00:02:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:02:05Z",
+            "outcomes": [
+              {
+                "name": "Aj Dobson",
+                "price": 2.55
+              },
+              {
+                "name": "Edmen Shahbazyan",
+                "price": 1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-17T00:02:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:02:04Z",
+            "outcomes": [
+              {
+                "name": "Aj Dobson",
+                "price": 2.6
+              },
+              {
+                "name": "Edmen Shahbazyan",
+                "price": 1.5
               }
             ]
           }
@@ -4160,11 +2064,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Cameron Saaiman",
@@ -4181,11 +2085,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Cameron Saaiman",
@@ -4202,11 +2106,11 @@
       {
         "key": "playup",
         "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Cameron Saaiman",
@@ -4223,11 +2127,11 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Cameron Saaiman",
@@ -4244,11 +2148,11 @@
       {
         "key": "ladbrokes_au",
         "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Cameron Saaiman",
@@ -4257,6 +2161,48 @@
               {
                 "name": "Payton Talbott",
                 "price": 1.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-17T00:02:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:02:04Z",
+            "outcomes": [
+              {
+                "name": "Cameron Saaiman",
+                "price": 1.91
+              },
+              {
+                "name": "Payton Talbott",
+                "price": 1.91
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-17T00:02:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:02:05Z",
+            "outcomes": [
+              {
+                "name": "Cameron Saaiman",
+                "price": 1.9
+              },
+              {
+                "name": "Payton Talbott",
+                "price": 1.87
               }
             ]
           }
@@ -4275,11 +2221,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Amanda Ribas",
@@ -4296,11 +2242,11 @@
       {
         "key": "playup",
         "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Amanda Ribas",
@@ -4317,11 +2263,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Amanda Ribas",
@@ -4338,11 +2284,11 @@
       {
         "key": "tab",
         "title": "TAB",
-        "last_update": "2024-03-16T10:13:12Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:12Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Amanda Ribas",
@@ -4359,33 +2305,33 @@
       {
         "key": "betfair_ex_au",
         "title": "Betfair",
-        "last_update": "2024-03-16T10:13:17Z",
+        "last_update": "2024-03-17T00:01:39Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:17Z",
+            "last_update": "2024-03-17T00:01:39Z",
             "outcomes": [
               {
                 "name": "Amanda Ribas",
-                "price": 2.42
+                "price": 2.4
               },
               {
                 "name": "Rose Namajunas",
-                "price": 1.28
+                "price": 1.51
               }
             ]
           },
           {
             "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:17Z",
+            "last_update": "2024-03-17T00:01:39Z",
             "outcomes": [
               {
                 "name": "Amanda Ribas",
-                "price": 4.6
+                "price": 2.98
               },
               {
                 "name": "Rose Namajunas",
-                "price": 1.7
+                "price": 1.72
               }
             ]
           }
@@ -4394,11 +2340,11 @@
       {
         "key": "pointsbetau",
         "title": "PointsBet (AU)",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Amanda Ribas",
@@ -4415,11 +2361,11 @@
       {
         "key": "bluebet",
         "title": "BlueBet",
-        "last_update": "2024-03-16T10:14:01Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:01Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Amanda Ribas",
@@ -4446,11 +2392,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Justin Tafa",
@@ -4467,11 +2413,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Justin Tafa",
@@ -4488,15 +2434,15 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Justin Tafa",
-                "price": 3.2
+                "price": 3.15
               },
               {
                 "name": "Karl Williams",
@@ -4509,15 +2455,15 @@
       {
         "key": "ladbrokes_au",
         "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Justin Tafa",
-                "price": 3.2
+                "price": 3.15
               },
               {
                 "name": "Karl Williams",
@@ -4540,11 +2486,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Bill Algeo",
@@ -4561,11 +2507,11 @@
       {
         "key": "ladbrokes_au",
         "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Bill Algeo",
@@ -4582,11 +2528,11 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Bill Algeo",
@@ -4603,11 +2549,11 @@
       {
         "key": "playup",
         "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Bill Algeo",
@@ -4634,11 +2580,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Chidi Njokuani",
@@ -4655,11 +2601,11 @@
       {
         "key": "playup",
         "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Chidi Njokuani",
@@ -4686,11 +2632,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Herbert Burns",
@@ -4717,11 +2663,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Jamall Emmers",
@@ -4738,11 +2684,11 @@
       {
         "key": "ladbrokes_au",
         "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Jamall Emmers",
@@ -4759,11 +2705,11 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Jamall Emmers",
@@ -4790,19 +2736,19 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Melissa Gatto",
-                "price": 1.64
+                "price": 1.67
               },
               {
                 "name": "Viktoriya Dudakova",
-                "price": 2.25
+                "price": 2.2
               }
             ]
           }
@@ -4811,11 +2757,11 @@
       {
         "key": "playup",
         "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Melissa Gatto",
@@ -4842,11 +2788,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Angel Pacheco",
@@ -4863,11 +2809,11 @@
       {
         "key": "playup",
         "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Angel Pacheco",
@@ -4894,11 +2840,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Anton Turkalj",
@@ -4915,11 +2861,11 @@
       {
         "key": "ladbrokes_au",
         "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Anton Turkalj",
@@ -4936,11 +2882,11 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Anton Turkalj",
@@ -4957,11 +2903,11 @@
       {
         "key": "playup",
         "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Anton Turkalj",
@@ -4988,11 +2934,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Connor Matthews",
@@ -5009,11 +2955,11 @@
       {
         "key": "playup",
         "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Connor Matthews",
@@ -5040,11 +2986,11 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Andre Petroski",
@@ -5061,11 +3007,11 @@
       {
         "key": "ladbrokes_au",
         "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Andre Petroski",
@@ -5082,11 +3028,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Andre Petroski",
@@ -5103,11 +3049,11 @@
       {
         "key": "playup",
         "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Andre Petroski",
@@ -5134,11 +3080,11 @@
       {
         "key": "playup",
         "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Bruno Silva",
@@ -5155,11 +3101,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Bruno Silva",
@@ -5186,11 +3132,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Lupita Godinez",
@@ -5207,11 +3153,11 @@
       {
         "key": "playup",
         "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Lupita Godinez",
@@ -5238,11 +3184,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Nursultan Ruziboev",
@@ -5269,11 +3215,11 @@
       {
         "key": "ladbrokes_au",
         "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:33Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:33Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Erin Blanchfield",
@@ -5290,11 +3236,11 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Erin Blanchfield",
@@ -5311,11 +3257,11 @@
       {
         "key": "playup",
         "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Erin Blanchfield",
@@ -5332,11 +3278,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Erin Blanchfield",
@@ -5363,11 +3309,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Joaquin Buckley",
@@ -5384,11 +3330,11 @@
       {
         "key": "playup",
         "title": "PlayUp",
-        "last_update": "2024-03-16T10:14:02Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:02Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Joaquin Buckley",
@@ -5397,6 +3343,37 @@
               {
                 "name": "Vicente Luque",
                 "price": 1.65
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fdd000c7028ffc95801e7ffc36d2404a",
+    "sport_key": "mma_mixed_martial_arts",
+    "sport_title": "MMA",
+    "commence_time": "2024-04-07T01:00:00Z",
+    "home_team": "Brendan Allen",
+    "away_team": "Chris Curtis",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-17T00:01:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:36Z",
+            "outcomes": [
+              {
+                "name": "Brendan Allen",
+                "price": 1.32
+              },
+              {
+                "name": "Chris Curtis",
+                "price": 3.3
               }
             ]
           }
@@ -5415,11 +3392,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Diego Lopes",
@@ -5436,11 +3413,11 @@
       {
         "key": "bluebet",
         "title": "BlueBet",
-        "last_update": "2024-03-16T10:14:01Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:01Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Diego Lopes",
@@ -5457,11 +3434,11 @@
       {
         "key": "pointsbetau",
         "title": "PointsBet (AU)",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Diego Lopes",
@@ -5478,11 +3455,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Diego Lopes",
@@ -5509,11 +3486,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Jessica Andrade",
@@ -5530,11 +3507,11 @@
       {
         "key": "bluebet",
         "title": "BlueBet",
-        "last_update": "2024-03-16T10:14:01Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:01Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Jessica Andrade",
@@ -5551,11 +3528,11 @@
       {
         "key": "pointsbetau",
         "title": "PointsBet (AU)",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Jessica Andrade",
@@ -5572,11 +3549,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Jessica Andrade",
@@ -5603,11 +3580,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Bobby Green",
@@ -5624,11 +3601,11 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Bobby Green",
@@ -5645,11 +3622,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Bobby Green",
@@ -5666,11 +3643,11 @@
       {
         "key": "bluebet",
         "title": "BlueBet",
-        "last_update": "2024-03-16T10:14:01Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:01Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Bobby Green",
@@ -5687,11 +3664,11 @@
       {
         "key": "pointsbetau",
         "title": "PointsBet (AU)",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Bobby Green",
@@ -5718,11 +3695,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Holly Holm",
@@ -5739,11 +3716,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Holly Holm",
@@ -5770,11 +3747,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Bo Nickal",
@@ -5791,11 +3768,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Bo Nickal",
@@ -5812,11 +3789,11 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Bo Nickal",
@@ -5833,11 +3810,11 @@
       {
         "key": "bluebet",
         "title": "BlueBet",
-        "last_update": "2024-03-16T10:14:01Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:01Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Bo Nickal",
@@ -5854,11 +3831,11 @@
       {
         "key": "pointsbetau",
         "title": "PointsBet (AU)",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Bo Nickal",
@@ -5885,11 +3862,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Aleksandar Rakic",
@@ -5906,11 +3883,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Aleksandar Rakic",
@@ -5927,11 +3904,11 @@
       {
         "key": "betfair_ex_au",
         "title": "Betfair",
-        "last_update": "2024-03-16T10:13:17Z",
+        "last_update": "2024-03-17T00:01:39Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:17Z",
+            "last_update": "2024-03-17T00:01:39Z",
             "outcomes": [
               {
                 "name": "Aleksandar Rakic",
@@ -5945,7 +3922,7 @@
           },
           {
             "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:17Z",
+            "last_update": "2024-03-17T00:01:39Z",
             "outcomes": [
               {
                 "name": "Aleksandar Rakic",
@@ -5962,11 +3939,11 @@
       {
         "key": "pointsbetau",
         "title": "PointsBet (AU)",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Aleksandar Rakic",
@@ -5983,11 +3960,11 @@
       {
         "key": "bluebet",
         "title": "BlueBet",
-        "last_update": "2024-03-16T10:14:01Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:01Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Aleksandar Rakic",
@@ -6014,11 +3991,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Aljamain Sterling",
@@ -6035,11 +4012,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Aljamain Sterling",
@@ -6056,11 +4033,11 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Aljamain Sterling",
@@ -6077,11 +4054,11 @@
       {
         "key": "betfair_ex_au",
         "title": "Betfair",
-        "last_update": "2024-03-16T10:13:17Z",
+        "last_update": "2024-03-17T00:01:39Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:17Z",
+            "last_update": "2024-03-17T00:01:39Z",
             "outcomes": [
               {
                 "name": "Aljamain Sterling",
@@ -6095,7 +4072,7 @@
           },
           {
             "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:17Z",
+            "last_update": "2024-03-17T00:01:39Z",
             "outcomes": [
               {
                 "name": "Aljamain Sterling",
@@ -6112,11 +4089,11 @@
       {
         "key": "pointsbetau",
         "title": "PointsBet (AU)",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Aljamain Sterling",
@@ -6133,11 +4110,11 @@
       {
         "key": "bluebet",
         "title": "BlueBet",
-        "last_update": "2024-03-16T10:14:01Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:01Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Aljamain Sterling",
@@ -6164,11 +4141,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Cody Garbrandt",
@@ -6185,11 +4162,11 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Cody Garbrandt",
@@ -6206,11 +4183,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Cody Garbrandt",
@@ -6227,11 +4204,11 @@
       {
         "key": "pointsbetau",
         "title": "PointsBet (AU)",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Cody Garbrandt",
@@ -6248,11 +4225,11 @@
       {
         "key": "bluebet",
         "title": "BlueBet",
-        "last_update": "2024-03-16T10:14:01Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:01Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Cody Garbrandt",
@@ -6279,11 +4256,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Arman Tsarukyan",
@@ -6300,11 +4277,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Arman Tsarukyan",
@@ -6321,11 +4298,11 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Arman Tsarukyan",
@@ -6342,11 +4319,11 @@
       {
         "key": "betfair_ex_au",
         "title": "Betfair",
-        "last_update": "2024-03-16T10:13:17Z",
+        "last_update": "2024-03-17T00:01:39Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:17Z",
+            "last_update": "2024-03-17T00:01:39Z",
             "outcomes": [
               {
                 "name": "Arman Tsarukyan",
@@ -6354,13 +4331,13 @@
               },
               {
                 "name": "Charles Oliveira",
-                "price": 2.8
+                "price": 2.66
               }
             ]
           },
           {
             "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:17Z",
+            "last_update": "2024-03-17T00:01:39Z",
             "outcomes": [
               {
                 "name": "Arman Tsarukyan",
@@ -6387,11 +4364,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Justin Gaethje",
@@ -6408,11 +4385,11 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Justin Gaethje",
@@ -6429,11 +4406,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Justin Gaethje",
@@ -6450,11 +4427,11 @@
       {
         "key": "tab",
         "title": "TAB",
-        "last_update": "2024-03-16T10:13:12Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:12Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Justin Gaethje",
@@ -6471,11 +4448,11 @@
       {
         "key": "bluebet",
         "title": "BlueBet",
-        "last_update": "2024-03-16T10:14:01Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:01Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Justin Gaethje",
@@ -6492,11 +4469,11 @@
       {
         "key": "pointsbetau",
         "title": "PointsBet (AU)",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Justin Gaethje",
@@ -6513,29 +4490,29 @@
       {
         "key": "betfair_ex_au",
         "title": "Betfair",
-        "last_update": "2024-03-16T10:13:17Z",
+        "last_update": "2024-03-17T00:01:39Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:17Z",
+            "last_update": "2024-03-17T00:01:39Z",
             "outcomes": [
               {
                 "name": "Justin Gaethje",
-                "price": 1.44
+                "price": 1.43
               },
               {
                 "name": "Max Holloway",
-                "price": 3.0
+                "price": 2.96
               }
             ]
           },
           {
             "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:17Z",
+            "last_update": "2024-03-17T00:01:39Z",
             "outcomes": [
               {
                 "name": "Justin Gaethje",
-                "price": 1.5
+                "price": 1.51
               },
               {
                 "name": "Max Holloway",
@@ -6558,19 +4535,19 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Alex Pereira",
-                "price": 1.59
+                "price": 1.63
               },
               {
                 "name": "Jamahal Hill",
-                "price": 2.31
+                "price": 2.25
               }
             ]
           }
@@ -6579,15 +4556,15 @@
       {
         "key": "betfair_ex_au",
         "title": "Betfair",
-        "last_update": "2024-03-16T10:13:17Z",
+        "last_update": "2024-03-17T00:01:39Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:17Z",
+            "last_update": "2024-03-17T00:01:39Z",
             "outcomes": [
               {
                 "name": "Alex Pereira",
-                "price": 1.72
+                "price": 1.69
               },
               {
                 "name": "Jamahal Hill",
@@ -6597,7 +4574,7 @@
           },
           {
             "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:17Z",
+            "last_update": "2024-03-17T00:01:39Z",
             "outcomes": [
               {
                 "name": "Alex Pereira",
@@ -6605,7 +4582,7 @@
               },
               {
                 "name": "Jamahal Hill",
-                "price": 2.4
+                "price": 2.44
               }
             ]
           }
@@ -6614,11 +4591,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Alex Pereira",
@@ -6645,11 +4622,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Weili Zhang",
@@ -6666,11 +4643,11 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Weili Zhang",
@@ -6687,11 +4664,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Weili Zhang",
@@ -6708,11 +4685,11 @@
       {
         "key": "tab",
         "title": "TAB",
-        "last_update": "2024-03-16T10:13:12Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:12Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Weili Zhang",
@@ -6729,11 +4706,11 @@
       {
         "key": "bluebet",
         "title": "BlueBet",
-        "last_update": "2024-03-16T10:14:01Z",
+        "last_update": "2024-03-17T00:02:05Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:01Z",
+            "last_update": "2024-03-17T00:02:05Z",
             "outcomes": [
               {
                 "name": "Weili Zhang",
@@ -6750,11 +4727,11 @@
       {
         "key": "pointsbetau",
         "title": "PointsBet (AU)",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Weili Zhang",
@@ -6771,11 +4748,11 @@
       {
         "key": "betfair_ex_au",
         "title": "Betfair",
-        "last_update": "2024-03-16T10:13:17Z",
+        "last_update": "2024-03-17T00:01:39Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:17Z",
+            "last_update": "2024-03-17T00:01:39Z",
             "outcomes": [
               {
                 "name": "Weili Zhang",
@@ -6789,7 +4766,7 @@
           },
           {
             "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:17Z",
+            "last_update": "2024-03-17T00:01:39Z",
             "outcomes": [
               {
                 "name": "Weili Zhang",
@@ -6798,6 +4775,37 @@
               {
                 "name": "Yan Xiaonan",
                 "price": 4.8
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "75d6fb54b5c677df6123b30d290e4998",
+    "sport_key": "mma_mixed_martial_arts",
+    "sport_title": "MMA",
+    "commence_time": "2024-05-05T00:00:00Z",
+    "home_team": "Alexandre Pantoja",
+    "away_team": "Stephen Erceg",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-17T00:01:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:36Z",
+            "outcomes": [
+              {
+                "name": "Alexandre Pantoja",
+                "price": 1.36
+              },
+              {
+                "name": "Stephen Erceg",
+                "price": 3.08
               }
             ]
           }
@@ -6816,11 +4824,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:32Z",
+        "last_update": "2024-03-17T00:01:36Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:32Z",
+            "last_update": "2024-03-17T00:01:36Z",
             "outcomes": [
               {
                 "name": "Conor McGregor",
@@ -6847,11 +4855,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Alex Pereira",
@@ -6878,11 +4886,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Alex Pereira",
@@ -6909,11 +4917,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Alex Volkanovski",
@@ -6940,11 +4948,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Alexa Grasso",
@@ -6971,11 +4979,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Alexa Grasso",
@@ -7002,11 +5010,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Alexa Grasso",
@@ -7033,11 +5041,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Arman Tsarukyan",
@@ -7064,11 +5072,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Belal Muhammad",
@@ -7095,11 +5103,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Charles Oliveira",
@@ -7126,11 +5134,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Conor McGregor",
@@ -7157,11 +5165,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Cris Cyborg",
@@ -7188,11 +5196,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Dricus Du Plessis",
@@ -7219,11 +5227,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Ilia Topuria",
@@ -7250,11 +5258,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Islam Makhachev",
@@ -7281,11 +5289,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Israel Adesanya",
@@ -7312,11 +5320,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Jon Jones",
@@ -7343,11 +5351,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Jon Jones",
@@ -7374,11 +5382,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Khamzat Chimaev",
@@ -7405,11 +5413,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Khamzat Chimaev",
@@ -7436,11 +5444,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Leon Edwards",
@@ -7467,11 +5475,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Merab Dvalishvili",
@@ -7498,11 +5506,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:12:22Z",
+        "last_update": "2024-03-17T00:02:04Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:12:22Z",
+            "last_update": "2024-03-17T00:02:04Z",
             "outcomes": [
               {
                 "name": "Tatiana Suarez",

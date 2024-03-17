@@ -15,7 +15,6 @@ with open(sports_list_file, 'r') as file:
 
 SPORTS = [SPORT.strip() for SPORT in SPORTS]
 
-
 output_directory = 'found'
 output_filename = '2-way-arbitrage.txt'
 output_file_path = os.path.join(output_directory, output_filename)
@@ -43,7 +42,7 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
                         odds_str += f"{outcome['name']}: {outcome['price']} "
 
             print(odds_str)
-            #print('---------------------------------------------------------------------')
+            # print('---------------------------------------------------------------------')
 
         print('=====================================================================')
 
@@ -92,15 +91,15 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
             favorite_max_odd_bookmaker = favorite_max_odd_entity['bookmaker']
 
             # Check if one of the odds is above 2 and the other is below 2
-            if (underdog_max_odd > 2 and favorite_max_odd < 2) or (underdog_max_odd < 2 and favorite_max_odd > 2):
+            if (underdog_max_odd > 2 > favorite_max_odd) or (underdog_max_odd < 2 < favorite_max_odd):
                 # Calculate arbitrage percentage
                 arb_percentage = ((1 / (underdog_max_odd / 100)) + (1 / (favorite_max_odd / 100)))
 
                 # Check if arbitrage opportunity is profitable
                 if arb_percentage < 99.99:
                     # Calculate individual odds percentage
-                    underdog_percentage = (1 / (underdog_max_odd)) * 100
-                    favorite_percentage = (1 / (favorite_max_odd)) * 100
+                    underdog_percentage = (1 / underdog_max_odd) * 100
+                    favorite_percentage = (1 / favorite_max_odd) * 100
 
                     # Calculate stakes
                     underdog_stake = (total_bet_amount * underdog_percentage) / arb_percentage
@@ -113,7 +112,6 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
                     # Calculate profits
                     underdog_profit = underdog_return - total_bet_amount
                     favorite_profit = favorite_return - total_bet_amount
-
 
                     # Calculate stakes for biased underdog
                     favorite_stake1 = (total_bet_amount / favorite_max_odd)
@@ -137,7 +135,6 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
                     # Calculate profits for biased Fav
                     underdog_profit2 = underdog_return2 - total_bet_amount
                     favorite_profit2 = favorite_return2 - total_bet_amount
-
 
                     # Append to email content
 
@@ -174,13 +171,15 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
                     print('---------------------------------------------------------------------')
                     # Append to the output file
                     with open(output_file_path, 'a', encoding='utf-8') as output_file:
-                        print('*********************************{}********************************'.format(event['sport_title']), file=output_file)
+                        print('*********************************{}********************************'.format(
+                            event['sport_title']), file=output_file)
                         print('{} (underdog) vs {} (favorite) '.format(
                             underdog_max_odd_entity['underdog']['name'],
                             favorite_max_odd_entity['favorite']['name']),
                             file=output_file)
                         print('Arbitrage Percentage: {:.2f}%'.format(arb_percentage), file=output_file)
-                        print('-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-', file=output_file)
+                        print('-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-',
+                              file=output_file)
                         print('Stake ${:.2f} on {} (underdog) from [{}] - Odds: ${:.2f}'.format(
                             underdog_stake, underdog_max_odd_entity['underdog']['name'], underdog_max_odd_bookmaker,
                             underdog_max_odd), file=output_file)
@@ -191,7 +190,8 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
                               file=output_file)
                         print('Favorite Return: ${:.2f}, Profit: ${:.2f}'.format(favorite_return, favorite_profit),
                               file=output_file)
-                        print('-DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG-', file=output_file)
+                        print('-DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG-',
+                              file=output_file)
                         print('Stake ${:.2f} on {} (underdog) from [{}] - Odds: ${:.2f}'.format(
                             underdog_stake1, underdog_max_odd_entity['underdog']['name'], underdog_max_odd_bookmaker,
                             underdog_max_odd), file=output_file)
@@ -202,7 +202,8 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
                               file=output_file)
                         print('Favorite Return: ${:.2f}, Profit: ${:.2f}'.format(favorite_return1, favorite_profit1),
                               file=output_file)
-                        print('--FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE-', file=output_file)
+                        print('--FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE-',
+                              file=output_file)
                         print('Stake ${:.2f} on {} (underdog) from [{}] - Odds: ${:.2f}'.format(
                             underdog_stake2, underdog_max_odd_entity['underdog']['name'], underdog_max_odd_bookmaker,
                             underdog_max_odd), file=output_file)
@@ -224,7 +225,6 @@ for SPORT in SPORTS:
         # Load the JSON content
         odds_json = json.load(json_file)
         find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmakers, output_file_path)
-
 
 output_filename = '2-way-arbitrage-my-bookies.txt'
 output_file_path = os.path.join(output_directory, output_filename)

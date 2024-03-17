@@ -1,305 +1,5 @@
 [
   {
-    "id": "35672cdb6fbc84644429119e84ab28a9",
-    "sport_key": "aussierules_afl",
-    "sport_title": "AFL",
-    "commence_time": "2024-03-16T08:33:34Z",
-    "home_team": "Geelong Cats",
-    "away_team": "St Kilda Saints",
-    "bookmakers": [
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:14:09Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:14:09Z",
-            "outcomes": [
-              {
-                "name": "Geelong Cats",
-                "price": 1.29
-              },
-              {
-                "name": "St Kilda Saints",
-                "price": 3.4
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "tab",
-        "title": "TAB",
-        "last_update": "2024-03-16T10:13:39Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
-            "outcomes": [
-              {
-                "name": "Geelong Cats",
-                "price": 1.22
-              },
-              {
-                "name": "St Kilda Saints",
-                "price": 4.0
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "pointsbetau",
-        "title": "PointsBet (AU)",
-        "last_update": "2024-03-16T10:12:51Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:51Z",
-            "outcomes": [
-              {
-                "name": "Geelong Cats",
-                "price": 1.25
-              },
-              {
-                "name": "St Kilda Saints",
-                "price": 4.0
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "betfair_ex_au",
-        "title": "Betfair",
-        "last_update": "2024-03-16T10:13:41Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:41Z",
-            "outcomes": [
-              {
-                "name": "Geelong Cats",
-                "price": 1.18
-              },
-              {
-                "name": "St Kilda Saints",
-                "price": 3.85
-              }
-            ]
-          },
-          {
-            "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:41Z",
-            "outcomes": [
-              {
-                "name": "Geelong Cats",
-                "price": 1.35
-              },
-              {
-                "name": "St Kilda Saints",
-                "price": 6.6
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "betr_au",
-        "title": "Betr",
-        "last_update": "2024-03-16T10:12:52Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:52Z",
-            "outcomes": [
-              {
-                "name": "Geelong Cats",
-                "price": 1.23
-              },
-              {
-                "name": "St Kilda Saints",
-                "price": 4.0
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "bluebet",
-        "title": "BlueBet",
-        "last_update": "2024-03-16T10:12:52Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:12:52Z",
-            "outcomes": [
-              {
-                "name": "Geelong Cats",
-                "price": 1.2
-              },
-              {
-                "name": "St Kilda Saints",
-                "price": 4.25
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "10a87f9dbf70fe06e429c87fee34475a",
-    "sport_key": "aussierules_afl",
-    "sport_title": "AFL",
-    "commence_time": "2024-03-16T09:10:18Z",
-    "home_team": "Gold Coast Suns",
-    "away_team": "Adelaide Crows",
-    "bookmakers": [
-      {
-        "key": "unibet",
-        "title": "Unibet",
-        "last_update": "2024-03-16T10:14:09Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:14:09Z",
-            "outcomes": [
-              {
-                "name": "Adelaide Crows",
-                "price": 10.0
-              },
-              {
-                "name": "Gold Coast Suns",
-                "price": 1.05
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "tab",
-        "title": "TAB",
-        "last_update": "2024-03-16T10:13:39Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
-            "outcomes": [
-              {
-                "name": "Adelaide Crows",
-                "price": 10.0
-              },
-              {
-                "name": "Gold Coast Suns",
-                "price": 1.05
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "pointsbetau",
-        "title": "PointsBet (AU)",
-        "last_update": "2024-03-16T10:13:39Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
-            "outcomes": [
-              {
-                "name": "Adelaide Crows",
-                "price": 7.0
-              },
-              {
-                "name": "Gold Coast Suns",
-                "price": 1.1
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "betfair_ex_au",
-        "title": "Betfair",
-        "last_update": "2024-03-16T10:13:41Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:41Z",
-            "outcomes": [
-              {
-                "name": "Adelaide Crows",
-                "price": 4.2
-              },
-              {
-                "name": "Gold Coast Suns",
-                "price": 1.12
-              }
-            ]
-          },
-          {
-            "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:41Z",
-            "outcomes": [
-              {
-                "name": "Adelaide Crows",
-                "price": 11.0
-              },
-              {
-                "name": "Gold Coast Suns",
-                "price": 1.31
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "betr_au",
-        "title": "Betr",
-        "last_update": "2024-03-16T10:13:40Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
-            "outcomes": [
-              {
-                "name": "Adelaide Crows",
-                "price": 11.0
-              },
-              {
-                "name": "Gold Coast Suns",
-                "price": 1.05
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "bluebet",
-        "title": "BlueBet",
-        "last_update": "2024-03-16T10:13:39Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
-            "outcomes": [
-              {
-                "name": "Adelaide Crows",
-                "price": 10.0
-              },
-              {
-                "name": "Gold Coast Suns",
-                "price": 1.03
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "0c3a20096bbd32bf799b4fa2e02e3129",
     "sport_key": "aussierules_afl",
     "sport_title": "AFL",
@@ -310,11 +10,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:14:09Z",
+        "last_update": "2024-03-17T00:01:43Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:09Z",
+            "last_update": "2024-03-17T00:01:43Z",
             "outcomes": [
               {
                 "name": "Melbourne Demons",
@@ -331,11 +31,53 @@
       {
         "key": "tab",
         "title": "TAB",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:18Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:18Z",
+            "outcomes": [
+              {
+                "name": "Melbourne Demons",
+                "price": 1.6
+              },
+              {
+                "name": "Western Bulldogs",
+                "price": 2.35
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": "2024-03-17T00:01:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:43Z",
+            "outcomes": [
+              {
+                "name": "Melbourne Demons",
+                "price": 1.6
+              },
+              {
+                "name": "Western Bulldogs",
+                "price": 2.35
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-17T00:01:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:43Z",
             "outcomes": [
               {
                 "name": "Melbourne Demons",
@@ -350,17 +92,17 @@
         ]
       },
       {
-        "key": "pointsbetau",
-        "title": "PointsBet (AU)",
-        "last_update": "2024-03-16T10:13:39Z",
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-17T00:01:44Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:44Z",
             "outcomes": [
               {
                 "name": "Melbourne Demons",
-                "price": 1.6
+                "price": 1.62
               },
               {
                 "name": "Western Bulldogs",
@@ -371,55 +113,13 @@
         ]
       },
       {
-        "key": "neds",
-        "title": "Neds",
-        "last_update": "2024-03-16T10:13:39Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
-            "outcomes": [
-              {
-                "name": "Melbourne Demons",
-                "price": 1.64
-              },
-              {
-                "name": "Western Bulldogs",
-                "price": 2.25
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "ladbrokes_au",
-        "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:39Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
-            "outcomes": [
-              {
-                "name": "Melbourne Demons",
-                "price": 1.64
-              },
-              {
-                "name": "Western Bulldogs",
-                "price": 2.25
-              }
-            ]
-          }
-        ]
-      },
-      {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:43Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:43Z",
             "outcomes": [
               {
                 "name": "Melbourne Demons",
@@ -436,29 +136,50 @@
       {
         "key": "betfair_ex_au",
         "title": "Betfair",
-        "last_update": "2024-03-16T10:13:41Z",
+        "last_update": "2024-03-17T00:01:19Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:41Z",
+            "last_update": "2024-03-17T00:01:19Z",
             "outcomes": [
               {
                 "name": "Melbourne Demons",
-                "price": 1.71
+                "price": 1.62
               },
               {
                 "name": "Western Bulldogs",
-                "price": 2.38
+                "price": 2.6
               }
             ]
           },
           {
             "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:41Z",
+            "last_update": "2024-03-17T00:01:19Z",
             "outcomes": [
               {
                 "name": "Melbourne Demons",
-                "price": 1.72
+                "price": 1.63
+              },
+              {
+                "name": "Western Bulldogs",
+                "price": 2.62
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-03-17T00:01:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:18Z",
+            "outcomes": [
+              {
+                "name": "Melbourne Demons",
+                "price": 1.57
               },
               {
                 "name": "Western Bulldogs",
@@ -469,42 +190,21 @@
         ]
       },
       {
-        "key": "betr_au",
-        "title": "Betr",
-        "last_update": "2024-03-16T10:13:40Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
-            "outcomes": [
-              {
-                "name": "Melbourne Demons",
-                "price": 1.62
-              },
-              {
-                "name": "Western Bulldogs",
-                "price": 2.3
-              }
-            ]
-          }
-        ]
-      },
-      {
         "key": "playup",
         "title": "PlayUp",
-        "last_update": "2024-03-16T10:13:38Z",
+        "last_update": "2024-03-17T00:01:42Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:38Z",
+            "last_update": "2024-03-17T00:01:42Z",
             "outcomes": [
               {
                 "name": "Melbourne Demons",
-                "price": 1.62
+                "price": 1.6
               },
               {
                 "name": "Western Bulldogs",
-                "price": 2.3
+                "price": 2.35
               }
             ]
           }
@@ -513,19 +213,19 @@
       {
         "key": "bluebet",
         "title": "BlueBet",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:44Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:44Z",
             "outcomes": [
               {
                 "name": "Melbourne Demons",
-                "price": 1.65
+                "price": 1.6
               },
               {
                 "name": "Western Bulldogs",
-                "price": 2.25
+                "price": 2.35
               }
             ]
           }
@@ -534,19 +234,19 @@
       {
         "key": "topsport",
         "title": "TopSport",
-        "last_update": "2024-03-16T10:14:11Z",
+        "last_update": "2024-03-17T00:01:19Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:11Z",
+            "last_update": "2024-03-17T00:01:19Z",
             "outcomes": [
               {
                 "name": "Melbourne Demons",
-                "price": 1.62
+                "price": 1.55
               },
               {
                 "name": "Western Bulldogs",
-                "price": 2.28
+                "price": 2.45
               }
             ]
           }
@@ -565,11 +265,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:14:09Z",
+        "last_update": "2024-03-17T00:01:43Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:09Z",
+            "last_update": "2024-03-17T00:01:43Z",
             "outcomes": [
               {
                 "name": "Port Adelaide Power",
@@ -586,11 +286,11 @@
       {
         "key": "tab",
         "title": "TAB",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:18Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:18Z",
             "outcomes": [
               {
                 "name": "Port Adelaide Power",
@@ -607,11 +307,11 @@
       {
         "key": "pointsbetau",
         "title": "PointsBet (AU)",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:43Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:43Z",
             "outcomes": [
               {
                 "name": "Port Adelaide Power",
@@ -628,19 +328,19 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:43Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:43Z",
             "outcomes": [
               {
                 "name": "Port Adelaide Power",
-                "price": 1.07
+                "price": 1.06
               },
               {
                 "name": "West Coast Eagles",
-                "price": 8.75
+                "price": 9.0
               }
             ]
           }
@@ -649,19 +349,19 @@
       {
         "key": "ladbrokes_au",
         "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:44Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:44Z",
             "outcomes": [
               {
                 "name": "Port Adelaide Power",
-                "price": 1.07
+                "price": 1.06
               },
               {
                 "name": "West Coast Eagles",
-                "price": 8.75
+                "price": 9.0
               }
             ]
           }
@@ -670,11 +370,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:43Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:43Z",
             "outcomes": [
               {
                 "name": "Port Adelaide Power",
@@ -691,11 +391,11 @@
       {
         "key": "betfair_ex_au",
         "title": "Betfair",
-        "last_update": "2024-03-16T10:13:41Z",
+        "last_update": "2024-03-17T00:01:19Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:41Z",
+            "last_update": "2024-03-17T00:01:19Z",
             "outcomes": [
               {
                 "name": "Port Adelaide Power",
@@ -703,13 +403,13 @@
               },
               {
                 "name": "West Coast Eagles",
-                "price": 11.0
+                "price": 11.5
               }
             ]
           },
           {
             "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:41Z",
+            "last_update": "2024-03-17T00:01:19Z",
             "outcomes": [
               {
                 "name": "Port Adelaide Power",
@@ -717,7 +417,7 @@
               },
               {
                 "name": "West Coast Eagles",
-                "price": 11.5
+                "price": 12.5
               }
             ]
           }
@@ -726,19 +426,19 @@
       {
         "key": "betr_au",
         "title": "Betr",
-        "last_update": "2024-03-16T10:13:40Z",
+        "last_update": "2024-03-17T00:01:18Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:18Z",
             "outcomes": [
               {
                 "name": "Port Adelaide Power",
-                "price": 1.07
+                "price": 1.06
               },
               {
                 "name": "West Coast Eagles",
-                "price": 8.5
+                "price": 9.0
               }
             ]
           }
@@ -747,11 +447,11 @@
       {
         "key": "playup",
         "title": "PlayUp",
-        "last_update": "2024-03-16T10:13:38Z",
+        "last_update": "2024-03-17T00:01:42Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:38Z",
+            "last_update": "2024-03-17T00:01:42Z",
             "outcomes": [
               {
                 "name": "Port Adelaide Power",
@@ -768,11 +468,11 @@
       {
         "key": "bluebet",
         "title": "BlueBet",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:44Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:44Z",
             "outcomes": [
               {
                 "name": "Port Adelaide Power",
@@ -789,11 +489,11 @@
       {
         "key": "topsport",
         "title": "TopSport",
-        "last_update": "2024-03-16T10:14:11Z",
+        "last_update": "2024-03-17T00:01:19Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:11Z",
+            "last_update": "2024-03-17T00:01:19Z",
             "outcomes": [
               {
                 "name": "Port Adelaide Power",
@@ -801,7 +501,7 @@
               },
               {
                 "name": "West Coast Eagles",
-                "price": 8.75
+                "price": 9.5
               }
             ]
           }
@@ -820,11 +520,11 @@
       {
         "key": "unibet",
         "title": "Unibet",
-        "last_update": "2024-03-16T10:14:09Z",
+        "last_update": "2024-03-17T00:01:43Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:09Z",
+            "last_update": "2024-03-17T00:01:43Z",
             "outcomes": [
               {
                 "name": "Brisbane Lions",
@@ -841,11 +541,11 @@
       {
         "key": "tab",
         "title": "TAB",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:18Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:18Z",
             "outcomes": [
               {
                 "name": "Brisbane Lions",
@@ -862,11 +562,11 @@
       {
         "key": "pointsbetau",
         "title": "PointsBet (AU)",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:43Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:43Z",
             "outcomes": [
               {
                 "name": "Brisbane Lions",
@@ -883,11 +583,11 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:43Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:43Z",
             "outcomes": [
               {
                 "name": "Brisbane Lions",
@@ -904,11 +604,11 @@
       {
         "key": "ladbrokes_au",
         "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:44Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:44Z",
             "outcomes": [
               {
                 "name": "Brisbane Lions",
@@ -925,11 +625,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:43Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:43Z",
             "outcomes": [
               {
                 "name": "Brisbane Lions",
@@ -946,25 +646,11 @@
       {
         "key": "betfair_ex_au",
         "title": "Betfair",
-        "last_update": "2024-03-16T10:13:41Z",
+        "last_update": "2024-03-17T00:01:19Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:41Z",
-            "outcomes": [
-              {
-                "name": "Brisbane Lions",
-                "price": 1.72
-              },
-              {
-                "name": "Fremantle Dockers",
-                "price": 2.36
-              }
-            ]
-          },
-          {
-            "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:41Z",
+            "last_update": "2024-03-17T00:01:19Z",
             "outcomes": [
               {
                 "name": "Brisbane Lions",
@@ -972,7 +658,21 @@
               },
               {
                 "name": "Fremantle Dockers",
-                "price": 2.4
+                "price": 2.34
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-17T00:01:19Z",
+            "outcomes": [
+              {
+                "name": "Brisbane Lions",
+                "price": 1.75
+              },
+              {
+                "name": "Fremantle Dockers",
+                "price": 2.36
               }
             ]
           }
@@ -981,36 +681,15 @@
       {
         "key": "betr_au",
         "title": "Betr",
-        "last_update": "2024-03-16T10:13:40Z",
+        "last_update": "2024-03-17T00:01:18Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:40Z",
+            "last_update": "2024-03-17T00:01:18Z",
             "outcomes": [
               {
                 "name": "Brisbane Lions",
-                "price": 1.62
-              },
-              {
-                "name": "Fremantle Dockers",
-                "price": 2.3
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "playup",
-        "title": "PlayUp",
-        "last_update": "2024-03-16T10:13:38Z",
-        "markets": [
-          {
-            "key": "h2h",
-            "last_update": "2024-03-16T10:13:38Z",
-            "outcomes": [
-              {
-                "name": "Brisbane Lions",
-                "price": 1.68
+                "price": 1.67
               },
               {
                 "name": "Fremantle Dockers",
@@ -1021,13 +700,13 @@
         ]
       },
       {
-        "key": "bluebet",
-        "title": "BlueBet",
-        "last_update": "2024-03-16T10:13:39Z",
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-03-17T00:01:42Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:42Z",
             "outcomes": [
               {
                 "name": "Brisbane Lions",
@@ -1042,13 +721,13 @@
         ]
       },
       {
-        "key": "topsport",
-        "title": "TopSport",
-        "last_update": "2024-03-16T10:14:11Z",
+        "key": "bluebet",
+        "title": "BlueBet",
+        "last_update": "2024-03-17T00:01:44Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:14:11Z",
+            "last_update": "2024-03-17T00:01:44Z",
             "outcomes": [
               {
                 "name": "Brisbane Lions",
@@ -1057,6 +736,285 @@
               {
                 "name": "Fremantle Dockers",
                 "price": 2.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "topsport",
+        "title": "TopSport",
+        "last_update": "2024-03-17T00:01:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:19Z",
+            "outcomes": [
+              {
+                "name": "Brisbane Lions",
+                "price": 1.67
+              },
+              {
+                "name": "Fremantle Dockers",
+                "price": 2.2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b6b724eae98cb91ab9eef68ce45510a5",
+    "sport_key": "aussierules_afl",
+    "sport_title": "AFL",
+    "commence_time": "2024-03-21T08:30:00Z",
+    "home_team": "St Kilda Saints",
+    "away_team": "Collingwood Magpies",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-17T00:01:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:43Z",
+            "outcomes": [
+              {
+                "name": "Collingwood Magpies",
+                "price": 1.66
+              },
+              {
+                "name": "St Kilda Saints",
+                "price": 2.23
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-17T00:01:44Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:44Z",
+            "outcomes": [
+              {
+                "name": "Collingwood Magpies",
+                "price": 1.52
+              },
+              {
+                "name": "St Kilda Saints",
+                "price": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-17T00:01:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:43Z",
+            "outcomes": [
+              {
+                "name": "Collingwood Magpies",
+                "price": 1.52
+              },
+              {
+                "name": "St Kilda Saints",
+                "price": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-17T00:01:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:19Z",
+            "outcomes": [
+              {
+                "name": "Collingwood Magpies",
+                "price": 1.55
+              },
+              {
+                "name": "St Kilda Saints",
+                "price": 2.38
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-17T00:01:19Z",
+            "outcomes": [
+              {
+                "name": "Collingwood Magpies",
+                "price": 1.73
+              },
+              {
+                "name": "St Kilda Saints",
+                "price": 2.82
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-17T00:01:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:43Z",
+            "outcomes": [
+              {
+                "name": "Collingwood Magpies",
+                "price": 1.68
+              },
+              {
+                "name": "St Kilda Saints",
+                "price": 2.17
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "06586ad210585f9795bb43b2ab2cb045",
+    "sport_key": "aussierules_afl",
+    "sport_title": "AFL",
+    "commence_time": "2024-03-22T08:40:00Z",
+    "home_team": "Adelaide Crows",
+    "away_team": "Geelong Cats",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-17T00:01:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:43Z",
+            "outcomes": [
+              {
+                "name": "Adelaide Crows",
+                "price": 1.45
+              },
+              {
+                "name": "Geelong Cats",
+                "price": 2.76
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-17T00:01:44Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:44Z",
+            "outcomes": [
+              {
+                "name": "Adelaide Crows",
+                "price": 1.42
+              },
+              {
+                "name": "Geelong Cats",
+                "price": 2.85
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-17T00:01:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:43Z",
+            "outcomes": [
+              {
+                "name": "Adelaide Crows",
+                "price": 1.42
+              },
+              {
+                "name": "Geelong Cats",
+                "price": 2.85
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-17T00:01:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:19Z",
+            "outcomes": [
+              {
+                "name": "Adelaide Crows",
+                "price": 1.46
+              },
+              {
+                "name": "Geelong Cats",
+                "price": 2.52
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-17T00:01:19Z",
+            "outcomes": [
+              {
+                "name": "Adelaide Crows",
+                "price": 1.65
+              },
+              {
+                "name": "Geelong Cats",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-17T00:01:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:43Z",
+            "outcomes": [
+              {
+                "name": "Adelaide Crows",
+                "price": 1.48
+              },
+              {
+                "name": "Geelong Cats",
+                "price": 2.65
               }
             ]
           }
@@ -1075,19 +1033,19 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:43Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:43Z",
             "outcomes": [
               {
                 "name": "Fremantle Dockers",
-                "price": 1.57
+                "price": 1.59
               },
               {
                 "name": "North Melbourne Kangaroos",
-                "price": 2.42
+                "price": 2.36
               }
             ]
           }
@@ -1096,11 +1054,11 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:43Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:43Z",
             "outcomes": [
               {
                 "name": "Fremantle Dockers",
@@ -1117,11 +1075,11 @@
       {
         "key": "ladbrokes_au",
         "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:44Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:44Z",
             "outcomes": [
               {
                 "name": "Fremantle Dockers",
@@ -1136,13 +1094,34 @@
         ]
       },
       {
-        "key": "betfair_ex_au",
-        "title": "Betfair",
-        "last_update": "2024-03-16T10:13:41Z",
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-03-17T00:01:18Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:41Z",
+            "last_update": "2024-03-17T00:01:18Z",
+            "outcomes": [
+              {
+                "name": "Fremantle Dockers",
+                "price": 1.55
+              },
+              {
+                "name": "North Melbourne Kangaroos",
+                "price": 2.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-17T00:01:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:19Z",
             "outcomes": [
               {
                 "name": "Fremantle Dockers",
@@ -1156,7 +1135,7 @@
           },
           {
             "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:41Z",
+            "last_update": "2024-03-17T00:01:19Z",
             "outcomes": [
               {
                 "name": "Fremantle Dockers",
@@ -1183,11 +1162,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:43Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:43Z",
             "outcomes": [
               {
                 "name": "Hawthorn Hawks",
@@ -1204,11 +1183,11 @@
       {
         "key": "ladbrokes_au",
         "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:44Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:44Z",
             "outcomes": [
               {
                 "name": "Hawthorn Hawks",
@@ -1225,11 +1204,11 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:43Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:43Z",
             "outcomes": [
               {
                 "name": "Hawthorn Hawks",
@@ -1246,11 +1225,11 @@
       {
         "key": "tab",
         "title": "TAB",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:18Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:18Z",
             "outcomes": [
               {
                 "name": "Hawthorn Hawks",
@@ -1267,11 +1246,11 @@
       {
         "key": "betfair_ex_au",
         "title": "Betfair",
-        "last_update": "2024-03-16T10:13:41Z",
+        "last_update": "2024-03-17T00:01:19Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:41Z",
+            "last_update": "2024-03-17T00:01:19Z",
             "outcomes": [
               {
                 "name": "Hawthorn Hawks",
@@ -1285,7 +1264,7 @@
           },
           {
             "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:41Z",
+            "last_update": "2024-03-17T00:01:19Z",
             "outcomes": [
               {
                 "name": "Hawthorn Hawks",
@@ -1312,11 +1291,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:43Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:43Z",
             "outcomes": [
               {
                 "name": "Essendon Bombers",
@@ -1333,11 +1312,11 @@
       {
         "key": "ladbrokes_au",
         "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:44Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:44Z",
             "outcomes": [
               {
                 "name": "Essendon Bombers",
@@ -1354,11 +1333,11 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:43Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:43Z",
             "outcomes": [
               {
                 "name": "Essendon Bombers",
@@ -1375,11 +1354,11 @@
       {
         "key": "tab",
         "title": "TAB",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:18Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:18Z",
             "outcomes": [
               {
                 "name": "Essendon Bombers",
@@ -1396,11 +1375,11 @@
       {
         "key": "betfair_ex_au",
         "title": "Betfair",
-        "last_update": "2024-03-16T10:13:41Z",
+        "last_update": "2024-03-17T00:01:19Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:41Z",
+            "last_update": "2024-03-17T00:01:19Z",
             "outcomes": [
               {
                 "name": "Essendon Bombers",
@@ -1408,21 +1387,150 @@
               },
               {
                 "name": "Sydney Swans",
-                "price": 1.1
+                "price": 1.27
               }
             ]
           },
           {
             "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:41Z",
+            "last_update": "2024-03-17T00:01:19Z",
             "outcomes": [
               {
                 "name": "Essendon Bombers",
-                "price": 18.0
+                "price": 4.8
               },
               {
                 "name": "Sydney Swans",
                 "price": 1.42
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-03-17T00:01:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:43Z",
+            "outcomes": [
+              {
+                "name": "Essendon Bombers",
+                "price": 3.7
+              },
+              {
+                "name": "Sydney Swans",
+                "price": 1.28
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "62887ca53b1f893aceb5283b106f6988",
+    "sport_key": "aussierules_afl",
+    "sport_title": "AFL",
+    "commence_time": "2024-03-24T02:00:00Z",
+    "home_team": "Western Bulldogs",
+    "away_team": "Gold Coast Suns",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-03-17T00:01:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:43Z",
+            "outcomes": [
+              {
+                "name": "Gold Coast Suns",
+                "price": 2.6
+              },
+              {
+                "name": "Western Bulldogs",
+                "price": 1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-03-17T00:01:44Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:44Z",
+            "outcomes": [
+              {
+                "name": "Gold Coast Suns",
+                "price": 2.75
+              },
+              {
+                "name": "Western Bulldogs",
+                "price": 1.44
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": "2024-03-17T00:01:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:43Z",
+            "outcomes": [
+              {
+                "name": "Gold Coast Suns",
+                "price": 2.75
+              },
+              {
+                "name": "Western Bulldogs",
+                "price": 1.44
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-03-17T00:01:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-17T00:01:19Z",
+            "outcomes": [
+              {
+                "name": "Gold Coast Suns",
+                "price": 2.5
+              },
+              {
+                "name": "Western Bulldogs",
+                "price": 1.49
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-03-17T00:01:19Z",
+            "outcomes": [
+              {
+                "name": "Gold Coast Suns",
+                "price": 3.05
+              },
+              {
+                "name": "Western Bulldogs",
+                "price": 1.67
               }
             ]
           }
@@ -1441,11 +1549,11 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:43Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:43Z",
             "outcomes": [
               {
                 "name": "Port Adelaide Power",
@@ -1462,11 +1570,11 @@
       {
         "key": "ladbrokes_au",
         "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:44Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:44Z",
             "outcomes": [
               {
                 "name": "Port Adelaide Power",
@@ -1483,11 +1591,11 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:43Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:43Z",
             "outcomes": [
               {
                 "name": "Port Adelaide Power",
@@ -1504,11 +1612,11 @@
       {
         "key": "tab",
         "title": "TAB",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:18Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:18Z",
             "outcomes": [
               {
                 "name": "Port Adelaide Power",
@@ -1525,11 +1633,11 @@
       {
         "key": "betfair_ex_au",
         "title": "Betfair",
-        "last_update": "2024-03-16T10:13:41Z",
+        "last_update": "2024-03-17T00:01:19Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:41Z",
+            "last_update": "2024-03-17T00:01:19Z",
             "outcomes": [
               {
                 "name": "Port Adelaide Power",
@@ -1543,7 +1651,7 @@
           },
           {
             "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:41Z",
+            "last_update": "2024-03-17T00:01:19Z",
             "outcomes": [
               {
                 "name": "Port Adelaide Power",
@@ -1570,19 +1678,19 @@
       {
         "key": "sportsbet",
         "title": "SportsBet",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:43Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:43Z",
             "outcomes": [
               {
                 "name": "Greater Western Sydney Giants",
-                "price": 1.11
+                "price": 1.1
               },
               {
                 "name": "West Coast Eagles",
-                "price": 6.7
+                "price": 7.0
               }
             ]
           }
@@ -1591,11 +1699,11 @@
       {
         "key": "ladbrokes_au",
         "title": "Ladbrokes",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:44Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:44Z",
             "outcomes": [
               {
                 "name": "Greater Western Sydney Giants",
@@ -1612,11 +1720,11 @@
       {
         "key": "neds",
         "title": "Neds",
-        "last_update": "2024-03-16T10:13:39Z",
+        "last_update": "2024-03-17T00:01:43Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:39Z",
+            "last_update": "2024-03-17T00:01:43Z",
             "outcomes": [
               {
                 "name": "Greater Western Sydney Giants",
@@ -1633,11 +1741,11 @@
       {
         "key": "betfair_ex_au",
         "title": "Betfair",
-        "last_update": "2024-03-16T10:13:41Z",
+        "last_update": "2024-03-17T00:01:19Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-03-16T10:13:41Z",
+            "last_update": "2024-03-17T00:01:19Z",
             "outcomes": [
               {
                 "name": "Greater Western Sydney Giants",
@@ -1651,7 +1759,7 @@
           },
           {
             "key": "h2h_lay",
-            "last_update": "2024-03-16T10:13:41Z",
+            "last_update": "2024-03-17T00:01:19Z",
             "outcomes": [
               {
                 "name": "Greater Western Sydney Giants",
