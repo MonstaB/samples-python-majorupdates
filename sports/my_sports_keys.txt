@@ -1,1 +1,0 @@
-aussierules_afl, baseball_mlb, basketball_nba, basketball_ncaab, boxing_boxing, cricket_international_t20, cricket_ipl, mma_mixed_martial_arts, rugbyleague_nrl
