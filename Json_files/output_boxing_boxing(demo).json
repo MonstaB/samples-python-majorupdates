@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "093ebd5142c7cfe1d4acc61424b2d9df",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-04-07T00:00:00Z",
+    "home_team": "Skye Nicolson",
+    "away_team": "Sarah Mahfoud",
+    "bookmakers": []
+  },
+  {
+    "id": "c01d4b1caa83dfb78bc5ead59edbdb46",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-04-07T01:45:00Z",
+    "home_team": "Galal Yafai",
+    "away_team": "Agustin Gauto",
+    "bookmakers": [
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Agustin Gauto",
+                "price": 7.5
+              },
+              {
+                "name": "Galal Yafai",
+                "price": 1.08
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-04-07T01:46:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:20Z",
+            "outcomes": [
+              {
+                "name": "Agustin Gauto",
+                "price": 8.2
+              },
+              {
+                "name": "Galal Yafai",
+                "price": 1.1
+              },
+              {
+                "name": "Draw",
+                "price": 23.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-04-07T01:44:40Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:44:40Z",
+            "outcomes": [
+              {
+                "name": "Agustin Gauto",
+                "price": 7.0
+              },
+              {
+                "name": "Galal Yafai",
+                "price": 1.1
+              },
+              {
+                "name": "Draw",
+                "price": 21.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-04-07T01:45:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Agustin Gauto",
+                "price": 9.8
+              },
+              {
+                "name": "Galal Yafai",
+                "price": 1.11
+              },
+              {
+                "name": "Draw",
+                "price": 36.0
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Agustin Gauto",
+                "price": 12.0
+              },
+              {
+                "name": "Galal Yafai",
+                "price": 1.12
+              },
+              {
+                "name": "Draw",
+                "price": 1000.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "24145a5580df6637de8b9a4c3bb9a863",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-04-07T02:30:00Z",
+    "home_team": "Diego Pacheco",
+    "away_team": "Shawn McCalman",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Diego Pacheco",
+                "price": 1.07
+              },
+              {
+                "name": "Shawn McCalman",
+                "price": 10.5
+              },
+              {
+                "name": "Draw",
+                "price": 26.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-04-07T01:45:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Diego Pacheco",
+                "price": 1.06
+              },
+              {
+                "name": "Shawn McCalman",
+                "price": 18.0
+              },
+              {
+                "name": "Draw",
+                "price": 20.0
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Diego Pacheco",
+                "price": 1.07
+              },
+              {
+                "name": "Shawn McCalman",
+                "price": 32.0
+              },
+              {
+                "name": "Draw",
+                "price": 1000.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Diego Pacheco",
+                "price": 1.04
+              },
+              {
+                "name": "Shawn McCalman",
+                "price": 13.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-04-07T01:46:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:20Z",
+            "outcomes": [
+              {
+                "name": "Diego Pacheco",
+                "price": 1.06
+              },
+              {
+                "name": "Shawn McCalman",
+                "price": 14.0
+              },
+              {
+                "name": "Draw",
+                "price": 26.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-04-07T01:46:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:20Z",
+            "outcomes": [
+              {
+                "name": "Diego Pacheco",
+                "price": 1.06
+              },
+              {
+                "name": "Shawn McCalman",
+                "price": 9.0
+              },
+              {
+                "name": "Draw",
+                "price": 26.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Diego Pacheco",
+                "price": 1.04
+              },
+              {
+                "name": "Shawn McCalman",
+                "price": 10.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "01231036b0bcc83b2abc36374df58b13",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-04-07T03:30:00Z",
+    "home_team": "Richardson Hitchins",
+    "away_team": "Gustavo Daniel Lemos",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Gustavo Daniel Lemos",
+                "price": 7.25
+              },
+              {
+                "name": "Richardson Hitchins",
+                "price": 1.12
+              },
+              {
+                "name": "Draw",
+                "price": 21.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-04-07T01:45:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Gustavo Daniel Lemos",
+                "price": 8.2
+              },
+              {
+                "name": "Richardson Hitchins",
+                "price": 1.12
+              },
+              {
+                "name": "Draw",
+                "price": 6.4
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Gustavo Daniel Lemos",
+                "price": 10.0
+              },
+              {
+                "name": "Richardson Hitchins",
+                "price": 1.15
+              },
+              {
+                "name": "Draw",
+                "price": 1000.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-04-07T01:46:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:20Z",
+            "outcomes": [
+              {
+                "name": "Gustavo Daniel Lemos",
+                "price": 6.5
+              },
+              {
+                "name": "Richardson Hitchins",
+                "price": 1.13
+              },
+              {
+                "name": "Draw",
+                "price": 21.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Gustavo Daniel Lemos",
+                "price": 6.25
+              },
+              {
+                "name": "Richardson Hitchins",
+                "price": 1.11
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": "2024-04-07T01:46:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:20Z",
+            "outcomes": [
+              {
+                "name": "Gustavo Daniel Lemos",
+                "price": 6.8
+              },
+              {
+                "name": "Richardson Hitchins",
+                "price": 1.13
+              },
+              {
+                "name": "Draw",
+                "price": 23.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Gustavo Daniel Lemos",
+                "price": 6.5
+              },
+              {
+                "name": "Richardson Hitchins",
+                "price": 1.1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "71a5adeed2c35f2e23e79bb560f3c776",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-04-13T18:00:00Z",
+    "home_team": "Michael Gomez Jr",
+    "away_team": "Kane Baker",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Kane Baker",
+                "price": 4.8
+              },
+              {
+                "name": "Michael Gomez Jr",
+                "price": 1.22
+              },
+              {
+                "name": "Draw",
+                "price": 17.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6d3fe0088c05ef8730ba64ae6288a4a3",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-04-13T20:00:00Z",
+    "home_team": "Cameron Vuong",
+    "away_team": "Jordan Flynn",
+    "bookmakers": []
+  },
+  {
+    "id": "c50db1c0ea94490eae0802a63ddc4e25",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-04-13T20:00:00Z",
+    "home_team": "Ellie Scotney",
+    "away_team": "Segolene Lefebvre",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Ellie Scotney",
+                "price": 1.09
+              },
+              {
+                "name": "Segolene Lefebvre",
+                "price": 8.75
+              },
+              {
+                "name": "Draw",
+                "price": 26.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-04-07T01:45:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Ellie Scotney",
+                "price": 1.11
+              },
+              {
+                "name": "Segolene Lefebvre",
+                "price": 9.6
+              },
+              {
+                "name": "Draw",
+                "price": 1.01
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Ellie Scotney",
+                "price": 1.16
+              },
+              {
+                "name": "Segolene Lefebvre",
+                "price": 14.5
+              },
+              {
+                "name": "Draw",
+                "price": 1000.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0826c1ccdbc4c59c4157310eb3b7402d",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-04-13T20:00:00Z",
+    "home_team": "Rhiannon Dixon",
+    "away_team": "Karen Elizabeth Carabajal",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Karen Elizabeth Carabajal",
+                "price": 3.75
+              },
+              {
+                "name": "Rhiannon Dixon",
+                "price": 1.32
+              },
+              {
+                "name": "Draw",
+                "price": 17.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-04-07T01:45:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Karen Elizabeth Carabajal",
+                "price": 3.9
+              },
+              {
+                "name": "Rhiannon Dixon",
+                "price": 1.38
+              },
+              {
+                "name": "Draw",
+                "price": 1.01
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Karen Elizabeth Carabajal",
+                "price": 4.5
+              },
+              {
+                "name": "Rhiannon Dixon",
+                "price": 1.44
+              },
+              {
+                "name": "Draw",
+                "price": 1000.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Karen Elizabeth Carabajal",
+                "price": 3.6
+              },
+              {
+                "name": "Rhiannon Dixon",
+                "price": 1.28
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7cdb68f0913af84286b57a269eb630e7",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-04-13T21:00:00Z",
+    "home_team": "Jordan Gill",
+    "away_team": "Zelfa Barrett",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Jordan Gill",
+                "price": 2.45
+              },
+              {
+                "name": "Zelfa Barrett",
+                "price": 1.63
+              },
+              {
+                "name": "Draw",
+                "price": 17.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-04-07T01:45:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Jordan Gill",
+                "price": 2.58
+              },
+              {
+                "name": "Zelfa Barrett",
+                "price": 1.53
+              },
+              {
+                "name": "Draw",
+                "price": 13.0
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Jordan Gill",
+                "price": 3.1
+              },
+              {
+                "name": "Zelfa Barrett",
+                "price": 1.66
+              },
+              {
+                "name": "Draw",
+                "price": 1000.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-04-07T01:46:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:20Z",
+            "outcomes": [
+              {
+                "name": "Jordan Gill",
+                "price": 2.63
+              },
+              {
+                "name": "Zelfa Barrett",
+                "price": 1.5
+              },
+              {
+                "name": "Draw",
+                "price": 19.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8513450192a9e8cab663cf99e3f0d4e0",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-04-13T22:00:00Z",
+    "home_team": "Ruben Villa",
+    "away_team": "Cristian Cruz Chacon",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Cristian Cruz Chacon",
+                "price": 10.0
+              },
+              {
+                "name": "Ruben Villa",
+                "price": 1.07
+              },
+              {
+                "name": "Draw",
+                "price": 26.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Cristian Cruz Chacon",
+                "price": 9.5
+              },
+              {
+                "name": "Ruben Villa",
+                "price": 1.06
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-04-07T01:45:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Cristian Cruz Chacon",
+                "price": 11.0
+              },
+              {
+                "name": "Ruben Villa",
+                "price": 1.01
+              },
+              {
+                "name": "Draw",
+                "price": 36.0
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Cristian Cruz Chacon",
+                "price": 1000.0
+              },
+              {
+                "name": "Ruben Villa",
+                "price": 1.14
+              },
+              {
+                "name": "Draw",
+                "price": 1000.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fdd99035b52218f8077c86cd27eec911",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-04-13T23:00:00Z",
+    "home_team": "Abdullah Mason",
+    "away_team": "Ronal Ron",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Abdullah Mason",
+                "price": 1.02
+              },
+              {
+                "name": "Ronal Ron",
+                "price": 17.0
+              },
+              {
+                "name": "Draw",
+                "price": 34.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Abdullah Mason",
+                "price": 1.03
+              },
+              {
+                "name": "Ronal Ron",
+                "price": 15.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-04-07T01:45:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Abdullah Mason",
+                "price": 1.02
+              },
+              {
+                "name": "Ronal Ron",
+                "price": 30.0
+              },
+              {
+                "name": "Draw",
+                "price": 21.0
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Abdullah Mason",
+                "price": 1.05
+              },
+              {
+                "name": "Ronal Ron",
+                "price": 1000.0
+              },
+              {
+                "name": "Draw",
+                "price": 1000.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dde911ade96f9d17ebee70539be8a0fa",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-04-14T01:00:00Z",
+    "home_team": "Henry Lebron",
+    "away_team": "Charley Suarez",
+    "bookmakers": []
+  },
+  {
+    "id": "1cdecc1351f71d0b919b012b9b905a98",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-04-14T02:00:00Z",
+    "home_team": "Efe Ajagba",
+    "away_team": "Guido Vianello",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Efe Ajagba",
+                "price": 1.16
+              },
+              {
+                "name": "Guido Vianello",
+                "price": 5.8
+              },
+              {
+                "name": "Draw",
+                "price": 21.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Efe Ajagba",
+                "price": 1.16
+              },
+              {
+                "name": "Guido Vianello",
+                "price": 5.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-04-07T01:45:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Efe Ajagba",
+                "price": 1.19
+              },
+              {
+                "name": "Guido Vianello",
+                "price": 5.9
+              },
+              {
+                "name": "Draw",
+                "price": 27.0
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Efe Ajagba",
+                "price": 1.27
+              },
+              {
+                "name": "Guido Vianello",
+                "price": 8.2
+              },
+              {
+                "name": "Draw",
+                "price": 990.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "03751d9a89d5c7e5cfaf4b987db5a623",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-04-14T03:00:00Z",
+    "home_team": "Jared Anderson",
+    "away_team": "Ryad Merhy",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Jared Anderson",
+                "price": 1.23
+              },
+              {
+                "name": "Ryad Merhy",
+                "price": 4.8
+              },
+              {
+                "name": "Draw",
+                "price": 17.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Jared Anderson",
+                "price": 1.19
+              },
+              {
+                "name": "Ryad Merhy",
+                "price": 4.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-04-07T01:45:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Jared Anderson",
+                "price": 1.02
+              },
+              {
+                "name": "Ryad Merhy",
+                "price": 5.0
+              },
+              {
+                "name": "Draw",
+                "price": 20.0
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Jared Anderson",
+                "price": 1.3
+              },
+              {
+                "name": "Ryad Merhy",
+                "price": 1000.0
+              },
+              {
+                "name": "Draw",
+                "price": 1000.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "44bc9f2275858399caea1821c6f05ad4",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-04-21T03:00:00Z",
+    "home_team": "Devin Haney",
+    "away_team": "Ryan Garcia",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Devin Haney",
+                "price": 1.12
+              },
+              {
+                "name": "Ryan Garcia",
+                "price": 7.0
+              },
+              {
+                "name": "Draw",
+                "price": 18.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-04-07T01:46:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:20Z",
+            "outcomes": [
+              {
+                "name": "Devin Haney",
+                "price": 1.1
+              },
+              {
+                "name": "Ryan Garcia",
+                "price": 6.0
+              },
+              {
+                "name": "Draw",
+                "price": 21.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Devin Haney",
+                "price": 1.13
+              },
+              {
+                "name": "Ryan Garcia",
+                "price": 6.75
+              },
+              {
+                "name": "Draw",
+                "price": 21.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-04-07T01:45:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Devin Haney",
+                "price": 1.18
+              },
+              {
+                "name": "Ryan Garcia",
+                "price": 5.6
+              },
+              {
+                "name": "Draw",
+                "price": 28.0
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Devin Haney",
+                "price": 1.24
+              },
+              {
+                "name": "Ryan Garcia",
+                "price": 8.8
+              },
+              {
+                "name": "Draw",
+                "price": 75.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Devin Haney",
+                "price": 1.1
+              },
+              {
+                "name": "Ryan Garcia",
+                "price": 6.75
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ce3e750ea8e3cf0067e5ccb1e099688a",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-04-27T23:00:00Z",
+    "home_team": "Jarico O'Quinn",
+    "away_team": "Peter Mcgrail",
+    "bookmakers": [
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-04-07T01:45:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Jarico O'Quinn",
+                "price": 1.01
+              },
+              {
+                "name": "Peter Mcgrail",
+                "price": 1.01
+              },
+              {
+                "name": "Draw",
+                "price": 2.68
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Jarico O'Quinn",
+                "price": 1000.0
+              },
+              {
+                "name": "Peter Mcgrail",
+                "price": 1000.0
+              },
+              {
+                "name": "Draw",
+                "price": 1000.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b6594a95c041e31a0504dfe2f5c8133f",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-05-05T03:00:00Z",
+    "home_team": "Canelo \u00c1lvarez",
+    "away_team": "Jaime Munguia",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Canelo \u00c1lvarez",
+                "price": 1.2
+              },
+              {
+                "name": "Jaime Munguia",
+                "price": 5.3
+              },
+              {
+                "name": "Draw",
+                "price": 17.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-04-07T01:45:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Canelo \u00c1lvarez",
+                "price": 1.23
+              },
+              {
+                "name": "Jaime Munguia",
+                "price": 5.5
+              },
+              {
+                "name": "Draw",
+                "price": 5.8
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Canelo \u00c1lvarez",
+                "price": 1.29
+              },
+              {
+                "name": "Jaime Munguia",
+                "price": 7.4
+              },
+              {
+                "name": "Draw",
+                "price": 1000.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-04-07T01:46:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:20Z",
+            "outcomes": [
+              {
+                "name": "Canelo \u00c1lvarez",
+                "price": 1.2
+              },
+              {
+                "name": "Jaime Munguia",
+                "price": 4.5
+              },
+              {
+                "name": "Draw",
+                "price": 21.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Canelo \u00c1lvarez",
+                "price": 1.15
+              },
+              {
+                "name": "Jaime Munguia",
+                "price": 5.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Canelo \u00c1lvarez",
+                "price": 1.17
+              },
+              {
+                "name": "Jaime Munguia",
+                "price": 5.1
+              },
+              {
+                "name": "Draw",
+                "price": 19.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "af0e6b600a10c4aa0aeae903f5804052",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-05-06T10:00:00Z",
+    "home_team": "Naoya Inoue",
+    "away_team": "Luis Nery",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Luis Nery",
+                "price": 8.5
+              },
+              {
+                "name": "Naoya Inoue",
+                "price": 1.09
+              },
+              {
+                "name": "Draw",
+                "price": 23.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Luis Nery",
+                "price": 9.0
+              },
+              {
+                "name": "Naoya Inoue",
+                "price": 1.09
+              },
+              {
+                "name": "Draw",
+                "price": 26.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-04-07T01:45:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Luis Nery",
+                "price": 1.01
+              },
+              {
+                "name": "Naoya Inoue",
+                "price": 1.03
+              },
+              {
+                "name": "Draw",
+                "price": 3.05
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Luis Nery",
+                "price": 1000.0
+              },
+              {
+                "name": "Naoya Inoue",
+                "price": 1.16
+              },
+              {
+                "name": "Draw",
+                "price": 1000.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-04-07T01:46:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:20Z",
+            "outcomes": [
+              {
+                "name": "Luis Nery",
+                "price": 7.0
+              },
+              {
+                "name": "Naoya Inoue",
+                "price": 1.1
+              },
+              {
+                "name": "Draw",
+                "price": 26.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Luis Nery",
+                "price": 8.0
+              },
+              {
+                "name": "Naoya Inoue",
+                "price": 1.07
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bc87fb8971355c32d04ac184f21a4ff5",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-05-11T21:30:00Z",
+    "home_team": "Jessica McCaskill",
+    "away_team": "Lauren Price",
+    "bookmakers": [
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-04-07T01:45:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Jessica McCaskill",
+                "price": 3.4
+              },
+              {
+                "name": "Lauren Price",
+                "price": 1.05
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Jessica McCaskill",
+                "price": 990.0
+              },
+              {
+                "name": "Lauren Price",
+                "price": 1.44
+              },
+              {
+                "name": "Draw",
+                "price": 990.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Jessica McCaskill",
+                "price": 3.3
+              },
+              {
+                "name": "Lauren Price",
+                "price": 1.4
+              },
+              {
+                "name": "Draw",
+                "price": 15.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Jessica McCaskill",
+                "price": 3.6
+              },
+              {
+                "name": "Lauren Price",
+                "price": 1.28
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ec051ff81d5999f362afeca60e500f2d",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-05-12T10:00:00Z",
+    "home_team": "Vasyl Lomachenko",
+    "away_team": "George Kambosos Jr",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "George Kambosos Jr",
+                "price": 6.25
+              },
+              {
+                "name": "Vasyl Lomachenko",
+                "price": 1.14
+              },
+              {
+                "name": "Draw",
+                "price": 21.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-04-07T01:45:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "George Kambosos Jr",
+                "price": 7.2
+              },
+              {
+                "name": "Vasyl Lomachenko",
+                "price": 1.17
+              },
+              {
+                "name": "Draw",
+                "price": 11.5
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "George Kambosos Jr",
+                "price": 9.4
+              },
+              {
+                "name": "Vasyl Lomachenko",
+                "price": 1.19
+              },
+              {
+                "name": "Draw",
+                "price": 990.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-04-07T01:46:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:20Z",
+            "outcomes": [
+              {
+                "name": "George Kambosos Jr",
+                "price": 5.5
+              },
+              {
+                "name": "Vasyl Lomachenko",
+                "price": 1.17
+              },
+              {
+                "name": "Draw",
+                "price": 21.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "George Kambosos Jr",
+                "price": 6.1
+              },
+              {
+                "name": "Vasyl Lomachenko",
+                "price": 1.13
+              },
+              {
+                "name": "Draw",
+                "price": 21.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "George Kambosos Jr",
+                "price": 5.0
+              },
+              {
+                "name": "Vasyl Lomachenko",
+                "price": 1.16
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "69f35fb6f3180402142310f2199d17ce",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-05-18T19:00:00Z",
+    "home_team": "Joe Cordina",
+    "away_team": "Anthony Cacace",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Anthony Cacace",
+                "price": 4.8
+              },
+              {
+                "name": "Joe Cordina",
+                "price": 1.23
+              },
+              {
+                "name": "Draw",
+                "price": 17.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Anthony Cacace",
+                "price": 4.5
+              },
+              {
+                "name": "Joe Cordina",
+                "price": 1.18
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-04-07T01:45:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Anthony Cacace",
+                "price": 4.9
+              },
+              {
+                "name": "Joe Cordina",
+                "price": 1.26
+              },
+              {
+                "name": "Draw",
+                "price": 4.1
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Anthony Cacace",
+                "price": 6.4
+              },
+              {
+                "name": "Joe Cordina",
+                "price": 1.35
+              },
+              {
+                "name": "Draw",
+                "price": 1000.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Anthony Cacace",
+                "price": 4.85
+              },
+              {
+                "name": "Joe Cordina",
+                "price": 1.17
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b0090377d7b0f15feb120efd0fa8f164",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-05-18T20:00:00Z",
+    "home_team": "Jai Opetaia",
+    "away_team": "Mairis Briedis",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Jai Opetaia",
+                "price": 1.2
+              },
+              {
+                "name": "Mairis Briedis",
+                "price": 5.3
+              },
+              {
+                "name": "Draw",
+                "price": 17.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Jai Opetaia",
+                "price": 1.18
+              },
+              {
+                "name": "Mairis Briedis",
+                "price": 4.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Jai Opetaia",
+                "price": 1.18
+              },
+              {
+                "name": "Mairis Briedis",
+                "price": 4.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-04-07T01:45:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Jai Opetaia",
+                "price": 1.23
+              },
+              {
+                "name": "Mairis Briedis",
+                "price": 5.5
+              },
+              {
+                "name": "Draw",
+                "price": 1.16
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Jai Opetaia",
+                "price": 1.31
+              },
+              {
+                "name": "Mairis Briedis",
+                "price": 7.4
+              },
+              {
+                "name": "Draw",
+                "price": 1000.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d48abb0b0ad6fc26a9ddc1e28ead3442",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-05-18T20:00:00Z",
+    "home_team": "Tyson Fury",
+    "away_team": "Oleksandr Usyk",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Oleksandr Usyk",
+                "price": 1.93
+              },
+              {
+                "name": "Tyson Fury",
+                "price": 1.89
+              },
+              {
+                "name": "Draw",
+                "price": 16.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-04-07T01:46:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:20Z",
+            "outcomes": [
+              {
+                "name": "Oleksandr Usyk",
+                "price": 1.83
+              },
+              {
+                "name": "Tyson Fury",
+                "price": 2.0
+              },
+              {
+                "name": "Draw",
+                "price": 19.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Oleksandr Usyk",
+                "price": 1.84
+              },
+              {
+                "name": "Tyson Fury",
+                "price": 2.1
+              },
+              {
+                "name": "Draw",
+                "price": 17.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Oleksandr Usyk",
+                "price": 1.83
+              },
+              {
+                "name": "Tyson Fury",
+                "price": 1.95
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-04-07T01:45:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Oleksandr Usyk",
+                "price": 2.18
+              },
+              {
+                "name": "Tyson Fury",
+                "price": 2.02
+              },
+              {
+                "name": "Draw",
+                "price": 18.5
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Oleksandr Usyk",
+                "price": 2.2
+              },
+              {
+                "name": "Tyson Fury",
+                "price": 2.04
+              },
+              {
+                "name": "Draw",
+                "price": 20.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8f56bcae33572aa100c1876d48aed145",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-05-19T03:00:00Z",
+    "home_team": "Emanuel Navarrete",
+    "away_team": "Denys Berinchyk",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Denys Berinchyk",
+                "price": 5.5
+              },
+              {
+                "name": "Emanuel Navarrete",
+                "price": 1.19
+              },
+              {
+                "name": "Draw",
+                "price": 17.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "67ca822eeec99fdd208ae753f3cad530",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-05-25T21:00:00Z",
+    "home_team": "Katie Taylor",
+    "away_team": "Chantelle Cameron",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Chantelle Cameron",
+                "price": 2.2
+              },
+              {
+                "name": "Katie Taylor",
+                "price": 1.77
+              },
+              {
+                "name": "Draw",
+                "price": 15.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "49c9e8090ee31b58efa1db4a1e01d360",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-05-25T21:00:00Z",
+    "home_team": "Josh Taylor",
+    "away_team": "Jack Catterall",
+    "bookmakers": [
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-04-07T01:45:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Jack Catterall",
+                "price": 1.21
+              },
+              {
+                "name": "Josh Taylor",
+                "price": 1.83
+              },
+              {
+                "name": "Draw",
+                "price": 3.05
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Jack Catterall",
+                "price": 2.48
+              },
+              {
+                "name": "Josh Taylor",
+                "price": 8.2
+              },
+              {
+                "name": "Draw",
+                "price": 990.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": "2024-04-07T01:46:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:20Z",
+            "outcomes": [
+              {
+                "name": "Jack Catterall",
+                "price": 2.2
+              },
+              {
+                "name": "Josh Taylor",
+                "price": 1.73
+              },
+              {
+                "name": "Draw",
+                "price": 17.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Jack Catterall",
+                "price": 2.2
+              },
+              {
+                "name": "Josh Taylor",
+                "price": 1.76
+              },
+              {
+                "name": "Draw",
+                "price": 17.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4a678257364fa8ad74748b80132313bf",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-06-01T20:00:00Z",
+    "home_team": "Artur Beterbiev",
+    "away_team": "Dmitry Bivol",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Artur Beterbiev",
+                "price": 1.96
+              },
+              {
+                "name": "Dmitry Bivol",
+                "price": 1.96
+              },
+              {
+                "name": "Draw",
+                "price": 17.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Artur Beterbiev",
+                "price": 1.94
+              },
+              {
+                "name": "Dmitry Bivol",
+                "price": 1.87
+              },
+              {
+                "name": "Draw",
+                "price": 16.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Artur Beterbiev",
+                "price": 1.93
+              },
+              {
+                "name": "Dmitry Bivol",
+                "price": 1.85
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-04-07T01:45:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Artur Beterbiev",
+                "price": 1.96
+              },
+              {
+                "name": "Dmitry Bivol",
+                "price": 2.04
+              },
+              {
+                "name": "Draw",
+                "price": 4.1
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Artur Beterbiev",
+                "price": 2.02
+              },
+              {
+                "name": "Dmitry Bivol",
+                "price": 2.28
+              },
+              {
+                "name": "Draw",
+                "price": 1000.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Artur Beterbiev",
+                "price": 1.95
+              },
+              {
+                "name": "Dmitry Bivol",
+                "price": 1.8
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "56e33d763150a7cb9ae43fffe0344112",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-06-02T04:00:00Z",
+    "home_team": "Nate Diaz",
+    "away_team": "Jorge Masvidal",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Jorge Masvidal",
+                "price": 1.43
+              },
+              {
+                "name": "Nate Diaz",
+                "price": 3.15
+              },
+              {
+                "name": "Draw",
+                "price": 15.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": "2024-04-07T01:45:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Jorge Masvidal",
+                "price": 1.49
+              },
+              {
+                "name": "Nate Diaz",
+                "price": 3.2
+              },
+              {
+                "name": "Draw",
+                "price": 18.5
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": "2024-04-07T01:45:57Z",
+            "outcomes": [
+              {
+                "name": "Jorge Masvidal",
+                "price": 1.58
+              },
+              {
+                "name": "Nate Diaz",
+                "price": 3.7
+              },
+              {
+                "name": "Draw",
+                "price": 85.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "86092dbdcceeebdc0eb9ac92ced4ef04",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-06-16T03:00:00Z",
+    "home_team": "Subriel Matias",
+    "away_team": "Liam Paro",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Liam Paro",
+                "price": 7.25
+              },
+              {
+                "name": "Subriel Matias",
+                "price": 1.12
+              },
+              {
+                "name": "Draw",
+                "price": 21.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "781723e33de3176fdfca9fb6399dbc7f",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-06-30T03:00:00Z",
+    "home_team": "Juan Francisco Estrada",
+    "away_team": "Jesse Rodriguez",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Jesse Rodriguez",
+                "price": 1.39
+              },
+              {
+                "name": "Juan Francisco Estrada",
+                "price": 3.25
+              },
+              {
+                "name": "Draw",
+                "price": 17.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6343a9faeffe67763f1763be3738c845",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-12-31T00:00:00Z",
+    "home_team": "Anthony Yarde",
+    "away_team": "Joshua Buatsi",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Anthony Yarde",
+                "price": 1.96
+              },
+              {
+                "name": "Joshua Buatsi",
+                "price": 1.96
+              },
+              {
+                "name": "Draw",
+                "price": 17.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7554c91c8e0cea180625202f8f3db638",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-12-31T00:00:00Z",
+    "home_team": "Chris Billam-Smith",
+    "away_team": "Richard Riakporhe",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Chris Billam-Smith",
+                "price": 3.05
+              },
+              {
+                "name": "Richard Riakporhe",
+                "price": 1.44
+              },
+              {
+                "name": "Draw",
+                "price": 17.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d5d0ac8a892d4c74a38a45ccc184ab94",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-12-31T00:00:00Z",
+    "home_team": "Jaron Ennis",
+    "away_team": "Cody Crowley",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Cody Crowley",
+                "price": 7.25
+              },
+              {
+                "name": "Jaron Ennis",
+                "price": 1.12
+              },
+              {
+                "name": "Draw",
+                "price": 21.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5c87037a3ca174d55eb13d7992c3e95f",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-12-31T00:00:00Z",
+    "home_team": "David Benavidez",
+    "away_team": "Oleksandr Gvozdyk",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "David Benavidez",
+                "price": 1.2
+              },
+              {
+                "name": "Oleksandr Gvozdyk",
+                "price": 5.3
+              },
+              {
+                "name": "Draw",
+                "price": 17.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3c45ab410894751b4087e1c3ae0e2311",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-12-31T00:00:00Z",
+    "home_team": "Emmanuel Rodriguez",
+    "away_team": "Ryosuke Nishida",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Emmanuel Rodriguez",
+                "price": 1.49
+              },
+              {
+                "name": "Ryosuke Nishida",
+                "price": 2.85
+              },
+              {
+                "name": "Draw",
+                "price": 17.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4e3a89230f5d7d6246399e60b166a5d4",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-12-31T00:00:00Z",
+    "home_team": "Tyler Denny",
+    "away_team": "Felix Cash",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Felix Cash",
+                "price": 1.66
+              },
+              {
+                "name": "Tyler Denny",
+                "price": 2.4
+              },
+              {
+                "name": "Draw",
+                "price": 17.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "abb314018ad84c66c61632b06a049fa2",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-12-31T00:00:00Z",
+    "home_team": "Gervonta Davis",
+    "away_team": "Frank Martin",
+    "bookmakers": [
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Frank Martin",
+                "price": 5.3
+              },
+              {
+                "name": "Gervonta Davis",
+                "price": 1.2
+              },
+              {
+                "name": "Draw",
+                "price": 17.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6a04baa29da6363e3dd7a5e70a597cdf",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-12-31T22:59:00Z",
+    "home_team": "Katie Taylor",
+    "away_team": "Amanda Serrano",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Amanda Serrano",
+                "price": 1.88
+              },
+              {
+                "name": "Katie Taylor",
+                "price": 1.88
+              },
+              {
+                "name": "Draw",
+                "price": 19.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "554270c6d9b6ce468f52620d60988b2e",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-12-31T22:59:00Z",
+    "home_team": "Anthony Joshua",
+    "away_team": "Deontay Wilder",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Anthony Joshua",
+                "price": 1.72
+              },
+              {
+                "name": "Deontay Wilder",
+                "price": 2.1
+              },
+              {
+                "name": "Draw",
+                "price": 18.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "413b6fda7681b7b26d0f65909c34c702",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-12-31T22:59:00Z",
+    "home_team": "Tyson Fury",
+    "away_team": "Anthony Joshua",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Anthony Joshua",
+                "price": 4.9
+              },
+              {
+                "name": "Tyson Fury",
+                "price": 1.18
+              },
+              {
+                "name": "Draw",
+                "price": 19.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6ab7ace9d8cc71b45a9220b22d996f3e",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-12-31T22:59:00Z",
+    "home_team": "Canelo \u00c1lvarez",
+    "away_team": "David Benavidez",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Canelo \u00c1lvarez",
+                "price": 1.42
+              },
+              {
+                "name": "David Benavidez",
+                "price": 2.8
+              },
+              {
+                "name": "Draw",
+                "price": 19.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bdd059dabc1b7d67ccd9e670a751d5a3",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-12-31T22:59:00Z",
+    "home_team": "Katie Taylor",
+    "away_team": "Chantelle Cameron",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Chantelle Cameron",
+                "price": 2.2
+              },
+              {
+                "name": "Katie Taylor",
+                "price": 1.65
+              },
+              {
+                "name": "Draw",
+                "price": 19.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6379cd4b96b7ef70fe3354ece2e89f6d",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-12-31T22:59:00Z",
+    "home_team": "Deontay Wilder",
+    "away_team": "Joe Joyce",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Deontay Wilder",
+                "price": 1.56
+              },
+              {
+                "name": "Joe Joyce",
+                "price": 2.38
+              },
+              {
+                "name": "Draw",
+                "price": 19.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2d1ea95e2e5b5bd1b19034a939cbb8dd",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-12-31T22:59:00Z",
+    "home_team": "Terence Crawford",
+    "away_team": "Errol Spence Jr",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Errol Spence Jr",
+                "price": 4.9
+              },
+              {
+                "name": "Terence Crawford",
+                "price": 1.18
+              },
+              {
+                "name": "Draw",
+                "price": 19.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "54d9b5cf8497bc88eec6c2ad2b8edd9e",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-12-31T22:59:00Z",
+    "home_team": "Tyson Fury",
+    "away_team": "Francis Ngannou",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Francis Ngannou",
+                "price": 3.3
+              },
+              {
+                "name": "Tyson Fury",
+                "price": 1.32
+              },
+              {
+                "name": "Draw",
+                "price": 19.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cbc3ea3208528acb29e1589184bb82b0",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-12-31T22:59:00Z",
+    "home_team": "Gervonta Davis",
+    "away_team": "Shakur Stevenson",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Gervonta Davis",
+                "price": 1.36
+              },
+              {
+                "name": "Shakur Stevenson",
+                "price": 3.1
+              },
+              {
+                "name": "Draw",
+                "price": 19.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "52eb5a1c1d85d737ac3083ee1b24cc45",
+    "sport_key": "boxing_boxing",
+    "sport_title": "Boxing",
+    "commence_time": "2024-12-31T22:59:00Z",
+    "home_team": "Naoya Inoue",
+    "away_team": "Jesse Rodriguez",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": "2024-04-07T01:46:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-04-07T01:46:19Z",
+            "outcomes": [
+              {
+                "name": "Jesse Rodriguez",
+                "price": 4.9
+              },
+              {
+                "name": "Naoya Inoue",
+                "price": 1.18
+              },
+              {
+                "name": "Draw",
+                "price": 19.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
