@@ -1,0 +1,560 @@
+** Boxing - Skye Nicolson vs Sarah Mahfoud **
+=====================================================================
+=====================================================================
+** Boxing - Galal Yafai vs Agustin Gauto **
+=====================================================================
+Bookmaker: playup
+Agustin Gauto: 7.5 Galal Yafai: 1.08 
+Bookmaker: betr_au
+Agustin Gauto: 8.2 Galal Yafai: 1.1 Draw: 23.0 
+Bookmaker: ladbrokes_au
+Agustin Gauto: 7.0 Galal Yafai: 1.1 Draw: 21.0 
+Bookmaker: betfair_ex_au
+Agustin Gauto: 9.8 Galal Yafai: 1.11 Draw: 36.0 
+=====================================================================
+** Boxing - Diego Pacheco vs Shawn McCalman **
+=====================================================================
+Bookmaker: sportsbet
+Diego Pacheco: 1.07 Shawn McCalman: 10.5 Draw: 26.0 
+Bookmaker: betfair_ex_au
+Diego Pacheco: 1.06 Shawn McCalman: 18.0 Draw: 20.0 
+Bookmaker: playup
+Diego Pacheco: 1.04 Shawn McCalman: 13.0 
+Bookmaker: betr_au
+Diego Pacheco: 1.06 Shawn McCalman: 14.0 Draw: 26.0 
+Bookmaker: ladbrokes_au
+Diego Pacheco: 1.06 Shawn McCalman: 9.0 Draw: 26.0 
+Bookmaker: tab
+Diego Pacheco: 1.04 Shawn McCalman: 10.0 
+=====================================================================
+*********************************Boxing********************************
+Shawn McCalman (underdog) vs Diego Pacheco (favorite) 
+Arbitrage Percentage: 99.01%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
+Stake $4.21 on Shawn McCalman (underdog) from [betfair_ex_au] - Odds: $18.00
+Stake $70.79 on Diego Pacheco (favorite) from [sportsbet] - Odds: $1.07
+Underdog Return: $75.75, Profit: $0.75
+Favorite Return: $75.75, Profit: $0.75
+-DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG-
+Stake $4.91 on Shawn McCalman (underdog) from [betfair_ex_au] - Odds: $18.00
+Stake $70.09 on Diego Pacheco (favorite) from [sportsbet] - Odds: $1.07
+Underdog Return: $88.32, Profit: $13.32
+Favorite Return: $75.00, Profit: $0.00
+--FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE-
+Stake $4.17 on Shawn McCalman (underdog) from [betfair_ex_au] - Odds: $18.00
+Stake $70.83 on Diego Pacheco (favorite) from [sportsbet] - Odds: $1.07
+Underdog Return: $75.00, Profit: $0.00
+Favorite Return: $75.79, Profit: $0.79
+---------------------------------------------------------------------
+** Boxing - Richardson Hitchins vs Gustavo Daniel Lemos **
+=====================================================================
+Bookmaker: sportsbet
+Gustavo Daniel Lemos: 7.25 Richardson Hitchins: 1.12 Draw: 21.0 
+Bookmaker: betfair_ex_au
+Gustavo Daniel Lemos: 8.2 Richardson Hitchins: 1.12 Draw: 6.4 
+Bookmaker: ladbrokes_au
+Gustavo Daniel Lemos: 6.5 Richardson Hitchins: 1.13 Draw: 21.0 
+Bookmaker: playup
+Gustavo Daniel Lemos: 6.25 Richardson Hitchins: 1.11 
+Bookmaker: betr_au
+Gustavo Daniel Lemos: 6.8 Richardson Hitchins: 1.13 Draw: 23.0 
+Bookmaker: tab
+Gustavo Daniel Lemos: 6.5 Richardson Hitchins: 1.1 
+=====================================================================
+** Boxing - Michael Gomez Jr vs Kane Baker **
+=====================================================================
+Bookmaker: sportsbet
+Kane Baker: 4.8 Michael Gomez Jr: 1.22 Draw: 17.0 
+=====================================================================
+** Boxing - Cameron Vuong vs Jordan Flynn **
+=====================================================================
+=====================================================================
+** Boxing - Ellie Scotney vs Segolene Lefebvre **
+=====================================================================
+Bookmaker: sportsbet
+Ellie Scotney: 1.09 Segolene Lefebvre: 8.75 Draw: 26.0 
+Bookmaker: betfair_ex_au
+Ellie Scotney: 1.11 Segolene Lefebvre: 9.6 Draw: 1.01 
+=====================================================================
+** Boxing - Rhiannon Dixon vs Karen Elizabeth Carabajal **
+=====================================================================
+Bookmaker: sportsbet
+Karen Elizabeth Carabajal: 3.75 Rhiannon Dixon: 1.32 Draw: 17.0 
+Bookmaker: betfair_ex_au
+Karen Elizabeth Carabajal: 3.9 Rhiannon Dixon: 1.38 Draw: 1.01 
+Bookmaker: playup
+Karen Elizabeth Carabajal: 3.6 Rhiannon Dixon: 1.28 
+=====================================================================
+*********************************Boxing********************************
+Karen Elizabeth Carabajal (underdog) vs Rhiannon Dixon (favorite) 
+Arbitrage Percentage: 98.10%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
+Stake $19.60 on Karen Elizabeth Carabajal (underdog) from [betfair_ex_au] - Odds: $3.90
+Stake $55.40 on Rhiannon Dixon (favorite) from [betfair_ex_au] - Odds: $1.38
+Underdog Return: $76.45, Profit: $1.45
+Favorite Return: $76.45, Profit: $1.45
+-DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG-
+Stake $20.65 on Karen Elizabeth Carabajal (underdog) from [betfair_ex_au] - Odds: $3.90
+Stake $54.35 on Rhiannon Dixon (favorite) from [betfair_ex_au] - Odds: $1.38
+Underdog Return: $80.54, Profit: $5.54
+Favorite Return: $75.00, Profit: $0.00
+--FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE-
+Stake $19.23 on Karen Elizabeth Carabajal (underdog) from [betfair_ex_au] - Odds: $3.90
+Stake $55.77 on Rhiannon Dixon (favorite) from [betfair_ex_au] - Odds: $1.38
+Underdog Return: $75.00, Profit: $0.00
+Favorite Return: $76.96, Profit: $1.96
+---------------------------------------------------------------------
+** Boxing - Jordan Gill vs Zelfa Barrett **
+=====================================================================
+Bookmaker: sportsbet
+Jordan Gill: 2.45 Zelfa Barrett: 1.63 Draw: 17.0 
+Bookmaker: betfair_ex_au
+Jordan Gill: 2.58 Zelfa Barrett: 1.53 Draw: 13.0 
+Bookmaker: ladbrokes_au
+Jordan Gill: 2.63 Zelfa Barrett: 1.5 Draw: 19.0 
+=====================================================================
+*********************************Boxing********************************
+Jordan Gill (underdog) vs Zelfa Barrett (favorite) 
+Arbitrage Percentage: 99.37%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
+Stake $28.70 on Jordan Gill (underdog) from [ladbrokes_au] - Odds: $2.63
+Stake $46.30 on Zelfa Barrett (favorite) from [sportsbet] - Odds: $1.63
+Underdog Return: $75.47, Profit: $0.47
+Favorite Return: $75.47, Profit: $0.47
+-DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG-
+Stake $28.99 on Jordan Gill (underdog) from [ladbrokes_au] - Odds: $2.63
+Stake $46.01 on Zelfa Barrett (favorite) from [sportsbet] - Odds: $1.63
+Underdog Return: $76.24, Profit: $1.24
+Favorite Return: $75.00, Profit: $0.00
+--FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE-
+Stake $28.52 on Jordan Gill (underdog) from [ladbrokes_au] - Odds: $2.63
+Stake $46.48 on Zelfa Barrett (favorite) from [sportsbet] - Odds: $1.63
+Underdog Return: $75.00, Profit: $0.00
+Favorite Return: $75.77, Profit: $0.77
+---------------------------------------------------------------------
+** Boxing - Ruben Villa vs Cristian Cruz Chacon **
+=====================================================================
+Bookmaker: sportsbet
+Cristian Cruz Chacon: 10.0 Ruben Villa: 1.07 Draw: 26.0 
+Bookmaker: playup
+Cristian Cruz Chacon: 9.5 Ruben Villa: 1.06 
+Bookmaker: betfair_ex_au
+Cristian Cruz Chacon: 11.0 Ruben Villa: 1.01 Draw: 36.0 
+=====================================================================
+** Boxing - Abdullah Mason vs Ronal Ron **
+=====================================================================
+Bookmaker: sportsbet
+Abdullah Mason: 1.02 Ronal Ron: 17.0 Draw: 34.0 
+Bookmaker: playup
+Abdullah Mason: 1.03 Ronal Ron: 15.0 
+Bookmaker: betfair_ex_au
+Abdullah Mason: 1.02 Ronal Ron: 30.0 Draw: 21.0 
+=====================================================================
+** Boxing - Henry Lebron vs Charley Suarez **
+=====================================================================
+=====================================================================
+** Boxing - Efe Ajagba vs Guido Vianello **
+=====================================================================
+Bookmaker: sportsbet
+Efe Ajagba: 1.16 Guido Vianello: 5.8 Draw: 21.0 
+Bookmaker: playup
+Efe Ajagba: 1.16 Guido Vianello: 5.0 
+Bookmaker: betfair_ex_au
+Efe Ajagba: 1.19 Guido Vianello: 5.9 Draw: 27.0 
+=====================================================================
+** Boxing - Jared Anderson vs Ryad Merhy **
+=====================================================================
+Bookmaker: sportsbet
+Jared Anderson: 1.23 Ryad Merhy: 4.8 Draw: 17.0 
+Bookmaker: playup
+Jared Anderson: 1.19 Ryad Merhy: 4.6 
+Bookmaker: betfair_ex_au
+Jared Anderson: 1.02 Ryad Merhy: 5.0 Draw: 20.0 
+=====================================================================
+** Boxing - Devin Haney vs Ryan Garcia **
+=====================================================================
+Bookmaker: unibet
+Devin Haney: 1.12 Ryan Garcia: 7.0 Draw: 18.0 
+Bookmaker: ladbrokes_au
+Devin Haney: 1.1 Ryan Garcia: 6.0 Draw: 21.0 
+Bookmaker: sportsbet
+Devin Haney: 1.13 Ryan Garcia: 6.75 Draw: 21.0 
+Bookmaker: betfair_ex_au
+Devin Haney: 1.18 Ryan Garcia: 5.6 Draw: 28.0 
+Bookmaker: playup
+Devin Haney: 1.1 Ryan Garcia: 6.75 
+=====================================================================
+*********************************Boxing********************************
+Ryan Garcia (underdog) vs Devin Haney (favorite) 
+Arbitrage Percentage: 99.03%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
+Stake $10.82 on Ryan Garcia (underdog) from [unibet] - Odds: $7.00
+Stake $64.18 on Devin Haney (favorite) from [betfair_ex_au] - Odds: $1.18
+Underdog Return: $75.73, Profit: $0.73
+Favorite Return: $75.73, Profit: $0.73
+-DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG-
+Stake $11.44 on Ryan Garcia (underdog) from [unibet] - Odds: $7.00
+Stake $63.56 on Devin Haney (favorite) from [betfair_ex_au] - Odds: $1.18
+Underdog Return: $80.08, Profit: $5.08
+Favorite Return: $75.00, Profit: $0.00
+--FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE-
+Stake $10.71 on Ryan Garcia (underdog) from [unibet] - Odds: $7.00
+Stake $64.29 on Devin Haney (favorite) from [betfair_ex_au] - Odds: $1.18
+Underdog Return: $75.00, Profit: $0.00
+Favorite Return: $75.86, Profit: $0.86
+---------------------------------------------------------------------
+** Boxing - Jarico O'Quinn vs Peter Mcgrail **
+=====================================================================
+Bookmaker: betfair_ex_au
+Jarico O'Quinn: 1.01 Peter Mcgrail: 1.01 Draw: 2.68 
+=====================================================================
+** Boxing - Canelo Álvarez vs Jaime Munguia **
+=====================================================================
+Bookmaker: sportsbet
+Canelo Álvarez: 1.2 Jaime Munguia: 5.3 Draw: 17.0 
+Bookmaker: betfair_ex_au
+Canelo Álvarez: 1.23 Jaime Munguia: 5.5 Draw: 5.8 
+Bookmaker: ladbrokes_au
+Canelo Álvarez: 1.2 Jaime Munguia: 4.5 Draw: 21.0 
+Bookmaker: playup
+Canelo Álvarez: 1.15 Jaime Munguia: 5.25 
+Bookmaker: unibet
+Canelo Álvarez: 1.17 Jaime Munguia: 5.1 Draw: 19.0 
+=====================================================================
+*********************************Boxing********************************
+Jaime Munguia (underdog) vs Canelo Álvarez (favorite) 
+Arbitrage Percentage: 99.48%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
+Stake $13.71 on Jaime Munguia (underdog) from [betfair_ex_au] - Odds: $5.50
+Stake $61.29 on Canelo Álvarez (favorite) from [betfair_ex_au] - Odds: $1.23
+Underdog Return: $75.39, Profit: $0.39
+Favorite Return: $75.39, Profit: $0.39
+-DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG-
+Stake $14.02 on Jaime Munguia (underdog) from [betfair_ex_au] - Odds: $5.50
+Stake $60.98 on Canelo Álvarez (favorite) from [betfair_ex_au] - Odds: $1.23
+Underdog Return: $77.13, Profit: $2.13
+Favorite Return: $75.00, Profit: $0.00
+--FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE-
+Stake $13.64 on Jaime Munguia (underdog) from [betfair_ex_au] - Odds: $5.50
+Stake $61.36 on Canelo Álvarez (favorite) from [betfair_ex_au] - Odds: $1.23
+Underdog Return: $75.00, Profit: $0.00
+Favorite Return: $75.48, Profit: $0.48
+---------------------------------------------------------------------
+** Boxing - Naoya Inoue vs Luis Nery **
+=====================================================================
+Bookmaker: unibet
+Luis Nery: 8.5 Naoya Inoue: 1.09 Draw: 23.0 
+Bookmaker: sportsbet
+Luis Nery: 9.0 Naoya Inoue: 1.09 Draw: 26.0 
+Bookmaker: betfair_ex_au
+Luis Nery: 1.01 Naoya Inoue: 1.03 Draw: 3.05 
+Bookmaker: ladbrokes_au
+Luis Nery: 7.0 Naoya Inoue: 1.1 Draw: 26.0 
+Bookmaker: playup
+Luis Nery: 8.0 Naoya Inoue: 1.07 
+=====================================================================
+** Boxing - Jessica McCaskill vs Lauren Price **
+=====================================================================
+Bookmaker: betfair_ex_au
+Jessica McCaskill: 3.4 Lauren Price: 1.05 Draw: 3.5 
+Bookmaker: sportsbet
+Jessica McCaskill: 3.3 Lauren Price: 1.4 Draw: 15.0 
+Bookmaker: playup
+Jessica McCaskill: 3.6 Lauren Price: 1.28 
+=====================================================================
+*********************************Boxing********************************
+Jessica McCaskill (underdog) vs Lauren Price (favorite) 
+Arbitrage Percentage: 99.21%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
+Stake $21.00 on Jessica McCaskill (underdog) from [playup] - Odds: $3.60
+Stake $54.00 on Lauren Price (favorite) from [sportsbet] - Odds: $1.40
+Underdog Return: $75.60, Profit: $0.60
+Favorite Return: $75.60, Profit: $0.60
+-DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG-
+Stake $21.43 on Jessica McCaskill (underdog) from [playup] - Odds: $3.60
+Stake $53.57 on Lauren Price (favorite) from [sportsbet] - Odds: $1.40
+Underdog Return: $77.14, Profit: $2.14
+Favorite Return: $75.00, Profit: $0.00
+--FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE-
+Stake $20.83 on Jessica McCaskill (underdog) from [playup] - Odds: $3.60
+Stake $54.17 on Lauren Price (favorite) from [sportsbet] - Odds: $1.40
+Underdog Return: $75.00, Profit: $0.00
+Favorite Return: $75.83, Profit: $0.83
+---------------------------------------------------------------------
+** Boxing - Vasyl Lomachenko vs George Kambosos Jr **
+=====================================================================
+Bookmaker: sportsbet
+George Kambosos Jr: 6.25 Vasyl Lomachenko: 1.14 Draw: 21.0 
+Bookmaker: betfair_ex_au
+George Kambosos Jr: 7.2 Vasyl Lomachenko: 1.17 Draw: 11.5 
+Bookmaker: ladbrokes_au
+George Kambosos Jr: 5.5 Vasyl Lomachenko: 1.17 Draw: 21.0 
+Bookmaker: unibet
+George Kambosos Jr: 6.1 Vasyl Lomachenko: 1.13 Draw: 21.0 
+Bookmaker: tab
+George Kambosos Jr: 5.0 Vasyl Lomachenko: 1.16 
+=====================================================================
+*********************************Boxing********************************
+George Kambosos Jr (underdog) vs Vasyl Lomachenko (favorite) 
+Arbitrage Percentage: 99.36%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
+Stake $10.48 on George Kambosos Jr (underdog) from [betfair_ex_au] - Odds: $7.20
+Stake $64.52 on Vasyl Lomachenko (favorite) from [betfair_ex_au] - Odds: $1.17
+Underdog Return: $75.48, Profit: $0.48
+Favorite Return: $75.48, Profit: $0.48
+-DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG-
+Stake $10.90 on George Kambosos Jr (underdog) from [betfair_ex_au] - Odds: $7.20
+Stake $64.10 on Vasyl Lomachenko (favorite) from [betfair_ex_au] - Odds: $1.17
+Underdog Return: $78.46, Profit: $3.46
+Favorite Return: $75.00, Profit: $0.00
+--FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE-
+Stake $10.42 on George Kambosos Jr (underdog) from [betfair_ex_au] - Odds: $7.20
+Stake $64.58 on Vasyl Lomachenko (favorite) from [betfair_ex_au] - Odds: $1.17
+Underdog Return: $75.00, Profit: $0.00
+Favorite Return: $75.56, Profit: $0.56
+---------------------------------------------------------------------
+** Boxing - Joe Cordina vs Anthony Cacace **
+=====================================================================
+Bookmaker: sportsbet
+Anthony Cacace: 4.8 Joe Cordina: 1.23 Draw: 17.0 
+Bookmaker: tab
+Anthony Cacace: 4.5 Joe Cordina: 1.18 
+Bookmaker: betfair_ex_au
+Anthony Cacace: 4.9 Joe Cordina: 1.26 Draw: 4.1 
+Bookmaker: playup
+Anthony Cacace: 4.85 Joe Cordina: 1.17 
+=====================================================================
+*********************************Boxing********************************
+Anthony Cacace (underdog) vs Joe Cordina (favorite) 
+Arbitrage Percentage: 99.77%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
+Stake $15.34 on Anthony Cacace (underdog) from [betfair_ex_au] - Odds: $4.90
+Stake $59.66 on Joe Cordina (favorite) from [betfair_ex_au] - Odds: $1.26
+Underdog Return: $75.17, Profit: $0.17
+Favorite Return: $75.17, Profit: $0.17
+-DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG-
+Stake $15.48 on Anthony Cacace (underdog) from [betfair_ex_au] - Odds: $4.90
+Stake $59.52 on Joe Cordina (favorite) from [betfair_ex_au] - Odds: $1.26
+Underdog Return: $75.83, Profit: $0.83
+Favorite Return: $75.00, Profit: $0.00
+--FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE-
+Stake $15.31 on Anthony Cacace (underdog) from [betfair_ex_au] - Odds: $4.90
+Stake $59.69 on Joe Cordina (favorite) from [betfair_ex_au] - Odds: $1.26
+Underdog Return: $75.00, Profit: $0.00
+Favorite Return: $75.21, Profit: $0.21
+---------------------------------------------------------------------
+** Boxing - Jai Opetaia vs Mairis Briedis **
+=====================================================================
+Bookmaker: sportsbet
+Jai Opetaia: 1.2 Mairis Briedis: 5.3 Draw: 17.0 
+Bookmaker: tab
+Jai Opetaia: 1.18 Mairis Briedis: 4.5 
+Bookmaker: playup
+Jai Opetaia: 1.18 Mairis Briedis: 4.75 
+Bookmaker: betfair_ex_au
+Jai Opetaia: 1.23 Mairis Briedis: 5.5 Draw: 1.16 
+=====================================================================
+*********************************Boxing********************************
+Mairis Briedis (underdog) vs Jai Opetaia (favorite) 
+Arbitrage Percentage: 99.48%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
+Stake $13.71 on Mairis Briedis (underdog) from [betfair_ex_au] - Odds: $5.50
+Stake $61.29 on Jai Opetaia (favorite) from [betfair_ex_au] - Odds: $1.23
+Underdog Return: $75.39, Profit: $0.39
+Favorite Return: $75.39, Profit: $0.39
+-DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG-
+Stake $14.02 on Mairis Briedis (underdog) from [betfair_ex_au] - Odds: $5.50
+Stake $60.98 on Jai Opetaia (favorite) from [betfair_ex_au] - Odds: $1.23
+Underdog Return: $77.13, Profit: $2.13
+Favorite Return: $75.00, Profit: $0.00
+--FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE-
+Stake $13.64 on Mairis Briedis (underdog) from [betfair_ex_au] - Odds: $5.50
+Stake $61.36 on Jai Opetaia (favorite) from [betfair_ex_au] - Odds: $1.23
+Underdog Return: $75.00, Profit: $0.00
+Favorite Return: $75.48, Profit: $0.48
+---------------------------------------------------------------------
+** Boxing - Tyson Fury vs Oleksandr Usyk **
+=====================================================================
+Bookmaker: unibet
+Oleksandr Usyk: 1.93 Tyson Fury: 1.89 Draw: 16.0 
+Bookmaker: ladbrokes_au
+Oleksandr Usyk: 1.83 Tyson Fury: 2.0 Draw: 19.0 
+Bookmaker: sportsbet
+Oleksandr Usyk: 1.84 Tyson Fury: 2.1 Draw: 17.0 
+Bookmaker: playup
+Oleksandr Usyk: 1.83 Tyson Fury: 1.95 
+Bookmaker: betfair_ex_au
+Oleksandr Usyk: 2.18 Tyson Fury: 2.02 Draw: 18.5 
+=====================================================================
+*********************************Boxing********************************
+Tyson Fury (underdog) vs Oleksandr Usyk (favorite) 
+Arbitrage Percentage: 99.43%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
+Stake $35.92 on Tyson Fury (underdog) from [sportsbet] - Odds: $2.10
+Stake $39.08 on Oleksandr Usyk (favorite) from [unibet] - Odds: $1.93
+Underdog Return: $75.43, Profit: $0.43
+Favorite Return: $75.43, Profit: $0.43
+-DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG-
+Stake $36.14 on Tyson Fury (underdog) from [sportsbet] - Odds: $2.10
+Stake $38.86 on Oleksandr Usyk (favorite) from [unibet] - Odds: $1.93
+Underdog Return: $75.89, Profit: $0.89
+Favorite Return: $75.00, Profit: $0.00
+--FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE-
+Stake $35.71 on Tyson Fury (underdog) from [sportsbet] - Odds: $2.10
+Stake $39.29 on Oleksandr Usyk (favorite) from [unibet] - Odds: $1.93
+Underdog Return: $75.00, Profit: $0.00
+Favorite Return: $75.82, Profit: $0.82
+---------------------------------------------------------------------
+** Boxing - Emanuel Navarrete vs Denys Berinchyk **
+=====================================================================
+Bookmaker: sportsbet
+Denys Berinchyk: 5.5 Emanuel Navarrete: 1.19 Draw: 17.0 
+=====================================================================
+** Boxing - Katie Taylor vs Chantelle Cameron **
+=====================================================================
+Bookmaker: sportsbet
+Chantelle Cameron: 2.2 Katie Taylor: 1.77 Draw: 15.0 
+=====================================================================
+** Boxing - Josh Taylor vs Jack Catterall **
+=====================================================================
+Bookmaker: betfair_ex_au
+Jack Catterall: 1.21 Josh Taylor: 1.83 Draw: 3.05 
+Bookmaker: ladbrokes_au
+Jack Catterall: 2.2 Josh Taylor: 1.73 Draw: 17.0 
+Bookmaker: sportsbet
+Jack Catterall: 2.2 Josh Taylor: 1.76 Draw: 17.0 
+=====================================================================
+** Boxing - Artur Beterbiev vs Dmitry Bivol **
+=====================================================================
+Bookmaker: sportsbet
+Artur Beterbiev: 1.96 Dmitry Bivol: 1.96 Draw: 17.0 
+Bookmaker: unibet
+Artur Beterbiev: 1.94 Dmitry Bivol: 1.87 Draw: 16.0 
+Bookmaker: playup
+Artur Beterbiev: 1.93 Dmitry Bivol: 1.85 
+Bookmaker: betfair_ex_au
+Artur Beterbiev: 1.96 Dmitry Bivol: 2.04 Draw: 4.1 
+Bookmaker: tab
+Artur Beterbiev: 1.95 Dmitry Bivol: 1.8 
+=====================================================================
+** Boxing - Nate Diaz vs Jorge Masvidal **
+=====================================================================
+Bookmaker: sportsbet
+Jorge Masvidal: 1.43 Nate Diaz: 3.15 Draw: 15.0 
+Bookmaker: betfair_ex_au
+Jorge Masvidal: 1.49 Nate Diaz: 3.2 Draw: 18.5 
+=====================================================================
+*********************************Boxing********************************
+Nate Diaz (underdog) vs Jorge Masvidal (favorite) 
+Arbitrage Percentage: 98.36%
+-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-
+Stake $23.83 on Nate Diaz (underdog) from [betfair_ex_au] - Odds: $3.20
+Stake $51.17 on Jorge Masvidal (favorite) from [betfair_ex_au] - Odds: $1.49
+Underdog Return: $76.25, Profit: $1.25
+Favorite Return: $76.25, Profit: $1.25
+-DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG-
+Stake $24.66 on Nate Diaz (underdog) from [betfair_ex_au] - Odds: $3.20
+Stake $50.34 on Jorge Masvidal (favorite) from [betfair_ex_au] - Odds: $1.49
+Underdog Return: $78.93, Profit: $3.93
+Favorite Return: $75.00, Profit: $0.00
+--FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE-
+Stake $23.44 on Nate Diaz (underdog) from [betfair_ex_au] - Odds: $3.20
+Stake $51.56 on Jorge Masvidal (favorite) from [betfair_ex_au] - Odds: $1.49
+Underdog Return: $75.00, Profit: $0.00
+Favorite Return: $76.83, Profit: $1.83
+---------------------------------------------------------------------
+** Boxing - Subriel Matias vs Liam Paro **
+=====================================================================
+Bookmaker: sportsbet
+Liam Paro: 7.25 Subriel Matias: 1.12 Draw: 21.0 
+=====================================================================
+** Boxing - Juan Francisco Estrada vs Jesse Rodriguez **
+=====================================================================
+Bookmaker: sportsbet
+Jesse Rodriguez: 1.39 Juan Francisco Estrada: 3.25 Draw: 17.0 
+=====================================================================
+** Boxing - Anthony Yarde vs Joshua Buatsi **
+=====================================================================
+Bookmaker: sportsbet
+Anthony Yarde: 1.96 Joshua Buatsi: 1.96 Draw: 17.0 
+=====================================================================
+** Boxing - Chris Billam-Smith vs Richard Riakporhe **
+=====================================================================
+Bookmaker: sportsbet
+Chris Billam-Smith: 3.05 Richard Riakporhe: 1.44 Draw: 17.0 
+=====================================================================
+** Boxing - Jaron Ennis vs Cody Crowley **
+=====================================================================
+Bookmaker: sportsbet
+Cody Crowley: 7.25 Jaron Ennis: 1.12 Draw: 21.0 
+=====================================================================
+** Boxing - David Benavidez vs Oleksandr Gvozdyk **
+=====================================================================
+Bookmaker: sportsbet
+David Benavidez: 1.2 Oleksandr Gvozdyk: 5.3 Draw: 17.0 
+=====================================================================
+** Boxing - Emmanuel Rodriguez vs Ryosuke Nishida **
+=====================================================================
+Bookmaker: sportsbet
+Emmanuel Rodriguez: 1.49 Ryosuke Nishida: 2.85 Draw: 17.0 
+=====================================================================
+** Boxing - Tyler Denny vs Felix Cash **
+=====================================================================
+Bookmaker: sportsbet
+Felix Cash: 1.66 Tyler Denny: 2.4 Draw: 17.0 
+=====================================================================
+** Boxing - Gervonta Davis vs Frank Martin **
+=====================================================================
+Bookmaker: sportsbet
+Frank Martin: 5.3 Gervonta Davis: 1.2 Draw: 17.0 
+=====================================================================
+** Boxing - Katie Taylor vs Amanda Serrano **
+=====================================================================
+Bookmaker: unibet
+Amanda Serrano: 1.88 Katie Taylor: 1.88 Draw: 19.0 
+=====================================================================
+** Boxing - Anthony Joshua vs Deontay Wilder **
+=====================================================================
+Bookmaker: unibet
+Anthony Joshua: 1.72 Deontay Wilder: 2.1 Draw: 18.0 
+=====================================================================
+** Boxing - Tyson Fury vs Anthony Joshua **
+=====================================================================
+Bookmaker: unibet
+Anthony Joshua: 4.9 Tyson Fury: 1.18 Draw: 19.0 
+=====================================================================
+** Boxing - Canelo Álvarez vs David Benavidez **
+=====================================================================
+Bookmaker: unibet
+Canelo Álvarez: 1.42 David Benavidez: 2.8 Draw: 19.0 
+=====================================================================
+** Boxing - Katie Taylor vs Chantelle Cameron **
+=====================================================================
+Bookmaker: unibet
+Chantelle Cameron: 2.2 Katie Taylor: 1.65 Draw: 19.0 
+=====================================================================
+** Boxing - Deontay Wilder vs Joe Joyce **
+=====================================================================
+Bookmaker: unibet
+Deontay Wilder: 1.56 Joe Joyce: 2.38 Draw: 19.0 
+=====================================================================
+** Boxing - Terence Crawford vs Errol Spence Jr **
+=====================================================================
+Bookmaker: unibet
+Errol Spence Jr: 4.9 Terence Crawford: 1.18 Draw: 19.0 
+=====================================================================
+** Boxing - Tyson Fury vs Francis Ngannou **
+=====================================================================
+Bookmaker: unibet
+Francis Ngannou: 3.3 Tyson Fury: 1.32 Draw: 19.0 
+=====================================================================
+** Boxing - Gervonta Davis vs Shakur Stevenson **
+=====================================================================
+Bookmaker: unibet
+Gervonta Davis: 1.36 Shakur Stevenson: 3.1 Draw: 19.0 
+=====================================================================
+** Boxing - Naoya Inoue vs Jesse Rodriguez **
+=====================================================================
+Bookmaker: unibet
+Jesse Rodriguez: 4.9 Naoya Inoue: 1.18 Draw: 19.0 
+=====================================================================

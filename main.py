@@ -27,7 +27,7 @@ args = parser.parse_args()
 API_KEY = args.api_key or config.get('DEFAULT', 'API_KEY')
 api_key_in_env = os.getenv("api_key")
 # Sport key
-# Find sport keys from the /sports endpoint below, or from https://the-odds-api.com/sports-odds-data/sports-apis.html
+# Find sport keys from the get_active_sports.py  or from https://the-odds-api.com/sports-odds-data/sports-apis.html
 # Alternatively use 'upcoming' to see the next 8 games across all sports
 sports_list_file = config.get('SPORTS', 'MY_SPORTS_LIST_FILE')
 with open(sports_list_file, 'r') as file:

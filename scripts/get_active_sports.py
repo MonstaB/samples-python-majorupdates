@@ -1,6 +1,5 @@
 import argparse
 import requests
-import configparser
 import json
 import configparser
 import os

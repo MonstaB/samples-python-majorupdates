@@ -169,6 +169,7 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
                           file=output_file)
                     print(f'Draw Return: ${draw_return:.2f}, Profit: ${draw_profit:.2f}', file=output_file)
                     print('---------------------------------------------------------------------', file=output_file)
+            print('jd')
 
 
 for SPORT in SPORTS:

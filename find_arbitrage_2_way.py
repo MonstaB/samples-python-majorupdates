@@ -10,17 +10,14 @@ input_directory = 'Json_files'
 total_bet_amount = config.getfloat('DEFAULT', 'BET_AMOUNT')
 available_bookmakers = config.get('BOOKMAKERS', 'BOOKMAKERS_LIST').split(', ')
 sports_list_file = config.get('SPORTS', 'MY_SPORTS_LIST_FILE')
-with open(sports_list_file, 'r') as file:
-    SPORTS = file.read().split(', ')
-
-SPORTS = [SPORT.strip() for SPORT in SPORTS]
-
-output_directory = 'found'
+output_directory = config.get('DEFAULT', 'OUTPUT_DIRECTORY')
+dumps_directory = config.get('DEFAULT', 'DUMPS_DIRECTORY')
 output_filename = '2-way-arbitrage.txt'
 output_file_path = os.path.join(output_directory, output_filename)
 # Delete existing txt files in the directory
 existing_arb_files = glob.glob(os.path.join(output_directory, output_filename))
 os.makedirs(output_directory, exist_ok=True)
+os.makedirs(dumps_directory, exist_ok=True)
 for file in existing_arb_files:
     os.remove(file)
 
@@ -32,8 +29,14 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
     for event in odds_json:
         print('** {} - {} vs {} **'.format(event['sport_title'], event['home_team'], event['away_team']))
         print('=====================================================================')
+
+        with open(output_file_path1, 'a', encoding='utf-8') as output_file:
+            print('** {} - {} vs {} **'.format(event['sport_title'], event['home_team'], event['away_team']), file=output_file)
+            print('=====================================================================', file=output_file)
         for bookmaker in event['bookmakers']:
             print(f"Bookmaker: {bookmaker['key']}")
+            with open(output_file_path1, 'a', encoding='utf-8') as output_file:
+                print(f"Bookmaker: {bookmaker['key']}", file=output_file)
 
             odds_str = ""
             for market in bookmaker['markets']:
@@ -42,9 +45,14 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
                         odds_str += f"{outcome['name']}: {outcome['price']} "
 
             print(odds_str)
+            with open(output_file_path1, 'a', encoding='utf-8') as output_file:
+                print(odds_str, file=output_file)
+
             # print('---------------------------------------------------------------------')
 
         print('=====================================================================')
+        with open(output_file_path1, 'a', encoding='utf-8') as output_file:
+            print('=====================================================================', file=output_file)
 
         odds_dict = collections.defaultdict(list)
 
@@ -215,11 +223,65 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
                         print('Favorite Return: ${:.2f}, Profit: ${:.2f}'.format(favorite_return2, favorite_profit2),
                               file=output_file)
                         print('---------------------------------------------------------------------', file=output_file)
+                    with open(output_file_path1, 'a', encoding='utf-8') as output_file:
+                        print('*********************************{}********************************'.format(
+                            event['sport_title']), file=output_file)
+                        print('{} (underdog) vs {} (favorite) '.format(
+                            underdog_max_odd_entity['underdog']['name'],
+                            favorite_max_odd_entity['favorite']['name']),
+                            file=output_file)
+                        print('Arbitrage Percentage: {:.2f}%'.format(arb_percentage), file=output_file)
+                        print('-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-',
+                              file=output_file)
+                        print('Stake ${:.2f} on {} (underdog) from [{}] - Odds: ${:.2f}'.format(
+                            underdog_stake, underdog_max_odd_entity['underdog']['name'], underdog_max_odd_bookmaker,
+                            underdog_max_odd), file=output_file)
+                        print('Stake ${:.2f} on {} (favorite) from [{}] - Odds: ${:.2f}'.format(
+                            favorite_stake, favorite_max_odd_entity['favorite']['name'], favorite_max_odd_bookmaker,
+                            favorite_max_odd), file=output_file)
+                        print('Underdog Return: ${:.2f}, Profit: ${:.2f}'.format(underdog_return, underdog_profit),
+                              file=output_file)
+                        print('Favorite Return: ${:.2f}, Profit: ${:.2f}'.format(favorite_return, favorite_profit),
+                              file=output_file)
+                        print('-DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG---DOG-',
+                              file=output_file)
+                        print('Stake ${:.2f} on {} (underdog) from [{}] - Odds: ${:.2f}'.format(
+                            underdog_stake1, underdog_max_odd_entity['underdog']['name'], underdog_max_odd_bookmaker,
+                            underdog_max_odd), file=output_file)
+                        print('Stake ${:.2f} on {} (favorite) from [{}] - Odds: ${:.2f}'.format(
+                            favorite_stake1, favorite_max_odd_entity['favorite']['name'], favorite_max_odd_bookmaker,
+                            favorite_max_odd), file=output_file)
+                        print('Underdog Return: ${:.2f}, Profit: ${:.2f}'.format(underdog_return1, underdog_profit1),
+                              file=output_file)
+                        print('Favorite Return: ${:.2f}, Profit: ${:.2f}'.format(favorite_return1, favorite_profit1),
+                              file=output_file)
+                        print('--FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE---FAVE-',
+                              file=output_file)
+                        print('Stake ${:.2f} on {} (underdog) from [{}] - Odds: ${:.2f}'.format(
+                            underdog_stake2, underdog_max_odd_entity['underdog']['name'], underdog_max_odd_bookmaker,
+                            underdog_max_odd), file=output_file)
+                        print('Stake ${:.2f} on {} (favorite) from [{}] - Odds: ${:.2f}'.format(
+                            favorite_stake2, favorite_max_odd_entity['favorite']['name'], favorite_max_odd_bookmaker,
+                            favorite_max_odd), file=output_file)
+                        print('Underdog Return: ${:.2f}, Profit: ${:.2f}'.format(underdog_return2, underdog_profit2),
+                              file=output_file)
+                        print('Favorite Return: ${:.2f}, Profit: ${:.2f}'.format(favorite_return2, favorite_profit2),
+                              file=output_file)
+                        print('---------------------------------------------------------------------', file=output_file)
 
+with open(sports_list_file, 'r') as file:
+    SPORTS = file.read().split(', ')
+
+SPORTS = [SPORT.strip() for SPORT in SPORTS]
 
 for SPORT in SPORTS:
     input_filename = f'output_{SPORT}.json'
     input_file_path = os.path.join(input_directory, input_filename)
+    output_filename1 = f'2way-dump-{SPORT}-h2h.txt'
+    output_file_path1 = os.path.join(dumps_directory, output_filename1)
+    existing_dump_files = glob.glob(os.path.join(dumps_directory, output_filename1))
+    for file in existing_dump_files:
+        os.remove(file)
 
     with open(input_file_path, 'r') as json_file:
         # Load the JSON content
@@ -228,6 +290,7 @@ for SPORT in SPORTS:
 
 output_filename = '2-way-arbitrage-my-bookies.txt'
 output_file_path = os.path.join(output_directory, output_filename)
+
 # Delete existing txt files in the directory
 existing_arb_files = glob.glob(os.path.join(output_directory, output_filename))
 os.makedirs(output_directory, exist_ok=True)
@@ -239,6 +302,11 @@ available_bookmakers = config.get('BOOKMAKERS', 'MY_BOOKMAKERS_LIST').split(', '
 for SPORT in SPORTS:
     input_filename = f'output_{SPORT}.json'
     input_file_path = os.path.join(input_directory, input_filename)
+    output_filename1 = f'my-bookies-2way-dump-h2h.txt'
+    output_file_path1 = os.path.join(dumps_directory, output_filename1)
+    existing_dump_files = glob.glob(os.path.join(dumps_directory, output_filename1))
+    for file in existing_dump_files:
+        os.remove(file)
 
     with open(input_file_path, 'r') as json_file:
         # Load the JSON content
