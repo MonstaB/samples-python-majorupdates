@@ -32,6 +32,7 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
 
         with open(output_file_path1, 'a', encoding='utf-8') as output_file:
             print('** {} - {} vs {} **'.format(event['sport_title'], event['home_team'], event['away_team']), file=output_file)
+            print('** {} **'.format(event['commence_time']), file=output_file)
             print('=====================================================================', file=output_file)
         for bookmaker in event['bookmakers']:
             print(f"Bookmaker: {bookmaker['key']}")
@@ -144,11 +145,12 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
                     underdog_profit2 = underdog_return2 - total_bet_amount
                     favorite_profit2 = favorite_return2 - total_bet_amount
 
-                    # Append to email content
+
 
                     # Print to console
                     print('{} (underdog) vs {} (favorite) '.format(underdog_max_odd_entity['underdog']['name'],
                                                                    favorite_max_odd_entity['favorite']['name']))
+                    print('** {} **'.format(event['commence_time']))
                     print('Arbitrage Percentage: {:.2f}%'.format(arb_percentage))
                     print('Stake ${:.2f} on {} (underdog) from [{}] - Odds: ${:.2f}'.format(
                         underdog_stake, underdog_max_odd_entity['underdog']['name'], underdog_max_odd_bookmaker,
@@ -185,6 +187,7 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
                             underdog_max_odd_entity['underdog']['name'],
                             favorite_max_odd_entity['favorite']['name']),
                             file=output_file)
+                        print('** {} **'.format(event['commence_time']), file=output_file)
                         print('Arbitrage Percentage: {:.2f}%'.format(arb_percentage), file=output_file)
                         print('-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-',
                               file=output_file)
@@ -230,6 +233,7 @@ def find_arbitrage_opportunities(odds_json, total_bet_amount, available_bookmake
                             underdog_max_odd_entity['underdog']['name'],
                             favorite_max_odd_entity['favorite']['name']),
                             file=output_file)
+                        print('** {} **'.format(event['commence_time']), file=output_file)
                         print('Arbitrage Percentage: {:.2f}%'.format(arb_percentage), file=output_file)
                         print('-EVEN---EVEN---EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN----EVEN-',
                               file=output_file)
